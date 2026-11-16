@@ -97,7 +97,7 @@ def build_category(cat, queries, idx):
         except Exception as ex:
             print("  search failed", q, ex)
         time.sleep(4)
-    cands = cands[:36]
+    cands = cands[:24]
     print(f"{cat}: {len(cands)} candidates")
     thumbs = []
     for c in cands:
@@ -107,8 +107,8 @@ def build_category(cat, queries, idx):
             print("  thumb failed", str(ex)[:60]); time.sleep(10)
     if not thumbs: return
     ratings = []
-    for start in range(0, len(thumbs), 18):            # Gemini: 18 images per call
-        batch = thumbs[start:start + 18]
+    for start in range(0, len(thumbs), 24):            # Gemini: ONE call per category (free daily quota is small)
+        batch = thumbs[start:start + 24]
         parts = [RATE_PROMPT.format(cat=cat, qs=", ".join(queries))]
         for i, (im, c) in enumerate(batch):
             b = io.BytesIO(); im.save(b, "JPEG", quality=70)
@@ -121,6 +121,8 @@ def build_category(cat, queries, idx):
                     ratings.append((int(p["score"]), batch[i][1], p.get("tags", [])))
         except Exception as ex:
             print("  rating failed:", str(ex)[:150])
+            if "RESOURCE_EXHAUSTED" in str(ex) or "quota" in str(ex).lower():
+                raise SystemExit("Gemini daily quota used up - stopping; the next scheduled run continues")
         time.sleep(15)
     ratings.sort(key=lambda x: -x[0])
     os.makedirs(os.path.join(ROOT, "photos", cat), exist_ok=True)

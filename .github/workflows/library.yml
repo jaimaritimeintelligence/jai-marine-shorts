@@ -1,5 +1,7 @@
 name: 3 - Build photo library
 on:
+  schedule:
+    - cron: "33 15 * * *"   # 21:03 IST, after the daily post, so it never eats the daily Gemini quota
   workflow_dispatch:
     inputs:
       per_category:
