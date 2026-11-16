@@ -1,0 +1,34 @@
+name: 1 - Prepare daily carousel
+on:
+  schedule:
+    - cron: "23 11 * * *"   # 16:53 IST every day
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: jms-daily
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Build carousel and send Telegram preview
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          AUTO_POST: ${{ vars.AUTO_POST }}
+        run: python prepare.py
+      - name: Save slides to the repository (public image links for Instagram)
+        if: always()
+        run: |
+          git config user.name "jms-bot"
+          git config user.email "jms-bot@users.noreply.github.com"
+          git add out
+          git commit -m "Carousel $(TZ=Asia/Kolkata date +%F)" || echo "nothing to commit"
+          git pull --rebase && git push
