@@ -4,7 +4,7 @@ import os, json, shutil, time, traceback
 from datetime import datetime, timedelta, timezone
 from PIL import Image
 
-from jms import news, ai, photos, render, telegram
+from jms import news, ai, photos, render, telegram, library
 
 IST = timezone(timedelta(hours=5, minutes=30))
 NOW = datetime.now(IST)
@@ -80,28 +80,43 @@ def build(plan):
             if s["_img"] is not None:
                 s["photo_credit"] = fx.get("credit", ""); used.add(original_url(fx["url"]))
             time.sleep(1)
-    # 2) search Wikimedia for the rest
+    # 2) photo library (instant) + one quick Wikimedia search only for specifically named ships/places
+    taken = set()
     for s in stories:
         if s["_img"] is not None: continue
-        cands = photos.candidates_for(s, used)
-        thumbs = []
-        for c in cands[:4]:
+        cands = library.candidates(s, taken)
+        if (s.get("photo") or {}).get("exact_subjects"):
             try:
-                thumbs.append((photos.fetch_image(c["small"]), c)); time.sleep(1)
+                for c in photos.search(s["photo"]["exact_subjects"][0], n=6)[:2]:
+                    cands.append((photos.fetch_image(c["small"]), c)); time.sleep(1)
             except Exception as ex:
-                print("  thumb failed", str(ex)[:80])
-        cands_by_slot[s["slot"]] = thumbs
-    print(f"photo search done in {time.time()-t0:.0f}s")
+                print("  exact search skipped:", str(ex)[:80])
+        if not cands:   # library empty for this type: fall back to normal search
+            for c in photos.candidates_for(s, used)[:4]:
+                try:
+                    cands.append((photos.fetch_image(c["small"]), c)); time.sleep(1)
+                except Exception as ex:
+                    print("  thumb failed", str(ex)[:80])
+        cands_by_slot[s["slot"]] = cands
+        for _, m in cands[:1]:
+            if m.get("library_file"): taken.add(m["library_file"])
+    print(f"photo candidates ready in {time.time()-t0:.0f}s")
     # 3) ONE Gemini call checks all candidate photos
     choices = ai.pick_photos([s for s in stories if s["slot"] in cands_by_slot], cands_by_slot) if cands_by_slot else {}
+    taken = set()
     for s in stories:
         if s["_img"] is not None or s["slot"] not in cands_by_slot: continue
         thumbs = cands_by_slot[s["slot"]]
         best, exact = choices.get(s["slot"], (0 if thumbs else -1, False))
+        # never use the same library photo twice in one carousel
+        if 0 <= best < len(thumbs) and thumbs[best][1].get("library_file") in taken:
+            best = next((i for i, (_, m) in enumerate(thumbs) if m.get("library_file") not in taken), -1)
         if 0 <= best < len(thumbs):
             c = thumbs[best][1]
-            s["_img"] = get_photo(c["full"]) or thumbs[best][0]
-            used.add(c["full"])
+            if c.get("library_file"):
+                s["_img"] = c["_full"]; s["library_file"] = c["library_file"]; taken.add(c["library_file"])
+            else:
+                s["_img"] = get_photo(c["full"]) or thumbs[best][0]; used.add(c["full"])
             s["photo_credit"] = ("" if exact else "Representative · ") + c["credit"]
     cover_photos = [s["_img"] for s in stories if s["_img"] is not None]
     print(f"photos ready in {time.time()-t0:.0f}s")

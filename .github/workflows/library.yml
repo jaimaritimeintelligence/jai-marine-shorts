@@ -1,0 +1,28 @@
+name: 3 - Build photo library
+on:
+  workflow_dispatch:
+    inputs:
+      per_category:
+        description: "Photos to keep per category"
+        default: "14"
+permissions:
+  contents: write
+concurrency: jms-library
+jobs:
+  library:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Collect and quality-check photos
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          git config user.name "jms-bot"
+          git config user.email "jms-bot@users.noreply.github.com"
+          python -u library/build_library.py ${{ github.event.inputs.per_category || '14' }}
