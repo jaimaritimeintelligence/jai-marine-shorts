@@ -2071,6 +2071,95 @@
    ],
    "w": 1600,
    "h": 1067
+  },
+  {
+   "file": "photos/oil-terminal/mt-alaskan-navigator-at-valdez-marine-terminal-bow-b0002a.jpg",
+   "category": "oil-terminal",
+   "title": "MT Alaskan Navigator at Valdez Marine Terminal (Bow).jpg",
+   "credit": "Alexgilmore85 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:MT_Alaskan_Navigator_at_Valdez_Marine_Terminal_(Bow).jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/MT_Alaskan_Navigator_at_Valdez_Marine_Terminal_%28Bow%29.jpg",
+   "score": 8,
+   "tags": [
+    "alaskan navigator",
+    "valdez terminal",
+    "oil tanker",
+    "blue hour",
+    "alaska"
+   ],
+   "w": 1600,
+   "h": 1200
+  },
+  {
+   "file": "photos/oil-terminal/oil-tanker-abqaiq-in-2003-jpg-9c823f.jpg",
+   "category": "oil-terminal",
+   "title": "Oil tanker Abqaiq in 2003.jpg",
+   "credit": "U.S. Navy photo by Photographer's Mate 2 / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_tanker_Abqaiq_in_2003.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Oil_tanker_Abqaiq_in_2003.jpg",
+   "score": 8,
+   "tags": [
+    "supertanker",
+    "offshore terminal",
+    "aerial photo",
+    "loading platform",
+    "crude oil"
+   ],
+   "w": 1600,
+   "h": 1043
+  },
+  {
+   "file": "photos/oil-terminal/fida-oil-tanker-at-finnart-ocean-terminal-geograp-54eee4.jpg",
+   "category": "oil-terminal",
+   "title": "'Fida' Oil Tanker At Finnart Ocean Terminal - geograph.org.uk - 3038258.jpg",
+   "credit": "James T M Towill / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:%27Fida%27_Oil_Tanker_At_Finnart_Ocean_Terminal_-_geograph.org.uk_-_3038258.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%27Fida%27_Oil_Tanker_At_Finnart_Ocean_Terminal_-_geograph.org.uk_-_3038258.jpg",
+   "score": 7,
+   "tags": [
+    "oil tanker",
+    "stern view",
+    "ocean terminal",
+    "finnart",
+    "jetty"
+   ],
+   "w": 1201,
+   "h": 1600
+  },
+  {
+   "file": "photos/oil-terminal/us-navy-041207-n-6932b-014-the-oil-tanker-omala-is-b1c44a.jpg",
+   "category": "oil-terminal",
+   "title": "US Navy 041207-N-6932B-014 The oil tanker Omala is one of hundreds of oil tankers from around the world that receives its payload from Iraq's Al Basrah Oil Terminal (ABOT).jpg",
+   "credit": "U.S. Navy photo by Photographer's Mate 1 / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_041207-N-6932B-014_The_oil_tanker_Omala_is_one_of_hundreds_of_oil_tankers_from_around_the_world_that_receives_its_payload_from_Iraq%27s_Al_Basrah_Oil_Terminal_(ABOT).jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/US_Navy_041207-N-6932B-014_The_oil_tanker_Omala_is_one_of_hundreds_of_oil_tankers_from_around_the_world_that_receives_its_payload_from_Iraq%27s_Al_Basrah_Oil_Terminal_%28ABOT%29.jpg",
+   "score": 7,
+   "tags": [
+    "oil tanker",
+    "offshore terminal",
+    "mooring lines",
+    "pipeline jetty"
+   ],
+   "w": 1600,
+   "h": 1060
+  },
+  {
+   "file": "photos/oil-terminal/canaport-new-brunswick-crude-oil-receiving-termina-a9ad6e.jpg",
+   "category": "oil-terminal",
+   "title": "Canaport - New Brunswick crude oil receiving terminal.jpg",
+   "credit": "Quintin Soloviev / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Canaport_-_New_Brunswick_crude_oil_receiving_terminal.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Canaport_-_New_Brunswick_crude_oil_receiving_terminal.jpg",
+   "score": 7,
+   "tags": [
+    "aerial view",
+    "oil terminal",
+    "storage tanks",
+    "canaport",
+    "coastline"
+   ],
+   "w": 1600,
+   "h": 1067
   }
  ]
 }
