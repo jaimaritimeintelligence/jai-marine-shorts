@@ -3,8 +3,31 @@ import os, json, time, io
 from google import genai
 from google.genai import types
 
-MODELS = [m.strip() for m in os.environ.get("GEMINI_MODELS", "gemini-2.5-flash,gemini-flash-latest,gemini-2.5-flash-lite").split(",") if m.strip()]
+import re
+_ENV_MODELS = [m.strip() for m in os.environ.get("GEMINI_MODELS", "").split(",") if m.strip()]
+MODELS = list(_ENV_MODELS)
+LAST_MODEL = None
 _client = None
+
+
+def _discover():
+    """Find the newest Flash text models this key may use (Google retires old names often)."""
+    found = []
+    try:
+        for m in client().models.list():
+            name = m.name.split("/")[-1]
+            acts = getattr(m, "supported_actions", None) or []
+            if acts and "generateContent" not in acts: continue
+            if "flash" not in name or any(x in name for x in ("image", "tts", "live", "audio", "embed", "preview-0", "exp", "thinking")):
+                continue
+            v = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
+            found.append((float(v.group(1)) if v else 0, "lite" not in name, "preview" not in name, name))
+    except Exception as ex:
+        print("  model list failed:", ex)
+    found.sort(reverse=True)
+    names = [x[3] for x in found]
+    print("  Gemini models available:", names[:6])
+    return names[:4]
 
 
 def client():
@@ -15,6 +38,9 @@ def client():
 
 
 def _call(contents, json_out=True, temperature=0.4):
+    global MODELS, LAST_MODEL
+    if not MODELS:
+        MODELS = _discover() or ["gemini-3.8-flash", "gemini-3.5-flash-lite"]
     last = None
     for model in MODELS:
         for attempt in range(3):
@@ -22,6 +48,7 @@ def _call(contents, json_out=True, temperature=0.4):
                 cfg = types.GenerateContentConfig(temperature=temperature,
                                                   response_mime_type="application/json" if json_out else "text/plain")
                 r = client().models.generate_content(model=model, contents=contents, config=cfg)
+                LAST_MODEL = model
                 time.sleep(13)  # stay inside free-tier requests-per-minute
                 return json.loads(r.text) if json_out else r.text
             except Exception as ex:

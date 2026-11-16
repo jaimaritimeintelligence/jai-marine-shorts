@@ -7,7 +7,7 @@ for name in ("GEMINI_API_KEY", "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID"):
     ok.append(f"{name}: {'present' if os.environ.get(name) else 'MISSING'}")
 try:
     r = ai._call("Reply with JSON {\"ok\": true}")
-    ok.append(f"Gemini: working ({ai.MODELS[0]} family) -> {r}")
+    ok.append(f"Gemini: working ({ai.LAST_MODEL}) -> {r}")
 except Exception as ex:
     ok.append(f"Gemini: FAILED {str(ex)[:300]}")
 try:

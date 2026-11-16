@@ -18,7 +18,6 @@ FEEDS = {
     "LNG Prime": "https://lngprime.com/feed/",
     "Seatrade Maritime": "https://www.seatrade-maritime.com/rss.xml",
     "Baird Maritime": "https://www.bairdmaritime.com/feed/",
-    "Ship & Bunker": "https://shipandbunker.com/news/rss",
     "Riviera": "https://www.rivieramm.com/rss",
 }
 
