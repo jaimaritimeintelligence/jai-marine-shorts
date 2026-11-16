@@ -63,7 +63,7 @@ def search(q, n=10, min_w=1100):
         author = re.sub(r"\s+", " ", author)[:40]
         thumb = (ii.get("thumburl") or ii["url"])
         out.append({"title": title.replace("File:", ""), "full": _upload_host(thumb),
-                    "small": _upload_host(thumb).replace("/1920px-", "/500px-") if "/1920px-" in thumb else _upload_host(thumb),
+                    "small": _upload_host(thumb).replace("/1920px-", "/330px-") if "/1920px-" in thumb else _upload_host(thumb),
                     "credit": f"{author} / Wikimedia Commons ({lic})", "page": ii.get("descriptionurl", "")})
     return out
 
@@ -72,15 +72,35 @@ def fetch_image(url):
     for a in range(3):
         r = requests.get(url, headers=UA, timeout=60)
         if r.status_code == 429:
-            time.sleep(6 + 6 * a); continue
+            wait = int(r.headers.get("retry-after", 5) or 5)
+            if wait > 30: break          # long block: give up on this URL instead of hanging
+            time.sleep(wait + 3 * a); continue
         r.raise_for_status()
         return Image.open(io.BytesIO(r.content)).convert("RGB")
     raise RuntimeError("image download rate-limited")
 
 
-def candidates_for(story, used, max_cands=6):
+KEYWORDS = {
+    "crude oil tanker": ["tanker", "vlcc", "crude"], "VLCC": ["vlcc", "tanker", "crude"],
+    "product tanker": ["tanker", "chemical", "product"], "LNG carrier": ["lng"], "LPG carrier": ["lpg", "gas carrier"],
+    "container ship": ["container", "maersk", "msc", "cosco"], "bulk carrier": ["bulk"], "car carrier": ["car carrier", "roro", "ro-ro"],
+    "cruise ship": ["cruise"], "riverboat": ["riverboat", "paddle", "steamboat"], "offshore vessel": ["offshore", "supply"],
+    "tug": ["tug"], "naval": ["uss", "navy", "hms"], "port": ["port", "terminal", "harbour", "harbor"],
+    "shipyard": ["shipyard", "dock", "launch"], "other": ["ship", "vessel"],
+}
+
+
+def keyword_score(story, meta):
+    t = meta["title"].lower()
     ph = story.get("photo", {})
-    queries = list(dict.fromkeys((ph.get("queries") or [])[:3]))
+    score = sum(3 for s in (ph.get("exact_subjects") or []) if s.lower() in t)
+    score += sum(1 for k in KEYWORDS.get(ph.get("ship_type", "other"), []) if k in t)
+    return score
+
+
+def candidates_for(story, used, max_cands=5):
+    ph = story.get("photo", {})
+    queries = list(dict.fromkeys((ph.get("queries") or [])[:2]))
     queries += GENERIC.get(ph.get("ship_type", "other"), GENERIC["other"])[:1]
     cands = []
     for q in queries:
@@ -92,4 +112,5 @@ def candidates_for(story, used, max_cands=6):
             print("  commons search failed:", q, ex)
         time.sleep(1)
         if len(cands) >= max_cands: break
+    cands.sort(key=lambda c: -keyword_score(story, c))
     return cands[:max_cands]

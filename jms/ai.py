@@ -37,27 +37,29 @@ def client():
     return _client
 
 
-def _call(contents, json_out=True, temperature=0.4):
+def _call(contents, json_out=True, temperature=0.4, budget_s=150):
+    """Try each available model once (each has its own free quota). Fail fast - never hang the daily run."""
     global MODELS, LAST_MODEL
     if not MODELS:
         MODELS = _discover() or ["gemini-3.8-flash", "gemini-3.5-flash-lite"]
-    last = None
+    start, last = time.time(), None
     for model in MODELS:
-        for attempt in range(3):
+        for attempt in range(2):
+            if time.time() - start > budget_s:
+                raise RuntimeError(f"Gemini time budget used up: {last}")
             try:
                 cfg = types.GenerateContentConfig(temperature=temperature,
                                                   response_mime_type="application/json" if json_out else "text/plain")
                 r = client().models.generate_content(model=model, contents=contents, config=cfg)
                 LAST_MODEL = model
-                time.sleep(13)  # stay inside free-tier requests-per-minute
                 return json.loads(r.text) if json_out else r.text
             except Exception as ex:
                 last = ex
                 msg = str(ex)
-                print(f"  Gemini {model} attempt {attempt+1} failed: {msg[:200]}")
-                if "404" in msg or "not found" in msg.lower():
-                    break  # try next model name
-                time.sleep(30 * (attempt + 1))
+                print(f"  Gemini {model} failed: {msg[:160]}")
+                if any(k in msg for k in ("404", "429", "RESOURCE_EXHAUSTED", "quota")) or "not found" in msg.lower():
+                    break  # next model (separate quota)
+                time.sleep(8)
     raise RuntimeError(f"Gemini failed: {last}")
 
 
@@ -114,28 +116,31 @@ def plan_carousel(candidates, date_text):
     return plan
 
 
-def pick_photo(story, thumbs):
-    """thumbs: list of (PIL.Image, meta). Returns (index or -1, is_exact_subject)."""
-    if not thumbs:
-        return -1, False
-    parts = [f"""News story for an Instagram slide:
-HEADLINE: {story['headline']}
-SUMMARY: {story['summary']}
-Specific subjects: {', '.join(story['photo'].get('exact_subjects') or []) or 'none'}
-Ship type: {story['photo'].get('ship_type')}
-
-Below are {len(thumbs)} candidate photos, numbered from 0. Choose the ONE photo that best illustrates this story
-as a real, good-looking news photo. It must show the right kind of subject (e.g. an LNG carrier for an LNG story,
-a tanker for a tanker story, the named port/place if possible). Reject maps, logos, diagrams, drawings, old
-black-and-white archive pictures, people's close-up portraits and low-quality images.
-Return JSON: {{"best": <index or -1 if none fits>, "exact": <true only if the photo shows the specifically named ship/place>}}"""]
-    for i, (im, meta) in enumerate(thumbs):
-        buf = io.BytesIO(); im.convert("RGB").save(buf, "JPEG", quality=80)
-        parts.append(f"Photo {i}: {meta.get('title','')}")
-        parts.append(types.Part.from_bytes(data=buf.getvalue(), mime_type="image/jpeg"))
+def pick_photos(stories, cands_by_slot):
+    """ONE Gemini call for all slides. cands_by_slot: {slot: [(PIL.Image, meta), ...]}.
+    Returns {slot: (index or -1, exact_bool)}."""
+    parts = ["""You are choosing news photos for an Instagram carousel about shipping.
+For EACH slide below, look at its numbered candidate photos and choose the ONE real photo that best illustrates
+that slide's story. It must show the right kind of subject (an LNG carrier for an LNG story, a tanker for a
+tanker story, the named port/place/building if possible). Reject maps, satellite images, logos, diagrams,
+drawings, old black-and-white archive pictures, unrelated people, animals or buildings. -1 if none fits.
+"exact" = true only if the photo clearly shows the specifically named ship/place of the story.
+Return JSON only: {"choices": [{"slot": <n>, "best": <index or -1>, "exact": <true/false>}, ...]}"""]
+    for s in stories:
+        cands = cands_by_slot.get(s["slot"]) or []
+        if not cands: continue
+        ph = s.get("photo", {})
+        parts.append(f"\n=== SLIDE {s['slot']} ===\nHEADLINE: {s['headline']}\nSTORY: {s['summary']}\n"
+                     f"Named subjects: {', '.join(ph.get('exact_subjects') or []) or 'none'} | Ship type: {ph.get('ship_type')}")
+        for i, (im, meta) in enumerate(cands):
+            buf = io.BytesIO(); im.convert("RGB").save(buf, "JPEG", quality=70)
+            parts.append(f"Slide {s['slot']} photo {i}: {meta.get('title','')[:90]}")
+            parts.append(types.Part.from_bytes(data=buf.getvalue(), mime_type="image/jpeg"))
+    out = {}
     try:
-        r = _call(parts, temperature=0.1)
-        return int(r.get("best", -1)), bool(r.get("exact", False))
+        r = _call(parts, temperature=0.1, budget_s=180)
+        for c in r.get("choices", []):
+            out[int(c["slot"])] = (int(c.get("best", -1)), bool(c.get("exact", False)))
     except Exception as ex:
-        print("  photo check failed:", ex)
-        return 0, False
+        print("  photo check failed, using best keyword match instead:", str(ex)[:200])
+    return out

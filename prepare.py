@@ -51,32 +51,60 @@ def gemini_plan():
     return ai.plan_carousel(items, DATE_TEXT)
 
 
+def original_url(u):
+    if "/thumb/" in u:
+        u = u.replace("/thumb/", "/").rsplit("/", 1)[0]
+    return u
+
+
+def get_photo(url):
+    """Original file first (no thumbnail rendering on Wikimedia's side), then 1920px thumbnail."""
+    for u in (original_url(url), url):
+        try:
+            im = photos.fetch_image(u); im.thumbnail((2000, 2000)); return im
+        except Exception as ex:
+            print("  download failed:", u[-60:], str(ex)[:80])
+    return None
+
+
 def build(plan):
     stories = sorted(plan["stories"], key=lambda s: s["slot"])[:9]
-
-    used, cover_photos = set(), []
+    t0 = time.time()
+    used, cands_by_slot = set(), {}
+    # 1) photos fixed in stories.json (chosen by Claude) - just download
     for s in stories:
-        print(f"Slide {s['slot']}: {s['headline']}")
-        s["photo_credit"], img = "", None
+        s["photo_credit"], s["_img"] = "", None
+        fx = (s.get("photo") or {}).get("fixed")
+        if fx:
+            s["_img"] = get_photo(fx["url"])
+            if s["_img"] is not None:
+                s["photo_credit"] = fx.get("credit", ""); used.add(original_url(fx["url"]))
+            time.sleep(1)
+    # 2) search Wikimedia for the rest
+    for s in stories:
+        if s["_img"] is not None: continue
         cands = photos.candidates_for(s, used)
         thumbs = []
-        for c in cands:
+        for c in cands[:4]:
             try:
                 thumbs.append((photos.fetch_image(c["small"]), c)); time.sleep(1)
             except Exception as ex:
-                print("  thumb failed", ex)
-        best, exact = ai.pick_photo(s, thumbs)
+                print("  thumb failed", str(ex)[:80])
+        cands_by_slot[s["slot"]] = thumbs
+    print(f"photo search done in {time.time()-t0:.0f}s")
+    # 3) ONE Gemini call checks all candidate photos
+    choices = ai.pick_photos([s for s in stories if s["slot"] in cands_by_slot], cands_by_slot) if cands_by_slot else {}
+    for s in stories:
+        if s["_img"] is not None or s["slot"] not in cands_by_slot: continue
+        thumbs = cands_by_slot[s["slot"]]
+        best, exact = choices.get(s["slot"], (0 if thumbs else -1, False))
         if 0 <= best < len(thumbs):
             c = thumbs[best][1]
-            try:
-                img = photos.fetch_image(c["full"])
-            except Exception:
-                img = thumbs[best][0]
+            s["_img"] = get_photo(c["full"]) or thumbs[best][0]
             used.add(c["full"])
             s["photo_credit"] = ("" if exact else "Representative · ") + c["credit"]
-            s["photo_page"] = c["page"]
-        s["_img"] = img
-        if img is not None: cover_photos.append(img)
+    cover_photos = [s["_img"] for s in stories if s["_img"] is not None]
+    print(f"photos ready in {time.time()-t0:.0f}s")
 
     paths = [os.path.join(OUT, "01.jpg")]
     render.cover(10, DATE_TEXT, cover_photos[:5], paths[0])
