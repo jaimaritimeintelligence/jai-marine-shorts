@@ -1963,6 +1963,114 @@
    ],
    "w": 1600,
    "h": 1200
+  },
+  {
+   "file": "photos/port-terminal/container-terminal-bremerhaven-02-jpg-2160a9.jpg",
+   "category": "port-terminal",
+   "title": "Container-Terminal Bremerhaven 02.jpg",
+   "credit": "H. Zell / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Container-Terminal_Bremerhaven_02.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Container-Terminal_Bremerhaven_02.jpg",
+   "score": 9,
+   "tags": [
+    "container cranes",
+    "bremerhaven port",
+    "terminal infrastructure",
+    "gantry cranes",
+    "blue sky"
+   ],
+   "w": 1600,
+   "h": 1331
+  },
+  {
+   "file": "photos/port-terminal/container-terminal-bremerhaven-01-jpg-85d2ff.jpg",
+   "category": "port-terminal",
+   "title": "Container-Terminal Bremerhaven 01.jpg",
+   "credit": "H. Zell / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Container-Terminal_Bremerhaven_01.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Container-Terminal_Bremerhaven_01.jpg",
+   "score": 8,
+   "tags": [
+    "bremerhaven",
+    "container terminal",
+    "gantry cranes",
+    "container ship",
+    "port"
+   ],
+   "w": 1600,
+   "h": 979
+  },
+  {
+   "file": "photos/port-terminal/container-cranes-vancouver-jpg-88a8d2.jpg",
+   "category": "port-terminal",
+   "title": "Container Cranes -- Vancouver.jpg",
+   "credit": "David J Laporte from Vancouver, Canada / Wikimedia Commons (CC BY 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Container_Cranes_--_Vancouver.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Container_Cranes_--_Vancouver.jpg",
+   "score": 8,
+   "tags": [
+    "vancouver port",
+    "sunset cranes",
+    "container terminal",
+    "helicopter",
+    "shipping"
+   ],
+   "w": 1124,
+   "h": 1600
+  },
+  {
+   "file": "photos/port-terminal/am-kamerunkai-container-crane-wpahoi-hamburg-p1080-68951b.jpg",
+   "category": "port-terminal",
+   "title": "Am Kamerunkai, Container crane, WPAhoi, Hamburg (P1080281).jpg",
+   "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Am_Kamerunkai,_Container_crane,_WPAhoi,_Hamburg_(P1080281).jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Am_Kamerunkai%2C_Container_crane%2C_WPAhoi%2C_Hamburg_%28P1080281%29.jpg",
+   "score": 7,
+   "tags": [
+    "container spreader",
+    "crane mechanism",
+    "port equipment",
+    "hamburg",
+    "blue sky"
+   ],
+   "w": 1280,
+   "h": 1600
+  },
+  {
+   "file": "photos/port-terminal/chiwan-container-terminal-2006-jpg-8013ae.jpg",
+   "category": "port-terminal",
+   "title": "Chiwan Container Terminal 2006.jpg",
+   "credit": "Niels Johannes / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Chiwan_Container_Terminal_2006.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Chiwan_Container_Terminal_2006.jpg",
+   "score": 7,
+   "tags": [
+    "chiwan terminal",
+    "gantry cranes",
+    "container port",
+    "quay",
+    "shipping"
+   ],
+   "w": 1600,
+   "h": 1065
+  },
+  {
+   "file": "photos/port-terminal/container-crane-container-terminal-harbour-tour-sp-c02c03.jpg",
+   "category": "port-terminal",
+   "title": "Container crane @ Container terminal @ Harbour Tour @ Spido @ Rotterdam (29935452984).jpg",
+   "credit": "Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Container_crane_@_Container_terminal_@_Harbour_Tour_@_Spido_@_Rotterdam_(29935452984).jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Container_crane_%40_Container_terminal_%40_Harbour_Tour_%40_Spido_%40_Rotterdam_%2829935452984%29.jpg",
+   "score": 7,
+   "tags": [
+    "container loading",
+    "rotterdam port",
+    "cma cgm",
+    "gantry crane",
+    "cargo handling"
+   ],
+   "w": 1600,
+   "h": 1067
   }
  ]
 }
