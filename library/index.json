@@ -493,6 +493,128 @@
    ],
    "w": 1600,
    "h": 1200
+  },
+  {
+   "file": "photos/lng-carrier/lng-tanker-christophe-de-margerie-jpg-8af832.jpg",
+   "category": "lng-carrier",
+   "title": "LNG tanker Christophe de Margerie.jpg",
+   "credit": "kremlin.ru website team / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:LNG_tanker_Christophe_de_Margerie.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/LNG_tanker_Christophe_de_Margerie.jpg",
+   "score": 9,
+   "tags": [
+    "lng carrier",
+    "membrane tanker",
+    "aerial view",
+    "icebreaker",
+    "port terminal"
+   ],
+   "w": 1600,
+   "h": 987
+  },
+  {
+   "file": "photos/lng-carrier/2023-05-20-01-lng-tanker-gulf-energy-imo-7390143-j-3d5bc2.jpg",
+   "category": "lng-carrier",
+   "title": "2023-05-20 01 LNG tanker, GULF ENERGY - IMO 7390143.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2023-05-20_01_LNG_tanker,_GULF_ENERGY_-_IMO_7390143.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
+   "score": 8,
+   "tags": [
+    "lng carrier",
+    "moss tanker",
+    "ship anchored",
+    "maritime",
+    "gulf energy"
+   ],
+   "w": 1600,
+   "h": 1065
+  },
+  {
+   "file": "photos/lng-carrier/shahamah-lng-carrier-jpg-1941f2.jpg",
+   "category": "lng-carrier",
+   "title": "Shahamah LNG carrier.jpg",
+   "credit": "青空白帆 / Wikimedia Commons (CC BY 2.1 jp)",
+   "page": "https://commons.wikimedia.org/wiki/File:Shahamah_LNG_carrier.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Shahamah_LNG_carrier.jpg",
+   "score": 8,
+   "tags": [
+    "lng carrier",
+    "moss tanks",
+    "vessel at sea",
+    "maritime transport"
+   ],
+   "w": 1600,
+   "h": 1200
+  },
+  {
+   "file": "photos/lng-carrier/2023-05-20-02-lng-tanker-gulf-energy-imo-7390143-j-e4d09e.jpg",
+   "category": "lng-carrier",
+   "title": "2023-05-20 02 LNG tanker, GULF ENERGY - IMO 7390143.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2023-05-20_02_LNG_tanker,_GULF_ENERGY_-_IMO_7390143.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/2023-05-20_02_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
+   "score": 7,
+   "tags": [
+    "lng carrier",
+    "side profile",
+    "moss tanks",
+    "shipping",
+    "tanker"
+   ],
+   "w": 1600,
+   "h": 405
+  },
+  {
+   "file": "photos/lng-carrier/lng-tanker-arctic-princess-vor-hammerfest-n-juni-2-09b7b0.jpg",
+   "category": "lng-carrier",
+   "title": "LNG Tanker ARCTIC PRINCESS vor Hammerfest (N) - Juni 2015.jpg",
+   "credit": "JoachimKohlerBremen / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:LNG_Tanker_ARCTIC_PRINCESS_vor_Hammerfest_(N)_-_Juni_2015.jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LNG_Tanker_ARCTIC_PRINCESS_vor_Hammerfest_%28N%29_-_Juni_2015.jpg",
+   "score": 7,
+   "tags": [
+    "lng carrier",
+    "moss tanks",
+    "red ship",
+    "vessel at sea"
+   ],
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "file": "photos/lng-carrier/caribbean-air-and-marine-branch-monitors-seas-arou-41d630.jpg",
+   "category": "lng-carrier",
+   "title": "Caribbean Air and Marine Branch monitors seas around Puerto Rico (32746890877).jpg",
+   "credit": "CBP Photography / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Caribbean_Air_and_Marine_Branch_monitors_seas_around_Puerto_Rico_(32746890877).jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Caribbean_Air_and_Marine_Branch_monitors_seas_around_Puerto_Rico_%2832746890877%29.jpg",
+   "score": 7,
+   "tags": [
+    "lng carrier",
+    "tugboat",
+    "ship stern",
+    "terminal"
+   ],
+   "w": 1600,
+   "h": 904
+  },
+  {
+   "file": "photos/lng-carrier/catalunya-spirit-imo-9236420-puerto-rico-2019-crop-3a6485.jpg",
+   "category": "lng-carrier",
+   "title": "Catalunya Spirit (IMO 9236420) Puerto Rico 2019 (cropped).jpg",
+   "credit": "CBP Photography / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Catalunya_Spirit_(IMO_9236420)_Puerto_Rico_2019_(cropped).jpg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Catalunya_Spirit_%28IMO_9236420%29_Puerto_Rico_2019_%28cropped%29.jpg",
+   "score": 7,
+   "tags": [
+    "lng carrier",
+    "catalunya spirit",
+    "tugboat",
+    "maritime"
+   ],
+   "w": 1600,
+   "h": 1066
   }
  ]
 }
