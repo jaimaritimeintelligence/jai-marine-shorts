@@ -132,8 +132,21 @@ def watermark(d):
 
 # ---------- slides ----------
 def story(n, total, headline, summary, source_credit, photo_credit, out, photo=None):
-    base = cover_fit(photo, W, H, 0.4) if photo is not None else placeholder(W, H, seed=n)
-    img = fade(base)
+    if photo is not None and photo.width > photo.height * 1.05:
+        # landscape photo: show it whole-width in the top part so the ship stays visible
+        ph_h = 820
+        base = Image.new("RGB", (W, H), (0, 0, 0))
+        top = cover_fit(photo, W, ph_h, 0.5)
+        mask = Image.new("L", (1, ph_h))
+        for y in range(ph_h):
+            t = (y / ph_h - 0.45) / 0.55
+            mask.putpixel((0, y), int(255 * max(0, min(1, t))))
+        top = Image.composite(Image.new("RGB", (W, ph_h), (0, 0, 0)), top, mask.resize((W, ph_h)))
+        base.paste(top, (0, 0))
+        img = base
+    else:
+        base = cover_fit(photo, W, H, 0.4) if photo is not None else placeholder(W, H, seed=n)
+        img = fade(base)
     d = ImageDraw.Draw(img, "RGBA")
     watermark(d); counter(d, n, total)
     hfont, hlines, hs = fit_headline(d, headline, W - 100, 3)
