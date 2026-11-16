@@ -24,19 +24,35 @@ def cleanup(keep_days=14):
 
 def main():
     os.makedirs(OUT, exist_ok=True)
+    if os.path.exists(os.path.join(OUT, "meta.json")):
+        print("Already prepared for", DAY); return
+    stories_file = os.path.join(OUT, "stories.json")
+    if os.path.exists(stories_file):
+        print("Using stories written by Claude:", stories_file)
+        plan = json.load(open(stories_file))
+    else:
+        print("No Claude stories today - Gemini fallback editor")
+        plan = gemini_plan()
+    build(plan)
+
+
+def gemini_plan():
     items = news.collect()
     if len(items) < 15:
         raise RuntimeError(f"only {len(items)} news items found")
     # give Gemini fuller text for trade-press items (Google News links are redirects, so skip those)
     enriched = 0
     for it in items:
-        if enriched >= 45: break
+        if enriched >= 20: break
         if "news.google.com" in it["link"]: continue
         it["text"] = news.article_text(it["link"]); enriched += 1
         time.sleep(0.5)
 
-    plan = ai.plan_carousel(items, DATE_TEXT)
-    stories = plan["stories"]
+    return ai.plan_carousel(items, DATE_TEXT)
+
+
+def build(plan):
+    stories = sorted(plan["stories"], key=lambda s: s["slot"])[:9]
 
     used, cover_photos = set(), []
     for s in stories:

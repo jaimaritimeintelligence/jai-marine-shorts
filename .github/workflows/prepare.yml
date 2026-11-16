@@ -1,7 +1,10 @@
 name: 1 - Prepare daily carousel
 on:
+  push:                     # Claude's daily news task pushes out/<date>/stories.json
+    paths:
+      - "out/*/stories.json"
   schedule:
-    - cron: "23 11 * * *"   # 16:53 IST every day
+    - cron: "13 12 * * *"   # 17:43 IST fallback: Gemini writes the news if Claude's stories did not arrive
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,7 +26,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           AUTO_POST: ${{ vars.AUTO_POST }}
-        run: python prepare.py
+        run: python -u prepare.py
       - name: Save slides to the repository (public image links for Instagram)
         if: always()
         run: |

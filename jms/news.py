@@ -103,7 +103,7 @@ def article_text(url, limit=3500):
     """Best-effort full text so Gemini has enough facts for 3-4 lines. Falls back silently."""
     try:
         import trafilatura
-        r = requests.get(url, headers=UA, timeout=20, allow_redirects=True)
+        r = requests.get(url, headers=UA, timeout=8, allow_redirects=True)
         if r.status_code != 200: return ""
         txt = trafilatura.extract(r.text, include_comments=False, include_tables=False) or ""
         return re.sub(r"\s+", " ", txt)[:limit]

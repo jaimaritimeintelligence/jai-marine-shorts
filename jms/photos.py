@@ -32,10 +32,10 @@ def _clean(s):
 
 
 def _get(params):
-    for a in range(6):
+    for a in range(3):
         r = requests.get(API, params=params, headers=UA, timeout=30)
         if r.status_code == 429:
-            time.sleep(int(r.headers.get("retry-after", 3)) + 5 * a); continue
+            time.sleep(int(r.headers.get("retry-after", 3)) + 3 * a); continue
         r.raise_for_status()
         return r.json()
     return {}
@@ -63,25 +63,25 @@ def search(q, n=10, min_w=1100):
         author = re.sub(r"\s+", " ", author)[:40]
         thumb = (ii.get("thumburl") or ii["url"])
         out.append({"title": title.replace("File:", ""), "full": _upload_host(thumb),
-                    "small": _upload_host(thumb).replace("/1920px-", "/640px-") if "/1920px-" in thumb else _upload_host(thumb),
+                    "small": _upload_host(thumb).replace("/1920px-", "/500px-") if "/1920px-" in thumb else _upload_host(thumb),
                     "credit": f"{author} / Wikimedia Commons ({lic})", "page": ii.get("descriptionurl", "")})
     return out
 
 
 def fetch_image(url):
-    for a in range(5):
-        r = requests.get(url, headers=UA, timeout=90)
+    for a in range(3):
+        r = requests.get(url, headers=UA, timeout=60)
         if r.status_code == 429:
-            time.sleep(10 + 10 * a); continue
+            time.sleep(6 + 6 * a); continue
         r.raise_for_status()
         return Image.open(io.BytesIO(r.content)).convert("RGB")
     raise RuntimeError("image download rate-limited")
 
 
-def candidates_for(story, used, max_cands=8):
+def candidates_for(story, used, max_cands=6):
     ph = story.get("photo", {})
-    queries = list(dict.fromkeys((ph.get("exact_subjects") or []) + (ph.get("queries") or [])))
-    queries += GENERIC.get(ph.get("ship_type", "other"), GENERIC["other"])
+    queries = list(dict.fromkeys((ph.get("queries") or [])[:3]))
+    queries += GENERIC.get(ph.get("ship_type", "other"), GENERIC["other"])[:1]
     cands = []
     for q in queries:
         try:
@@ -90,6 +90,6 @@ def candidates_for(story, used, max_cands=8):
                 cands.append(c)
         except Exception as ex:
             print("  commons search failed:", q, ex)
-        time.sleep(2)
+        time.sleep(1)
         if len(cands) >= max_cands: break
     return cands[:max_cands]
