@@ -129,10 +129,10 @@ def build(plan):
         paths.append(p)
 
     for s in stories: s.pop("_img", None)
-    meta = {"day": DAY, "caption": plan["caption"], "stories": stories,
+    meta = {"day": DAY, "caption": plan["caption"], "stories": stories, "song": plan.get("song"),
             "created": NOW.isoformat(), "preview_unix": int(time.time()), "posted": None}
     if not AUTO_POST and telegram.TOKEN:
-        telegram.send_preview(DAY, paths, plan["caption"])
+        telegram.send_preview(DAY, paths, plan["caption"], plan.get("song"))
     json.dump(meta, open(os.path.join(OUT, "meta.json"), "w"), indent=1, ensure_ascii=False)
     cleanup()
     print("Done:", OUT)

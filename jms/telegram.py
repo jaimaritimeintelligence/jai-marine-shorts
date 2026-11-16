@@ -30,9 +30,17 @@ def send_album(paths, first_caption=""):
     r.raise_for_status()
 
 
-def send_preview(day, paths, caption):
+def song_text(song):
+    if not song: return ""
+    out = f"🎵 Today's song: {song.get('title','')} — {song.get('artist','')} ({song.get('language','')})"
+    if song.get("start"): out += f"\nUse the 60-second part starting at {song['start']}"
+    if song.get("why"): out += f"\nWhy: {song['why']}"
+    return out
+
+
+def send_preview(day, paths, caption, song=None):
     send_album(paths, f"📰 Jai Marine Shorts — preview for {day}")
-    send_text("CAPTION:\n\n" + caption)
+    send_text("CAPTION:\n\n" + caption + ("\n\n" + song_text(song) if song else ""))
     return send_text(f"Post today's carousel ({day}) to Instagram at 7:30 PM IST?",
                      buttons=[{"text": "✅ Approve", "callback_data": f"approve:{day}"},
                               {"text": "❌ Reject", "callback_data": f"reject:{day}"}])

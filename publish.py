@@ -38,7 +38,12 @@ def main():
             urls = [f"https://raw.githubusercontent.com/{REPO}/main/out/{DAY}/{f}" for f in files]
             pid, link, user = instagram.publish_carousel(urls, meta["caption"])
             meta["posted"] = link or pid
-            telegram.send_text(f"🚢 Posted to Instagram @{user}: {link}")
+            msg = f"🚢 Posted to Instagram @{user}: {link}"
+            if meta.get("song"):
+                msg += ("\n\n" + telegram.song_text(meta["song"]) +
+                        "\n\nAdd it (20 sec, Instagram app): open the post → ⋯ (top right) → Edit → Replace audio "
+                        "→ search the song → pick the 60-second part above → Done.")
+            telegram.send_text(msg)
     json.dump(meta, open(META, "w"), indent=1, ensure_ascii=False)
 
 

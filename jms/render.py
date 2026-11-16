@@ -153,9 +153,8 @@ def story(n, total, headline, summary, source_credit, photo_credit, out, photo=N
     sfont = f(OSWS, 35)
     sub_lines = wrap_words(d, summary.upper(), sfont, W - 120)[:7]
     lh = int(hs * 1.08); sh = 46
-    block = 60 + len(hlines) * lh + 30 + len(sub_lines) * sh
+    block = len(hlines) * lh + 30 + len(sub_lines) * sh
     y = H - 120 - block
-    brand_rule(d, y); y += 60
     for ln in hlines:
         draw_centered_line(d, y, ln, hfont); y += lh
     y += 24
