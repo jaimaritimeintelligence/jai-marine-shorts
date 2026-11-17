@@ -3110,7 +3110,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Istanbul_Bosphorus_IMG_7816_1920.jpg/1920px-Istanbul_Bosphorus_IMG_7816_1920.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 65,
     "bright": 120,
@@ -3130,7 +3130,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Istanbul_Bosphorus_Large_landing_ship_Aleksandr_Shabalin_IMG_8143_1920.jpg/1920px-Istanbul_Bosphorus_Large_landing_ship_Aleksandr_Shabalin_IMG_8143_1920.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 94,
     "bright": 111,
@@ -3150,7 +3150,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Istanbul_Bosphorus_Large_landing_ship_Aleksandr_Shabalin_IMG_8155_1920.jpg/1920px-Istanbul_Bosphorus_Large_landing_ship_Aleksandr_Shabalin_IMG_8155_1920.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 86,
     "bright": 100,
@@ -3170,7 +3170,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pacific_Princess_cruiser_on_the_Bosphorus%2C_Turkey_001.jpg/1920px-Pacific_Princess_cruiser_on_the_Bosphorus%2C_Turkey_001.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 58,
     "bright": 135,
@@ -3178,26 +3178,6 @@
     "sharp": 4254
    },
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110001111111111111000111111111110100000000000100111000000000011111100000000001111110000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/canal-strait/pacific-princess-cruiser-on-the-bosphorus-tur-b59db5.jpg",
-   "category": "canal-strait",
-   "title": "Pacific Princess cruiser on the Bosphorus, Turkey 002.jpg",
-   "credit": "Moonik / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pacific_Princess_cruiser_on_the_Bosphorus,_Turkey_002.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pacific_Princess_cruiser_on_the_Bosphorus%2C_Turkey_002.jpg/1920px-Pacific_Princess_cruiser_on_the_Bosphorus%2C_Turkey_002.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 58,
-    "bright": 134,
-    "contrast": 65,
-    "sharp": 4470
-   },
-   "hash": "1111111111111100111111111111110011111111111111001111111111100100111111111111111110000011111111110000000001111111000000000111011100001111111111110000001111111111000000111111111100000001111111110000000011111111000000000000000000000000000000000000000000000000",
    "w": 1280,
    "h": 850
   },
@@ -3210,7 +3190,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Roseline_A_on_the_Bosphorus.jpg/1920px-Roseline_A_on_the_Bosphorus.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 29,
     "bright": 142,
@@ -3230,7 +3210,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ships_on_the_Bosphorus%2C_Istanbul%2C_Turkey_001.jpg/1920px-Ships_on_the_Bosphorus%2C_Istanbul%2C_Turkey_001.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 67,
     "bright": 154,
@@ -3240,346 +3220,6 @@
    "hash": "1111111111111110111111111111111111111110111111111111111011111111111111101111111111111110111111111111111011111111111111111111111111111011111111111111111110111111111000000011111111100000001111111110000000110011011000000000000000000001111000000000000000000000",
    "w": 1280,
    "h": 846
-  },
-  {
-   "file": "photos/canal-strait/canal-de-navegaci-n-kiel-holtenau-kiel-aleman-bf28dc.jpg",
-   "category": "canal-strait",
-   "title": "Canal de navegación Kiel-Holtenau, Kiel, Alemania, 2019-09-10, DD 04.jpg",
-   "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Canal_de_navegaci%C3%B3n_Kiel-Holtenau,_Kiel,_Alemania,_2019-09-10,_DD_04.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Canal_de_navegaci%C3%B3n_Kiel-Holtenau%2C_Kiel%2C_Alemania%2C_2019-09-10%2C_DD_04.jpg/1920px-Canal_de_navegaci%C3%B3n_Kiel-Holtenau%2C_Kiel%2C_Alemania%2C_2019-09-10%2C_DD_04.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 59,
-    "bright": 139,
-    "contrast": 70,
-    "sharp": 5163
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111001100001101111000000000000101100000000000000100000011000011111000000000111110000000001111101000000011111000000000111110000000000011110000000000111100000000000011100000000000001000000000000000",
-   "w": 1280,
-   "h": 601
-  },
-  {
-   "file": "photos/canal-strait/canal-de-suez-egito-jpg-04a081.jpg",
-   "category": "canal-strait",
-   "title": "Canal de Suez, Egito.jpg",
-   "credit": "Coordenação-Geral de Observação da Terra / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Canal_de_Suez,_Egito.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal_de_Suez%2C_Egito.jpg/1920px-Canal_de_Suez%2C_Egito.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 149,
-    "bright": 51,
-    "contrast": 50,
-    "sharp": 3848
-   },
-   "hash": "0000000000000000001000000000000011100000000000001110000000000000111100000000000011100000000000001110001000000000111000010000000011100000110000001111100011000000111111001110000011111101111000001111110111110000111111011111100011111101111111101111111111111111",
-   "w": 1280,
-   "h": 723
-  },
-  {
-   "file": "photos/canal-strait/column-of-ships-along-the-suez-canal-3-dec-20-d3515f.jpg",
-   "category": "canal-strait",
-   "title": "Column of ships along the Suez Canal - 3 Dec. 2011.jpg",
-   "credit": "https://web.archive.org/web/201610221046 / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Column_of_ships_along_the_Suez_Canal_-_3_Dec._2011.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Column_of_ships_along_the_Suez_Canal_-_3_Dec._2011.jpg/1920px-Column_of_ships_along_the_Suez_Canal_-_3_Dec._2011.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 127,
-    "bright": 107,
-    "contrast": 56,
-    "sharp": 3307
-   },
-   "hash": "1111111111111111111111111111111111111111111111110000001010111111000111000001111100111000000000111110000000000000010000000000010000000000000011000000000000000000000000000000000000000000000000000001000000000000000000000100001000100001011011110001010000001111",
-   "w": 1280,
-   "h": 719
-  },
-  {
-   "file": "photos/canal-strait/container-ship-ever-given-stuck-in-the-suez-c-fed096.jpg",
-   "category": "canal-strait",
-   "title": "Container Ship 'Ever Given' stuck in the Suez Canal, Egypt - March 24th, 2021 cropped.jpg",
-   "credit": "Contains modified Copernicus Sentinel da / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Container_Ship_%27Ever_Given%27_stuck_in_the_Suez_Canal,_Egypt_-_March_24th,_2021_cropped.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Container_Ship_%27Ever_Given%27_stuck_in_the_Suez_Canal%2C_Egypt_-_March_24th%2C_2021_cropped.jpg/1920px-Container_Ship_%27Ever_Given%27_stuck_in_the_Suez_Canal%2C_Egypt_-_March_24th%2C_2021_cropped.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 46,
-    "bright": 135,
-    "contrast": 65,
-    "sharp": 1170
-   },
-   "hash": "0000000001111111000000100111111100000010011111110000001001111111000000100111111100000000001111110000000001111111000000000011111100000000001111110000000100111111000000010011111100000001001111110000000100111111000000010011111100001001001111110000100100111111",
-   "w": 1280,
-   "h": 849
-  },
-  {
-   "file": "photos/canal-strait/egypt-suez-canal-ship-passing-through-the-can-624334.jpg",
-   "category": "canal-strait",
-   "title": "Egypt. Suez Canal. Ship passing through the canal LOC matpc.23043.jpg",
-   "credit": "Matson Collection / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Egypt._Suez_Canal._Ship_passing_through_the_canal_LOC_matpc.23043.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Egypt._Suez_Canal._Ship_passing_through_the_canal_LOC_matpc.23043.jpg/1920px-Egypt._Suez_Canal._Ship_passing_through_the_canal_LOC_matpc.23043.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 87,
-    "bright": 172,
-    "contrast": 60,
-    "sharp": 667
-   },
-   "hash": "0000000000000000011111111111111001111111111111100111111111111110011111111111111001111111111111100111111011111110111111011111111001110000001111000011000000110000000000000000000000000000000000000000000000000000000000000000000000000000011000000000000000000000",
-   "w": 1280,
-   "h": 847
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-port-said-iss-jpg-152b77.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal, Port Said - ISS.jpg",
-   "credit": "NASA astronaut / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal,_Port_Said_-_ISS.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Suez_Canal%2C_Port_Said_-_ISS.jpg/1920px-Suez_Canal%2C_Port_Said_-_ISS.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 64,
-    "bright": 58,
-    "contrast": 35,
-    "sharp": 960
-   },
-   "hash": "1111111111111111011111111111111001111111111111101111111111111100111111111111110011111111111110101111111111111110100011111111111011000111111111111000011111101110000001101100100000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 844
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-port-said-iss-2-jpg-ef2bca.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal, Port Said - ISS 2.jpg",
-   "credit": "NASA astronaut / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal,_Port_Said_-_ISS_2.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg/1920px-Suez_Canal%2C_Port_Said_-_ISS_2.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 66,
-    "bright": 127,
-    "contrast": 48,
-    "sharp": 1234
-   },
-   "hash": "1111111111111111111111111111111111111111111111101111111111111110111111111111111011111111111111111111111111111111000111111111111100001111111111110000111111011110000011001001000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 937
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-panoramio-jpg-a00276.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal - panoramio.jpg",
-   "credit": "---=XEON=--- / Wikimedia Commons (CC BY 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal_-_panoramio.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Suez_Canal_-_panoramio.jpg/1920px-Suez_Canal_-_panoramio.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 49,
-    "bright": 151,
-    "contrast": 48,
-    "sharp": 2095
-   },
-   "hash": "1111111111111011111111111111111111111111111110111111111111111111111111111111101011111111111100001111111111110000111111111110000011111111000000001111110000001000111100000000100000000000000000000000000000000000000000000000000000000000000010000000000000011000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-bridge-2-jpg-a67f23.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal Bridge (2).jpg",
-   "credit": "JAXPORT / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal_Bridge_(2).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Suez_Canal_Bridge_%282%29.jpg/1920px-Suez_Canal_Bridge_%282%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 61,
-    "bright": 115,
-    "contrast": 52,
-    "sharp": 2682
-   },
-   "hash": "0001111111111111000111111111111100011111111111110111111111111111011111111111111111111111111111111000000011111111100001111000001111111111100000011111111000000001111100000000001111110100000000110000000000000010000000000000001000000000000000000000000000000000",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-bridge-3-jpg-db5b51.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal Bridge (3).jpg",
-   "credit": "JAXPORT / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal_Bridge_(3).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Suez_Canal_Bridge_%283%29.jpg/1920px-Suez_Canal_Bridge_%283%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 39,
-    "bright": 134,
-    "contrast": 65,
-    "sharp": 2342
-   },
-   "hash": "1111111111111111001111111111111111100000000000111100000010000011100010000011111100000111111111110000010000000111000000000000001100000000000001110000000000000111000000000001111100000000000111110000000000111111000000000001111100000000000111111111111111111111",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-bridge-4-jpg-e8a064.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal Bridge (4).jpg",
-   "credit": "JAXPORT / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal_Bridge_(4).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Suez_Canal_Bridge_%284%29.jpg/1920px-Suez_Canal_Bridge_%284%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 43,
-    "bright": 166,
-    "contrast": 48,
-    "sharp": 2446
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111110011111111111100000000011111111000000000001111111101100000011111110000000001111110000000001101111000000000110000000000000000000010111111110000010011010000000000000100100000",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-bridge-6-jpg-922575.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal Bridge (6).jpg",
-   "credit": "JAXPORT / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal_Bridge_(6).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Suez_Canal_Bridge_%286%29.jpg/1920px-Suez_Canal_Bridge_%286%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 79,
-    "bright": 116,
-    "contrast": 41,
-    "sharp": 1882
-   },
-   "hash": "0000000000001111000000000001111100011000011111110000011111111111000011111111111100111111111111110111111111111111111111111111111111100101111111111100000001111111111000000001111111111000000011111111000000001111000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/canal-strait/suez-canal-desert-jpg-35a1fc.jpg",
-   "category": "canal-strait",
-   "title": "Suez Canal Desert.jpg",
-   "credit": "Totoyba2 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suez_Canal_Desert.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Suez_Canal_Desert.jpg/1920px-Suez_Canal_Desert.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 49,
-    "bright": 168,
-    "contrast": 58,
-    "sharp": 4459
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000011110000000000000000000000000000000000000010000000000100001000011101000000000000100000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/canal-strait/working-the-suez-canal-bridge-jpg-ee5a27.jpg",
-   "category": "canal-strait",
-   "title": "Working the Suez Canal Bridge.jpg",
-   "credit": "JAXPORT / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Working_the_Suez_Canal_Bridge.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Working_the_Suez_Canal_Bridge.jpg/1920px-Working_the_Suez_Canal_Bridge.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 51,
-    "bright": 91,
-    "contrast": 64,
-    "sharp": 3844
-   },
-   "hash": "0111111111111111001111111111111100000000000000001111111011110000111111111111000011111111110000001111111111000000111111111000000011101111000000001111110000000000111111000000000011111100000000001111111000000000111111100000000000111100000000000111111111100000",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/ship-fire/fire-inside-an-abandoned-convent-in-massuevil-b81e07.jpg",
-   "category": "ship-fire",
-   "title": "Fire inside an abandoned convent in Massueville, Quebec, Canada.jpg",
-   "credit": "Sylvain Pedneault / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Fire_inside_an_abandoned_convent_in_Massueville,_Quebec,_Canada.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fire_inside_an_abandoned_convent_in_Massueville%2C_Quebec%2C_Canada.jpg/1920px-Fire_inside_an_abandoned_convent_in_Massueville%2C_Quebec%2C_Canada.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 96,
-    "bright": 125,
-    "contrast": 52,
-    "sharp": 2416
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111001111111111111000011111111111000000001111110000000100111111000000111011101100000000101100110000000000100010000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 911
-  },
-  {
-   "file": "photos/ship-fire/2022-09-10-05-mv-holiday-island-imo-7041431-a-385c5d.jpg",
-   "category": "ship-fire",
-   "title": "2022-09-10 05 MV HOLIDAY ISLAND - IMO 7041431, at Wood Islands termina after engine fire, PEI CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2022-09-10_05_MV_HOLIDAY_ISLAND_-_IMO_7041431,_at_Wood_Islands_termina_after_engine_fire,_PEI_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2022-09-10_05_MV_HOLIDAY_ISLAND_-_IMO_7041431%2C_at_Wood_Islands_termina_after_engine_fire%2C_PEI_CAN.jpg/1920px-2022-09-10_05_MV_HOLIDAY_ISLAND_-_IMO_7041431%2C_at_Wood_Islands_termina_after_engine_fire%2C_PEI_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 119,
-    "bright": 124,
-    "contrast": 61,
-    "sharp": 3848
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000101000010000000000000011000000100000011110000010000001110001000000000111001000000000000100100000000000000000000000000000000000000000000111000000000000000000",
-   "w": 1280,
-   "h": 852
-  },
-  {
-   "file": "photos/ship-fire/cologne-germany-fire-fighting-boat-feuerl-sch-a249ec.jpg",
-   "category": "ship-fire",
-   "title": "Cologne Germany Fire-fighting-boat-Feuerlöschboot10-2-01.jpg",
-   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Fire-fighting-boat-Feuerl%C3%B6schboot10-2-01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cologne_Germany_Fire-fighting-boat-Feuerl%C3%B6schboot10-2-01.jpg/1920px-Cologne_Germany_Fire-fighting-boat-Feuerl%C3%B6schboot10-2-01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 85,
-    "bright": 150,
-    "contrast": 62,
-    "sharp": 5580
-   },
-   "hash": "1111111111111111111111111111111111110111111111111111101111111111111000001111111111000000000000010000000000000000000000000000000000000000000000001000110000111111111110000000110011111000000000000000000000000000000000000000000100000000000011110100000000011111",
-   "w": 1280,
-   "h": 853
   },
   {
    "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-08-jpg-fe6f20.jpg",
