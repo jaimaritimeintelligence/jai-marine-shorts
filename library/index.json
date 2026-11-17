@@ -4510,7 +4510,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/General_cargo_ship_Berge_Hallasan_in_Cockburn_Sound%2C_July_2021_02.jpg/1920px-General_cargo_ship_Berge_Hallasan_in_Cockburn_Sound%2C_July_2021_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 70,
     "bright": 122,
@@ -4522,166 +4522,6 @@
    "h": 960
   },
   {
-   "file": "photos/general-cargo/rostov-on-don-astrol-3-cargo-ship-in-shallow-ff7393.jpg",
-   "category": "general-cargo",
-   "title": "Rostov-on-Don, Astrol 3 cargo ship in shallow water, Don River at night, Russia.jpg",
-   "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Rostov-on-Don,_Astrol_3_cargo_ship_in_shallow_water,_Don_River_at_night,_Russia.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rostov-on-Don%2C_Astrol_3_cargo_ship_in_shallow_water%2C_Don_River_at_night%2C_Russia.jpg/1920px-Rostov-on-Don%2C_Astrol_3_cargo_ship_in_shallow_water%2C_Don_River_at_night%2C_Russia.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 110,
-    "bright": 83,
-    "contrast": 49,
-    "sharp": 2376
-   },
-   "hash": "1100000000000000100000000000000000010000000000000111010000000000011011000000000000111010000000001111111100000000111111110000000001111111110000000111111100000000011111110000000011111111110000001111111111000000011111110000000001111111000000000111111100000000",
-   "w": 1280,
-   "h": 800
-  },
-  {
-   "file": "photos/general-cargo/speed-cargo-ship-mmsi-205332390-jpg-356123.jpg",
-   "category": "general-cargo",
-   "title": "Speed ( Cargo ship) MMSI 205332390.jpg",
-   "credit": "Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Speed_(_Cargo_ship)_MMSI_205332390.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Speed_%28_Cargo_ship%29_MMSI_205332390.jpg/1920px-Speed_%28_Cargo_ship%29_MMSI_205332390.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 45,
-    "bright": 83,
-    "contrast": 54,
-    "sharp": 3795
-   },
-   "hash": "1111111001111111111101000111111101100000001110000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000001111101001111000111111111111100111111111111111011111111111111111111111111111111111111111111111011111111111111001",
-   "w": 1280,
-   "h": 346
-  },
-  {
-   "file": "photos/general-cargo/suspens-cargo-ship-1964-jpg-296516.jpg",
-   "category": "general-cargo",
-   "title": "Suspens (Cargo ship, 1964).jpg",
-   "credit": "Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Suspens_(Cargo_ship,_1964).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Suspens_%28Cargo_ship%2C_1964%29.jpg/1920px-Suspens_%28Cargo_ship%2C_1964%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 84,
-    "bright": 129,
-    "contrast": 66,
-    "sharp": 3993
-   },
-   "hash": "1111111000000000111110010000000011110000000000000111000000000000001000000000000000100000000000000000000000000000000000000000000000011000000011100111100000000100000001111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-   "w": 1280,
-   "h": 383
-  },
-  {
-   "file": "photos/general-cargo/a-u-s-marine-corps-m-998-high-mobility-multip-41e61a.jpg",
-   "category": "general-cargo",
-   "title": "A U.S. Marine Corps M-998 high-mobility multipurpose wheeled vehicle plunges into the surf after being delivered to the beach as part of an amphibious",
-   "credit": "Department of Defense. American Forces I / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:A_U.S._Marine_Corps_M-998_high-mobility_multipurpose_wheeled_vehicle_plunges_into_the_surf_after_being_delivered_to_the_beach_as_part_of_an_amphibious_exercise_during_Operation_Dese_-_DPLA_-_b45bdb2bd39925c0b06b4eeeeea2b62c.jpeg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A_U.S._Marine_Corps_M-998_high-mobility_multipurpose_wheeled_vehicle_plunges_into_the_surf_after_being_delivered_to_the_beach_as_part_of_an_amphibious_exercise_during_Operation_Dese_-_DPLA_-_b45bdb2bd39925c0b06b4eeeeea2b62c.jpeg/1920px-thumbnail.jpeg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 33,
-    "bright": 191,
-    "contrast": 56,
-    "sharp": 1169
-   },
-   "hash": "0001111110100000000110111000000000000000000000000000011100000000100001110000000000000011100000000000011000111000001111000011110000001110011111110000111111111111111011111111110011111111011111111111111111111111111111111111111111111111111111111111111111111111",
-   "w": 1280,
-   "h": 844
-  },
-  {
-   "file": "photos/general-cargo/us-navy-030426-m-4330p-003-boatswain-s-mate-3-cf9d19.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 030426-M-4330P-003 Boatswain's Mate 3rd Class Brandon Schieber assigned to Beach Master Unit One, backs in a M998 High Mobility Multipurpose W",
-   "credit": "U.S. Marine Corps photo by SSgt Michael  / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_030426-M-4330P-003_Boatswain%27s_Mate_3rd_Class_Brandon_Schieber_assigned_to_Beach_Master_Unit_One,_backs_in_a_M998_High_Mobility_Multipurpose_Wheeled_Vehicle.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/US_Navy_030426-M-4330P-003_Boatswain%27s_Mate_3rd_Class_Brandon_Schieber_assigned_to_Beach_Master_Unit_One%2C_backs_in_a_M998_High_Mobility_Multipurpose_Wheeled_Vehicle.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 55,
-    "bright": 129,
-    "contrast": 62,
-    "sharp": 1169
-   },
-   "hash": "1101111111111111110111111111111110011111111111110001111111001111000111110000111100011110000111110001010000011111000000000000111100000000000001110000000000000011000000000000001100000000000000010000000000000000000100000000011100011100000000010001110000000011",
-   "w": 1280,
-   "h": 863
-  },
-  {
-   "file": "photos/general-cargo/us-navy-100220-n-7508r-206-an-mh-60s-sea-hawk-7a11bf.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 100220-N-7508R-206 An MH-60S Sea Hawk helicopter transports supplies from the Military Sealift Command dry cargo ship USNS Sacagawea (T-AKE 2)",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_100220-N-7508R-206_An_MH-60S_Sea_Hawk_helicopter_transports_supplies_from_the_Military_Sealift_Command_dry_cargo_ship_USNS_Sacagawea_(T-AKE_2)_to_the_multipurpose_amphibious_assault_ship_USS_Bataan_(LHD_5).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/US_Navy_100220-N-7508R-206_An_MH-60S_Sea_Hawk_helicopter_transports_supplies_from_the_Military_Sealift_Command_dry_cargo_ship_USNS_Sacagawea_%28T-AKE_2%29_to_the_multipurpose_amphibious_assault_ship_USS_Bataan_%28LHD_5%29.jpg/1920px-thumbnail.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 60,
-    "bright": 92,
-    "contrast": 67,
-    "sharp": 2726
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111110111111111101101011111110110000001111110000001100110011000000100000000100000110000000110000010000000011100000000000001100000000000001110000000000111111000000000011111110000000000001110000000000",
-   "w": 1280,
-   "h": 816
-  },
-  {
-   "file": "photos/general-cargo/us-navy-100321-n-7508r-559-a-sailor-aboard-th-36cf21.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 100321-N-7508R-559 A Sailor aboard the multipurpose amphibious assault ship USS Bataan (LHD 5) transports supplies during a vertical replenish",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_100321-N-7508R-559_A_Sailor_aboard_the_multipurpose_amphibious_assault_ship_USS_Bataan_(LHD_5)_transports_supplies_during_a_vertical_replenishment.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/US_Navy_100321-N-7508R-559_A_Sailor_aboard_the_multipurpose_amphibious_assault_ship_USS_Bataan_%28LHD_5%29_transports_supplies_during_a_vertical_replenishment.jpg/1920px-US_Navy_100321-N-7508R-559_A_Sailor_aboard_the_multipurpose_amphibious_assault_ship_USS_Bataan_%28LHD_5%29_transports_supplies_during_a_vertical_replenishment.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 137,
-    "bright": 114,
-    "contrast": 62,
-    "sharp": 4120
-   },
-   "hash": "1111111111111111111111111111111111111111000011111111111000001111111110100000110111111000000010001111110010000001111111001001100111000000101111001000000000010000100011000000000010111100000000000011100011111001001101011111100000000001110000000000011111010000",
-   "w": 1280,
-   "h": 781
-  },
-  {
-   "file": "photos/general-cargo/us-navy-100323-n-7508r-123-capt-steve-koehler-907b05.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 100323-N-7508R-123 Capt. Steve Koehler, commanding officer of the multipurpose amphibious assault ship USS Bataan (LHD 5), observes a vertical",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_100323-N-7508R-123_Capt._Steve_Koehler,_commanding_officer_of_the_multipurpose_amphibious_assault_ship_USS_Bataan_(LHD_5),_observes_a_vertical_ammunition_offload.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/US_Navy_100323-N-7508R-123_Capt._Steve_Koehler%2C_commanding_officer_of_the_multipurpose_amphibious_assault_ship_USS_Bataan_%28LHD_5%29%2C_observes_a_vertical_ammunition_offload.jpg/1920px-thumbnail.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 90,
-    "bright": 89,
-    "contrast": 73,
-    "sharp": 1408
-   },
-   "hash": "0000000000000000110000000000000011110000011000001111111011110000111111111111000011111111111100001111111111111000111111111111100011111111111100001111110111100000111111000110000011111000110000001111100000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 673
-  },
-  {
    "file": "photos/general-cargo/us-navy-110505-n-7508r-001-the-multipurpose-a-d6b358.jpg",
    "category": "general-cargo",
    "title": "US Navy 110505-N-7508R-001 The multipurpose amphibious assault ship USS Bataan (LHD 5), right, conducts an underway replenishment with the Military.jp",
@@ -4690,7 +4530,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/US_Navy_110505-N-7508R-001_The_multipurpose_amphibious_assault_ship_USS_Bataan_%28LHD_5%29%2C_right%2C_conducts_an_underway_replenishment_with_the_Military.jpg/1920px-US_Navy_110505-N-7508R-001_The_multipurpose_amphibious_assault_ship_USS_Bataan_%28LHD_5%29%2C_right%2C_conducts_an_underway_replenishment_with_the_Military.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 29,
     "bright": 121,
@@ -4702,86 +4542,6 @@
    "h": 823
   },
   {
-   "file": "photos/general-cargo/us-navy-110505-n-7508r-004-an-sa-330j-puma-he-660ca0.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 110505-N-7508R-004 An SA-330J Puma helicopter, assigned to the Military Sealift Command dry cargo and ammunition ship USNS Robert E. Peary.jpg",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_110505-N-7508R-004_An_SA-330J_Puma_helicopter,_assigned_to_the_Military_Sealift_Command_dry_cargo_and_ammunition_ship_USNS_Robert_E._Peary.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/US_Navy_110505-N-7508R-004_An_SA-330J_Puma_helicopter%2C_assigned_to_the_Military_Sealift_Command_dry_cargo_and_ammunition_ship_USNS_Robert_E._Peary.jpg/1920px-US_Navy_110505-N-7508R-004_An_SA-330J_Puma_helicopter%2C_assigned_to_the_Military_Sealift_Command_dry_cargo_and_ammunition_ship_USNS_Robert_E._Peary.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 39,
-    "bright": 108,
-    "contrast": 52,
-    "sharp": 4000
-   },
-   "hash": "1111111111011111111111111011111111111111111111111111111110111111111111011001111111111001111111111111101111111111111111000011100011111101100011101111111111111111000000000111111100000000011001110000000000000011000000000000000100000000000000000000000000000000",
-   "w": 1280,
-   "h": 823
-  },
-  {
-   "file": "photos/general-cargo/us-navy-110505-n-7508r-005-an-sa-330j-puma-he-9b834a.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 110505-N-7508R-005 An SA-330J Puma helicopter, assigned to the Military Sealift Command dry cargo and ammunition ship USNS Robert E. Peary.jpg",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_110505-N-7508R-005_An_SA-330J_Puma_helicopter,_assigned_to_the_Military_Sealift_Command_dry_cargo_and_ammunition_ship_USNS_Robert_E._Peary.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/US_Navy_110505-N-7508R-005_An_SA-330J_Puma_helicopter%2C_assigned_to_the_Military_Sealift_Command_dry_cargo_and_ammunition_ship_USNS_Robert_E._Peary.jpg/1920px-US_Navy_110505-N-7508R-005_An_SA-330J_Puma_helicopter%2C_assigned_to_the_Military_Sealift_Command_dry_cargo_and_ammunition_ship_USNS_Robert_E._Peary.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 31,
-    "bright": 123,
-    "contrast": 49,
-    "sharp": 2059
-   },
-   "hash": "1111111111111111111111111111111111111111111101111111111111110111111111111111111111111111111111111111111111110111001111111111011100011111100111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 823
-  },
-  {
-   "file": "photos/general-cargo/us-navy-110613-n-ec658-001-sailors-and-marine-75e54e.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 110613-N-EC658-001 Sailors and Marines move supplies from the flight deck elevator aboard the multipurpose amphibious assault ship USS Bata.jp",
-   "credit": "U.S. Navy photo by Mass Communication 2n / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_110613-N-EC658-001_Sailors_and_Marines_move_supplies_from_the_flight_deck_elevator_aboard_the_multipurpose_amphibious_assault_ship_USS_Bata.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/US_Navy_110613-N-EC658-001_Sailors_and_Marines_move_supplies_from_the_flight_deck_elevator_aboard_the_multipurpose_amphibious_assault_ship_USS_Bata.jpg/1920px-US_Navy_110613-N-EC658-001_Sailors_and_Marines_move_supplies_from_the_flight_deck_elevator_aboard_the_multipurpose_amphibious_assault_ship_USS_Bata.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 42,
-    "bright": 108,
-    "contrast": 94,
-    "sharp": 3289
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111000111111111111000011111111111100000000000000000000111000000000000000000110000100000000011000000000000001100010001111000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 823
-  },
-  {
-   "file": "photos/general-cargo/us-navy-110718-n-ec658-027-aviation-ordnancem-ce9ecd.jpg",
-   "category": "general-cargo",
-   "title": "US Navy 110718-N-EC658-027 Aviation Ordnanceman 3rd Class Jerrad Allen fires a shot line from the multipurpose amphibious assault ship USS Bataan (.jp",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_110718-N-EC658-027_Aviation_Ordnanceman_3rd_Class_Jerrad_Allen_fires_a_shot_line_from_the_multipurpose_amphibious_assault_ship_USS_Bataan_(.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/US_Navy_110718-N-EC658-027_Aviation_Ordnanceman_3rd_Class_Jerrad_Allen_fires_a_shot_line_from_the_multipurpose_amphibious_assault_ship_USS_Bataan_%28.jpg/1920px-US_Navy_110718-N-EC658-027_Aviation_Ordnanceman_3rd_Class_Jerrad_Allen_fires_a_shot_line_from_the_multipurpose_amphibious_assault_ship_USS_Bataan_%28.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 105,
-    "bright": 125,
-    "contrast": 97,
-    "sharp": 3348
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111110011011111110011001110110011001100111111010100100011111001100010000111100111001000011111001101000000000101100000000000000110000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 914
-  },
-  {
    "file": "photos/general-cargo/forte-heavy-lift-ship-in-nieuwe-waterweg-rott-8a39ac.jpg",
    "category": "general-cargo",
    "title": "Forte (heavy-lift ship), in Nieuwe Waterweg, Rotterdam.jpg",
@@ -4790,7 +4550,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Forte_%28heavy-lift_ship%29%2C_in_Nieuwe_Waterweg%2C_Rotterdam.jpg/1920px-Forte_%28heavy-lift_ship%29%2C_in_Nieuwe_Waterweg%2C_Rotterdam.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 89,
     "bright": 101,
@@ -4802,26 +4562,6 @@
    "h": 851
   },
   {
-   "file": "photos/general-cargo/heavy-lift-ship-eide-barge-33-imo-8977948-dub-28040b.jpg",
-   "category": "general-cargo",
-   "title": "Heavy-Lift Ship Eide Barge 33 (IMO 8977948) - Dublin Bay - June 2009.jpg",
-   "credit": "desomurchu archive gallery / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Heavy-Lift_Ship_Eide_Barge_33_(IMO_8977948)_-_Dublin_Bay_-_June_2009.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Heavy-Lift_Ship_Eide_Barge_33_%28IMO_8977948%29_-_Dublin_Bay_-_June_2009.jpg/1920px-Heavy-Lift_Ship_Eide_Barge_33_%28IMO_8977948%29_-_Dublin_Bay_-_June_2009.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 81,
-    "bright": 121,
-    "contrast": 48,
-    "sharp": 301
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111110111111111111101011111111111110101000111111111001100001001111100010000100111110000000000000111000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/general-cargo/heavy-lift-ship-lone-imo-9458913-isola-del-gi-481eb1.jpg",
    "category": "general-cargo",
    "title": "Heavy-lift Ship Lone (IMO 9458913) - Isola del Giglio - Tuscan Archipelago, Italy - 18 Aug. 2013.jpg",
@@ -4830,7 +4570,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Heavy-lift_Ship_Lone_%28IMO_9458913%29_-_Isola_del_Giglio_-_Tuscan_Archipelago%2C_Italy_-_18_Aug._2013.jpg/1920px-Heavy-lift_Ship_Lone_%28IMO_9458913%29_-_Isola_del_Giglio_-_Tuscan_Archipelago%2C_Italy_-_18_Aug._2013.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 119,
     "bright": 109,
@@ -4850,7 +4590,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heavy_lift_ship_SAL_Lone_Giglio.JPG/1920px-Heavy_lift_ship_SAL_Lone_Giglio.JPG",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 101,
     "bright": 80,
@@ -4860,126 +4600,6 @@
    "hash": "1111111111111111111111111111111111111111111111111111111111111111000000111111111100000010011111110000011001011111000001100100111111101101111111011111111111110100111011111110001000000000010000000000000000000000000000000000000000000000000000000000000000000000",
    "w": 1280,
    "h": 719
-  },
-  {
-   "file": "photos/ferry/acanthiza-pusilla-austin-s-ferry-jpg-85c441.jpg",
-   "category": "ferry",
-   "title": "Acanthiza pusilla - Austin's Ferry.jpg",
-   "credit": "JJ Harrison (https://www.jjharrison.com. / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Acanthiza_pusilla_-_Austin%27s_Ferry.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Acanthiza_pusilla_-_Austin%27s_Ferry.jpg/1920px-Acanthiza_pusilla_-_Austin%27s_Ferry.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 72,
-    "bright": 120,
-    "contrast": 39,
-    "sharp": 1920
-   },
-   "hash": "1110010111101111111000111110111111100000101111111110000110111011111000101001111111100000100000011100001111000001110000111110011011011111111001101101111111000011100000111100001100000000011001110000000001100111101000000111001000000000011000001001000001110101",
-   "w": 1280,
-   "h": 854
-  },
-  {
-   "file": "photos/ferry/ferry-building-san-francisco-from-hyatt-regen-823eae.jpg",
-   "category": "ferry",
-   "title": "Ferry Building San Francisco from Hyatt Regency with R-Evolution and Bay Bridge 2026 dllu.jpg",
-   "credit": "Daniel Lu (User:dllu) / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Ferry_Building_San_Francisco_from_Hyatt_Regency_with_R-Evolution_and_Bay_Bridge_2026_dllu.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ferry_Building_San_Francisco_from_Hyatt_Regency_with_R-Evolution_and_Bay_Bridge_2026_dllu.jpg/1920px-Ferry_Building_San_Francisco_from_Hyatt_Regency_with_R-Evolution_and_Bay_Bridge_2026_dllu.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 95,
-    "bright": 126,
-    "contrast": 50,
-    "sharp": 5677
-   },
-   "hash": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000110000000000000011000000000000000000000010000001111110000000000011110000000000000111100000000000110110000000011100001000000100111001000001110111101101000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/ferry/ferry-building-at-night-jpg-ca6d91.jpg",
-   "category": "ferry",
-   "title": "Ferry Building at night.jpg",
-   "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Ferry_Building_at_night.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ferry_Building_at_night.jpg/1920px-Ferry_Building_at_night.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 121,
-    "bright": 77,
-    "contrast": 57,
-    "sharp": 4082
-   },
-   "hash": "0000000000000000000000000000000000000000000000000000000100000000000000010111111000000001011100000000000100011110000000010000110000000001100000000011111111111100011111111111111111111111111111111111111111111111111111111111111110011111111100001111111111111011",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/ferry/ferry-light-trail-rostock-jpg-b40a37.jpg",
-   "category": "ferry",
-   "title": "Ferry light trail, Rostock.jpg",
-   "credit": "Radomianin / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Ferry_light_trail,_Rostock.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ferry_light_trail%2C_Rostock.jpg/1920px-Ferry_light_trail%2C_Rostock.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 86,
-    "bright": 66,
-    "contrast": 71,
-    "sharp": 2106
-   },
-   "hash": "0000000000000000000000000000000011000000000000001111111100000000111111111111110011111111111111110000000000000011111111111111110011111111111111101111111111111100111111111111100011111111111000001111100000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/ferry/haematopus-longirostris-austins-ferry-jpg-4ca189.jpg",
-   "category": "ferry",
-   "title": "Haematopus longirostris - Austins Ferry.jpg",
-   "credit": "JJ Harrison (https://www.jjharrison.com. / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Haematopus_longirostris_-_Austins_Ferry.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haematopus_longirostris_-_Austins_Ferry.jpg/1920px-Haematopus_longirostris_-_Austins_Ferry.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 48,
-    "bright": 167,
-    "contrast": 46,
-    "sharp": 1301
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111011111110000001000001111110000000000011111111001111111111110111111011111111010000001010111101000000000011110000110011111111110010000111100000010000001110000011000001111111111111111111",
-   "w": 1280,
-   "h": 854
-  },
-  {
-   "file": "photos/ferry/heliport-ferry-finnmaid-baltic-sea-20100917-j-022701.jpg",
-   "category": "ferry",
-   "title": "Heliport Ferry Finnmaid Baltic Sea 20100917.JPG",
-   "credit": "Sir James / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Heliport_Ferry_Finnmaid_Baltic_Sea_20100917.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Heliport_Ferry_Finnmaid_Baltic_Sea_20100917.JPG/1920px-Heliport_Ferry_Finnmaid_Baltic_Sea_20100917.JPG",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 153,
-    "bright": 101,
-    "contrast": 49,
-    "sharp": 1952
-   },
-   "hash": "1110011111011111111111111111111111111111111111111111111111111111111111111111111111111011111111110111000111011100111100011101111000000001110011000000000000000100000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 845
   },
   {
    "file": "photos/ferry/lower-manhattan-from-staten-island-ferry-corr-f2df80.jpg",
