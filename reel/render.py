@@ -277,7 +277,7 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
                     "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-shortest", "-movflags", "+faststart", str(final)],
                    check=True)
     try:   # cover / thumbnail = the hook frame
-        snapshot(ep, [min(2.8, ep["scenes"][0]["_dur"] - 0.3)], work)
+        snapshot(dict(ep, words=[]), [min(2.8, ep["scenes"][0]["_dur"] - 0.3)], work)
         snap = sorted(work.glob("snap_*.jpg"))[0]; snap.rename(work / "cover.jpg")
     except Exception as e:
         print("cover failed", e)
