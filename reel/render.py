@@ -78,6 +78,9 @@ def tts(text, mode):
     if mode == "none":
         return None
     order = ["gemini", "edge"] if mode == "auto" else [mode]
+    if mode == "clone":
+        import clone_voice
+        return trim_silence(clone_voice.speak(text))
     for prov in order:
         try:
             if prov == "gemini" and os.environ.get("GEMINI_API_KEY"):

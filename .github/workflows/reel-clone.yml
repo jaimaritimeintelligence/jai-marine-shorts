@@ -1,0 +1,40 @@
+name: 13 - Reel in cloned voice
+on:
+  workflow_dispatch:
+    inputs:
+      episode: {description: "episode folder", required: true}
+      post_now: {description: "post to Instagram right after the checks", required: false, default: "false"}
+permissions:
+  contents: write
+concurrency: jms-reel
+jobs:
+  clone:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/voice_ref
+            ~/.cache/huggingface
+          key: chief-voice-v1
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg rubberband-cli > /dev/null
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q chatterbox-tts
+          pip install -q -r reel/requirements.txt
+      - env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          POST_NOW: ${{ github.event.inputs.post_now }}
+        run: python -u reel/clone_run.py reel/episodes/${{ github.event.inputs.episode }}/episode.json
+      - if: always()
+        run: |
+          git config user.name "jms-bot"; git config user.email "jms-bot@users.noreply.github.com"
+          for d in reel/episodes/*/; do rm -f $d/video.mp4 $d/voice.wav $d/music.wav; done
+          git add reel; git commit -m "Reel (cloned voice): ${{ github.event.inputs.episode }}" || true
+          git pull --rebase && git push

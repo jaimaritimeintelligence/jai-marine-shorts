@@ -8,6 +8,8 @@ from jms import telegram
 
 ep_path = Path(sys.argv[1])
 _ep = json.loads(ep_path.read_text())
+if _ep.get("voice") == "clone":
+    print("cloned-voice episode: rendered by the 'Reel in cloned voice' workflow"); sys.exit(0)
 if _ep.get("voice") == "human" and os.environ.get("TTS_MODE") != "human":
     if not _ep.get("script_sent_unix"):
         import voice_inbox
