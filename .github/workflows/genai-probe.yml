@@ -1,0 +1,17 @@
+name: 15 - AI image probe
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q google-genai
+      - env: {GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}"}
+        run: python -u tools/genai_probe.py
+      - run: |
+          git config user.name "jms-bot"; git config user.email "jms-bot@users.noreply.github.com"
+          git add tools/out || true; git commit -m "probe images" || true; git pull --rebase && git push
