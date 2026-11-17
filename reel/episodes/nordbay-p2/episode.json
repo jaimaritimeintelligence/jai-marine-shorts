@@ -395,5 +395,6 @@
   }
  ],
  "voice": "human",
- "queue": true
+ "queue": true,
+ "script_pending": true
 }
