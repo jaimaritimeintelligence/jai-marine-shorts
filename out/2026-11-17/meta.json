@@ -1,0 +1,168 @@
+{
+ "day": "2026-11-17",
+ "caption": "Everything that happened in the shipping industry in the last 24 hours (17 Nov 2026) 🚢\n\n1. Brent crude slips to $91.58\n2. Two tankers hit in Hormuz - engine room fires\n3. 227 ships waiting outside the Strait of Hormuz\n4. Towboat crew pulls 14 people from the river\n5. Ice nearly stops Korea's first Arctic box ship\n6. Samsung Heavy wins $257m LNG carrier order\n7. Black Sea ship attacks pass 300 this year\n8. US-China truce pauses ship fees to Jan 2027\n9. Box lines' profits lifted by higher rates\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #StraitOfHormuz #maritimesafety #shippingnews #seafarerlife #containershipping #shipbuilding #BlackSea #NorthernSeaRoute #jaimarineshorts",
+ "stories": [
+  {
+   "slot": 2,
+   "headline": "Brent crude slips to [$91.58]",
+   "summary": "Brent fell about 0.9% on 17 Nov to around $91.58 a barrel, while US WTI traded near $85. Expectations of stronger global supply outweighed Middle East tensions. The IEA sees a surplus of about 2 million barrels a day this quarter, and Goldman Sachs warned of a possible glut next year.",
+   "sources": "Trading Economics",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "VLCC",
+    "queries": [
+     "VLCC tanker at sea",
+     "crude oil tanker",
+     "oil terminal tanker"
+    ]
+   },
+   "photo_credit": "Representative · Quintin Soloviev / Wikimedia Commons (CC BY 4.0)",
+   "library_file": "photos/vlcc/yasa-vega-at-imperial-oil-dartmouth-terminal-jpg-e0370f.jpg"
+  },
+  {
+   "slot": 3,
+   "headline": "Two tankers hit in Hormuz - [engine room fires]",
+   "summary": "UKMTO reported two tanker attacks in the Strait of Hormuz on Monday 16 Nov. An outbound tanker was hit by a projectile around 05:58 UTC, causing an engine-room fire; all crew were accounted for. A second tanker was left disabled with an engine-room fire 7 nm north of Khasab, Oman, crew reported safe. Ship names were not released.",
+   "sources": "gCaptain, UKMTO",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "oil tanker Persian Gulf",
+     "crude oil tanker at sea",
+     "tanker underway"
+    ]
+   },
+   "photo_credit": "Representative · Niels Johannes / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/crude-tanker/alpine-melina-imo-9387944-north-sea-2016-jpg-d708d7.jpg"
+  },
+  {
+   "slot": 4,
+   "headline": "[227 ships] waiting outside the Strait of Hormuz",
+   "summary": "About 227 commercial ships are stationary at anchorages east of the strait, including Fujairah, Khor Fakkan, Sohar and Musandam. JMIC counts five attacks off Oman's Musandam Peninsula since 1 Nov. On 15 Nov, Indian authorities reported another vessel attacked in the Gulf, with all crew safe.",
+   "sources": "gCaptain, JMIC",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "tankers at anchor",
+     "ships at anchorage",
+     "oil tanker anchored"
+    ]
+   },
+   "photo_credit": "Representative · Joost J. Bakker IJmuiden / Wikimedia Commons (CC BY 4.0)",
+   "library_file": "photos/vlcc/kmarin-restraint-imo-9683075-ijmuiden-2022-a-jpg-47ef4a.jpg"
+  },
+  {
+   "slot": 5,
+   "headline": "Towboat crew pulls [14 people] from the river",
+   "summary": "When the tanker Atlantic Asphalt struck the paddle-wheeler American Heritage in New Orleans, about 100 of the 191 people aboard were still on board as it rolled over. A five-member towboat crew from Canal Barge Co. pulled 14 people from the water. 32 went to hospital and no one died. NTSB plans a preliminary report in 30 days.",
+   "sources": "Times-Picayune via Firehouse, Fox News",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "riverboat",
+    "queries": [
+     "paddlewheel riverboat",
+     "riverboat Mississippi",
+     "towboat Mississippi River"
+    ]
+   },
+   "photo_credit": "Representative · Benroethig / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/riverboat/queen-of-the-mississippi-jpg-9a7ace.jpg"
+  },
+  {
+   "slot": 6,
+   "headline": "Ice nearly stops Korea's [first Arctic box ship]",
+   "summary": "The 2,758-TEU PanStar Acro met drifting ice south of Wrangel Island on South Korea's first Northern Sea Route container trial. Captain Seo Myeong-won considered turning back but waited for daylight, and a route opened about three hours later. PanStar is now weighing a sale, possibly back to HMM.",
+   "sources": "gCaptain",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "container ship",
+    "queries": [
+     "container ship at sea",
+     "container ship ice",
+     "container ship underway"
+    ]
+   },
+   "photo_credit": "Representative · Martin Dörsch / Wikimedia Commons (CC0)",
+   "library_file": "photos/container-ship/container-ship-in-koper-2013-jpg-d58dc4.jpg"
+  },
+  {
+   "slot": 7,
+   "headline": "Samsung Heavy wins [$257m] LNG carrier order",
+   "summary": "Samsung Heavy Industries disclosed on 16 Nov a contract worth about $257 million for one LNG carrier, ordered by an unnamed Oceania-based shipowner. Shipbuilding sources tie the order to Celsius Shipping, which has been adding large LNG carriers at the Korean yard.",
+   "sources": "New-Ships, LNG Prime",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier at sea",
+     "membrane LNG carrier",
+     "LNG tanker"
+    ]
+   },
+   "photo_credit": "Representative · CBP Photography / Wikimedia Commons (Public domain)",
+   "library_file": "photos/lng-carrier/catalunya-spirit-imo-9236420-puerto-rico-2019-crop-3a6485.jpg"
+  },
+  {
+   "slot": 8,
+   "headline": "Black Sea ship attacks pass [300] this year",
+   "summary": "Attacks on commercial shipping in the Black Sea have passed 300 this year, disrupting trade in the region. Vessel entries through the Bosporus fell 41% year on year in October. Romania and Bulgaria have reported drone strikes on ships near their coasts in recent weeks.",
+   "sources": "Intelligent Audit, Al Jazeera",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "bulk carrier",
+    "queries": [
+     "Bosphorus ship",
+     "bulk carrier at sea",
+     "cargo ship Black Sea"
+    ]
+   },
+   "photo_credit": "Representative · ImagePerson / Wikimedia Commons (CC BY 4.0)",
+   "library_file": "photos/bulk-carrier/bulk-carrier-tesoro-imo-93461608789-jpg-57424a.jpg"
+  },
+  {
+   "slot": 9,
+   "headline": "US-China truce pauses [ship fees] to Jan 2027",
+   "summary": "The US and China formally extended their trade truce to 10 January 2027. It keeps reduced tariffs and the suspension of US fees on China-linked vessels in place, and extends 178 Section 301 tariff exclusions. Separately, the White House is reported to be preparing to extend the Jones Act waiver.",
+   "sources": "Intelligent Audit, Reuters",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "container ship",
+    "queries": [
+     "container ship port",
+     "container ship underway",
+     "large container ship"
+    ]
+   },
+   "photo_credit": "Representative · Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/container-ship/msc-harmony-iii-container-ship-2006-in-port-koper-307574.jpg"
+  },
+  {
+   "slot": 10,
+   "headline": "Box lines' profits lifted by [higher rates]",
+   "summary": "Stronger freight rates lifted third-quarter profits at Evergreen, Wan Hai, HMM, CMA CGM and Hapag-Lloyd. Carriers still warn of geopolitical disruption and high operating costs. The container ship orderbook is about 43-46% of the fleet, raising overcapacity worries from 2027.",
+   "sources": "Intelligent Audit",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "port",
+    "queries": [
+     "container terminal cranes",
+     "container port",
+     "port gantry cranes"
+    ]
+   },
+   "photo_credit": "Representative · H. Zell / Wikimedia Commons (CC BY-SA 3.0)",
+   "library_file": "photos/port-terminal/container-terminal-bremerhaven-01-jpg-85d2ff.jpg"
+  }
+ ],
+ "song": {
+  "title": "Tera Mera Rishta (New Version)",
+  "artist": "Mustafa Zahid, Mithoon, Pritam (from Awarapan 2)",
+  "language": "Hindi",
+  "why": "Top of Spotify's 'Trending Insta Reels 2026' playlist"
+ },
+ "created": "2026-11-17T08:51:54.359462+05:30",
+ "preview_unix": 1794885744,
+ "posted": null
+}
