@@ -100,3 +100,22 @@ def cut_scene(audio, words, max_gap=0.45, pad=0.08):
             gap = min(max_gap, spans[k + 1][0] - e)
             pieces.append(np.zeros(int(max(0.12, gap) * SR), dtype=np.float32)); t += max(0.12, gap)
     return np.concatenate(pieces), times
+
+
+def speaking_rate(per):
+    """Words per second over the spoken spans."""
+    n = sum(len(w) for w in per); dur = sum((w[-1][2] - w[0][1]) for w in per if w)
+    return n / dur if dur else 0
+
+
+def stretch(x, factor):
+    """Speed up speech without changing pitch (rubberband if available, else atempo)."""
+    if abs(factor - 1) < 0.01 or x is None:
+        return x
+    raw = (np.clip(x, -1, 1) * 32767).astype(np.int16).tobytes()
+    for flt in (f"rubberband=tempo={factor:.3f}:pitchq=quality", f"atempo={factor:.3f}"):
+        r = subprocess.run(["ffmpeg", "-v", "error", "-f", "s16le", "-ar", str(SR), "-ac", "1", "-i", "-", "-af", flt,
+                            "-f", "s16le", "-ar", str(SR), "-ac", "1", "-"], input=raw, capture_output=True)
+        if r.returncode == 0 and r.stdout:
+            return np.frombuffer(r.stdout, dtype=np.int16).astype(np.float32) / 32768
+    return x

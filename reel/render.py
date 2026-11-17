@@ -209,7 +209,15 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
         rec = os.environ["VOICE_FILE"]
         heard = hv.transcribe(rec); audio = hv.load_audio(rec)
         per = hv.align(ep["scenes"], heard)
-        human = [hv.cut_scene(audio, w) for w in per]
+        rate = hv.speaking_rate(per)
+        target = float(os.environ.get("TARGET_WPS", "2.75"))       # brisk storytelling pace
+        factor = max(1.0, min(1.18, target / rate)) if rate else 1.0
+        print(f"speaking rate {rate:.2f} words/s -> tempo x{factor:.2f}", flush=True)
+        human = []
+        for w in per:
+            a_, t_ = hv.cut_scene(audio, w, max_gap=0.35)
+            a_ = hv.stretch(a_, factor)
+            human.append((a_, [{"w": x["w"], "s": x["s"] / factor, "e": x["e"] / factor} for x in t_]))
         cov = [round(sc["_coverage"], 2) for sc in ep["scenes"]]
         print("coverage per scene:", cov, flush=True)
         missing = [i + 1 for i, c in enumerate(cov) if c < 0.6]
@@ -261,7 +269,7 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
     final = work / f"{ep['id']}.mp4"
     # voice chain: rumble cut, warmth, presence, gentle compression; music ducked under voice
     fc = ("[0:a]highpass=f=80,equalizer=f=180:t=q:w=1:g=2,equalizer=f=3200:t=q:w=1.2:g=3,"
-          "acompressor=threshold=-20dB:ratio=3:attack=10:release=150,asplit=2[v][vsc];"
+          "deesser=i=0.4,acompressor=threshold=-21dB:ratio=3.5:attack=8:release=140:makeup=2,asplit=2[v][vsc];"
           "[1:a]volume=0.22[m];[m][vsc]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[md];"
           "[v][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(work / "voice.wav"), "-i", str(work / "music.wav"),
