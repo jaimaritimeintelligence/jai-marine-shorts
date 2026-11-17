@@ -443,5 +443,6 @@
  "voice": "human",
  "queue": true,
  "script_sent_unix": 1794898470,
- "awaiting_voice": true
+ "awaiting_voice": true,
+ "music": "lightless-dawn"
 }

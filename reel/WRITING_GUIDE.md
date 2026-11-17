@@ -22,7 +22,7 @@ The **Jai Marine Shorts** case-file series retells real marine accidents as shor
 
 ## episode.json
 ```json
-{"id": "<case>-p1", "voice": "human", "queue": true,
+{"id": "<case>-p1", "voice": "human", "queue": true, "music": "lightless-dawn",
  "kicker": "SHIP NAME · PLACE · D MON YYYY",
  "caption": "...",
  "scenes": [ {"type": "...", "headline": "...", "sub": "...", "clock": "22:13", "alarm": false, "p": {...}, "narration": "..."} ]}
