@@ -24,22 +24,24 @@
     "hitAt": 2.6,
     "y": 300
    },
-   "narration": "The master is on the phone. The pilot is shouting for power. And a damaged tanker is heading straight for a wharf."
+   "narration": "The master is on the phone. The pilot is shouting for power. And a wounded tanker is heading straight for a wharf.",
+   "direction": "Fast and tense, like breaking news."
   },
   {
    "type": "card",
    "headline": "[Previously...]",
    "p": {
     "items": [
-     "Empty tanker · river running high",
-     "22:13 — hit a dock and the city's water intakes",
+     "Empty tanker · river in flood",
+     "22:13 — dock smashed, water intakes hit",
      "Ballast tank No. 6 holed"
     ],
     "hl": 1,
     "y": 560,
     "step": 0.9
    },
-   "narration": "Previously. An empty tanker, a river running high, and a dock destroyed at Nine-Mile Point. Nordbay is damaged, but still moving."
+   "narration": "Previously... an empty tanker, a river in flood, and a dock smashed at Nine-Mile Point. Nordbay is wounded... but she is still moving.",
+   "direction": "Quiet, ominous. Pause before 'but she is still moving'."
   },
   {
    "type": "river",
@@ -117,8 +119,8 @@
       "middle"
      ],
      [
-      820,
-      520,
+      740,
+      600,
       "ALGIERS POINT",
       null,
       26,
@@ -146,7 +148,8 @@
      }
     ]
    },
-   "narration": "Twenty-two eighteen. The pilot calls for tugs, and decides to anchor below Algiers Point, a sharp bend in the heart of the city. A relief pilot is arranged."
+   "narration": "Twenty-two eighteen. The pilot calls for tugs. The decision: keep going, and anchor below Algiers Point, a sharp bend right in the heart of the city.",
+   "direction": "Matter-of-fact, steady."
   },
   {
    "type": "quote",
@@ -156,7 +159,8 @@
     "by": "At this speed, he fears dragging them",
     "size": 66
    },
-   "narration": "Twenty-two thirty-seven. Two tugs come alongside and offer their lines. The pilot declines. At this speed, he fears dragging them."
+   "narration": "Twenty-two thirty-seven. Two tugs come alongside. They offer their lines... and the pilot says no. At this speed, he fears dragging them.",
+   "direction": "Slow down on 'and the pilot says no'."
   },
   {
    "type": "river",
@@ -226,8 +230,8 @@
     ],
     "labels": [
      [
-      820,
-      520,
+      740,
+      600,
       "ALGIERS POINT",
       null,
       26,
@@ -256,7 +260,8 @@
      }
     ]
    },
-   "narration": "Twenty-two fifty-eight. She passes under the Crescent City Connection bridges. Full ahead. Now she must swing hard to starboard, around Algiers Point."
+   "narration": "Twenty-two fifty-eight. Under the Crescent City Connection. Full ahead. Now... one more bend. Hard starboard, around Algiers Point.",
+   "direction": "Building speed. Punch 'Hard starboard'."
   },
   {
    "type": "phone",
@@ -272,7 +277,8 @@
     ],
     "chipsAt": 1.5
    },
-   "narration": "And the master? At that very moment, he is on a phone call with the shipping company."
+   "narration": "And the master? Right now... he is on the phone with the shipping company.",
+   "direction": "Disbelief. Slow, almost a whisper."
   },
   {
    "type": "quote",
@@ -283,7 +289,8 @@
     "by": "Pilot, 23:04 — NTSB report",
     "size": 72
    },
-   "narration": "Twenty-three oh four. The pilot calls out. Emergency! As much as you can give me! The master ends his call, and orders full sea speed."
+   "narration": "Twenty-three oh four. The pilot cries out. Emergency! As much as you can give me! The master drops the call. Full sea speed!",
+   "direction": "Shout the pilot's words. Fast."
   },
   {
    "type": "turn",
@@ -311,13 +318,14 @@
     "yawLag": 0,
     "hit": false
    },
-   "narration": "Too late. Her rate of turn is falling. Twenty-three oh five. The danger signal sounds again."
+   "narration": "Too late. Her turn is slowing. The bank is rushing closer. Twenty-three oh five. Danger signal. Again.",
+   "direction": "Short, breathless lines. Drop low on 'Again.'"
   },
   {
    "type": "impact",
    "clock": "23:06",
    "headline": "[23:06] Second allision.",
-   "sub": "53 minutes after the first",
+   "sub": "Two hits · one night · 53 minutes apart",
    "p": {
     "stamp": "IMPACT",
     "pier": 880,
@@ -333,7 +341,8 @@
     ],
     "chipsAt": 1.0
    },
-   "narration": "Twenty-three oh six. Nordbay strikes the Mandeville Street Wharf."
+   "narration": "Twenty-three oh six. Impact! Nordbay slams into the Mandeville Street Wharf. Two hits. One night. Fifty-three minutes apart.",
+   "direction": "Loud on 'Impact!', then slow and heavy on the last three lines."
   },
   {
    "type": "card",
@@ -347,7 +356,8 @@
     "y": 560,
     "step": 1.1
    },
-   "narration": "Total damage, about six point four million dollars. Nordbay herself had five damaged propeller blades, and buckled steel in her stern."
+   "narration": "The bill? About six point four million dollars. Five propeller blades damaged. Steel buckled in her stern.",
+   "direction": "Calm, serious."
   },
   {
    "type": "card",
@@ -365,7 +375,8 @@
     "step": 2.6,
     "max": 34
    },
-   "narration": "The NTSB found that the pilot and the master did not properly assess the risks of handling an empty ship in high water, with a strong current behind her, turning into the wind. The bridge team lost track of the ship's position. And for the second hit, the master was distracted by a phone call."
+   "narration": "So what really went wrong? The NTSB found the pilot and the master never properly assessed the risk: an empty ship, in high water, with the current behind her, turning into the wind. The bridge team lost track of where the ship was. And the second hit? The master was distracted... by a phone call.",
+   "direction": "Investigator voice. Pause before 'by a phone call'."
   },
   {
    "type": "card",
@@ -381,7 +392,8 @@
     "step": 3.2,
     "max": 30
    },
-   "narration": "The lessons. A pilot on board never removes the master's duty to navigate safely. After an accident, no phone call is more important than a ship that is still moving. And talk through the wind, the current and the ship's condition before the bend, not in it."
+   "narration": "Lesson one. A pilot on board never takes away the master's duty. Lesson two. After an accident, no phone call matters more than a ship that is still moving. Lesson three. Talk through the wind, the current and your ship's condition before the bend... not in it.",
+   "direction": "Firm, like a senior Chief teaching juniors."
   },
   {
    "type": "cta",
@@ -391,7 +403,8 @@
      "Tell us in the [comments]."
     ]
    },
-   "narration": "What would you have done on that bridge? Tell me in the comments. And follow Jai Marine Shorts for more case files."
+   "narration": "Now tell me... what would you have done on that bridge? Comment below. And follow Jai Marine Shorts for the next case file.",
+   "direction": "Warm, inviting."
   }
  ],
  "voice": "human",
