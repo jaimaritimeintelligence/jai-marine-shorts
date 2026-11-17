@@ -206,7 +206,7 @@ def collect_category(cat, idx, hashes):
         seen.add(c["url"])
         text = (c["title"] + " " + c.get("tags", "")).lower()
         if any(b in text for b in BAD): continue
-        if not c["vetted"] and not any(m in text for m in must): continue
+        if c["source"] in ("commons", "openverse") and not any(m in text for m in must): continue
         ranked.append(c)
     ranked.sort(key=lambda c: (not c["vetted"], c["source"] != "commons"))
     print(f"{cat}: {len(cands)} found, {len(ranked)} pass filters, need {need}")
