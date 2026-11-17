@@ -3842,66 +3842,6 @@
    "h": 651
   },
   {
-   "file": "photos/refinery/bp-oil-refinery-jetty-kwinana-august-2019-1-j-92aac6.jpg",
-   "category": "refinery",
-   "title": "BP Oil Refinery Jetty, Kwinana, August 2019 1.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:BP_Oil_Refinery_Jetty,_Kwinana,_August_2019_1.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BP_Oil_Refinery_Jetty%2C_Kwinana%2C_August_2019_1.jpg/1920px-BP_Oil_Refinery_Jetty%2C_Kwinana%2C_August_2019_1.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 30,
-    "bright": 147,
-    "contrast": 28,
-    "sharp": 1235
-   },
-   "hash": "1111111111111111111111111111111111111111111111101111111111111111111111111111111111111111110111111111111111011111010000001000010000000000000000000000000000000000000000000000000000111111111111110000111111011111000000000001111100011111110111110000011110001111",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/refinery/breakwater-on-pulau-hantu-besar-with-oil-refi-071929.jpg",
-   "category": "refinery",
-   "title": "Breakwater on Pulau Hantu Besar with oil refinery facilities on Pulau Busing.jpg",
-   "credit": "Wzhkevin / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Breakwater_on_Pulau_Hantu_Besar_with_oil_refinery_facilities_on_Pulau_Busing.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Breakwater_on_Pulau_Hantu_Besar_with_oil_refinery_facilities_on_Pulau_Busing.jpg/1920px-Breakwater_on_Pulau_Hantu_Besar_with_oil_refinery_facilities_on_Pulau_Busing.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 39,
-    "bright": 167,
-    "contrast": 64,
-    "sharp": 4870
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111001111111110111000011100000000000001000000000000000111111110000000000000011100100000000000000110000000000000100000000000000000110000000000000111000010000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/refinery/cloud-formation-from-refinery-in-curacao-jpg-98543a.jpg",
-   "category": "refinery",
-   "title": "Cloud formation from refinery in Curacao.jpg",
-   "credit": "HdeK / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Cloud_formation_from_refinery_in_Curacao.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cloud_formation_from_refinery_in_Curacao.jpg/1920px-Cloud_formation_from_refinery_in_Curacao.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 39,
-    "bright": 120,
-    "contrast": 36,
-    "sharp": 1208
-   },
-   "hash": "0111111111111110111111111111111111111111111111111111111111111111000101111111111100111111111111110111111111111111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 848
-  },
-  {
    "file": "photos/refinery/co-op-refinery-complex-in-regina-sk-jpg-7a6b90.jpg",
    "category": "refinery",
    "title": "Co-op Refinery Complex in Regina, SK.jpg",
@@ -3910,7 +3850,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Co-op_Refinery_Complex_in_Regina%2C_SK.jpg/1920px-Co-op_Refinery_Complex_in_Regina%2C_SK.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 41,
     "bright": 138,
@@ -3922,26 +3862,6 @@
    "h": 819
   },
   {
-   "file": "photos/refinery/d-rm-ne-ti-refinery-panorama-in-1958-1-jpg-caddfb.jpg",
-   "category": "refinery",
-   "title": "Dărmănești Refinery panorama in 1958 (1).jpg",
-   "credit": "Unknown authorUnknown author / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:D%C4%83rm%C4%83ne%C8%99ti_Refinery_panorama_in_1958_(1).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/D%C4%83rm%C4%83ne%C8%99ti_Refinery_panorama_in_1958_%281%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 31,
-    "bright": 127,
-    "contrast": 67,
-    "sharp": 3886
-   },
-   "hash": "1111111111000000111111110000000000001110000000001000000000000000110000000000000011010001000011101111100100111110111010000011111111101110010011111100111111000001110011111111100111001000111111111100001111111111010000111111111101000000000000100000000001111000",
-   "w": 1280,
-   "h": 584
-  },
-  {
    "file": "photos/refinery/exxon-mobil-oil-refinery-baton-rouge-louisian-21ed69.jpg",
    "category": "refinery",
    "title": "Exxon Mobil oil refinery - Baton Rouge, Louisiana.jpg",
@@ -3950,7 +3870,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Exxon_Mobil_oil_refinery_-_Baton_Rouge%2C_Louisiana.jpg/1920px-Exxon_Mobil_oil_refinery_-_Baton_Rouge%2C_Louisiana.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 24,
     "bright": 153,
@@ -3962,26 +3882,6 @@
    "h": 791
   },
   {
-   "file": "photos/refinery/geelong-oil-refinery-2026-jpg-74a47b.jpg",
-   "category": "refinery",
-   "title": "Geelong Oil Refinery 2026.jpg",
-   "credit": "Totallynotarandomalt69 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Geelong_Oil_Refinery_2026.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geelong_Oil_Refinery_2026.jpg/1920px-Geelong_Oil_Refinery_2026.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 57,
-    "bright": 122,
-    "contrast": 51,
-    "sharp": 3114
-   },
-   "hash": "1111110000000000111111100000000011111111000000001111111111110110111111111111011111111111111101111111111111110100111111111000001011111100000000001111100000000000111100000000000011100000000000001111100000000000000000000000000000000000000000001000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/refinery/irving-oil-refinery-saint-john-nb-jpg-176d09.jpg",
    "category": "refinery",
    "title": "Irving Oil Refinery - Saint John, NB.jpg",
@@ -3990,7 +3890,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Irving_Oil_Refinery_-_Saint_John%2C_NB.jpg/1920px-Irving_Oil_Refinery_-_Saint_John%2C_NB.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 91,
     "bright": 109,
@@ -4002,86 +3902,6 @@
    "h": 768
   },
   {
-   "file": "photos/refinery/isla-oil-refinery-in-willemstad-curacao-jpg-b28c36.jpg",
-   "category": "refinery",
-   "title": "Isla Oil Refinery in Willemstad Curacao.jpg",
-   "credit": "Aatu Dorochenko / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Isla_Oil_Refinery_in_Willemstad_Curacao.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Isla_Oil_Refinery_in_Willemstad_Curacao.jpg/1920px-Isla_Oil_Refinery_in_Willemstad_Curacao.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 72,
-    "bright": 150,
-    "contrast": 57,
-    "sharp": 4404
-   },
-   "hash": "1111111111101111111111111110011111111110111100011111111111110001111111111111000011111111111100011111111111111001111111111111100100111111111000010000010000000001000011111110000000000011111000000000001110000001000000111000000100000000000000000000000000000000",
-   "w": 1280,
-   "h": 281
-  },
-  {
-   "file": "photos/refinery/matosinhos-oil-refinery-jpg-8c06dd.jpg",
-   "category": "refinery",
-   "title": "Matosinhos oil refinery.jpg",
-   "credit": "Espartatuga / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Matosinhos_oil_refinery.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Matosinhos_oil_refinery.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 15,
-    "bright": 164,
-    "contrast": 37,
-    "sharp": 1260
-   },
-   "hash": "1111111111111111011111111111111101111111111111110011111111111111001111111111111100111111111111110001111111111111000001111111111100000001111111110000001111111111000000000111111100000000000000000000000000100011000000000111111100000000000011000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/refinery/oil-refinery-port-dickson-jpg-18898c.jpg",
-   "category": "refinery",
-   "title": "Oil refinery, Port Dickson.jpg",
-   "credit": "AyyanD / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Oil_refinery%2C_Port_Dickson.jpg/1920px-Oil_refinery%2C_Port_Dickson.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 37,
-    "bright": 159,
-    "contrast": 71,
-    "sharp": 1241
-   },
-   "hash": "0011111111111011011111111111110111111111111111011111111111111101111111111111110111111111111111111111111111111110111111111111111011111111111111101111111111111110111110111011111000000000000000000000000000000000000000000000000011000000000000000000000000000000",
-   "w": 1280,
-   "h": 792
-  },
-  {
-   "file": "photos/refinery/standard-oil-refinery-richmond-ca-1913-jpg-f771ab.jpg",
-   "category": "refinery",
-   "title": "Standard Oil Refinery Richmond CA 1913.jpg",
-   "credit": "West Coast Art Co. / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Standard_Oil_Refinery_Richmond_CA_1913.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Standard_Oil_Refinery_Richmond_CA_1913.jpg/1920px-Standard_Oil_Refinery_Richmond_CA_1913.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 73,
-    "bright": 181,
-    "contrast": 49,
-    "sharp": 2909
-   },
-   "hash": "0000011111111110111111111111111111111111111111111111111011111111111111000111111100111100011111110000000001111110000000000010110000000000000000000000000000110000000000000000000000000000000000000000000100000000000000000001010011111111111111110011110000011110",
-   "w": 1280,
-   "h": 308
-  },
-  {
    "file": "photos/refinery/oil-refinery-brod-republika-srpska-jpg-cb0d90.jpg",
    "category": "refinery",
    "title": "Рафинерија нафте Брод (Oil refinery Brod, Republika Srpska).jpg",
@@ -4090,7 +3910,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 75,
     "bright": 123,
@@ -4110,7 +3930,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Petron_Bataan_Refinery_facing_Manila_Bay.jpg/1920px-Petron_Bataan_Refinery_facing_Manila_Bay.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 127,
     "bright": 109,
@@ -4130,7 +3950,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Petron_Bataan_Refinery_in_Limay_Bataan.jpg/1920px-Petron_Bataan_Refinery_in_Limay_Bataan.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 122,
     "bright": 109,
@@ -4150,7 +3970,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/JX_Nippon_Oil_Negishi_Refinery_-_panoramio.jpg/1920px-JX_Nippon_Oil_Negishi_Refinery_-_panoramio.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 96,
     "bright": 57,
@@ -4162,106 +3982,6 @@
    "h": 848
   },
   {
-   "file": "photos/refinery/kashima-oil-refinery-kamisu-panoramio-1-jpg-60ba03.jpg",
-   "category": "refinery",
-   "title": "Kashima oil refinery , Kamisu - panoramio (1).jpg",
-   "credit": "Kaz Ish / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Kashima_oil_refinery_,_Kamisu_-_panoramio_(1).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%281%29.jpg/1920px-Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%281%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 96,
-    "bright": 96,
-    "contrast": 60,
-    "sharp": 3261
-   },
-   "hash": "1111000000000000110100000000000011110000000000011111000000000001111100000000000011110000011000001111000000100000111100000110000011111001111100001111101111011100111110111101110011111111111111001101111111111011110111000001101111000000000110101000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/refinery/kashima-oil-refinery-kamisu-panoramio-2-jpg-6bdf84.jpg",
-   "category": "refinery",
-   "title": "Kashima oil refinery , Kamisu - panoramio (2).jpg",
-   "credit": "Kaz Ish / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Kashima_oil_refinery_,_Kamisu_-_panoramio_(2).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%282%29.jpg/1920px-Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%282%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 93,
-    "bright": 99,
-    "contrast": 65,
-    "sharp": 4463
-   },
-   "hash": "0011000011100010001100001110001000100001111000000110000011100010011000001110001011100000110000101111001110010010110001111001001011110111110001111111011111111111111001111111111010111111111100010011111111100000001111011100000000000001000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/refinery/kashima-oil-refinery-kamisu-panoramio-4-jpg-63fc92.jpg",
-   "category": "refinery",
-   "title": "Kashima oil refinery , Kamisu - panoramio (4).jpg",
-   "credit": "Kaz Ish / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Kashima_oil_refinery_,_Kamisu_-_panoramio_(4).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%284%29.jpg/1920px-Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%284%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 132,
-    "bright": 67,
-    "contrast": 57,
-    "sharp": 3417
-   },
-   "hash": "0000000000000000000000000000000000000000000001100000010000000110000001000000001000001100000000100000111111100010000011111110001001101111111001110110111111100111011011111110001111111111111101101111111111111111001111111111111100000001110000110000100000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/refinery/kashima-oil-refinery-kamisu-panoramio-5-jpg-0a3166.jpg",
-   "category": "refinery",
-   "title": "Kashima oil refinery , Kamisu - panoramio (5).jpg",
-   "credit": "Kaz Ish / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Kashima_oil_refinery_,_Kamisu_-_panoramio_(5).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%285%29.jpg/1920px-Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%285%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 115,
-    "bright": 104,
-    "contrast": 61,
-    "sharp": 3626
-   },
-   "hash": "0000000000000000000000000000000000000000100000000000000000000000000000011000000000000001101010110000000101101011000000010010101100000001101111110111000111111111000100011111111101110001111111110011000111111111011111011111111111011111111111111101111111111111",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/refinery/kashima-oil-refinery-kamisu-panoramio-6-jpg-169ef2.jpg",
-   "category": "refinery",
-   "title": "Kashima oil refinery , Kamisu - panoramio (6).jpg",
-   "credit": "Kaz Ish / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Kashima_oil_refinery_,_Kamisu_-_panoramio_(6).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%286%29.jpg/1920px-Kashima_oil_refinery_%2C_Kamisu_-_panoramio_%286%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 118,
-    "bright": 89,
-    "contrast": 59,
-    "sharp": 3601
-   },
-   "hash": "0000000000000001000000000000000000000000000000010000000000000011000010000000000100001000000000000001100001000001000111111110000100011111111000011001111111100001100111111110001110011111111000011001111111100001111111111111000011111111111111101111111111111111",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/ship-at-sunset/2018-nyhavn-on-sunset-jpg-14c676.jpg",
    "category": "ship-at-sunset",
    "title": "2018 - Nyhavn on sunset.jpg",
@@ -4270,7 +3990,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2018_-_Nyhavn_on_sunset.jpg/1920px-2018_-_Nyhavn_on_sunset.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 93,
     "bright": 110,
@@ -4280,46 +4000,6 @@
    "hash": "1111111111111111111111111111111011111111111111001111111111111000011111111111000000111111110000111001111110000011000001100000001000000000000000000010011000000000111001110000000010001111100000000001111111000000000011111110000000011111111100000001111111110000",
    "w": 1280,
    "h": 830
-  },
-  {
-   "file": "photos/ship-at-sunset/backlit-margarita-island-sunset-in-las-guevar-3783fa.jpg",
-   "category": "ship-at-sunset",
-   "title": "Backlit Margarita Island Sunset in Las Guevaras, Venezuela CaptureNX2.jpg",
-   "credit": "Wilfredor / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Backlit_Margarita_Island_Sunset_in_Las_Guevaras,_Venezuela_CaptureNX2.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Backlit_Margarita_Island_Sunset_in_Las_Guevaras%2C_Venezuela_CaptureNX2.jpg/1920px-Backlit_Margarita_Island_Sunset_in_Las_Guevaras%2C_Venezuela_CaptureNX2.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 110,
-    "bright": 110,
-    "contrast": 63,
-    "sharp": 3474
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111000101111111111000111111111110000011111111111100001111111110000000111111111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 862
-  },
-  {
-   "file": "photos/ship-at-sunset/contre-jour-photograph-of-the-careening-of-a-dd48df.jpg",
-   "category": "ship-at-sunset",
-   "title": "Contre-jour photograph of the careening of a pirogue at sunset with sunlight through a hole in its roof Si Phan Don Laos.jpg",
-   "credit": "Basile Morin / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Contre-jour_photograph_of_the_careening_of_a_pirogue_at_sunset_with_sunlight_through_a_hole_in_its_roof_Si_Phan_Don_Laos.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Contre-jour_photograph_of_the_careening_of_a_pirogue_at_sunset_with_sunlight_through_a_hole_in_its_roof_Si_Phan_Don_Laos.jpg/1920px-Contre-jour_photograph_of_the_careening_of_a_pirogue_at_sunset_with_sunlight_through_a_hole_in_its_roof_Si_Phan_Don_Laos.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 52,
-    "bright": 121,
-    "contrast": 67,
-    "sharp": 2192
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111101111111110000000011111110000000001100110000000000011111010000000000111111000000000111111000000000111111110000000011111110000000000011110000000000000100000000000000000000000000000000",
-   "w": 1280,
-   "h": 720
   },
   {
    "file": "photos/ship-at-sunset/cumulonimbus-sunset-panorama-albury-nsw-austr-01267e.jpg",
