@@ -1,0 +1,1760 @@
+{
+ "id": "nordbay-p1",
+ "kicker": "NORDBAY \u00b7 NEW ORLEANS \u00b7 2 FEB 2016",
+ "caption": "PART 1/2 \u2014 The night an empty tanker hit New Orleans twice. \ud83d\udea2\u26a0\ufe0f\n\n2 Feb 2016: the 817-ft Aframax tanker Nordbay, in ballast, heads down the Mississippi in high water with a strong current behind her and wind on her beam. At Nine-Mile Point she can't make the turn \u2014 and strikes a barge dock and the city's water intakes. And the night isn't over\u2026\n\nPart 2 tomorrow. Follow so you don't miss it.\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Photos and maps: NTSB report (credits on screen). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #mississippiriver #neworleans #seafarer #merchantnavy #marineengineering #NTSB #maritime #shipping_news #jaimarineshorts",
+ "scenes": [
+  {
+   "type": "hook",
+   "p": {
+    "lines": [
+     "THIS TANKER HIT",
+     "[NEW ORLEANS]",
+     "[TWICE] IN ONE NIGHT"
+    ],
+    "sizes": [
+     100,
+     100,
+     92
+    ],
+    "max": 16,
+    "y": 230,
+    "src": "episodes/nordbay-p1/img/nordbay_bow.jpg",
+    "full": true,
+    "top": 620,
+    "height": 820,
+    "kb": [
+     1.0,
+     1.18
+    ],
+    "focus": [
+     0.5,
+     0.6
+    ],
+    "pcircle": {
+     "x": 0.5,
+     "y": 0.74,
+     "r": 130,
+     "at": 1.0,
+     "ax": 230,
+     "ay": 260
+    },
+    "badge": "WHY? WATCH TILL THE END"
+   },
+   "narration": "Ten o'clock at night. The Mississippi is in flood, racing towards the sea. You are on the bridge of an empty, eight-hundred-foot tanker... and in eight minutes, she is going to hit New Orleans.",
+   "direction": "Low and slow. Like telling a ghost story. Lean hard on 'eight minutes'.",
+   "_coverage": 0.9411764705882353,
+   "_dur": 12.279
+  },
+  {
+   "type": "alarm",
+   "alarm": true,
+   "clock": "22:12",
+   "p": {
+    "lines": [
+     "ENGINE RPM DROPS",
+     "Vibration runs through the hull"
+    ],
+    "shakeAt": 2.5
+   },
+   "narration": "Twenty-two twelve. The engine suddenly groans. The revs fall. A shudder runs through the whole hull... and then... the bridge alarms scream!",
+   "direction": "Start almost in a whisper. Get faster. Shout 'scream!'",
+   "_coverage": 0.9090909090909091,
+   "_dur": 11.184
+  },
+  {
+   "type": "photo",
+   "headline": "Meet the [Nordbay].",
+   "sub": "817-ft Aframax tanker \u00b7 in ballast \u00b7 24 on board",
+   "p": {
+    "src": "episodes/nordbay-p1/img/nordbay_bow.jpg",
+    "kb": [
+     1.05,
+     1.22
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Reederei Nord Group, via NTSB report",
+    "chips": [
+     "Pilot boards 19:12",
+     "No cargo \u2014 ballast only"
+    ],
+    "chipsAt": 1.2,
+    "h": 780
+   },
+   "narration": "Rewind three hours. A river pilot climbs aboard the tanker Nordbay. Eight hundred and seventeen feet of steel. No cargo at all. Only ballast.",
+   "direction": "Calm, steady, a storyteller setting the scene.",
+   "_coverage": 0.8125,
+   "_dur": 9.237
+  },
+  {
+   "type": "ship_profile",
+   "headline": "An empty ship is a [giant sail].",
+   "sub": "Freeboard more than draft",
+   "p": {
+    "draft": 0.36,
+    "freeboard": "\u224844 ft above water",
+    "draftLabel": "max draft 30 ft",
+    "wind": "Wind S, 17\u201324 kn",
+    "windAt": 3.5
+   },
+   "narration": "And an empty ship... is a giant sail. Her deck towers forty-four feet above the water, higher than her draft below. And tonight, a southerly wind is gusting up to twenty-four knots, right onto her beam.",
+   "direction": "Slow on 'giant sail'. Build up through the wind.",
+   "_coverage": 0.9722222222222222,
+   "_dur": 14.273
+  },
+  {
+   "type": "ship_profile",
+   "headline": "The river is [running high].",
+   "sub": "High-water season since December 2015",
+   "p": {
+    "draft": 0.36,
+    "current": "Current 4\u20135 kn \u2014 from behind",
+    "currentAt": 1.5,
+    "wind": "Wind",
+    "windAt": 0.2
+   },
+   "narration": "The river is running high. Four, five knots of current, shoving her from behind, adding speed she does not want.",
+   "direction": "Tense, slightly faster.",
+   "_coverage": 0.925,
+   "_dur": 8.559
+  },
+  {
+   "type": "photo",
+   "clock": [
+    "22:05",
+    "22:09"
+   ],
+   "headline": "[22:05] Huey P. Long Bridge.",
+   "sub": "Next: Nine-Mile Point bend",
+   "p": {
+    "src": "episodes/nordbay-p1/img/nola_map.jpg",
+    "kb": [
+     1.0,
+     1.25
+    ],
+    "focus": [
+     0.15,
+     0.25
+    ],
+    "credit": "Map: NTSB report (Google Earth imagery)",
+    "circle": {
+     "x": 0.165,
+     "y": 0.27,
+     "r": 60,
+     "at": 2.0,
+     "label": "NINE-MILE POINT"
+    },
+    "h": 820
+   },
+   "narration": "Twenty-two oh five. Under the Huey P. Long Bridge, at almost fifteen knots over the ground. And dead ahead... Nine-Mile Point. A turn of one hundred and thirty-five degrees.",
+   "direction": "Fast, then stop dead before 'Nine-Mile Point'.",
+   "_coverage": 0.8275862068965517,
+   "_dur": 9.3
+  },
+  {
+   "type": "gauges",
+   "headline": "More power... [is it enough?]",
+   "sub": "\"Do we have any more rpm?\"",
+   "p": {
+    "items": [
+     {
+      "label": "ENGINE RPM",
+      "from": 71,
+      "value": 89,
+      "min": 0,
+      "max": 100
+     },
+     {
+      "label": "SPEED OVER GROUND",
+      "value": 14.8,
+      "dec": 1,
+      "unit": "kn",
+      "min": 0,
+      "max": 20
+     }
+    ],
+    "note": "71 \u2192 82 \u2192 89 rpm"
+   },
+   "narration": "The pilot asks... do we have any more R P M? Eighty-two. Eighty-nine. The engine roars. She swings to starboard... but is it enough?",
+   "direction": "Quote the pilot quietly. Count the rpm up. Leave the last question hanging.",
+   "_coverage": 0.8958333333333334,
+   "_dur": 9.675
+  },
+  {
+   "type": "photo",
+   "clock": [
+    "22:09",
+    "22:12"
+   ],
+   "headline": "Turning... but [sliding wide].",
+   "sub": "Danger signal: five short blasts",
+   "p": {
+    "src": "episodes/nordbay-p1/img/ais_ninemile.jpg",
+    "kb": [
+     1.0,
+     1.35
+    ],
+    "focus": [
+     0.82,
+     0.75
+    ],
+    "credit": "NTSB report \u00b7 AIS track: mrtis.com \u00b7 Google Earth",
+    "circle": {
+     "x": 0.77,
+     "y": 0.74,
+     "r": 70,
+     "at": 1.5,
+     "label": "NORDBAY"
+    },
+    "h": 820
+   },
+   "narration": "She is turning... but sliding. Sliding wide. Less than six hundred feet from the bank. Closer. Closer. Twenty-two ten. The danger signal blasts out. Five short blasts.",
+   "direction": "Get faster and tighter with every 'closer'. Hit 'five short blasts' hard.",
+   "_coverage": 0.8703703703703703,
+   "_dur": 10.988
+  },
+  {
+   "type": "photo",
+   "clock": "22:13",
+   "headline": "[22:13] First allision.",
+   "sub": "What was left of the barge dock",
+   "p": {
+    "src": "episodes/nordbay-p1/img/dock_aerial.jpg",
+    "kb": [
+     1.25,
+     1.0
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "flash": true,
+    "stamp": "DESTROYED",
+    "credit": "Photo: Infinity Engineering Consultants, via NTSB report",
+    "chips": [
+     "Barge dock destroyed",
+     "Mooring dolphins smashed",
+     "City water intakes hit"
+    ],
+    "chipsAt": 1.0,
+    "h": 780
+   },
+   "narration": "Twenty-two thirteen. Impact! Steel tears into a barge dock. Mooring dolphins smash apart. The city's water intakes take the hit.",
+   "direction": "Loud on 'Impact!', then fast, punchy.",
+   "_coverage": 0.875,
+   "_dur": 8.354
+  },
+  {
+   "type": "card",
+   "clock": "22:18",
+   "headline": "General alarm. [Hull breached.]",
+   "sub": "Damage reported to the bridge",
+   "p": {
+    "items": [
+     "General alarm \u2014 crew to muster stations",
+     "Ballast tank No. 6 holed",
+     "Ballast water spraying out"
+    ],
+    "hl": 0,
+    "y": 620,
+    "step": 1.2
+   },
+   "narration": "The general alarm screams through every deck. Crew run to their muster stations. Ballast tank number six is holed... and water is spraying out.",
+   "direction": "Urgent, breathless. Drop low on the last line.",
+   "_coverage": 0.9375,
+   "_dur": 8.121
+  },
+  {
+   "type": "cta",
+   "p": {
+    "lines": [
+     "IT WASN'T OVER.",
+     "53 minutes later... the master was [on the phone]."
+    ]
+   },
+   "narration": "Everyone thinks the nightmare is over. It is not. In fifty-three minutes... Nordbay will hit New Orleans again. And this time... the master is on the phone. Part two, tomorrow. Follow, so you don't miss it.",
+   "direction": "Slow and quiet, almost a whisper on 'It is not.' Normal voice for the last line.",
+   "_coverage": 0.9027777777777778,
+   "_dur": 18.952
+  }
+ ],
+ "cover_title": "EMPTY TANKER HITS NEW ORLEANS TWICE",
+ "voice": "human",
+ "queue": true,
+ "script_sent_unix": 1794897472,
+ "awaiting_voice": true,
+ "words": [
+  {
+   "w": "Ten",
+   "s": 0.371,
+   "e": 0.782
+  },
+  {
+   "w": "o'clock",
+   "s": 0.782,
+   "e": 1.193
+  },
+  {
+   "w": "at",
+   "s": 1.193,
+   "e": 1.496
+  },
+  {
+   "w": "night.",
+   "s": 1.496,
+   "e": 1.782
+  },
+  {
+   "w": "The",
+   "s": 2.264,
+   "e": 2.389
+  },
+  {
+   "w": "Mississippi",
+   "s": 2.389,
+   "e": 2.693
+  },
+  {
+   "w": "is",
+   "s": 2.693,
+   "e": 3.05
+  },
+  {
+   "w": "in",
+   "s": 3.05,
+   "e": 3.157
+  },
+  {
+   "w": "flood,",
+   "s": 3.157,
+   "e": 3.407
+  },
+  {
+   "w": "racing",
+   "s": 4.22,
+   "e": 4.38
+  },
+  {
+   "w": "towards",
+   "s": 4.38,
+   "e": 4.72
+  },
+  {
+   "w": "the",
+   "s": 4.72,
+   "e": 4.97
+  },
+  {
+   "w": "sea.",
+   "s": 4.97,
+   "e": 5.148
+  },
+  {
+   "w": "You",
+   "s": 5.961,
+   "e": 6.175
+  },
+  {
+   "w": "are",
+   "s": 6.175,
+   "e": 6.282
+  },
+  {
+   "w": "on",
+   "s": 6.282,
+   "e": 6.407
+  },
+  {
+   "w": "the",
+   "s": 6.407,
+   "e": 6.514
+  },
+  {
+   "w": "bridge",
+   "s": 6.514,
+   "e": 6.675
+  },
+  {
+   "w": "of",
+   "s": 6.675,
+   "e": 6.889
+  },
+  {
+   "w": "an",
+   "s": 6.889,
+   "e": 7.104
+  },
+  {
+   "w": "empty,",
+   "s": 7.104,
+   "e": 7.461
+  },
+  {
+   "w": "eight-hundred-foot",
+   "s": 7.461,
+   "e": 8.193
+  },
+  {
+   "w": "tanker...",
+   "s": 8.193,
+   "e": 8.55
+  },
+  {
+   "w": "and",
+   "s": 8.55,
+   "e": 9.282
+  },
+  {
+   "w": "in",
+   "s": 9.282,
+   "e": 9.443
+  },
+  {
+   "w": "eight",
+   "s": 9.443,
+   "e": 9.657
+  },
+  {
+   "w": "minutes,",
+   "s": 9.657,
+   "e": 9.979
+  },
+  {
+   "w": "she",
+   "s": 9.979,
+   "e": 10.586
+  },
+  {
+   "w": "is",
+   "s": 10.586,
+   "e": 10.675
+  },
+  {
+   "w": "going",
+   "s": 10.675,
+   "e": 10.8
+  },
+  {
+   "w": "to",
+   "s": 10.8,
+   "e": 10.925
+  },
+  {
+   "w": "hit",
+   "s": 10.925,
+   "e": 11.121
+  },
+  {
+   "w": "New",
+   "s": 11.461,
+   "e": 11.586
+  },
+  {
+   "w": "Orleans.",
+   "s": 11.586,
+   "e": 11.907
+  },
+  {
+   "w": "Twenty-two",
+   "s": 12.35,
+   "e": 13.511
+  },
+  {
+   "w": "twelve.",
+   "s": 13.511,
+   "e": 14.672
+  },
+  {
+   "w": "The",
+   "s": 15.261,
+   "e": 15.333
+  },
+  {
+   "w": "engine",
+   "s": 15.333,
+   "e": 15.672
+  },
+  {
+   "w": "suddenly",
+   "s": 15.672,
+   "e": 16.279
+  },
+  {
+   "w": "groans.",
+   "s": 16.279,
+   "e": 16.743
+  },
+  {
+   "w": "The",
+   "s": 17.556,
+   "e": 17.627
+  },
+  {
+   "w": "revs",
+   "s": 17.627,
+   "e": 18.002
+  },
+  {
+   "w": "fall.",
+   "s": 18.002,
+   "e": 18.449
+  },
+  {
+   "w": "A",
+   "s": 19.056,
+   "e": 19.127
+  },
+  {
+   "w": "shudder",
+   "s": 19.127,
+   "e": 19.342
+  },
+  {
+   "w": "runs",
+   "s": 19.342,
+   "e": 19.627
+  },
+  {
+   "w": "through",
+   "s": 19.627,
+   "e": 19.877
+  },
+  {
+   "w": "the",
+   "s": 19.877,
+   "e": 20.02
+  },
+  {
+   "w": "whole",
+   "s": 20.02,
+   "e": 20.27
+  },
+  {
+   "w": "hull...",
+   "s": 20.27,
+   "e": 20.502
+  },
+  {
+   "w": "and",
+   "s": 20.502,
+   "e": 21.252
+  },
+  {
+   "w": "then...",
+   "s": 21.252,
+   "e": 21.52
+  },
+  {
+   "w": "the",
+   "s": 21.52,
+   "e": 22.02
+  },
+  {
+   "w": "bridge",
+   "s": 22.02,
+   "e": 22.216
+  },
+  {
+   "w": "alarms",
+   "s": 22.216,
+   "e": 22.52
+  },
+  {
+   "w": "scream!",
+   "s": 22.52,
+   "e": 23.091
+  },
+  {
+   "w": "Rewind",
+   "s": 23.534,
+   "e": 24.159
+  },
+  {
+   "w": "three",
+   "s": 24.159,
+   "e": 24.392
+  },
+  {
+   "w": "hours.",
+   "s": 24.392,
+   "e": 24.642
+  },
+  {
+   "w": "river",
+   "s": 25.124,
+   "e": 25.267
+  },
+  {
+   "w": "pilot",
+   "s": 25.267,
+   "e": 25.499
+  },
+  {
+   "w": "climbs",
+   "s": 25.499,
+   "e": 25.865
+  },
+  {
+   "w": "aboard",
+   "s": 25.865,
+   "e": 26.231
+  },
+  {
+   "w": "the",
+   "s": 26.231,
+   "e": 26.517
+  },
+  {
+   "w": "tanker",
+   "s": 26.517,
+   "e": 26.784
+  },
+  {
+   "w": "Nordbay.",
+   "s": 26.784,
+   "e": 27.427
+  },
+  {
+   "w": "Eight",
+   "s": 28.24,
+   "e": 28.396
+  },
+  {
+   "w": "hundred",
+   "s": 28.396,
+   "e": 28.552
+  },
+  {
+   "w": "and",
+   "s": 28.552,
+   "e": 28.709
+  },
+  {
+   "w": "seventeen",
+   "s": 28.709,
+   "e": 28.865
+  },
+  {
+   "w": "feet",
+   "s": 28.865,
+   "e": 29.133
+  },
+  {
+   "w": "of",
+   "s": 29.133,
+   "e": 29.4
+  },
+  {
+   "w": "steel.",
+   "s": 29.4,
+   "e": 29.776
+  },
+  {
+   "w": "No",
+   "s": 30.365,
+   "e": 30.543
+  },
+  {
+   "w": "cargo",
+   "s": 30.543,
+   "e": 30.758
+  },
+  {
+   "w": "at",
+   "s": 30.758,
+   "e": 30.99
+  },
+  {
+   "w": "all.",
+   "s": 30.99,
+   "e": 31.311
+  },
+  {
+   "w": "Only",
+   "s": 31.615,
+   "e": 31.883
+  },
+  {
+   "w": "ballast.",
+   "s": 31.883,
+   "e": 32.329
+  },
+  {
+   "w": "And",
+   "s": 32.771,
+   "e": 33.379
+  },
+  {
+   "w": "an",
+   "s": 33.379,
+   "e": 33.521
+  },
+  {
+   "w": "empty",
+   "s": 33.521,
+   "e": 33.843
+  },
+  {
+   "w": "ship...",
+   "s": 33.843,
+   "e": 34.111
+  },
+  {
+   "w": "is",
+   "s": 34.111,
+   "e": 34.611
+  },
+  {
+   "w": "a",
+   "s": 34.611,
+   "e": 34.736
+  },
+  {
+   "w": "giant",
+   "s": 34.736,
+   "e": 34.968
+  },
+  {
+   "w": "sail.",
+   "s": 34.968,
+   "e": 35.486
+  },
+  {
+   "w": "Her",
+   "s": 36.298,
+   "e": 36.459
+  },
+  {
+   "w": "deck",
+   "s": 36.459,
+   "e": 36.727
+  },
+  {
+   "w": "towers",
+   "s": 36.727,
+   "e": 37.405
+  },
+  {
+   "w": "forty-four",
+   "s": 37.405,
+   "e": 38.03
+  },
+  {
+   "w": "feet",
+   "s": 38.03,
+   "e": 38.316
+  },
+  {
+   "w": "above",
+   "s": 38.316,
+   "e": 38.691
+  },
+  {
+   "w": "the",
+   "s": 38.691,
+   "e": 38.87
+  },
+  {
+   "w": "water,",
+   "s": 38.87,
+   "e": 39.173
+  },
+  {
+   "w": "higher",
+   "s": 39.405,
+   "e": 39.709
+  },
+  {
+   "w": "than",
+   "s": 39.709,
+   "e": 39.995
+  },
+  {
+   "w": "her",
+   "s": 39.995,
+   "e": 40.209
+  },
+  {
+   "w": "draft",
+   "s": 40.209,
+   "e": 40.423
+  },
+  {
+   "w": "below.",
+   "s": 40.423,
+   "e": 40.745
+  },
+  {
+   "w": "And",
+   "s": 40.745,
+   "e": 41.423
+  },
+  {
+   "w": "tonight,",
+   "s": 41.423,
+   "e": 41.762
+  },
+  {
+   "w": "a",
+   "s": 41.762,
+   "e": 42.209
+  },
+  {
+   "w": "southerly",
+   "s": 42.209,
+   "e": 42.638
+  },
+  {
+   "w": "wind",
+   "s": 42.638,
+   "e": 42.834
+  },
+  {
+   "w": "is",
+   "s": 42.834,
+   "e": 43.173
+  },
+  {
+   "w": "gusting",
+   "s": 43.173,
+   "e": 43.423
+  },
+  {
+   "w": "up",
+   "s": 43.423,
+   "e": 43.691
+  },
+  {
+   "w": "to",
+   "s": 43.691,
+   "e": 44.173
+  },
+  {
+   "w": "twenty-four",
+   "s": 44.173,
+   "e": 44.673
+  },
+  {
+   "w": "knots,",
+   "s": 44.673,
+   "e": 44.977
+  },
+  {
+   "w": "right",
+   "s": 44.977,
+   "e": 45.762
+  },
+  {
+   "w": "onto",
+   "s": 45.762,
+   "e": 46.173
+  },
+  {
+   "w": "her",
+   "s": 46.173,
+   "e": 46.388
+  },
+  {
+   "w": "beam.",
+   "s": 46.388,
+   "e": 46.602
+  },
+  {
+   "w": "The",
+   "s": 47.044,
+   "e": 47.527
+  },
+  {
+   "w": "river",
+   "s": 47.527,
+   "e": 47.634
+  },
+  {
+   "w": "is",
+   "s": 47.634,
+   "e": 47.848
+  },
+  {
+   "w": "running",
+   "s": 47.848,
+   "e": 48.116
+  },
+  {
+   "w": "high.",
+   "s": 48.116,
+   "e": 48.419
+  },
+  {
+   "w": "Four,",
+   "s": 49.232,
+   "e": 49.607
+  },
+  {
+   "w": "five",
+   "s": 49.607,
+   "e": 49.982
+  },
+  {
+   "w": "knots",
+   "s": 49.982,
+   "e": 50.357
+  },
+  {
+   "w": "of",
+   "s": 50.357,
+   "e": 50.66
+  },
+  {
+   "w": "current,",
+   "s": 50.66,
+   "e": 51.107
+  },
+  {
+   "w": "shoving",
+   "s": 51.107,
+   "e": 51.875
+  },
+  {
+   "w": "her",
+   "s": 51.875,
+   "e": 52.143
+  },
+  {
+   "w": "from",
+   "s": 52.143,
+   "e": 52.339
+  },
+  {
+   "w": "behind,",
+   "s": 52.339,
+   "e": 52.768
+  },
+  {
+   "w": "adding",
+   "s": 53.071,
+   "e": 53.768
+  },
+  {
+   "w": "speed",
+   "s": 53.768,
+   "e": 54.143
+  },
+  {
+   "w": "she",
+   "s": 54.143,
+   "e": 54.589
+  },
+  {
+   "w": "does",
+   "s": 54.589,
+   "e": 54.75
+  },
+  {
+   "w": "not",
+   "s": 54.75,
+   "e": 54.946
+  },
+  {
+   "w": "want.",
+   "s": 54.946,
+   "e": 55.16
+  },
+  {
+   "w": "Twenty-two",
+   "s": 55.603,
+   "e": 55.794
+  },
+  {
+   "w": "oh",
+   "s": 55.794,
+   "e": 55.985
+  },
+  {
+   "w": "five.",
+   "s": 55.985,
+   "e": 56.175
+  },
+  {
+   "w": "Under",
+   "s": 56.496,
+   "e": 56.711
+  },
+  {
+   "w": "the",
+   "s": 56.711,
+   "e": 56.925
+  },
+  {
+   "w": "Huey",
+   "s": 56.925,
+   "e": 57.211
+  },
+  {
+   "w": "P.",
+   "s": 57.211,
+   "e": 57.443
+  },
+  {
+   "w": "Long",
+   "s": 57.443,
+   "e": 57.836
+  },
+  {
+   "w": "Bridge,",
+   "s": 57.836,
+   "e": 58.121
+  },
+  {
+   "w": "at",
+   "s": 58.568,
+   "e": 58.675
+  },
+  {
+   "w": "almost",
+   "s": 58.675,
+   "e": 58.961
+  },
+  {
+   "w": "fifteen",
+   "s": 58.961,
+   "e": 59.336
+  },
+  {
+   "w": "knots",
+   "s": 59.336,
+   "e": 59.568
+  },
+  {
+   "w": "over",
+   "s": 59.568,
+   "e": 59.889
+  },
+  {
+   "w": "the",
+   "s": 59.889,
+   "e": 60.032
+  },
+  {
+   "w": "ground.",
+   "s": 60.032,
+   "e": 60.228
+  },
+  {
+   "w": "And",
+   "s": 60.228,
+   "e": 60.693
+  },
+  {
+   "w": "dead",
+   "s": 60.693,
+   "e": 60.871
+  },
+  {
+   "w": "ahead...",
+   "s": 60.871,
+   "e": 61.175
+  },
+  {
+   "w": "Nine-Mile",
+   "s": 61.764,
+   "e": 62.05
+  },
+  {
+   "w": "Point.",
+   "s": 62.05,
+   "e": 62.425
+  },
+  {
+   "w": "A",
+   "s": 62.746,
+   "e": 62.818
+  },
+  {
+   "w": "turn",
+   "s": 62.818,
+   "e": 62.996
+  },
+  {
+   "w": "of",
+   "s": 62.996,
+   "e": 63.157
+  },
+  {
+   "w": "one",
+   "s": 63.157,
+   "e": 63.367
+  },
+  {
+   "w": "hundred",
+   "s": 63.367,
+   "e": 63.577
+  },
+  {
+   "w": "and",
+   "s": 63.577,
+   "e": 63.786
+  },
+  {
+   "w": "thirty-five",
+   "s": 63.786,
+   "e": 63.996
+  },
+  {
+   "w": "degrees.",
+   "s": 63.996,
+   "e": 64.461
+  },
+  {
+   "w": "The",
+   "s": 64.903,
+   "e": 65.136
+  },
+  {
+   "w": "pilot",
+   "s": 65.136,
+   "e": 65.332
+  },
+  {
+   "w": "asks...",
+   "s": 65.332,
+   "e": 65.636
+  },
+  {
+   "w": "do",
+   "s": 66.011,
+   "e": 66.064
+  },
+  {
+   "w": "we",
+   "s": 66.064,
+   "e": 66.171
+  },
+  {
+   "w": "have",
+   "s": 66.171,
+   "e": 66.332
+  },
+  {
+   "w": "any",
+   "s": 66.332,
+   "e": 66.582
+  },
+  {
+   "w": "more",
+   "s": 66.582,
+   "e": 66.743
+  },
+  {
+   "w": "R",
+   "s": 66.743,
+   "e": 67.146
+  },
+  {
+   "w": "P",
+   "s": 67.146,
+   "e": 67.55
+  },
+  {
+   "w": "M?",
+   "s": 67.55,
+   "e": 67.953
+  },
+  {
+   "w": "Eighty-two.",
+   "s": 67.953,
+   "e": 68.357
+  },
+  {
+   "w": "Eighty-nine.",
+   "s": 68.357,
+   "e": 68.761
+  },
+  {
+   "w": "The",
+   "s": 69.573,
+   "e": 69.894
+  },
+  {
+   "w": "engine",
+   "s": 69.894,
+   "e": 70.18
+  },
+  {
+   "w": "roars.",
+   "s": 70.18,
+   "e": 70.68
+  },
+  {
+   "w": "She",
+   "s": 71.493,
+   "e": 71.743
+  },
+  {
+   "w": "swings",
+   "s": 71.743,
+   "e": 71.975
+  },
+  {
+   "w": "to",
+   "s": 71.975,
+   "e": 72.243
+  },
+  {
+   "w": "starboard...",
+   "s": 72.368,
+   "e": 72.653
+  },
+  {
+   "w": "but",
+   "s": 72.653,
+   "e": 73.189
+  },
+  {
+   "w": "is",
+   "s": 73.189,
+   "e": 73.778
+  },
+  {
+   "w": "it",
+   "s": 73.778,
+   "e": 73.903
+  },
+  {
+   "w": "enough?",
+   "s": 73.903,
+   "e": 74.136
+  },
+  {
+   "w": "She",
+   "s": 74.578,
+   "e": 75.436
+  },
+  {
+   "w": "is",
+   "s": 75.436,
+   "e": 75.739
+  },
+  {
+   "w": "turning...",
+   "s": 75.739,
+   "e": 76.007
+  },
+  {
+   "w": "but",
+   "s": 76.007,
+   "e": 76.596
+  },
+  {
+   "w": "sliding.",
+   "s": 76.596,
+   "e": 76.989
+  },
+  {
+   "w": "Sliding",
+   "s": 77.364,
+   "e": 77.739
+  },
+  {
+   "w": "wide.",
+   "s": 77.739,
+   "e": 78.043
+  },
+  {
+   "w": "Less",
+   "s": 78.855,
+   "e": 78.927
+  },
+  {
+   "w": "than",
+   "s": 78.927,
+   "e": 79.48
+  },
+  {
+   "w": "six",
+   "s": 79.48,
+   "e": 79.48
+  },
+  {
+   "w": "hundred",
+   "s": 79.48,
+   "e": 79.48
+  },
+  {
+   "w": "feet",
+   "s": 79.48,
+   "e": 79.694
+  },
+  {
+   "w": "from",
+   "s": 79.694,
+   "e": 79.891
+  },
+  {
+   "w": "the",
+   "s": 79.891,
+   "e": 79.998
+  },
+  {
+   "w": "bank.",
+   "s": 79.998,
+   "e": 80.23
+  },
+  {
+   "w": "Closer.",
+   "s": 80.694,
+   "e": 80.927
+  },
+  {
+   "w": "Closer.",
+   "s": 81.284,
+   "e": 81.569
+  },
+  {
+   "w": "Twenty-two",
+   "s": 82.069,
+   "e": 82.337
+  },
+  {
+   "w": "ten.",
+   "s": 82.337,
+   "e": 82.605
+  },
+  {
+   "w": "The",
+   "s": 82.944,
+   "e": 82.998
+  },
+  {
+   "w": "danger",
+   "s": 82.998,
+   "e": 83.212
+  },
+  {
+   "w": "signal",
+   "s": 83.212,
+   "e": 83.552
+  },
+  {
+   "w": "blasts",
+   "s": 83.552,
+   "e": 83.855
+  },
+  {
+   "w": "out.",
+   "s": 84.355,
+   "e": 84.516
+  },
+  {
+   "w": "Five",
+   "s": 84.516,
+   "e": 84.677
+  },
+  {
+   "w": "short",
+   "s": 84.677,
+   "e": 84.837
+  },
+  {
+   "w": "blasts.",
+   "s": 84.837,
+   "e": 85.123
+  },
+  {
+   "w": "Twenty-two",
+   "s": 85.566,
+   "e": 85.87
+  },
+  {
+   "w": "thirteen.",
+   "s": 85.87,
+   "e": 86.174
+  },
+  {
+   "w": "Impact!",
+   "s": 86.459,
+   "e": 86.781
+  },
+  {
+   "w": "Steel",
+   "s": 87.593,
+   "e": 87.843
+  },
+  {
+   "w": "tears",
+   "s": 87.843,
+   "e": 88.165
+  },
+  {
+   "w": "into",
+   "s": 88.165,
+   "e": 88.432
+  },
+  {
+   "w": "a",
+   "s": 88.432,
+   "e": 88.611
+  },
+  {
+   "w": "barge",
+   "s": 88.611,
+   "e": 88.772
+  },
+  {
+   "w": "dock.",
+   "s": 88.772,
+   "e": 89.004
+  },
+  {
+   "w": "Mooring",
+   "s": 89.816,
+   "e": 89.995
+  },
+  {
+   "w": "dolphins",
+   "s": 89.995,
+   "e": 90.245
+  },
+  {
+   "w": "smash",
+   "s": 90.245,
+   "e": 90.656
+  },
+  {
+   "w": "apart.",
+   "s": 90.656,
+   "e": 90.995
+  },
+  {
+   "w": "The",
+   "s": 91.495,
+   "e": 91.62
+  },
+  {
+   "w": "city's",
+   "s": 91.62,
+   "e": 91.941
+  },
+  {
+   "w": "water",
+   "s": 91.941,
+   "e": 92.191
+  },
+  {
+   "w": "intakes",
+   "s": 92.191,
+   "e": 92.584
+  },
+  {
+   "w": "take",
+   "s": 92.584,
+   "e": 93.138
+  },
+  {
+   "w": "the",
+   "s": 93.138,
+   "e": 93.299
+  },
+  {
+   "w": "hit.",
+   "s": 93.299,
+   "e": 93.477
+  },
+  {
+   "w": "The",
+   "s": 93.92,
+   "e": 94.456
+  },
+  {
+   "w": "general",
+   "s": 94.456,
+   "e": 94.76
+  },
+  {
+   "w": "alarm",
+   "s": 94.76,
+   "e": 94.992
+  },
+  {
+   "w": "screams",
+   "s": 94.992,
+   "e": 95.278
+  },
+  {
+   "w": "through",
+   "s": 95.278,
+   "e": 95.581
+  },
+  {
+   "w": "every",
+   "s": 95.581,
+   "e": 95.92
+  },
+  {
+   "w": "deck.",
+   "s": 95.92,
+   "e": 96.135
+  },
+  {
+   "w": "Crew",
+   "s": 96.563,
+   "e": 96.599
+  },
+  {
+   "w": "run",
+   "s": 96.599,
+   "e": 96.778
+  },
+  {
+   "w": "to",
+   "s": 96.778,
+   "e": 97.474
+  },
+  {
+   "w": "their",
+   "s": 97.474,
+   "e": 97.617
+  },
+  {
+   "w": "muster",
+   "s": 97.617,
+   "e": 97.813
+  },
+  {
+   "w": "stations.",
+   "s": 97.813,
+   "e": 98.295
+  },
+  {
+   "w": "Ballast",
+   "s": 98.885,
+   "e": 99.081
+  },
+  {
+   "w": "tank",
+   "s": 99.081,
+   "e": 99.242
+  },
+  {
+   "w": "number",
+   "s": 99.242,
+   "e": 99.456
+  },
+  {
+   "w": "six",
+   "s": 99.456,
+   "e": 99.688
+  },
+  {
+   "w": "is",
+   "s": 99.688,
+   "e": 99.849
+  },
+  {
+   "w": "holed...",
+   "s": 99.849,
+   "e": 100.045
+  },
+  {
+   "w": "and",
+   "s": 100.045,
+   "e": 100.474
+  },
+  {
+   "w": "water",
+   "s": 100.474,
+   "e": 100.706
+  },
+  {
+   "w": "is",
+   "s": 100.706,
+   "e": 100.956
+  },
+  {
+   "w": "spraying",
+   "s": 100.956,
+   "e": 101.295
+  },
+  {
+   "w": "out.",
+   "s": 101.295,
+   "e": 101.599
+  },
+  {
+   "w": "Everyone",
+   "s": 102.041,
+   "e": 102.381
+  },
+  {
+   "w": "thinks",
+   "s": 102.381,
+   "e": 102.791
+  },
+  {
+   "w": "the",
+   "s": 102.791,
+   "e": 102.97
+  },
+  {
+   "w": "nightmare",
+   "s": 102.97,
+   "e": 103.184
+  },
+  {
+   "w": "is",
+   "s": 103.184,
+   "e": 103.434
+  },
+  {
+   "w": "over.",
+   "s": 103.434,
+   "e": 103.756
+  },
+  {
+   "w": "It",
+   "s": 103.756,
+   "e": 104.202
+  },
+  {
+   "w": "is",
+   "s": 104.202,
+   "e": 104.649
+  },
+  {
+   "w": "not.",
+   "s": 104.649,
+   "e": 104.827
+  },
+  {
+   "w": "In",
+   "s": 105.64,
+   "e": 105.836
+  },
+  {
+   "w": "fifty-three",
+   "s": 105.836,
+   "e": 106.229
+  },
+  {
+   "w": "minutes...",
+   "s": 106.229,
+   "e": 106.765
+  },
+  {
+   "w": "Nordbay",
+   "s": 107.229,
+   "e": 107.461
+  },
+  {
+   "w": "will",
+   "s": 107.461,
+   "e": 107.747
+  },
+  {
+   "w": "hit",
+   "s": 107.747,
+   "e": 108.39
+  },
+  {
+   "w": "New",
+   "s": 108.39,
+   "e": 108.765
+  },
+  {
+   "w": "Orleans",
+   "s": 108.765,
+   "e": 109.015
+  },
+  {
+   "w": "again.",
+   "s": 109.015,
+   "e": 109.55
+  },
+  {
+   "w": "And",
+   "s": 109.55,
+   "e": 110.247
+  },
+  {
+   "w": "this",
+   "s": 110.247,
+   "e": 110.425
+  },
+  {
+   "w": "time...",
+   "s": 110.425,
+   "e": 110.657
+  },
+  {
+   "w": "the",
+   "s": 110.657,
+   "e": 111.05
+  },
+  {
+   "w": "master",
+   "s": 111.05,
+   "e": 111.265
+  },
+  {
+   "w": "is",
+   "s": 111.265,
+   "e": 111.497
+  },
+  {
+   "w": "on",
+   "s": 111.497,
+   "e": 111.657
+  },
+  {
+   "w": "phone.",
+   "s": 111.657,
+   "e": 111.89
+  },
+  {
+   "w": "Part",
+   "s": 111.89,
+   "e": 112.8
+  },
+  {
+   "w": "two,",
+   "s": 112.8,
+   "e": 113.068
+  },
+  {
+   "w": "tomorrow.",
+   "s": 113.55,
+   "e": 113.568
+  },
+  {
+   "w": "Follow,",
+   "s": 114.068,
+   "e": 114.479
+  },
+  {
+   "w": "so",
+   "s": 114.997,
+   "e": 115.854
+  },
+  {
+   "w": "you",
+   "s": 115.854,
+   "e": 115.997
+  },
+  {
+   "w": "don't",
+   "s": 115.997,
+   "e": 116.157
+  },
+  {
+   "w": "miss",
+   "s": 116.157,
+   "e": 116.407
+  },
+  {
+   "w": "it.",
+   "s": 116.407,
+   "e": 120.55
+  }
+ ]
+}
