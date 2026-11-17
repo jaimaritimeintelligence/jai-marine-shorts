@@ -17060,6 +17060,206 @@
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111111011111100000001101110000000101110000000000111110101100110011111001000001001100000000000100000000000000000000100000000000000100100000000000000000000000000000000",
    "w": 1280,
    "h": 960
+  },
+  {
+   "file": "photos/product-tanker/tanker-sten-suomi-at-a-fuel-depot-in-stockhol-f2f40d.jpg",
+   "category": "product-tanker",
+   "title": "Tanker Sten Suomi at a fuel depot in Stockholm.jpg",
+   "credit": "Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Tanker_Sten_Suomi_at_a_fuel_depot_in_Stockholm.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tanker_Sten_Suomi_at_a_fuel_depot_in_Stockholm.jpg/1920px-Tanker_Sten_Suomi_at_a_fuel_depot_in_Stockholm.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 63,
+    "bright": 129,
+    "contrast": 61,
+    "sharp": 4037
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111110111111111100110011111111110010001111111000000000111111000000000000110000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "file": "photos/product-tanker/chemical-tanker-ramira-imo-9890599-north-sea-a7230e.jpg",
+   "category": "product-tanker",
+   "title": "Chemical tanker Ramira - IMO 9890599 - North Sea Canal at IJmuiden-8144.jpg",
+   "credit": "Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Chemical_tanker_Ramira_-_IMO_9890599_-_North_Sea_Canal_at_IJmuiden-8144.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chemical_tanker_Ramira_-_IMO_9890599_-_North_Sea_Canal_at_IJmuiden-8144.jpg/1920px-Chemical_tanker_Ramira_-_IMO_9890599_-_North_Sea_Canal_at_IJmuiden-8144.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 77,
+    "bright": 159,
+    "contrast": 49,
+    "sharp": 3562
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111111000111111111111110011000000000011000001101000001111111111000000000100000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "file": "photos/product-tanker/chemical-tanker-undergoing-ship-recycling-at-eeec99.jpg",
+   "category": "product-tanker",
+   "title": "Chemical tanker undergoing ship recycling at Alang, Gujarat, India.jpg",
+   "credit": "Nayeemgms / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Chemical_tanker_undergoing_ship_recycling_at_Alang,_Gujarat,_India.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chemical_tanker_undergoing_ship_recycling_at_Alang%2C_Gujarat%2C_India.jpg/1920px-Chemical_tanker_undergoing_ship_recycling_at_Alang%2C_Gujarat%2C_India.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 77,
+    "bright": 141,
+    "contrast": 74,
+    "sharp": 3365
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111100111111101111100001111111111110000001111111111000000111100000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 719
+  },
+  {
+   "file": "photos/product-tanker/panagia-lady-chemical-tanker-digital-transpor-335871.jpg",
+   "category": "product-tanker",
+   "title": "Panagia Lady, chemical tanker, Digital Transport Limited, IMO 9241085, exiting port of Mombasa.jpg",
+   "credit": "Ian Kiptoo / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Panagia_Lady,_chemical_tanker,_Digital_Transport_Limited,_IMO_9241085,_exiting_port_of_Mombasa.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Panagia_Lady%2C_chemical_tanker%2C_Digital_Transport_Limited%2C_IMO_9241085%2C_exiting_port_of_Mombasa.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 79,
+    "bright": 149,
+    "contrast": 61,
+    "sharp": 2736
+   },
+   "hash": "1111111001000000111111111100000011111111111011111111111111111111111111111111111111111111111111111111111111111111111110001111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/product-tanker/unmooring-and-departure-of-the-oil-chemical-t-cc7fd6.jpg",
+   "category": "product-tanker",
+   "title": "Unmooring and departure of the Oil & Chemical Tanker Gulf Muttrah from BP Oil Refinery Jetty, Kwinana, October 2021 02.jpg",
+   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty,_Kwinana,_October_2021_02.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_02.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_02.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 82,
+    "bright": 171,
+    "contrast": 44,
+    "sharp": 820
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111100111111111111100000000011111110000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111110111111111111111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/product-tanker/unmooring-and-departure-of-the-oil-chemical-t-9ed138.jpg",
+   "category": "product-tanker",
+   "title": "Unmooring and departure of the Oil & Chemical Tanker Gulf Muttrah from BP Oil Refinery Jetty, Kwinana, October 2021 07.jpg",
+   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty,_Kwinana,_October_2021_07.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_07.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_07.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 88,
+    "bright": 160,
+    "contrast": 33,
+    "sharp": 445
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111001111111111111000001111111000000000000000000000000000000000000000000000000000111111111111100011111111111110001111111111111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/product-tanker/unmooring-and-departure-of-the-oil-chemical-t-1b1957.jpg",
+   "category": "product-tanker",
+   "title": "Unmooring and departure of the Oil & Chemical Tanker Gulf Muttrah from BP Oil Refinery Jetty, Kwinana, October 2021 19.jpg",
+   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty,_Kwinana,_October_2021_19.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_19.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_19.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 85,
+    "bright": 168,
+    "contrast": 47,
+    "sharp": 1351
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111110000111111111111000000000111111100000000010100000000000000000000000000000000001001111110000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/product-tanker/unmooring-and-departure-of-the-oil-chemical-t-14af35.jpg",
+   "category": "product-tanker",
+   "title": "Unmooring and departure of the Oil & Chemical Tanker Gulf Muttrah from BP Oil Refinery Jetty, Kwinana, October 2021 25.jpg",
+   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty,_Kwinana,_October_2021_25.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_25.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_25.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 105,
+    "bright": 162,
+    "contrast": 41,
+    "sharp": 605
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111111111111000111111111111000000111111111100000011111111110000001111111000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/product-tanker/oil-products-tanker-absolute-1-at-bp-oil-refi-7aec22.jpg",
+   "category": "product-tanker",
+   "title": "Oil Products Tanker Absolute 1 at BP Oil Refinery Jetty, Kwinana, April 2022 03.jpg",
+   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_Products_Tanker_Absolute_1_at_BP_Oil_Refinery_Jetty,_Kwinana,_April_2022_03.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oil_Products_Tanker_Absolute_1_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_April_2022_03.jpg/1920px-Oil_Products_Tanker_Absolute_1_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_April_2022_03.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 68,
+    "bright": 135,
+    "contrast": 60,
+    "sharp": 2187
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111100011111111111111001111111111111100111101111111100101100011111110010000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/product-tanker/oil-products-tanker-absolute-arriving-in-frem-c20f67.jpg",
+   "category": "product-tanker",
+   "title": "Oil Products Tanker Absolute arriving in Fremantle Outer Harbour, August 2021 05.jpg",
+   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_Products_Tanker_Absolute_arriving_in_Fremantle_Outer_Harbour,_August_2021_05.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oil_Products_Tanker_Absolute_arriving_in_Fremantle_Outer_Harbour%2C_August_2021_05.jpg/1920px-Oil_Products_Tanker_Absolute_arriving_in_Fremantle_Outer_Harbour%2C_August_2021_05.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 122,
+    "bright": 130,
+    "contrast": 53,
+    "sharp": 1268
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100011111111111110001111111111110000111111111111011001111111111100000000111111100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
   }
  ]
 }
