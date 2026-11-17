@@ -18740,6 +18740,386 @@
    "hash": "0111111111111100011111111111110001111111111111100111111111111110011111111111111101111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000110000000000000000000000000000000000000000000000000000000000000000000000000000000000",
    "w": 1280,
    "h": 854
+  },
+  {
+   "file": "photos/shipyard/tank-barge-gm-11105-in-dry-dock-jpg-14f442.jpg",
+   "category": "shipyard",
+   "title": "Tank Barge GM 11105 in Dry Dock.jpg",
+   "credit": "GuavaTrain / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Tank_Barge_GM_11105_in_Dry_Dock.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tank_Barge_GM_11105_in_Dry_Dock.jpg/1920px-Tank_Barge_GM_11105_in_Dry_Dock.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 89,
+    "bright": 111,
+    "contrast": 58,
+    "sharp": 4870
+   },
+   "hash": "1111111111111111111111111111111111001111111111111100001111111111110000011111111111000000111111111110000001110011111000000000001111100000000110010010000000001001000000000000000010000000000000000000000000001000000000000000000011110000011110010000001100000111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/shipyard/covered-shipyard-webp-bb5485.jpg",
+   "category": "shipyard",
+   "title": "Covered shipyard.webp",
+   "credit": "Wikideas1 / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Covered_shipyard.webp",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Covered_shipyard.webp/1920px-Covered_shipyard.webp",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 87,
+    "bright": 52,
+    "contrast": 36,
+    "sharp": 783
+   },
+   "hash": "0111111111111111011111111111111111111011111111110100111111111111011011111110000011111101100000001111011110000110011001111100000001000011011000000101001100100000000100010000000001000000100000000100000000000000010000000000000001000000000000000000000000000000",
+   "w": 1280,
+   "h": 760
+  },
+  {
+   "file": "photos/shipyard/edam-kwakelsteeg-view-ese-on-shipyard-jpg-daf1b8.jpg",
+   "category": "shipyard",
+   "title": "Edam - Kwakelsteeg - View ESE on Shipyard.jpg",
+   "credit": "Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Edam_-_Kwakelsteeg_-_View_ESE_on_Shipyard.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Edam_-_Kwakelsteeg_-_View_ESE_on_Shipyard.jpg/1920px-Edam_-_Kwakelsteeg_-_View_ESE_on_Shipyard.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 89,
+    "bright": 120,
+    "contrast": 79,
+    "sharp": 5173
+   },
+   "hash": "0000001111111111000001111111111100010111111111110111001111111111011100111111111101100010011111110000001001111111000000100100000000000000000010000000000000011100000000000000100000000000000000000000100001000000000011111100110000011111100001000001111110000000",
+   "w": 1280,
+   "h": 847
+  },
+  {
+   "file": "photos/shipyard/newark-castle-and-ferguson-marine-shipyard-ge-aafb3a.jpg",
+   "category": "shipyard",
+   "title": "Newark castle and Ferguson Marine shipyard - geograph.org.uk - 7722858.jpg",
+   "credit": "Thomas Nugent / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Newark_castle_and_Ferguson_Marine_shipyard_-_geograph.org.uk_-_7722858.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Newark_castle_and_Ferguson_Marine_shipyard_-_geograph.org.uk_-_7722858.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 62,
+    "bright": 135,
+    "contrast": 63,
+    "sharp": 2589
+   },
+   "hash": "0111111111111111111111111111111101111111111111111111111111111111011111111111111101111111111111110111111111111111011111000111111100000000011111110000000000001000000000000000001100000000000000110011000000001101000100000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "file": "photos/shipyard/ploughing-at-shipyard-belize-jpg-6ae35c.jpg",
+   "category": "shipyard",
+   "title": "Ploughing at Shipyard Belize.jpg",
+   "credit": "Sipyardbelize / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ploughing_at_Shipyard_Belize.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ploughing_at_Shipyard_Belize.jpg/1920px-Ploughing_at_Shipyard_Belize.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 67,
+    "bright": 142,
+    "contrast": 66,
+    "sharp": 4352
+   },
+   "hash": "1111100000000000100111000000000010000000000000001111100000000001111111101001111111111111111111111111100000011111111100000000111111110000000011110000000000000111000001000010000000000000100000000100000000000000110010000000000011111111111111111111111111111111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/shipyard/waverton-n-s-w-remnants-of-woodley-s-shipyard-6b8474.jpg",
+   "category": "shipyard",
+   "title": "Waverton, N.S.W. - Remnants of Woodley's Shipyard (February 2023).jpg",
+   "credit": "TrimmerinWiki / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Waverton,_N.S.W._-_Remnants_of_Woodley%27s_Shipyard_(February_2023).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Waverton%2C_N.S.W._-_Remnants_of_Woodley%27s_Shipyard_%28February_2023%29.jpg/1920px-Waverton%2C_N.S.W._-_Remnants_of_Woodley%27s_Shipyard_%28February_2023%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 94,
+    "bright": 118,
+    "contrast": 54,
+    "sharp": 7555
+   },
+   "hash": "0000100000011011000000000000000000000000000000000000000000000000000000011110000100111111111100011111111100000000111111111111111100011111111111000000011110111000000000000010011100100000000010110000000000011001000000000111001000000000111111110001001111111111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/shipyard/lady-nelson-under-construction-tasmania-1987-9d91e4.jpg",
+   "category": "shipyard",
+   "title": "\"Lady Nelson\" under construction, Tasmania 1987 (1).jpg",
+   "credit": "Tony 1212 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Lady_Nelson%22_under_construction,_Tasmania_1987_(1).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%22Lady_Nelson%22_under_construction%2C_Tasmania_1987_%281%29.jpg/1920px-%22Lady_Nelson%22_under_construction%2C_Tasmania_1987_%281%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 72,
+    "bright": 109,
+    "contrast": 73,
+    "sharp": 2618
+   },
+   "hash": "0100000000100000000000000001000000000000000000000000000010000000000001110011111100011011000011110001111100000000000111000000000000011110000000000111111110000000111111111111000011111111111100000111111111111001001000011111100100100111111111110011111111111101",
+   "w": 1280,
+   "h": 788
+  },
+  {
+   "file": "photos/shipyard/lady-nelson-under-construction-tasmania-1987-f9bf2b.jpg",
+   "category": "shipyard",
+   "title": "\"Lady Nelson\" under construction, Tasmania 1987 (2).jpg",
+   "credit": "Tony 1212 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Lady_Nelson%22_under_construction,_Tasmania_1987_(2).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%22Lady_Nelson%22_under_construction%2C_Tasmania_1987_%282%29.jpg/1920px-%22Lady_Nelson%22_under_construction%2C_Tasmania_1987_%282%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 98,
+    "bright": 91,
+    "contrast": 67,
+    "sharp": 3420
+   },
+   "hash": "0000000000000000000000000000000000100000000000001011111001000000011111100111011001111110111101000011111111110000001111111111100000001111111110000001101111101000000011101111101000001110011100100010111100011111001001000000000100111000001000000000001100000000",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/shipyard/global-dream-under-construction-at-mv-werften-16d5b7.jpg",
+   "category": "shipyard",
+   "title": "Global Dream under construction at MV Werften Warnemünde I.jpg",
+   "credit": "HenSti / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Global_Dream_under_construction_at_MV_Werften_Warnem%C3%BCnde_I.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Global_Dream_under_construction_at_MV_Werften_Warnem%C3%BCnde_I.jpg/1920px-Global_Dream_under_construction_at_MV_Werften_Warnem%C3%BCnde_I.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 20,
+    "bright": 134,
+    "contrast": 64,
+    "sharp": 1806
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111000011111111111001111001111111111111110111111111011111011111111000000001100000000000000110000000000000000000000000000000000000000000000000000000000000011000010000000000000001100000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/shipyard/neptun-werft-ships-under-construction-i-jpg-176574.jpg",
+   "category": "shipyard",
+   "title": "Neptun Werft ships under construction I.jpg",
+   "credit": "HenSti / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Neptun_Werft_ships_under_construction_I.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Neptun_Werft_ships_under_construction_I.jpg/1920px-Neptun_Werft_ships_under_construction_I.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 32,
+    "bright": 125,
+    "contrast": 50,
+    "sharp": 953
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111011111111111111101111111111111110111011111111011011000111111101100000000000000110000000000000000000000000000000000000000000000000000000000111000000000011100000000011000000000000011001101000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/shipyard/neptun-werft-ships-under-construction-ii-jpg-b37f90.jpg",
+   "category": "shipyard",
+   "title": "Neptun Werft ships under construction II.jpg",
+   "credit": "HenSti / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Neptun_Werft_ships_under_construction_II.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neptun_Werft_ships_under_construction_II.jpg/1920px-Neptun_Werft_ships_under_construction_II.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 33,
+    "bright": 126,
+    "contrast": 47,
+    "sharp": 951
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111100111111111111110011111100000000001111110000000000111001000000000000000000001000000000000000000000000000000000011110000000011111100100000111111100000000011111100000000001111110000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/shipyard/ship-under-construction-geograph-org-uk-69432-1822e2.jpg",
+   "category": "shipyard",
+   "title": "Ship under construction - geograph.org.uk - 6943224.jpg",
+   "credit": "Steve Houldsworth / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ship_under_construction_-_geograph.org.uk_-_6943224.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ship_under_construction_-_geograph.org.uk_-_6943224.jpg/1920px-Ship_under_construction_-_geograph.org.uk_-_6943224.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 26,
+    "bright": 143,
+    "contrast": 70,
+    "sharp": 4200
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111000011111111111100000000001111110000000001110011000000000111000100000000000000000000000000000000000000000000001100000001011111110000000000110011000000000011001100000000001100010000000000000001",
+   "w": 1280,
+   "h": 897
+  },
+  {
+   "file": "photos/shipyard/ships-under-construction-at-chantiers-de-l-at-d1d417.jpg",
+   "category": "shipyard",
+   "title": "Ships under construction at Chantiers de l'Atlantique shipyard, 2025 (3).jpg",
+   "credit": "Ibex73 / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard,_2025_(3).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%283%29.jpg/1920px-Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%283%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 35,
+    "bright": 133,
+    "contrast": 49,
+    "sharp": 3379
+   },
+   "hash": "1111111111111111111111111111111111111111110111111111111111111111111111111111111111111111111111011111111111111111111111011111110111111111111111011111111111111100001111001111100010110000001000110001000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/shipyard/ships-under-construction-at-chantiers-de-l-at-a416d8.jpg",
+   "category": "shipyard",
+   "title": "Ships under construction at Chantiers de l'Atlantique shipyard, 2025 (4).jpg",
+   "credit": "Ibex73 / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard,_2025_(4).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%284%29.jpg/1920px-Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%284%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 53,
+    "bright": 137,
+    "contrast": 45,
+    "sharp": 3787
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111100000000000111000101111111111111111111111111111111111100111011111111000000101111111100010010111111110001011011111100000111110000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/shipyard/ships-under-construction-at-chantiers-de-l-at-2976ea.jpg",
+   "category": "shipyard",
+   "title": "Ships under construction at Chantiers de l'Atlantique shipyard, 2025 (5).jpg",
+   "credit": "Ibex73 / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard,_2025_(5).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%285%29.jpg/1920px-Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%285%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 31,
+    "bright": 140,
+    "contrast": 48,
+    "sharp": 3155
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111101111111111111111111111111111111111111111111001111111101111111111111111111101101111111111110010111111110111001001111101001000000011110100000000000001110000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/shipyard/dry-dock-geograph-org-uk-2143543-jpg-1e23de.jpg",
+   "category": "shipyard",
+   "title": "Dry Dock - geograph.org.uk - 2143543.jpg",
+   "credit": "J Scott / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Dry_Dock_-_geograph.org.uk_-_2143543.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dry_Dock_-_geograph.org.uk_-_2143543.jpg/1920px-Dry_Dock_-_geograph.org.uk_-_2143543.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 61,
+    "bright": 162,
+    "contrast": 82,
+    "sharp": 2029
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100111111111111100000011111110000000000000110000100000000000000000000000000000010000000000000111000010000010011100000000101011110000001110111111",
+   "w": 1280,
+   "h": 1248
+  },
+  {
+   "file": "photos/shipyard/kaskelot-ship-1948-in-dry-dock-having-in-glou-1f3925.jpg",
+   "category": "shipyard",
+   "title": "Kaskelot (ship, 1948) in dry dock having in Gloucester.JPG",
+   "credit": "Rodw / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Kaskelot_(ship,_1948)_in_dry_dock_having_in_Gloucester.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kaskelot_%28ship%2C_1948%29_in_dry_dock_having_in_Gloucester.JPG/1920px-Kaskelot_%28ship%2C_1948%29_in_dry_dock_having_in_Gloucester.JPG",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 38,
+    "bright": 131,
+    "contrast": 80,
+    "sharp": 2755
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000001111111111100011000000000000000100000010000000010000010000000000000000000000000000000000000000010000000000000001000000000000000100000000000000010000000000000001",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/shipyard/mms-ship-repairs-at-alexandra-dry-dock-hull-g-1fd370.jpg",
+   "category": "shipyard",
+   "title": "MMS Ship Repairs at Alexandra Dry Dock, Hull - geograph.org.uk - 4510538.jpg",
+   "credit": "Ian S / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:MMS_Ship_Repairs_at_Alexandra_Dry_Dock,_Hull_-_geograph.org.uk_-_4510538.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MMS_Ship_Repairs_at_Alexandra_Dry_Dock%2C_Hull_-_geograph.org.uk_-_4510538.jpg/1920px-MMS_Ship_Repairs_at_Alexandra_Dry_Dock%2C_Hull_-_geograph.org.uk_-_4510538.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 81,
+    "bright": 108,
+    "contrast": 69,
+    "sharp": 5944
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111001111011111111110111100110010001111110000001000100111000000000011110000000000001111000011100000110000001111100011010000000000111001010000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 849
+  },
+  {
+   "file": "photos/shipyard/seattle-construction-and-dry-dock-company-ste-4d2fee.jpg",
+   "category": "shipyard",
+   "title": "Seattle Construction and Dry Dock Company, Steel Dry Dock, ca. 1910 - DPLA - 4287bd95fbb13ece8aa5626ce2f11e06 (page 1).jpg",
+   "credit": "Unknown / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Seattle_Construction_and_Dry_Dock_Company,_Steel_Dry_Dock,_ca._1910_-_DPLA_-_4287bd95fbb13ece8aa5626ce2f11e06_(page_1).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seattle_Construction_and_Dry_Dock_Company%2C_Steel_Dry_Dock%2C_ca._1910_-_DPLA_-_4287bd95fbb13ece8aa5626ce2f11e06_%28page_1%29.jpg/1920px-Seattle_Construction_and_Dry_Dock_Company%2C_Steel_Dry_Dock%2C_ca._1910_-_DPLA_-_4287bd95fbb13ece8aa5626ce2f11e06_%28page_1%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 41,
+    "bright": 136,
+    "contrast": 65,
+    "sharp": 3495
+   },
+   "hash": "1111111111111111111111111111111111101111111111111111111111111111111111111111111111111111111111111111111110111111111111111001111110011101100111111000000000000001000000000000000100000000000000000000000000000000000000000000000010000000000000001001010000000001",
+   "w": 1280,
+   "h": 814
   }
  ]
 }
