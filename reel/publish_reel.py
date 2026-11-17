@@ -25,7 +25,13 @@ def main():
     from jms import instagram
     cover = f"https://raw.githubusercontent.com/{REPO}/main/reel/episodes/{e['id']}/cover.jpg"
     has_cover = (Path(__file__).parent / "episodes" / e["id"] / "cover.jpg").exists()
-    pid, link, user = instagram.publish_reel(url, ep.get("caption", ""), cover_url=cover if has_cover else None)
+    cap = ep.get("caption", "")
+    if ep.get("music"):
+        cat = {m["key"]: m for m in json.loads((Path(__file__).parent / "music" / "catalog.json").read_text())}
+        cr = cat[ep["music"]]["credit"]
+        if cr not in cap:
+            cap = cap.replace("\n\n#", f"\n{cr}\n\n#", 1) if "\n\n#" in cap else cap + "\n" + cr
+    pid, link, user = instagram.publish_reel(url, cap, cover_url=cover if has_cover else None)
     e["posted"] = link or pid; rq.save(q)
     telegram.send_text(f"🎬 Reel posted to @{user}: {link}")
 

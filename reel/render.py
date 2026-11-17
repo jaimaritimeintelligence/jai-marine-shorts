@@ -173,6 +173,22 @@ def music(total, impacts, scenes=None, starts=None):
     return mix / (np.abs(mix).max() + 1e-6) * 0.95
 
 
+def track_music(ep, total):
+    """A licensed instrumental from reel/music (looped to length, gentle fades)."""
+    import json as _j
+    cat = {m["key"]: m for m in _j.loads((ROOT / "music" / "catalog.json").read_text())}
+    f = ROOT / "music" / f"{ep['music']}.mp3"
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(f), "-ac", "1", "-ar", str(SR), "-f", "s16le", "-"],
+                         capture_output=True, check=True).stdout
+    x = np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768
+    n = int(total * SR); off = int(ep.get("music_start", 0) * SR)
+    x = np.concatenate([x[off:]] + [x] * (n // max(1, len(x)) + 1))[:n]
+    f1, f2 = int(1.0 * SR), int(2.5 * SR)
+    x[:f1] *= np.linspace(0, 1, f1); x[-f2:] *= np.linspace(1, 0, f2)
+    ep["_music_credit"] = cat[ep["music"]]["credit"]
+    return x / (np.abs(x).max() + 1e-6) * 0.9
+
+
 def write_wav(path, x):
     x = np.clip(x, -1, 1)
     with wave.open(str(path), "wb") as w:
@@ -294,7 +310,7 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
         snapshot(ep, snaps if snaps else [s + 1.5 for s in starts], work)
         return
     write_wav(work / "voice.wav", voice_track)
-    write_wav(work / "music.wav", music(total + 1, impacts, ep["scenes"], starts))
+    write_wav(work / "music.wav", track_music(ep, total + 1) if ep.get("music") else music(total + 1, impacts, ep["scenes"], starts))
     render_frames(ep, total, work / "video.mp4", preview)
     final = work / f"{ep['id']}.mp4"
     # voice chain: rumble cut, warmth, presence, gentle compression; music ducked under voice
