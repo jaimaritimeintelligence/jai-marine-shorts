@@ -288,5 +288,6 @@
  "cover_title": "EMPTY TANKER HITS NEW ORLEANS TWICE",
  "voice": "human",
  "queue": true,
- "script_sent_unix": 0
+ "script_sent_unix": 1794897472,
+ "awaiting_voice": true
 }
