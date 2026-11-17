@@ -2930,7 +2930,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Virginia_V_%28ship%2C_1922%29_engine_room_05_-_modern_electrical_panels.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_05_-_modern_electrical_panels.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 47,
     "bright": 100,
@@ -2938,126 +2938,6 @@
     "sharp": 2426
    },
    "hash": "1001111100000000111111000000000001111011100001110111100010000111011110001000011101111000000001110111100000000111011100001100011101100000110001110110000011000111011000111100011101100010000001100110001000000111011000101000000101000010111110000110001111100011",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-06-engine-ga-76133a.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 06 - engine gauges.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_06_-_engine_gauges.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Virginia_V_%28ship%2C_1922%29_engine_room_06_-_engine_gauges.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_06_-_engine_gauges.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 50,
-    "bright": 104,
-    "contrast": 51,
-    "sharp": 2804
-   },
-   "hash": "1001111011111111111110000001111111110100000111110011010000000000001100000001011100110011000110110011101101110001111110100111000111110000001110011111000000011001111101001011100111000100100100011100000000000000010010000010010100001100011011110000111111101110",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-08-engine-ga-5620ea.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 08 - engine gauges.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_08_-_engine_gauges.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Virginia_V_%28ship%2C_1922%29_engine_room_08_-_engine_gauges.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_08_-_engine_gauges.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 46,
-    "bright": 111,
-    "contrast": 52,
-    "sharp": 2338
-   },
-   "hash": "1001111111110110111111111000011011111000111101101111010000110110011101110011011001110110000001100111000000000110001010110000011011101111010001101110000000000110111100000000010011110000100001000111011010000100011100000100000001110000000000000000000000000000",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-09-tachomete-b36b7d.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 09 - tachometer.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_09_-_tachometer.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Virginia_V_%28ship%2C_1922%29_engine_room_09_-_tachometer.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_09_-_tachometer.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 33,
-    "bright": 99,
-    "contrast": 60,
-    "sharp": 1799
-   },
-   "hash": "0000000000000111000010000000011100011100000001110001110000000111000111000000011101111000000001111111100000000111111110000000011111111000000001110111110000000011111111000000001111111100000000111111110000000000111111001110000011111101111000001111111111100000",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-11-jos-marsh-5ae404.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 11 - Jos. Marsh & Co. pressure gauge.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_11_-_Jos._Marsh_%26_Co._pressure_gauge.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Virginia_V_%28ship%2C_1922%29_engine_room_11_-_Jos._Marsh_%26_Co._pressure_gauge.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_11_-_Jos._Marsh_%26_Co._pressure_gauge.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 68,
-    "bright": 75,
-    "contrast": 58,
-    "sharp": 2703
-   },
-   "hash": "0000001011111100000010000010110000001000000011001001101110001100000111111110100000111111111111000011111111111100001111111111000000111111111110000011111111110000000111111101000000010011000100000000000100000100000001110000110000000011000011000000000000011100",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-17-lubricato-4436ea.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 17 - lubricator.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_17_-_lubricator.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Virginia_V_%28ship%2C_1922%29_engine_room_17_-_lubricator.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_17_-_lubricator.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 60,
-    "bright": 89,
-    "contrast": 49,
-    "sharp": 2622
-   },
-   "hash": "0001111100011100110111111111110011011111111111111101111111111111110001111111110111100011000110111001111000000001001111100011000010111100001111111000000000000001100000000000000010000000000001100000000000001100111100000000111111100000000011111100000000001111",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-18-lubricato-d7e149.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 18 - lubricator.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_18_-_lubricator.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Virginia_V_%28ship%2C_1922%29_engine_room_18_-_lubricator.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_18_-_lubricator.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 59,
-    "bright": 89,
-    "contrast": 53,
-    "sharp": 2422
-   },
-   "hash": "0000111011111001000011100111100100100100000010000000000000001100000000000111110010000000000000000100000000000000000000000001000011110000000111111110000000011111111000111111111111111111111111101111111111101110111111111111011011111111111110101111111111111000",
    "w": 1280,
    "h": 850
   },
@@ -3070,7 +2950,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Virginia_V_%28ship%2C_1922%29_engine_room_21_-_boiler.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_21_-_boiler.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 50,
     "bright": 103,
@@ -3082,146 +2962,6 @@
    "h": 850
   },
   {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-24-valve-jpg-f793db.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 24 - valve.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_24_-_valve.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Virginia_V_%28ship%2C_1922%29_engine_room_24_-_valve.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_24_-_valve.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 70,
-    "bright": 50,
-    "contrast": 51,
-    "sharp": 1995
-   },
-   "hash": "0000000000000000000000000000000000000001100000000000001110000001000000111000000100000011110000000000011111000000000011111100011000001111111011101100111111111111111011111111111011111111111111001111111100111100111100001111110000000001111111000000000011111110",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/1973-mtu-ship-diesel-engine-pic1-jpg-11d4e0.jpg",
-   "category": "engine-room",
-   "title": "1973 MTU ship diesel engine pic1.JPG",
-   "credit": "Alf van Beem / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:1973_MTU_ship_diesel_engine_pic1.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1973_MTU_ship_diesel_engine_pic1.JPG/1920px-1973_MTU_ship_diesel_engine_pic1.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 44,
-    "bright": 110,
-    "contrast": 81,
-    "sharp": 2440
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111110011111000000000000000000000000000000000000000000000000000000000000000110000000000000000000000000100000000000001100000000000000000000000000000001000000000000000100000000000000000000000000111111",
-   "w": 1280,
-   "h": 962
-  },
-  {
-   "file": "photos/engine-room/1973-mtu-ship-diesel-engine-pic2-jpg-afc24a.jpg",
-   "category": "engine-room",
-   "title": "1973 MTU ship diesel engine pic2.JPG",
-   "credit": "AlfvanBeem / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:1973_MTU_ship_diesel_engine_pic2.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/1973_MTU_ship_diesel_engine_pic2.JPG/1920px-1973_MTU_ship_diesel_engine_pic2.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 44,
-    "bright": 120,
-    "contrast": 72,
-    "sharp": 3883
-   },
-   "hash": "1111111111111111111111111111111101111111111111110011111111111111110111100111111111111100000000111110111000000110111011100000011011100000000001101110000000000000111000000000000011100000000000001110000000000000111000000000000011000000000000000000000000000000",
-   "w": 1280,
-   "h": 959
-  },
-  {
-   "file": "photos/engine-room/1973-mtu-ship-diesel-engine-pic3-jpg-63f258.jpg",
-   "category": "engine-room",
-   "title": "1973 MTU ship diesel engine pic3.JPG",
-   "credit": "AlfvanBeem / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:1973_MTU_ship_diesel_engine_pic3.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/1973_MTU_ship_diesel_engine_pic3.JPG/1920px-1973_MTU_ship_diesel_engine_pic3.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 40,
-    "bright": 133,
-    "contrast": 82,
-    "sharp": 3876
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111100111111111111111000000000000011110000000000001100000000000000011000000000000000100000000000000110000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/engine-room/diesel-engine-from-the-emden-6092678477-jpg-9188ff.jpg",
-   "category": "engine-room",
-   "title": "Diesel engine from the \"Emden\" (6092678477).jpg",
-   "credit": "Hugh Llewelyn / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Diesel_engine_from_the_%22Emden%22_(6092678477).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Diesel_engine_from_the_%22Emden%22_%286092678477%29.jpg/1920px-Diesel_engine_from_the_%22Emden%22_%286092678477%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 52,
-    "bright": 70,
-    "contrast": 66,
-    "sharp": 2848
-   },
-   "hash": "0000000001111000000001001111000000000100000100000000000000000000011000000000000000000001000000000000000000000000000000000000000000000000000000000000000000001000000000000001100000100111000111111011110000000111011111001111011100111111111111110001111111111111",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/engine-room/gray-marine-diesel-engine-1-14628967337-jpg-d18956.jpg",
-   "category": "engine-room",
-   "title": "Gray Marine Diesel Engine (1) (14628967337).jpg",
-   "credit": "Iain Cameron from Ellon, Scotland / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Gray_Marine_Diesel_Engine_(1)_(14628967337).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gray_Marine_Diesel_Engine_%281%29_%2814628967337%29.jpg/1920px-Gray_Marine_Diesel_Engine_%281%29_%2814628967337%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 42,
-    "bright": 125,
-    "contrast": 69,
-    "sharp": 1852
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111000001111111111000000111111110000000011011110000000010100111000000000010011100000000001000000000000001100000000000110010000000000111100000000000111110000000000011110000000000001111000000000001111100000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/engine-room/gray-marine-diesel-engine-14628970757-jpg-00a83b.jpg",
-   "category": "engine-room",
-   "title": "Gray Marine Diesel Engine (14628970757).jpg",
-   "credit": "Iain Cameron from Ellon, Scotland / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Gray_Marine_Diesel_Engine_(14628970757).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gray_Marine_Diesel_Engine_%2814628970757%29.jpg/1920px-Gray_Marine_Diesel_Engine_%2814628970757%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 92,
-    "bright": 92,
-    "contrast": 37,
-    "sharp": 3042
-   },
-   "hash": "0011111111111110011111111111111101100011000000110110001110000011111100111100001111000011110011111100011111100001100000111100000110000000000000011000000000000001100000000000000100000100000000000000010000000000000001000000000011111111111111101111111111111111",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/canal-strait/begonia-s-on-the-bosphorus-jpg-9d8bfe.jpg",
    "category": "canal-strait",
    "title": "Begonia S on the Bosphorus.jpg",
@@ -3230,7 +2970,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Begonia_S_on_the_Bosphorus.jpg/1920px-Begonia_S_on_the_Bosphorus.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 26,
     "bright": 141,
@@ -3250,7 +2990,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bosphorus%2C_Fatih_Sultan_Mehmet_Bridge%2C_Turkey_001.jpg/1920px-Bosphorus%2C_Fatih_Sultan_Mehmet_Bridge%2C_Turkey_001.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 40,
     "bright": 174,
@@ -3262,26 +3002,6 @@
    "h": 850
   },
   {
-   "file": "photos/canal-strait/bosphorus-istanbul-p1100179-jpg-a1a090.jpg",
-   "category": "canal-strait",
-   "title": "Bosphorus, Istanbul (P1100179).jpg",
-   "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Bosphorus,_Istanbul_(P1100179).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bosphorus%2C_Istanbul_%28P1100179%29.jpg/1920px-Bosphorus%2C_Istanbul_%28P1100179%29.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 28,
-    "bright": 161,
-    "contrast": 55,
-    "sharp": 2157
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111110111111111111110011111111111111101111111111111110111111111111111010000001111111100000000111111000000000011000000000000001000000000000000110000000000000010000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/canal-strait/bosphorus-istanbul-p1100254-jpg-1d63ec.jpg",
    "category": "canal-strait",
    "title": "Bosphorus, Istanbul (P1100254).jpg",
@@ -3290,7 +3010,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bosphorus%2C_Istanbul_%28P1100254%29.jpg/1920px-Bosphorus%2C_Istanbul_%28P1100254%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 30,
     "bright": 183,
@@ -3298,26 +3018,6 @@
     "sharp": 2431
    },
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111100111111111111110011111010111101111000000000100000000000000000000000000000000000000000000000011111110000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/canal-strait/bosphorus-istanbul-p1100272-jpg-b701f2.jpg",
-   "category": "canal-strait",
-   "title": "Bosphorus, Istanbul (P1100272).jpg",
-   "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Bosphorus,_Istanbul_(P1100272).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bosphorus%2C_Istanbul_%28P1100272%29.jpg/1920px-Bosphorus%2C_Istanbul_%28P1100272%29.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 47,
-    "bright": 136,
-    "contrast": 56,
-    "sharp": 4792
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111100000100111100000010000000000000000000000000000001000000000000001000000000100000000000000000000000000000000000000111110111111111111111111111111111111111111110000000000000000000000000000000000000",
    "w": 1280,
    "h": 960
   },
@@ -3330,7 +3030,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bosphorus%2C_Istanbul_%28P1100293%29.jpg/1920px-Bosphorus%2C_Istanbul_%28P1100293%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 48,
     "bright": 179,
@@ -3350,7 +3050,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bosphorus%2C_Istanbul_%28P1100295%29.jpg/1920px-Bosphorus%2C_Istanbul_%28P1100295%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 41,
     "bright": 184,
@@ -3370,7 +3070,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Istanbul_Bosphorus_Cruise_ship_Ruby_Princess_IMG_7538_1800.jpg/1920px-Istanbul_Bosphorus_Cruise_ship_Ruby_Princess_IMG_7538_1800.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 35,
     "bright": 149,
@@ -3390,7 +3090,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Istanbul_Bosphorus_Cruise_ship_Ruby_Princess_IMG_7920_1920.jpg/1920px-Istanbul_Bosphorus_Cruise_ship_Ruby_Princess_IMG_7920_1920.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 26,
     "bright": 154,
