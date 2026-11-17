@@ -4602,86 +4602,6 @@
    "h": 719
   },
   {
-   "file": "photos/ferry/lower-manhattan-from-staten-island-ferry-corr-f2df80.jpg",
-   "category": "ferry",
-   "title": "Lower Manhattan from Staten Island Ferry Corrected Jan 2006.jpg",
-   "credit": "Diliff / Wikimedia Commons (CC BY 2.5)",
-   "page": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Staten_Island_Ferry_Corrected_Jan_2006.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lower_Manhattan_from_Staten_Island_Ferry_Corrected_Jan_2006.jpg/1920px-Lower_Manhattan_from_Staten_Island_Ferry_Corrected_Jan_2006.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 64,
-    "bright": 136,
-    "contrast": 44,
-    "sharp": 4289
-   },
-   "hash": "0000000000000000000000001001100011000111111111111111111111111111111111111111111111111111111111111111111100111111111111110011111111110001000111111100000100111111100000010001111110000001000110110000000001110000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 320
-  },
-  {
-   "file": "photos/ferry/microcarbo-melanoleucos-austins-ferry-3-jpg-926255.jpg",
-   "category": "ferry",
-   "title": "Microcarbo melanoleucos Austins Ferry 3.jpg",
-   "credit": "JJ Harrison (https://www.jjharrison.com. / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Microcarbo_melanoleucos_Austins_Ferry_3.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Microcarbo_melanoleucos_Austins_Ferry_3.jpg/1920px-Microcarbo_melanoleucos_Austins_Ferry_3.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 105,
-    "bright": 106,
-    "contrast": 47,
-    "sharp": 990
-   },
-   "hash": "1111111111111111111011111111111111111111111111001111111111101111111111111011011111111101000000011111111001000001111100000000000111000000000000101100000000000111100000000000111110000001000111111001111111111111111011111111100111111111111111111111111111111110",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/ferry/niveoscincus-metallicus-austin-s-ferry-jpg-e64ba7.jpg",
-   "category": "ferry",
-   "title": "Niveoscincus metallicus - Austin's Ferry.jpg",
-   "credit": "JJ Harrison (https://www.jjharrison.com. / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Niveoscincus_metallicus_-_Austin%27s_Ferry.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Niveoscincus_metallicus_-_Austin%27s_Ferry.jpg/1920px-Niveoscincus_metallicus_-_Austin%27s_Ferry.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 113,
-    "bright": 113,
-    "contrast": 54,
-    "sharp": 1167
-   },
-   "hash": "1110011101101111111011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111001111101111111100001111111111110000000111111110000000000011110000000000000110000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 855
-  },
-  {
-   "file": "photos/ferry/pelecanus-conspicillatus-austins-ferry-pounci-d1cb56.jpg",
-   "category": "ferry",
-   "title": "Pelecanus conspicillatus - Austins Ferry pouncing 1.jpg",
-   "credit": "JJ Harrison (https://www.jjharrison.com. / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pelecanus_conspicillatus_-_Austins_Ferry_pouncing_1.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pelecanus_conspicillatus_-_Austins_Ferry_pouncing_1.jpg/1920px-Pelecanus_conspicillatus_-_Austins_Ferry_pouncing_1.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 49,
-    "bright": 167,
-    "contrast": 43,
-    "sharp": 2973
-   },
-   "hash": "1111110111111101111111111111111111111101111111111001100011111111100110000011111011110001101111111111001111111111111100111111111111110001111111111111000111111111111100111111111111100000101111111100000011110111111001000000010011000000000000001111010000111100",
-   "w": 1280,
-   "h": 854
-  },
-  {
    "file": "photos/ferry/piraeus-from-ferry-to-aegina-greece-jpg-35dae1.jpg",
    "category": "ferry",
    "title": "Piraeus from ferry to Aegina, Greece.jpg",
@@ -4690,7 +4610,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Piraeus_from_ferry_to_Aegina%2C_Greece.jpg/1920px-Piraeus_from_ferry_to_Aegina%2C_Greece.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 108,
     "bright": 135,
@@ -4702,66 +4622,6 @@
    "h": 852
   },
   {
-   "file": "photos/ferry/riomaggiore-from-ferry-cinque-terre-italy-sep-efb6aa.jpg",
-   "category": "ferry",
-   "title": "Riomaggiore From Ferry Cinque Terre Italy Sep23 A7C 07414.jpg",
-   "credit": "This Photo was taken by Timothy A. Gonsa / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg/1920px-Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 98,
-    "bright": 100,
-    "contrast": 57,
-    "sharp": 5087
-   },
-   "hash": "1111111111111111111111111111111100000011111111110000000111111000000000000000100000000000000000000100000000010000001100000110000001110010100000000101111111101000000111111110110000001111111000000000000011000000000000111110000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/ferry/rubha-nan-gall-lighthouse-and-mv-clansman-fer-398279.jpg",
-   "category": "ferry",
-   "title": "Rubha nan Gall lighthouse and MV Clansman ferry.jpg",
-   "credit": "Colin / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Rubha_nan_Gall_lighthouse_and_MV_Clansman_ferry.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rubha_nan_Gall_lighthouse_and_MV_Clansman_ferry.jpg/1920px-Rubha_nan_Gall_lighthouse_and_MV_Clansman_ferry.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 58,
-    "bright": 144,
-    "contrast": 59,
-    "sharp": 2955
-   },
-   "hash": "1111111111111111111111111111111111111111111011111111111111101111111111111110111111111111111011111111111111101111000111111110111100000111111011110000001100001000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000",
-   "w": 1280,
-   "h": 730
-  },
-  {
-   "file": "photos/ferry/san-francisco-ferry-building-cropped-jpg-22dc53.jpg",
-   "category": "ferry",
-   "title": "San Francisco Ferry Building (cropped).jpg",
-   "credit": "JaGa / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_Ferry_Building_(cropped).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Francisco_Ferry_Building_%28cropped%29.jpg/1920px-San_Francisco_Ferry_Building_%28cropped%29.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 85,
-    "bright": 119,
-    "contrast": 52,
-    "sharp": 5820
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111000000011000000001011011111110100010111001100110000000000000000000000001110000000000000001100000000000000000000000000000000000000000001000010000",
-   "w": 1280,
-   "h": 693
-  },
-  {
    "file": "photos/ferry/staten-island-ferry-terminal-jpg-9e5d23.jpg",
    "category": "ferry",
    "title": "Staten Island Ferry terminal.jpg",
@@ -4770,7 +4630,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Staten_Island_Ferry_terminal.jpg/1920px-Staten_Island_Ferry_terminal.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 103,
     "bright": 114,
@@ -4782,26 +4642,6 @@
    "h": 758
   },
   {
-   "file": "photos/ferry/view-of-the-ferry-building-from-pier-1-san-fr-38a13f.jpg",
-   "category": "ferry",
-   "title": "View of the Ferry Building from Pier 1, San Francisco dllu.jpg",
-   "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Ferry_Building_from_Pier_1,_San_Francisco_dllu.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/View_of_the_Ferry_Building_from_Pier_1%2C_San_Francisco_dllu.jpg/1920px-View_of_the_Ferry_Building_from_Pier_1%2C_San_Francisco_dllu.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 101,
-    "bright": 61,
-    "contrast": 43,
-    "sharp": 2664
-   },
-   "hash": "0000000000000000000000000000000000000000000001000000000000011100000011111111111001111111111111111111111111111011111111111111111111111111101111111001111110011111000100011001111101111001111111110100000011111111000000000100000000000000010000000000000001000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
    "file": "photos/ferry/2011-06-10-tallink-shuttle-ferry-superstar-im-70e0f5.jpg",
    "category": "ferry",
    "title": "2011-06-10 Tallink Shuttle ferry, SUPERSTAR - IMO 9365398.jpg",
@@ -4810,7 +4650,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2011-06-10_Tallink_Shuttle_ferry%2C_SUPERSTAR_-_IMO_9365398.jpg/1920px-2011-06-10_Tallink_Shuttle_ferry%2C_SUPERSTAR_-_IMO_9365398.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 118,
     "bright": 117,
@@ -4830,7 +4670,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2019-03-12_NAVIMAG_ferry%2C_EVANGELISTAS_-_IMO_7627962.jpg/1920px-2019-03-12_NAVIMAG_ferry%2C_EVANGELISTAS_-_IMO_7627962.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 69,
     "bright": 137,
@@ -4850,7 +4690,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2019-03-14_NAVIMAG_ferry%2C_TRINIDAD_I_-_IMO_8917871.jpg/1920px-2019-03-14_NAVIMAG_ferry%2C_TRINIDAD_I_-_IMO_8917871.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 130,
     "bright": 122,
@@ -4870,7 +4710,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2022-04-29_WSDOT_ferry%2C_MV_SALISH_-_IMO_9618329_-_Coupeville_WA_USA.jpg/1920px-2022-04-29_WSDOT_ferry%2C_MV_SALISH_-_IMO_9618329_-_Coupeville_WA_USA.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 62,
     "bright": 149,
@@ -4890,7 +4730,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2023-05-01_ROPAX_ferry%2C_ISLE_OF_INNISFREE_-_IMO_8908466.jpg/1920px-2023-05-01_ROPAX_ferry%2C_ISLE_OF_INNISFREE_-_IMO_8908466.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 117,
     "bright": 112,
@@ -4910,7 +4750,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2023-05-19_01_ROPAX_ferry%2C_MF_DRAGSVIK_-_IMO_9871270_%E2%80%93_Norway.jpg/1920px-2023-05-19_01_ROPAX_ferry%2C_MF_DRAGSVIK_-_IMO_9871270_%E2%80%93_Norway.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 50,
     "bright": 87,
@@ -4930,7 +4770,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2023-05-19_02_ROPAX_ferry%2C_MF_DRAGSVIK_-_IMO_9871270_%E2%80%93_Norway.jpg/1920px-2023-05-19_02_ROPAX_ferry%2C_MF_DRAGSVIK_-_IMO_9871270_%E2%80%93_Norway.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 63,
     "bright": 109,
@@ -4950,7 +4790,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2023-05-19_03_ROPAX_ferry%2C_MF_DRAGSVIK_-_IMO_9871270_%E2%80%93_Norway.jpg/1920px-2023-05-19_03_ROPAX_ferry%2C_MF_DRAGSVIK_-_IMO_9871270_%E2%80%93_Norway.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 49,
     "bright": 84,
@@ -4970,7 +4810,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ferry_Tokitae_Whidbey_Mukilteo_Washington_Mar23_R16_07084.jpg/1920px-Ferry_Tokitae_Whidbey_Mukilteo_Washington_Mar23_R16_07084.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 44,
     "bright": 182,
@@ -4990,7 +4830,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ferry_boat_ST_SORNEY_of_Rathlin_Island_Ferry_Ltd._arriving_Ballycastle_%282012%29.jpg/1920px-Ferry_boat_ST_SORNEY_of_Rathlin_Island_Ferry_Ltd._arriving_Ballycastle_%282012%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 65,
     "bright": 157,
@@ -5010,7 +4850,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ferry_in_Istanbul%2C_3.jpg/1920px-Ferry_in_Istanbul%2C_3.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 23,
     "bright": 148,
@@ -5030,7 +4870,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/M.V.Kasturi%2C_a_ferry_boat_sailing_on_Hooghly_river%2C_image_captured_from_Nimtala_burning_ghat.jpg/1920px-M.V.Kasturi%2C_a_ferry_boat_sailing_on_Hooghly_river%2C_image_captured_from_Nimtala_burning_ghat.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 51,
     "bright": 135,
@@ -5050,7 +4890,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/MCGanga_Ferry_Ashtamudi_Kollam_Kerala_Mar22_A7C_01434.jpg/1920px-MCGanga_Ferry_Ashtamudi_Kollam_Kerala_Mar22_A7C_01434.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 29,
     "bright": 188,
@@ -5070,7 +4910,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MCGanga_Ferry_Ashtamudi_Munroe_Close_Kerala_Mar22_A7C_01552.jpg/1920px-MCGanga_Ferry_Ashtamudi_Munroe_Close_Kerala_Mar22_A7C_01552.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 58,
     "bright": 146,
