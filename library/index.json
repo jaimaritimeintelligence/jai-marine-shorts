@@ -5460,6 +5460,606 @@
    "hash": "0111111111111111001111111111111100000000000000001111111011110000111111111111000011111111110000001111111111000000111111111000000011101111000000001111110000000000111111000000000011111100000000001111111000000000111111100000000000111100000000000111111111100000",
    "w": 1280,
    "h": 857
+  },
+  {
+   "file": "photos/ship-fire/fire-inside-an-abandoned-convent-in-massuevil-b81e07.jpg",
+   "category": "ship-fire",
+   "title": "Fire inside an abandoned convent in Massueville, Quebec, Canada.jpg",
+   "credit": "Sylvain Pedneault / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_inside_an_abandoned_convent_in_Massueville,_Quebec,_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fire_inside_an_abandoned_convent_in_Massueville%2C_Quebec%2C_Canada.jpg/1920px-Fire_inside_an_abandoned_convent_in_Massueville%2C_Quebec%2C_Canada.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 96,
+    "bright": 125,
+    "contrast": 52,
+    "sharp": 2416
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111001111111111111000011111111111000000001111110000000100111111000000111011101100000000101100110000000000100010000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 911
+  },
+  {
+   "file": "photos/ship-fire/2022-09-10-05-mv-holiday-island-imo-7041431-a-385c5d.jpg",
+   "category": "ship-fire",
+   "title": "2022-09-10 05 MV HOLIDAY ISLAND - IMO 7041431, at Wood Islands termina after engine fire, PEI CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-09-10_05_MV_HOLIDAY_ISLAND_-_IMO_7041431,_at_Wood_Islands_termina_after_engine_fire,_PEI_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2022-09-10_05_MV_HOLIDAY_ISLAND_-_IMO_7041431%2C_at_Wood_Islands_termina_after_engine_fire%2C_PEI_CAN.jpg/1920px-2022-09-10_05_MV_HOLIDAY_ISLAND_-_IMO_7041431%2C_at_Wood_Islands_termina_after_engine_fire%2C_PEI_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 119,
+    "bright": 124,
+    "contrast": 61,
+    "sharp": 3848
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000101000010000000000000011000000100000011110000010000001110001000000000111001000000000000100100000000000000000000000000000000000000000000111000000000000000000",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/ship-fire/cologne-germany-fire-fighting-boat-feuerl-sch-a249ec.jpg",
+   "category": "ship-fire",
+   "title": "Cologne Germany Fire-fighting-boat-Feuerlöschboot10-2-01.jpg",
+   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Fire-fighting-boat-Feuerl%C3%B6schboot10-2-01.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cologne_Germany_Fire-fighting-boat-Feuerl%C3%B6schboot10-2-01.jpg/1920px-Cologne_Germany_Fire-fighting-boat-Feuerl%C3%B6schboot10-2-01.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 85,
+    "bright": 150,
+    "contrast": 62,
+    "sharp": 5580
+   },
+   "hash": "1111111111111111111111111111111111110111111111111111101111111111111000001111111111000000000000010000000000000000000000000000000000000000000000001000110000111111111110000000110011111000000000000000000000000000000000000000000100000000000011110100000000011111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-08-jpg-fe6f20.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 08.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_08.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fire_Fighter_ship%2C_Long_Island_2018_08.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_08.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 111,
+    "bright": 78,
+    "contrast": 65,
+    "sharp": 4622
+   },
+   "hash": "1111111111111111100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000000000000111000000000001111111111111111111",
+   "w": 1280,
+   "h": 1167
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-33-jpg-921dd1.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 33.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_33.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fire_Fighter_ship%2C_Long_Island_2018_33.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_33.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 53,
+    "bright": 114,
+    "contrast": 58,
+    "sharp": 4834
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111011111111111111011111110111111001111000000011100000000001111110100000000011000110001000000001110011100000111100001111111110000000001110000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 845
+  },
+  {
+   "file": "photos/ship-fire/17-08-02-fireboat-3-city-of-vancouver-bc-cana-48258e.jpg",
+   "category": "ship-fire",
+   "title": "17-08-02 FIREBOAT 3 - City of Vancouver, BC, Canada 17-07-16.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:17-08-02_FIREBOAT_3_-_City_of_Vancouver,_BC,_Canada_17-07-16.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/17-08-02_FIREBOAT_3_-_City_of_Vancouver%2C_BC%2C_Canada_17-07-16.jpg/1920px-17-08-02_FIREBOAT_3_-_City_of_Vancouver%2C_BC%2C_Canada_17-07-16.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 39,
+    "bright": 96,
+    "contrast": 62,
+    "sharp": 4881
+   },
+   "hash": "0000000000000000000000000000000000000000000000000000000000000000000001111111101100000000000000000000000010000000000000011000000000111101011110001111110111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 855
+  },
+  {
+   "file": "photos/ship-fire/2018-08-31-01-fireboat-1-fb-1-city-of-vancouv-1f25e6.jpg",
+   "category": "ship-fire",
+   "title": "2018-08-31 01 FIREBOAT 1 (FB-1) - City of Vancouver, BC, Canada.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-08-31_01_FIREBOAT_1_(FB-1)_-_City_of_Vancouver,_BC,_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2018-08-31_01_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg/1920px-2018-08-31_01_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 60,
+    "bright": 120,
+    "contrast": 58,
+    "sharp": 3389
+   },
+   "hash": "0000000000000000000000000000000000000000000000000000001000000000000000000000000000000001000000000000000111100000111111100001111111111100011111111100101111110001110000111111001111011111111101111111111111110111111111111111001111111111111111111111111111111111",
+   "w": 1280,
+   "h": 857
+  },
+  {
+   "file": "photos/ship-fire/2018-10-22-858-private-fireboat-florian-n-28-615fff.jpg",
+   "category": "ship-fire",
+   "title": "2018-10-22 (858) Private fireboat Florian N-28 235 in Krems an der Donau, Austria.jpg",
+   "credit": "GT1976 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-10-22_(858)_Private_fireboat_Florian_N-28_235_in_Krems_an_der_Donau,_Austria.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/2018-10-22_%28858%29_Private_fireboat_Florian_N-28_235_in_Krems_an_der_Donau%2C_Austria.jpg/1920px-2018-10-22_%28858%29_Private_fireboat_Florian_N-28_235_in_Krems_an_der_Donau%2C_Austria.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 90,
+    "bright": 128,
+    "contrast": 58,
+    "sharp": 3933
+   },
+   "hash": "0000011111111111000000111111111100000011111111110000001111111111000001111111111111111011111001111111111100000011111111000000000111111100000000000111100000000000111000010010000011100011000000000000001100000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ship-fire/st-francis-fireboat-san-francisco-2016-4-jpg-e9511f.jpg",
+   "category": "ship-fire",
+   "title": "St Francis Fireboat, San Francisco 2016 4.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Francis_Fireboat,_San_Francisco_2016_4.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/St_Francis_Fireboat%2C_San_Francisco_2016_4.jpg/1920px-St_Francis_Fireboat%2C_San_Francisco_2016_4.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 99,
+    "bright": 144,
+    "contrast": 64,
+    "sharp": 4859
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111011111111100000001111000000000000000000001111111111111111111111111111111111111111111111011111111111111000000000000100000000000000111000000000000011100000000000001110000000000000",
+   "w": 1280,
+   "h": 934
+  },
+  {
+   "file": "photos/ship-fire/st-francis-fireboat-in-the-san-francisco-bay-629272.jpg",
+   "category": "ship-fire",
+   "title": "St Francis Fireboat in the San Francisco bay.jpg",
+   "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:St_Francis_Fireboat_in_the_San_Francisco_bay.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/St_Francis_Fireboat_in_the_San_Francisco_bay.jpg/1920px-St_Francis_Fireboat_in_the_San_Francisco_bay.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 46,
+    "bright": 125,
+    "contrast": 46,
+    "sharp": 1014
+   },
+   "hash": "0000000000000000000000000010000000000011111110001100011100000000111111111111110011111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111000000000000000000000000010000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 640
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-57-jpg-2c8c89.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 57.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_57.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fire_Fighter_ship%2C_Long_Island_2018_57.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_57.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 147,
+    "bright": 104,
+    "contrast": 50,
+    "sharp": 1758
+   },
+   "hash": "0100111111111110010001111111110000000011111100000100001111000000001100111000110000001111100111001111111110011100111111101001110010001111111111100000000000011110000000000000110011000000000001001111110001100000111110000110000011110010111100001111000011101000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-74-jpg-54037e.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 74.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_74.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fire_Fighter_ship%2C_Long_Island_2018_74.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_74.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 176,
+    "bright": 80,
+    "contrast": 61,
+    "sharp": 1675
+   },
+   "hash": "1111111111111111111111111101001011111110011000000111111011111100011111001111110001111000011110000111100000000001001000000000000010000000000000011100000000000001100000000000000111000000000000011111000000000001111110000000000111111100000000001111110000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-76-jpg-a302ba.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 76.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_76.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fire_Fighter_ship%2C_Long_Island_2018_76.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_76.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 163,
+    "bright": 71,
+    "contrast": 43,
+    "sharp": 2278
+   },
+   "hash": "1101111111100000110111111011000001111110001100001101011001110000000110100111000011011000001100101111111011100110111111111111000010111111111100001001111111110000100111111100000000000111110000000000001000000000000000101000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-77-jpg-4ca9e9.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 77.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_77.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fire_Fighter_ship%2C_Long_Island_2018_77.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_77.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 170,
+    "bright": 81,
+    "contrast": 42,
+    "sharp": 2380
+   },
+   "hash": "0001000001100001000100000001000100001000010100110001111111111011011111110111111101111111011110011111111111110001011111111011000011111111101100001100011100000000111001100000000011110000000000000111000000000000011000000000000000100000000000000010000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-83-jpg-9d02d6.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 83.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_83.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fire_Fighter_ship%2C_Long_Island_2018_83.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_83.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 159,
+    "bright": 69,
+    "contrast": 46,
+    "sharp": 3635
+   },
+   "hash": "0110011111111111001010111111111100011011111111110011101111111111000111111111101100011111111100110001111011111001000000100100000100000010000000010000011100000000000000111000000000000011110000000000001111000000100000111100000010000011110000000000001111000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/fire-fighter-ship-long-island-2018-87-jpg-2f45dc.jpg",
+   "category": "ship-fire",
+   "title": "Fire Fighter ship, Long Island 2018 87.jpg",
+   "credit": "Photograph by Mike Peel (www.mikepeel.ne / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fire_Fighter_ship,_Long_Island_2018_87.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fire_Fighter_ship%2C_Long_Island_2018_87.jpg/1920px-Fire_Fighter_ship%2C_Long_Island_2018_87.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 173,
+    "bright": 73,
+    "contrast": 43,
+    "sharp": 2769
+   },
+   "hash": "0000100001011111000011100010011100000111001001110000101111110011000000101111011110000011111111100000011111111100000000101110011010000000010001000110011000000100111101100011000011110000000111111111000000001111111100100000111111110100000011111111000000001111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/ship-inn-highley-fire-damaged-geograph-org-uk-b34431.jpg",
+   "category": "ship-fire",
+   "title": "Ship Inn, Highley - fire-damaged - geograph.org.uk - 7290811.jpg",
+   "credit": "Martin Tester / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ship_Inn,_Highley_-_fire-damaged_-_geograph.org.uk_-_7290811.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ship_Inn%2C_Highley_-_fire-damaged_-_geograph.org.uk_-_7290811.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 92,
+    "bright": 116,
+    "contrast": 54,
+    "sharp": 2818
+   },
+   "hash": "0001111111111111000111111111111100011111111111110001111111111111000111111111111100001111111111110000011001111111000001100111111100000110001110000000111111000000000111101100000100000010000000000000011101110000000000000111110000000000111110000000001111111100",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/ship-fire/ship-inn-highley-fire-damaged-geograph-org-uk-5dd5e9.jpg",
+   "category": "ship-fire",
+   "title": "Ship Inn, Highley – fire-damaged - geograph.org.uk - 7290816.jpg",
+   "credit": "Martin Tester / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ship_Inn,_Highley_%E2%80%93_fire-damaged_-_geograph.org.uk_-_7290816.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ship_Inn%2C_Highley_%E2%80%93_fire-damaged_-_geograph.org.uk_-_7290816.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 36,
+    "bright": 153,
+    "contrast": 74,
+    "sharp": 2478
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111001111100100111000000100000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001100000000111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/ship-on-fire-in-leith-dock-geograph-org-uk-22-5ea2ee.jpg",
+   "category": "ship-fire",
+   "title": "Ship on fire in Leith Dock - geograph.org.uk - 2277392.jpg",
+   "credit": "John Fiddes / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ship_on_fire_in_Leith_Dock_-_geograph.org.uk_-_2277392.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ship_on_fire_in_Leith_Dock_-_geograph.org.uk_-_2277392.jpg/1920px-Ship_on_fire_in_Leith_Dock_-_geograph.org.uk_-_2277392.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 29,
+    "bright": 138,
+    "contrast": 68,
+    "sharp": 1936
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111001111111111111100111001101001110000000000000000000000000000000000000000000000000000000000000000000000000000000000000111111001100011111111100111000000001100111100000000000010000000000000111111",
+   "w": 1280,
+   "h": 958
+  },
+  {
+   "file": "photos/ship-fire/2018-08-31-02-fireboat-1-fb-1-city-of-vancouv-0e26d6.jpg",
+   "category": "ship-fire",
+   "title": "2018-08-31 02 FIREBOAT 1 (FB-1) - City of Vancouver, BC, Canada.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-08-31_02_FIREBOAT_1_(FB-1)_-_City_of_Vancouver,_BC,_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2018-08-31_02_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg/1920px-2018-08-31_02_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 56,
+    "bright": 149,
+    "contrast": 54,
+    "sharp": 3741
+   },
+   "hash": "0001100000000000000111000000000000111100010000001111110011100100100001011010011000000000001000000000000000000000111111000011111111111000001111111110110110011111110011111001111111111111100111111111111100001111111111000001111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 857
+  },
+  {
+   "file": "photos/ship-fire/2018-08-31-03-fireboat-1-fb-1-city-of-vancouv-d10eeb.jpg",
+   "category": "ship-fire",
+   "title": "2018-08-31 03 FIREBOAT 1 (FB-1) - City of Vancouver, BC, Canada.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-08-31_03_FIREBOAT_1_(FB-1)_-_City_of_Vancouver,_BC,_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-08-31_03_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg/1920px-2018-08-31_03_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 48,
+    "bright": 143,
+    "contrast": 62,
+    "sharp": 2610
+   },
+   "hash": "0001111111111111000001111111111100000000111111110000000000000000000000000000000000000000000000000000000000000000111111100001111111111110001111111111000000011111111000000111111111111111111111111111111101111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 857
+  },
+  {
+   "file": "photos/ship-fire/2018-08-31-04-fireboat-1-fb-1-city-of-vancouv-fcffc6.jpg",
+   "category": "ship-fire",
+   "title": "2018-08-31 04 FIREBOAT 1 (FB-1) - City of Vancouver, BC, Canada.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-08-31_04_FIREBOAT_1_(FB-1)_-_City_of_Vancouver,_BC,_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2018-08-31_04_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg/1920px-2018-08-31_04_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 41,
+    "bright": 159,
+    "contrast": 63,
+    "sharp": 2847
+   },
+   "hash": "1111111111111111111011111111111111001111111111111000111111111111100011111111111110111111111111110000000000000111000000000000000000000000000000000000000000000000000011000011110000110000001111100111000000111100111100011111110011111011111000001000000001000000",
+   "w": 1280,
+   "h": 857
+  },
+  {
+   "file": "photos/ship-fire/2018-09-16-fireboat-john-foster-city-of-sewar-242959.jpg",
+   "category": "ship-fire",
+   "title": "2018-09-16 Fireboat, JOHN FOSTER - City of Seward, AK USA.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018-09-16_Fireboat,_JOHN_FOSTER_-_City_of_Seward,_AK_USA.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2018-09-16_Fireboat%2C_JOHN_FOSTER_-_City_of_Seward%2C_AK_USA.jpg/1920px-2018-09-16_Fireboat%2C_JOHN_FOSTER_-_City_of_Seward%2C_AK_USA.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 47,
+    "bright": 116,
+    "contrast": 65,
+    "sharp": 3578
+   },
+   "hash": "1111111111111111111111111111111110011111111111110000111111111111000000011111111100000010011111110000001001111111000001111000000000000000100100000010111111110000000001111111101100000000000000010000000000000001000000000000000100000000000000010010100000000011",
+   "w": 1280,
+   "h": 857
+  },
+  {
+   "file": "photos/ship-fire/a-portland-fireboat-a-jpg-ade7b6.jpg",
+   "category": "ship-fire",
+   "title": "A Portland fireboat -a.jpg",
+   "credit": "https://www.flickr.com/photos/chilstrom/ / Wikimedia Commons (CC BY 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:A_Portland_fireboat_-a.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/A_Portland_fireboat_-a.jpg/1920px-A_Portland_fireboat_-a.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 49,
+    "bright": 135,
+    "contrast": 39,
+    "sharp": 3108
+   },
+   "hash": "1111110001111111111100000111111111111111111111111111100011111111111111001111111111111100111111111111110011111111111111111111111011110001000100001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ship-fire/a-fireboat-in-duyfken-a-jpg-56f32e.jpg",
+   "category": "ship-fire",
+   "title": "A fireboat in Duyfken -a.jpg",
+   "credit": "moojebing / Wikimedia Commons (CC BY 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:A_fireboat_in_Duyfken_-a.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/A_fireboat_in_Duyfken_-a.jpg/1920px-A_fireboat_in_Duyfken_-a.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 115,
+    "bright": 119,
+    "contrast": 49,
+    "sharp": 2864
+   },
+   "hash": "0000000000000000001111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111111011111111111111101011111110110000001000000000000000000000000000011110000000000001110000000000000111000000000000000000000000000000111000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ship-fire/baltimore-fireboat-john-frazier-celebrates-fl-cd1e64.jpg",
+   "category": "ship-fire",
+   "title": "Baltimore fireboat John Frazier celebrates fleet week - 181003-N-WX604-0492 (cropped).jpg",
+   "credit": "Joseph E. Montemarano / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Baltimore_fireboat_John_Frazier_celebrates_fleet_week_-_181003-N-WX604-0492_(cropped).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Baltimore_fireboat_John_Frazier_celebrates_fleet_week_-_181003-N-WX604-0492_%28cropped%29.jpg/1920px-Baltimore_fireboat_John_Frazier_celebrates_fleet_week_-_181003-N-WX604-0492_%28cropped%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 52,
+    "bright": 130,
+    "contrast": 62,
+    "sharp": 3661
+   },
+   "hash": "1111111000011111111111100011111111111110001111111111111000111111111111100011111111111110000111110010111000011111001000100000011100000000000000000000011000000000000000000000001000000000000000011111111000000001111111100000000011111110000000001111111000000001",
+   "w": 1280,
+   "h": 710
+  },
+  {
+   "file": "photos/ship-fire/fdny-fireboat-with-statue-of-liberty-jpg-19725d.jpg",
+   "category": "ship-fire",
+   "title": "FDNY fireboat with Statue of Liberty.jpg",
+   "credit": "Cocoaguy / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:FDNY_fireboat_with_Statue_of_Liberty.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FDNY_fireboat_with_Statue_of_Liberty.jpg/1920px-FDNY_fireboat_with_Statue_of_Liberty.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 15,
+    "bright": 197,
+    "contrast": 54,
+    "sharp": 1847
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111100000011111111111111001111111111111111111111111111111111111111111111111111000111111111111000001111111100000000000001110000000000000111000000000000011111100001100011101100000000000100",
+   "w": 1280,
+   "h": 964
+  },
+  {
+   "file": "photos/ship-fire/fireboat-4-28-16-26104075383-jpg-be25e7.jpg",
+   "category": "ship-fire",
+   "title": "Fireboat 4.28.16 (26104075383).jpg",
+   "credit": "Nikolas Midttun from USA / Wikimedia Commons (CC BY 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fireboat_4.28.16_(26104075383).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fireboat_4.28.16_%2826104075383%29.jpg/1920px-Fireboat_4.28.16_%2826104075383%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 76,
+    "bright": 186,
+    "contrast": 52,
+    "sharp": 4172
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111011001111111100000000001000000000011100100000100111101110000000000000000001110000000000001111000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ship-fire/fireboat-duwamish-01-jpg-c13976.jpg",
+   "category": "ship-fire",
+   "title": "Fireboat Duwamish 01.jpg",
+   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fireboat_Duwamish_01.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fireboat_Duwamish_01.jpg/1920px-Fireboat_Duwamish_01.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 58,
+    "bright": 71,
+    "contrast": 51,
+    "sharp": 1982
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111101110111111111110111011111111111101111100000011000001110000101011111111111110100000110111100010000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ship-fire/fireboat-duwamish-03-jpg-8771ff.jpg",
+   "category": "ship-fire",
+   "title": "Fireboat Duwamish 03.jpg",
+   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fireboat_Duwamish_03.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fireboat_Duwamish_03.jpg/1920px-Fireboat_Duwamish_03.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 57,
+    "bright": 110,
+    "contrast": 76,
+    "sharp": 3622
+   },
+   "hash": "0111111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111110111111111110101101111111111011111111111111100010000111111110000000001100111000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
   }
  ]
 }
