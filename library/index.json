@@ -2162,66 +2162,6 @@
    "h": 1067
   },
   {
-   "file": "photos/coast-guard/obion-uscg-jpg-7b372c.jpg",
-   "category": "coast-guard",
-   "title": "Obion(USCG).jpg",
-   "credit": "Joe Schneid, Louisville, KY / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Obion(USCG).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Obion%28USCG%29.jpg/1920px-Obion%28USCG%29.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 25,
-    "bright": 108,
-    "contrast": 45,
-    "sharp": 4465
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111001111111111111100001100101000000000000000000000000001100000000000000000000000000000110000000100000011100000010000111111100000001011011100000000110000000000000011111111111111111111111111111111",
-   "w": 1280,
-   "h": 589
-  },
-  {
-   "file": "photos/coast-guard/uscgc-storis-at-coast-guard-base-seattle-june-c9276b.jpg",
-   "category": "coast-guard",
-   "title": "USCGC Storis at Coast Guard Base Seattle, June 2026.jpg",
-   "credit": "Guywelch2000 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:USCGC_Storis_at_Coast_Guard_Base_Seattle,_June_2026.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/USCGC_Storis_at_Coast_Guard_Base_Seattle%2C_June_2026.jpg/1920px-USCGC_Storis_at_Coast_Guard_Base_Seattle%2C_June_2026.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 140,
-    "bright": 86,
-    "contrast": 49,
-    "sharp": 5316
-   },
-   "hash": "0000000000000000011110000000000000111111110000000001111111100000011111111101011001111111111111001111111111110110111111111100011100000001110001110000000111110000110011111000000000011111000000000001111100000000000111111000000000001111110011100000111111001110",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/coast-guard/2018-spb-coast-guard-ship-01-jpg-e3ac6a.jpg",
-   "category": "coast-guard",
-   "title": "2018 SPb Coast guard ship 01.jpg",
-   "credit": "Andrey Korzun / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2018_SPb_Coast_guard_ship_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2018_SPb_Coast_guard_ship_01.jpg/1920px-2018_SPb_Coast_guard_ship_01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 34,
-    "bright": 134,
-    "contrast": 62,
-    "sharp": 3147
-   },
-   "hash": "1111111111111111111111111111111111111111111111101111111111110000011111111110000000000111111101110000001111111111000000001111111100000000111101110001111101000000001111111110000000000111011000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 910
-  },
-  {
    "file": "photos/coast-guard/2018-spb-coast-guard-ship-02-jpg-f1f824.jpg",
    "category": "coast-guard",
    "title": "2018 SPb Coast guard ship 02.jpg",
@@ -2230,7 +2170,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018_SPb_Coast_guard_ship_02.jpg/1920px-2018_SPb_Coast_guard_ship_02.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 20,
     "bright": 178,
@@ -2250,7 +2190,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2018_SPb_Coast_guard_ship_04.jpg/1920px-2018_SPb_Coast_guard_ship_04.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 21,
     "bright": 176,
@@ -2270,7 +2210,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Coast_guard_boat_in_SPB.jpg/1920px-Coast_guard_boat_in_SPB.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 70,
     "bright": 118,
@@ -2282,46 +2222,6 @@
    "h": 848
   },
   {
-   "file": "photos/navy-escort/edward-duncan-the-explosion-of-the-united-sta-1f8acc.jpg",
-   "category": "navy-escort",
-   "title": "Edward Duncan - The Explosion of the United States Steam Frigate Missouri.jpg",
-   "credit": "Thomas Goldsworthy Dutton / Edward Dunca / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg/1920px-Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 36,
-    "bright": 109,
-    "contrast": 63,
-    "sharp": 1593
-   },
-   "hash": "1111111111111111100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000011000000110000001100000011000000111000001100000011100100110000001100000011000001111000001100000111110000111111111111111111111111111111111",
-   "w": 1280,
-   "h": 1065
-  },
-  {
-   "file": "photos/navy-escort/the-burning-of-the-uss-missouri-in-gibraltar-4680f3.jpg",
-   "category": "navy-escort",
-   "title": "The Burning of the USS Missouri in Gibraltar.jpg",
-   "credit": "Thomas Goldsworthy Dutton / Edward Dunca / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg/1920px-The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 45,
-    "bright": 123,
-    "contrast": 62,
-    "sharp": 2303
-   },
-   "hash": "1111111111111111100000000000000110000000000000011000000000000001100010011000000110001101100000011000110011000001100011101110000110001111111100011110001111011001100110000000000110000000000000011000000001100001100011011111000111111111111111111111111111111111",
-   "w": 1280,
-   "h": 1070
-  },
-  {
    "file": "photos/navy-escort/the-hermione-being-escorted-by-the-uss-mitsch-daccb2.jpg",
    "category": "navy-escort",
    "title": "The Hermione being escorted by the USS Mitscher (DDG-57) (1).jpg",
@@ -2330,7 +2230,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Hermione_being_escorted_by_the_USS_Mitscher_%28DDG-57%29_%281%29.jpg/1920px-The_Hermione_being_escorted_by_the_USS_Mitscher_%28DDG-57%29_%281%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 66,
     "bright": 125,
@@ -2350,7 +2250,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Frigate_Pytlivyy_2012_G2.jpg/1920px-Frigate_Pytlivyy_2012_G2.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 33,
     "bright": 166,
@@ -2370,7 +2270,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Navy_in_Sevastopol_bay_2012_G02.jpg/1920px-Navy_in_Sevastopol_bay_2012_G02.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 56,
     "bright": 178,
@@ -2382,26 +2282,6 @@
    "h": 553
   },
   {
-   "file": "photos/lng-terminal/07647-nor-hammerfest-melkoya-lng-terminal-v-p-9e7f4d.jpg",
-   "category": "lng-terminal",
-   "title": "07647 NOR Hammerfest Melkoya LNG Terminal V-P.jpg",
-   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:07647_NOR_Hammerfest_Melkoya_LNG_Terminal_V-P.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/07647_NOR_Hammerfest_Melkoya_LNG_Terminal_V-P.jpg/1920px-07647_NOR_Hammerfest_Melkoya_LNG_Terminal_V-P.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 56,
-    "bright": 70,
-    "contrast": 37,
-    "sharp": 1381
-   },
-   "hash": "0111111111111111111111111111111111111111111111101111111111111111111111111111111111111111111111001111111111111111111111111111111111111111111111101111111111100000111111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
    "file": "photos/lng-terminal/fsru-schiff-h-egh-esperanza-in-wilhelmshaven-c9c149.jpg",
    "category": "lng-terminal",
    "title": "FSRU-Schiff \"Höegh Esperanza\" in Wilhelmshaven (2024).jpg",
@@ -2410,7 +2290,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FSRU-Schiff_%22H%C3%B6egh_Esperanza%22_in_Wilhelmshaven_%282024%29.jpg/1920px-FSRU-Schiff_%22H%C3%B6egh_Esperanza%22_in_Wilhelmshaven_%282024%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 106,
     "bright": 134,
@@ -2430,7 +2310,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AGAs_LNG-terminal.jpg/1920px-AGAs_LNG-terminal.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 101,
     "bright": 78,
@@ -2442,46 +2322,6 @@
    "h": 853
   },
   {
-   "file": "photos/lng-terminal/figure-1-lng-export-facility-15404529106-jpg-176528.jpg",
-   "category": "lng-terminal",
-   "title": "Figure 1- LNG Export Facility (15404529106).jpg",
-   "credit": "U.S. Government Accountability Office fr / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Figure_1-_LNG_Export_Facility_(15404529106).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Figure_1-_LNG_Export_Facility_%2815404529106%29.jpg/1920px-Figure_1-_LNG_Export_Facility_%2815404529106%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 109,
-    "bright": 172,
-    "contrast": 57,
-    "sharp": 7217
-   },
-   "hash": "1111111111111101000111100011111100000110001111110000101111100100000110111110010000111011010000000011011111100000011101111111000001110111111000000110111111101000000000001110100000001111100101000000111100010100000000000001000000000000000100001111111111111111",
-   "w": 1280,
-   "h": 478
-  },
-  {
-   "file": "photos/lng-terminal/grain-lng-terminal-jpg-9a93ca.jpg",
-   "category": "lng-terminal",
-   "title": "Grain LNG Terminal.jpg",
-   "credit": "Luke McKernan / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Grain_LNG_Terminal.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grain_LNG_Terminal.jpg/1920px-Grain_LNG_Terminal.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 101,
-    "bright": 137,
-    "contrast": 27,
-    "sharp": 901
-   },
-   "hash": "0000000000000000000000000000000011100000000000001111111111000000111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101001101111000100000110011100100000010000000000000000000000",
-   "w": 1280,
-   "h": 632
-  },
-  {
    "file": "photos/lng-terminal/lng-terminal-swinoujscie-20250326-p1034516-jp-e108f1.jpg",
    "category": "lng-terminal",
    "title": "LNG terminal, Swinoujscie (20250326-P1034516).jpg",
@@ -2490,7 +2330,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/LNG_terminal%2C_Swinoujscie_%2820250326-P1034516%29.jpg/1920px-LNG_terminal%2C_Swinoujscie_%2820250326-P1034516%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 87,
     "bright": 142,
@@ -2502,66 +2342,6 @@
    "h": 960
   },
   {
-   "file": "photos/lng-terminal/lng-terminal-canvey-island-jpg-f7ea8e.jpg",
-   "category": "lng-terminal",
-   "title": "LNG terminal Canvey Island.jpg",
-   "credit": "Alnitak3 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LNG_terminal_Canvey_Island.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LNG_terminal_Canvey_Island.jpg/1920px-LNG_terminal_Canvey_Island.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 51,
-    "bright": 144,
-    "contrast": 47,
-    "sharp": 756
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111110111111111110110011111111111011001111111111101100111111111110110011111111110010000111111100000000000000000000000000001111000000000000001110000000010000000000000000000000000000000",
-   "w": 1280,
-   "h": 576
-  },
-  {
-   "file": "photos/lng-terminal/lng-terminal-ship-jpg-695fd5.jpg",
-   "category": "lng-terminal",
-   "title": "Lng terminal ship.jpg",
-   "credit": "Uberprutser / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Lng_terminal_ship.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lng_terminal_ship.jpg/1920px-Lng_terminal_ship.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 26,
-    "bright": 143,
-    "contrast": 30,
-    "sharp": 2050
-   },
-   "hash": "1111111111111111111111111111111111111111111101111111111111111111110111111011111111010101000111111101100100111111111110010000011011100000000001000100000000000100000000000100000000000000000000000000000000000110000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/lng-terminal/national-grid-grain-lng-terminal-jpg-8687a4.jpg",
-   "category": "lng-terminal",
-   "title": "National Grid, Grain LNG Terminal.jpg",
-   "credit": "Luke McKernan / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:National_Grid,_Grain_LNG_Terminal.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/National_Grid%2C_Grain_LNG_Terminal.jpg/1920px-National_Grid%2C_Grain_LNG_Terminal.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 88,
-    "bright": 133,
-    "contrast": 57,
-    "sharp": 5616
-   },
-   "hash": "1111111111111111111111111111111111111110111111111111111010111111111110001000111111111000100011111111100010001111111110001000111111111000111011110000000011100100000000001010000000000000111110000000000011111000000000001111100000000100111110000000001111000000",
-   "w": 1280,
-   "h": 592
-  },
-  {
    "file": "photos/lng-terminal/negishi-lng-terminal-01-jpg-e72fa7.jpg",
    "category": "lng-terminal",
    "title": "Negishi LNG Terminal 01.jpg",
@@ -2570,7 +2350,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Negishi_LNG_Terminal_01.jpg/1920px-Negishi_LNG_Terminal_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 41,
     "bright": 131,
@@ -2580,66 +2360,6 @@
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111110000000011111111000000001111000000000000111100000001000011101100000000001110000000000000110000000000001110000000000000100000000000000000000000000000000000000000000000000000000000000000",
    "w": 1280,
    "h": 853
-  },
-  {
-   "file": "photos/lng-terminal/president-trump-visits-cameron-lng-export-ter-ac727a.jpg",
-   "category": "lng-terminal",
-   "title": "President Trump Visits Cameron LNG Export Terminal (40884405043).jpg",
-   "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:President_Trump_Visits_Cameron_LNG_Export_Terminal_(40884405043).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/President_Trump_Visits_Cameron_LNG_Export_Terminal_%2840884405043%29.jpg/1920px-President_Trump_Visits_Cameron_LNG_Export_Terminal_%2840884405043%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 46,
-    "bright": 157,
-    "contrast": 78,
-    "sharp": 5760
-   },
-   "hash": "1111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000011111111000011001111111100110000111111111111000011011111111111101001000111111110100100011111111010010001100000000000000001111111011111110111100000111000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/lng-terminal/swans-and-grain-lng-terminal-jpg-1bab70.jpg",
-   "category": "lng-terminal",
-   "title": "Swans and Grain LNG Terminal.jpg",
-   "credit": "Luke McKernan / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Swans_and_Grain_LNG_Terminal.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Swans_and_Grain_LNG_Terminal.jpg/1920px-Swans_and_Grain_LNG_Terminal.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 46,
-    "bright": 143,
-    "contrast": 71,
-    "sharp": 1423
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000011100001110000001111111111110000111111111111100000010011111000000000001111000000000001101000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 571
-  },
-  {
-   "file": "photos/lng-terminal/terminal-lng-winouj-cie-nabrze-e-kapita-skie-c09ab7.jpg",
-   "category": "lng-terminal",
-   "title": "Terminal LNG Świnoujście - Nabrzeże Kapitańskie.jpg",
-   "credit": "Maciek Kwiatkowski / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_Nabrze%C5%BCe_Kapita%C5%84skie.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_Nabrze%C5%BCe_Kapita%C5%84skie.jpg/1920px-Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_Nabrze%C5%BCe_Kapita%C5%84skie.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 76,
-    "bright": 133,
-    "contrast": 34,
-    "sharp": 1843
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111110010001000011000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 596
   },
   {
    "file": "photos/lng-terminal/terminal-lng-winouj-cie-brama-wjazdowa-jpg-e8b0f5.jpg",
