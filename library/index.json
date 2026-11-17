@@ -3410,7 +3410,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fireboat_4.28.16_%2826104075383%29.jpg/1920px-Fireboat_4.28.16_%2826104075383%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 76,
     "bright": 186,
@@ -3422,66 +3422,6 @@
    "h": 853
   },
   {
-   "file": "photos/ship-fire/fireboat-duwamish-01-jpg-c13976.jpg",
-   "category": "ship-fire",
-   "title": "Fireboat Duwamish 01.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Fireboat_Duwamish_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fireboat_Duwamish_01.jpg/1920px-Fireboat_Duwamish_01.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 58,
-    "bright": 71,
-    "contrast": 51,
-    "sharp": 1982
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111101110111111111110111011111111111101111100000011000001110000101011111111111110100000110111100010000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/ship-fire/fireboat-duwamish-03-jpg-8771ff.jpg",
-   "category": "ship-fire",
-   "title": "Fireboat Duwamish 03.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Fireboat_Duwamish_03.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fireboat_Duwamish_03.jpg/1920px-Fireboat_Duwamish_03.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 57,
-    "bright": 110,
-    "contrast": 76,
-    "sharp": 3622
-   },
-   "hash": "0111111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111110111111111110101101111111111011111111111111100010000111111110000000001100111000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/rescue/ch-sz-stoos-fronalpstock-sequence-rescue-heli-15a890.jpg",
-   "category": "rescue",
-   "title": "CH.SZ.Stoos Fronalpstock Sequence Rescue-Helicopter REGA 16K 16x9-R.jpg",
-   "credit": "Roy Egloff / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:CH.SZ.Stoos_Fronalpstock_Sequence_Rescue-Helicopter_REGA_16K_16x9-R.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CH.SZ.Stoos_Fronalpstock_Sequence_Rescue-Helicopter_REGA_16K_16x9-R.jpg/1920px-CH.SZ.Stoos_Fronalpstock_Sequence_Rescue-Helicopter_REGA_16K_16x9-R.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 108,
-    "bright": 128,
-    "contrast": 59,
-    "sharp": 2791
-   },
-   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001111111100110101111111010111110011110000000111001111101001110000111111111101000011111111100100001111111110111110111111111111111111111111111111111111111111111111",
-   "w": 1280,
-   "h": 720
-  },
-  {
    "file": "photos/rescue/kommuna-rescue-ship-2009-g3-jpg-ea321f.jpg",
    "category": "rescue",
    "title": "Kommuna rescue ship 2009 G3.jpg",
@@ -3490,7 +3430,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kommuna_rescue_ship_2009_G3.jpg/1920px-Kommuna_rescue_ship_2009_G3.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 101,
     "bright": 115,
@@ -3510,7 +3450,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Royal_Air_Force_SAR_Westland_Sea_King_HAR.3_XZ588_Royal_International_Air_Tattoo_2025_01.jpg/1920px-Royal_Air_Force_SAR_Westland_Sea_King_HAR.3_XZ588_Royal_International_Air_Tattoo_2025_01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 47,
     "bright": 186,
@@ -3530,7 +3470,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dover_Lifeboat_City_of_London_II.JPG/1920px-Dover_Lifeboat_City_of_London_II.JPG",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 84,
     "bright": 126,
@@ -3542,46 +3482,6 @@
    "h": 842
   },
   {
-   "file": "photos/rescue/lifeboat-station-sandhammaren-2015-03-29-4708-5263f8.jpg",
-   "category": "rescue",
-   "title": "Lifeboat station Sandhammaren 2015-03-29-4708.jpg",
-   "credit": "Slaunger / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Lifeboat_station_Sandhammaren_2015-03-29-4708.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lifeboat_station_Sandhammaren_2015-03-29-4708.jpg/1920px-Lifeboat_station_Sandhammaren_2015-03-29-4708.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 79,
-    "bright": 123,
-    "contrast": 66,
-    "sharp": 3832
-   },
-   "hash": "1111111111111111111111111111111111111111111111101111111100111110111111101101111111100110001011111100001000110000100001110111100000000110000110000000010000001000000001000000100000000100000010000000010000001000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 926
-  },
-  {
-   "file": "photos/rescue/lifeboat-the-rio-tagus-ship-1979-s-te-cf01-jp-6758ca.jpg",
-   "category": "rescue",
-   "title": "Lifeboat the Rio Tagus (ship, 1979), Sète cf01.jpg",
-   "credit": "Christian Ferrer / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Lifeboat_the_Rio_Tagus_(ship,_1979),_S%C3%A8te_cf01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lifeboat_the_Rio_Tagus_%28ship%2C_1979%29%2C_S%C3%A8te_cf01.jpg/1920px-Lifeboat_the_Rio_Tagus_%28ship%2C_1979%29%2C_S%C3%A8te_cf01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 80,
-    "bright": 136,
-    "contrast": 72,
-    "sharp": 3006
-   },
-   "hash": "1111000000000000101011100010000011111111111000001111111111100000111111111111000011111000111110001111100000001000111010000000000011111000000000001111110000000000111111000000000111110100000000011111100100000101100110011000001100011100100000110001110000000011",
-   "w": 1280,
-   "h": 854
-  },
-  {
    "file": "photos/rescue/minehead-lifeboat-d-712-christine-at-sea-jpg-ad1bf4.jpg",
    "category": "rescue",
    "title": "Minehead Lifeboat D-712 Christine at sea.jpg",
@@ -3590,7 +3490,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Minehead_Lifeboat_D-712_Christine_at_sea.jpg/1920px-Minehead_Lifeboat_D-712_Christine_at_sea.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 15,
     "bright": 161,
@@ -3602,66 +3502,6 @@
    "h": 960
   },
   {
-   "file": "photos/rescue/st-mary-s-lifeboat-station-july-2026-01-jpg-02bcfa.jpg",
-   "category": "rescue",
-   "title": "St Mary's Lifeboat Station July 2026 01.jpg",
-   "credit": "ArildV / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Lifeboat_Station_July_2026_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St_Mary%27s_Lifeboat_Station_July_2026_01.jpg/1920px-St_Mary%27s_Lifeboat_Station_July_2026_01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 82,
-    "bright": 155,
-    "contrast": 47,
-    "sharp": 2983
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100011111111111000000000000000000000000000000000000000000000000000000000000000000001100000000000011110000000001111111000001111111111111111111111111001111111111111111",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/rescue/sumner-lifeboat-station-sumner-christchurch-c-3bc542.jpg",
-   "category": "rescue",
-   "title": "Sumner Lifeboat Station, Sumner, Christchurch, Canterbury, New Zealand.jpg",
-   "credit": "Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Sumner_Lifeboat_Station,_Sumner,_Christchurch,_Canterbury,_New_Zealand.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sumner_Lifeboat_Station%2C_Sumner%2C_Christchurch%2C_Canterbury%2C_New_Zealand.jpg/1920px-Sumner_Lifeboat_Station%2C_Sumner%2C_Christchurch%2C_Canterbury%2C_New_Zealand.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 88,
-    "bright": 115,
-    "contrast": 52,
-    "sharp": 5907
-   },
-   "hash": "1111111110000000111111110100000011111110000001111111111000000010111111100011100100000010011000001111111111100000000011111111111111111111111110001111111101000000111111100000000011000110001000000000111000000000111100000000000011000000000000000000000000000000",
-   "w": 1280,
-   "h": 845
-  },
-  {
-   "file": "photos/rescue/sumner-lifeboat-station-sumner-christchurch-c-664fe5.jpg",
-   "category": "rescue",
-   "title": "Sumner Lifeboat Station, Sumner, Christchurch, Canterbury, New Zealand 07.jpg",
-   "credit": "Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Sumner_Lifeboat_Station,_Sumner,_Christchurch,_Canterbury,_New_Zealand_07.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sumner_Lifeboat_Station%2C_Sumner%2C_Christchurch%2C_Canterbury%2C_New_Zealand_07.jpg/1920px-Sumner_Lifeboat_Station%2C_Sumner%2C_Christchurch%2C_Canterbury%2C_New_Zealand_07.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 72,
-    "bright": 111,
-    "contrast": 44,
-    "sharp": 3948
-   },
-   "hash": "1111111111111111111111111111111011111111111111001111111111111000111111111100010011111111110000001111111111000000111111111000011000000000000000000000000000000000000000011000000000000000000000001000001100000000000000000000000011110000000000001100000000000000",
-   "w": 1280,
-   "h": 794
-  },
-  {
    "file": "photos/rescue/weston-super-mare-inshore-rescue-boat-d696-an-c3ab40.jpg",
    "category": "rescue",
    "title": "Weston-super-Mare inshore rescue boat D696 Anna Stock.jpg",
@@ -3670,7 +3510,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Weston-super-Mare_inshore_rescue_boat_D696_Anna_Stock.jpg/1920px-Weston-super-Mare_inshore_rescue_boat_D696_Anna_Stock.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 40,
     "bright": 118,
@@ -3690,7 +3530,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Weymouth_Lifeboat_17-32_Ernest_and_Mabel_crossing_Weymouth_Bay.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 35,
     "bright": 147,
@@ -3710,7 +3550,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rescue_exercise_RCA_2012.jpg/1920px-Rescue_exercise_RCA_2012.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 125,
     "bright": 82,
@@ -3722,146 +3562,6 @@
    "h": 772
   },
   {
-   "file": "photos/rescue/air-sea-rescue-falmouth-jpg-31139b.jpg",
-   "category": "rescue",
-   "title": "Air-sea-rescue-falmouth.jpg",
-   "credit": "Tim Green aka atoach / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Air-sea-rescue-falmouth.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Air-sea-rescue-falmouth.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 77,
-    "bright": 172,
-    "contrast": 45,
-    "sharp": 665
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111110000111111111110000000000111111100000000111111111111111111111111110010111111111111110011011001001000000000000000000000010000000000000000000000000000000000000000000000000010000000000000000",
-   "w": 1280,
-   "h": 1280
-  },
-  {
-   "file": "photos/rescue/december-2023-surf-rescue-in-enoshima-jpg-7a054e.jpg",
-   "category": "rescue",
-   "title": "December 2023, surf rescue in Enoshima.jpg",
-   "credit": "Syced / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:December_2023,_surf_rescue_in_Enoshima.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/December_2023%2C_surf_rescue_in_Enoshima.jpg/1920px-December_2023%2C_surf_rescue_in_Enoshima.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 75,
-    "bright": 142,
-    "contrast": 61,
-    "sharp": 3462
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110100101111111111000010011111111000000000000011000000000000000000000000000000011100000000000000110000000000000011000000000011111000000000011111110000000011111100",
-   "w": 1280,
-   "h": 964
-  },
-  {
-   "file": "photos/rescue/december-2023-surf-rescue-in-enoshima-3-jpg-e784a2.jpg",
-   "category": "rescue",
-   "title": "December 2023, surf rescue in Enoshima 3.jpg",
-   "credit": "Syced / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:December_2023,_surf_rescue_in_Enoshima_3.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/December_2023%2C_surf_rescue_in_Enoshima_3.jpg/1920px-December_2023%2C_surf_rescue_in_Enoshima_3.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 73,
-    "bright": 127,
-    "contrast": 72,
-    "sharp": 1781
-   },
-   "hash": "1111111111111111111111111111111111111111111111110111111111111111011111111111111111111011101111100111000000111100011000000001100000000000000111000000000000001100000000000011001000000000000000000001100000000000000000000000000000000000000000001000000011100100",
-   "w": 1280,
-   "h": 964
-  },
-  {
-   "file": "photos/rescue/gafirs-sea-rescue-demonstration-1-geograph-or-7f4ce9.jpg",
-   "category": "rescue",
-   "title": "GAFIRS sea rescue demonstration (1) - geograph.org.uk - 3799178.jpg",
-   "credit": "Barry Shimmon / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:GAFIRS_sea_rescue_demonstration_(1)_-_geograph.org.uk_-_3799178.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/GAFIRS_sea_rescue_demonstration_%281%29_-_geograph.org.uk_-_3799178.jpg/1920px-GAFIRS_sea_rescue_demonstration_%281%29_-_geograph.org.uk_-_3799178.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 83,
-    "bright": 142,
-    "contrast": 52,
-    "sharp": 1817
-   },
-   "hash": "1111111100000000111111111000000011111110011100001111100000111100111111000011111111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000000000010111110000000000000000000000000000000000000000000000000000000000000001000000000",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/rescue/gafirs-sea-rescue-demonstration-2-geograph-or-76d85b.jpg",
-   "category": "rescue",
-   "title": "GAFIRS sea rescue demonstration (2) - geograph.org.uk - 3799189.jpg",
-   "credit": "Barry Shimmon / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:GAFIRS_sea_rescue_demonstration_(2)_-_geograph.org.uk_-_3799189.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/GAFIRS_sea_rescue_demonstration_%282%29_-_geograph.org.uk_-_3799189.jpg/1920px-GAFIRS_sea_rescue_demonstration_%282%29_-_geograph.org.uk_-_3799189.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 90,
-    "bright": 145,
-    "contrast": 48,
-    "sharp": 1370
-   },
-   "hash": "1111100000000000111000000111000011110000001111101111110000111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000111010001100000000000000000000",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/rescue/gafirs-sea-rescue-demonstration-3-geograph-or-e468d8.jpg",
-   "category": "rescue",
-   "title": "GAFIRS sea rescue demonstration (3) - geograph.org.uk - 3799210.jpg",
-   "credit": "Barry Shimmon / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:GAFIRS_sea_rescue_demonstration_(3)_-_geograph.org.uk_-_3799210.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/GAFIRS_sea_rescue_demonstration_%283%29_-_geograph.org.uk_-_3799210.jpg/1920px-GAFIRS_sea_rescue_demonstration_%283%29_-_geograph.org.uk_-_3799210.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 75,
-    "bright": 165,
-    "contrast": 55,
-    "sharp": 2146
-   },
-   "hash": "1111111111111111111111111111111111111110011111111111111001111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000000000000000001000011000000001111000000000000000000000000000000000000000000000000000000000100",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/rescue/poised-for-land-and-sea-rescue-geograph-org-u-9b0f4c.jpg",
-   "category": "rescue",
-   "title": "Poised for land and sea rescue - geograph.org.uk - 3678333.jpg",
-   "credit": "Neil Owen / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Poised_for_land_and_sea_rescue_-_geograph.org.uk_-_3678333.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Poised_for_land_and_sea_rescue_-_geograph.org.uk_-_3678333.jpg/1920px-Poised_for_land_and_sea_rescue_-_geograph.org.uk_-_3678333.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 87,
-    "bright": 142,
-    "contrast": 43,
-    "sharp": 1966
-   },
-   "hash": "0000110000111011100111001111111111111111111111111110111111111111100000011111111110000001111111110000000111111111000000001111111100000000011111110000000001111111110000010111111111111111111110010011111111100011111111111011111111111111111111111111111111111111",
-   "w": 1280,
-   "h": 947
-  },
-  {
    "file": "photos/rescue/rescue-ragnhild-jpg-734cde.jpg",
    "category": "rescue",
    "title": "Rescue Ragnhild.jpg",
@@ -3870,7 +3570,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rescue_Ragnhild.jpg/1920px-Rescue_Ragnhild.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 111,
     "bright": 68,
