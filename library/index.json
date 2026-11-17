@@ -16260,6 +16260,366 @@
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111111011111111111111001000000111111100000000001100000000000000000000000000000000",
    "w": 1280,
    "h": 960
+  },
+  {
+   "file": "photos/vlcc/2022-09-04-01-acadian-imo-9298715-tanker-st-j-6551e8.jpg",
+   "category": "vlcc",
+   "title": "2022-09-04 01 ACADIAN - IMO 9298715 tanker – St. John’s NL Canada.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg/1920px-2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 113,
+    "bright": 101,
+    "contrast": 46,
+    "sharp": 2655
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000001001110000000000010111000011111111111100000111111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/vlcc/2022-09-04-02-acadian-imo-9298715-tanker-st-j-d975e3.jpg",
+   "category": "vlcc",
+   "title": "2022-09-04 02 ACADIAN - IMO 9298715 tanker – St. John’s NL Canada.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-09-04_02_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2022-09-04_02_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg/1920px-2022-09-04_02_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 89,
+    "bright": 100,
+    "contrast": 45,
+    "sharp": 2923
+   },
+   "hash": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111100111111110000000000011111000000000000000000000000000000000000110000011000000000001011110000111111111110000000001111110000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/vlcc/sandakan-sabah-tanker-glafkos-anchoring-in-sa-adbaec.jpg",
+   "category": "vlcc",
+   "title": "Sandakan Sabah Tanker-GLAFKOS-anchoring-in-Sandakan-Bay-01.jpg",
+   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Tanker-GLAFKOS-anchoring-in-Sandakan-Bay-01.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sandakan_Sabah_Tanker-GLAFKOS-anchoring-in-Sandakan-Bay-01.jpg/1920px-Sandakan_Sabah_Tanker-GLAFKOS-anchoring-in-Sandakan-Bay-01.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 28,
+    "bright": 166,
+    "contrast": 41,
+    "sharp": 1330
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111011110000000000000000000000000000000011011111111001001100000000000010110000000000001011111111000000001111111111000000000011110000000000011110000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/vlcc/anna-chemical-oil-tanker-imo-7384986-on-de-le-ebc06e.jpg",
+   "category": "vlcc",
+   "title": "Anna Chemical Oil tanker - IMO 7384986 on Deûle (3).jpg",
+   "credit": "Pierre André Leclercq / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Anna_Chemical_Oil_tanker_-_IMO_7384986_on_De%C3%BBle_(3).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Anna_Chemical_Oil_tanker_-_IMO_7384986_on_De%C3%BBle_%283%29.jpg/1920px-Anna_Chemical_Oil_tanker_-_IMO_7384986_on_De%C3%BBle_%283%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 41,
+    "bright": 141,
+    "contrast": 84,
+    "sharp": 6230
+   },
+   "hash": "1111111111111011111111111111101111111111110000001111111111000000111110001100000011111000010000001111100000000000010110000000000000000000000000000000000000011110100000000011000011000000000000001111110000000011111111101010111111111110111011111111111010001011",
+   "w": 1280,
+   "h": 470
+  },
+  {
+   "file": "photos/vlcc/crude-oil-tanker-in-port-arthur-texas-jpg-a63ea3.jpg",
+   "category": "vlcc",
+   "title": "Crude Oil Tanker in Port Arthur, Texas.jpg",
+   "credit": "Quintin Soloviev / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Crude_Oil_Tanker_in_Port_Arthur,_Texas.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Crude_Oil_Tanker_in_Port_Arthur%2C_Texas.jpg/1920px-Crude_Oil_Tanker_in_Port_Arthur%2C_Texas.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 58,
+    "bright": 139,
+    "contrast": 61,
+    "sharp": 2363
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111100000000000001000000000000111111111001111111111110110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 930
+  },
+  {
+   "file": "photos/vlcc/elevation-of-steam-oil-tanker-1901-jpg-d6b543.jpg",
+   "category": "vlcc",
+   "title": "Elevation of steam oil tanker 1901.jpg",
+   "credit": "Walton, Thomas (1868?-1913). / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Elevation_of_steam_oil_tanker_1901.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Elevation_of_steam_oil_tanker_1901.jpg/1920px-Elevation_of_steam_oil_tanker_1901.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 127,
+    "bright": 199,
+    "contrast": 22,
+    "sharp": 3741
+   },
+   "hash": "0111111111110000011111111111000001110000000000001111110000000000111111111101000011111111110000001111111111011000111111100100000000000000000000000000000000000000001011010100000000111000000000001111111111111100111111111111110011111111111110001111111111111000",
+   "w": 1280,
+   "h": 596
+  },
+  {
+   "file": "photos/vlcc/indian-railways-oil-tanker-jpg-4b2b2c.jpg",
+   "category": "vlcc",
+   "title": "Indian Railways Oil Tanker.jpg",
+   "credit": "2006nishan178713 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Indian_Railways_Oil_Tanker.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Indian_Railways_Oil_Tanker.jpg/1920px-Indian_Railways_Oil_Tanker.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 17,
+    "bright": 112,
+    "contrast": 67,
+    "sharp": 1871
+   },
+   "hash": "1111111111111111111111111111111111111111111111110110011111111111000000011111111100000001111111110000000001100111000000000000000100000000000000000000000000001100000000000110001100000001000001110000000000001111000000000001111100000000001111110000000001110110",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/vlcc/jmsdf-oil-tanker-yot-02-aft-jpg-d2d61b.jpg",
+   "category": "vlcc",
+   "title": "JMSDF oil tanker YOT-02 AFT.jpg",
+   "credit": "Sengoku2501 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:JMSDF_oil_tanker_YOT-02_AFT.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JMSDF_oil_tanker_YOT-02_AFT.jpg/1920px-JMSDF_oil_tanker_YOT-02_AFT.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 69,
+    "bright": 135,
+    "contrast": 53,
+    "sharp": 4728
+   },
+   "hash": "1111111001000000011100000000011000000001111111110000011111111111111111111111111111111011111111111111001110111111111100110000111111110001000011111111000000001111110000000000111110000000000000000000000000000000000000000000000010000000000000001111111100000000",
+   "w": 1280,
+   "h": 1041
+  },
+  {
+   "file": "photos/vlcc/jmsdf-oil-tanker-yot-02-fwd-jpg-acf245.jpg",
+   "category": "vlcc",
+   "title": "JMSDF oil tanker YOT-02 FWD.jpg",
+   "credit": "Sengoku2501 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:JMSDF_oil_tanker_YOT-02_FWD.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JMSDF_oil_tanker_YOT-02_FWD.jpg/1920px-JMSDF_oil_tanker_YOT-02_FWD.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 59,
+    "bright": 149,
+    "contrast": 58,
+    "sharp": 4232
+   },
+   "hash": "0000000011111111000001111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000011110000000000001110000000000000111000000000000011100000000000011110000000000000011000000000000001100000000000000110100000000000011",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/vlcc/jmsdf-oil-tanker-yot-02-midship-jpg-df0e0d.jpg",
+   "category": "vlcc",
+   "title": "JMSDF oil tanker YOT-02 MIDSHIP.jpg",
+   "credit": "Sengoku2501 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:JMSDF_oil_tanker_YOT-02_MIDSHIP.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JMSDF_oil_tanker_YOT-02_MIDSHIP.jpg/1920px-JMSDF_oil_tanker_YOT-02_MIDSHIP.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 54,
+    "bright": 136,
+    "contrast": 48,
+    "sharp": 3972
+   },
+   "hash": "0000000000000000001101100011111011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111001100000000000000000000000000000000000000000000000000000000000000000000000000011111111111111100000011000000110000000100000011",
+   "w": 1280,
+   "h": 727
+  },
+  {
+   "file": "photos/vlcc/jmsdf-oil-tanker-yot-02-view-from-right-rear-091d83.jpg",
+   "category": "vlcc",
+   "title": "JMSDF oil tanker YOT-02 View from right rear.jpg",
+   "credit": "Sengoku2501 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:JMSDF_oil_tanker_YOT-02_View_from_right_rear.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/JMSDF_oil_tanker_YOT-02_View_from_right_rear.jpg/1920px-JMSDF_oil_tanker_YOT-02_View_from_right_rear.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 86,
+    "bright": 155,
+    "contrast": 48,
+    "sharp": 3408
+   },
+   "hash": "1111111111111111111111111111111111111011111111111111101111111111111111111111111111110111111111111111000011111111111000000111111111000000001100011100000000000001100000000000000110000000000000011000000000000011000000000111111100000000111111111110001111111111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/vlcc/oil-tanker-3-44292376492-jpg-7ee85a.jpg",
+   "category": "vlcc",
+   "title": "Oil Tanker 3 (44292376492).jpg",
+   "credit": "Hugh Llewelyn from Keynsham, UK / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_3_(44292376492).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Oil_Tanker_3_%2844292376492%29.jpg/1920px-Oil_Tanker_3_%2844292376492%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 36,
+    "bright": 152,
+    "contrast": 46,
+    "sharp": 785
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000001111000000000000000000000000000000000000000000010000000000000011111111110000000111111110000000000111110000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/vlcc/oil-tanker-409-43435415265-jpg-08c836.jpg",
+   "category": "vlcc",
+   "title": "Oil Tanker 409 (43435415265).jpg",
+   "credit": "Hugh Llewelyn from Keynsham, UK / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_409_(43435415265).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oil_Tanker_409_%2843435415265%29.jpg/1920px-Oil_Tanker_409_%2843435415265%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 35,
+    "bright": 144,
+    "contrast": 47,
+    "sharp": 1363
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111101111111111111110011011110000000000000011000000000000001100000000000000000000000001111111111100000111111111111000001111111111000000110111111000000000011110000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/vlcc/oil-tanker-stride-in-colon-panama-2016-0698-j-2ce7fb.jpg",
+   "category": "vlcc",
+   "title": "Oil Tanker Stride in Colon Panama 2016 0698.jpg",
+   "credit": "Paul Harrison / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_Stride_in_Colon_Panama_2016_0698.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Oil_Tanker_Stride_in_Colon_Panama_2016_0698.jpg/1920px-Oil_Tanker_Stride_in_Colon_Panama_2016_0698.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 70,
+    "bright": 140,
+    "contrast": 51,
+    "sharp": 2437
+   },
+   "hash": "1111111111111111111111111111111111111111111111110000101111111000000010000000000000001100000000000000110000011000110011111101110011001110000011001100011000000000100001000000000000000000000000000000000000000000000000000111100000000000111111111111111111111111",
+   "w": 1280,
+   "h": 632
+  },
+  {
+   "file": "photos/vlcc/oil-tanker-sunlight-express-approaching-panam-e68dc6.jpg",
+   "category": "vlcc",
+   "title": "Oil Tanker Sunlight Express Approaching Panama Canal Gatun Locks 2016 0677.jpg",
+   "credit": "Paul Harrison / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_Sunlight_Express_Approaching_Panama_Canal_Gatun_Locks_2016_0677.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Oil_Tanker_Sunlight_Express_Approaching_Panama_Canal_Gatun_Locks_2016_0677.jpg/1920px-Oil_Tanker_Sunlight_Express_Approaching_Panama_Canal_Gatun_Locks_2016_0677.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 56,
+    "bright": 147,
+    "contrast": 37,
+    "sharp": 1417
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111110111111111101111111110000100000000000000000000000000000000010000000000011111110000000011111111111110011100000111111110000000111100000000000110000000010000011111111111111111111111111",
+   "w": 1280,
+   "h": 770
+  },
+  {
+   "file": "photos/vlcc/oil-tanker-in-new-york-harbour-jpg-dfc5d9.jpg",
+   "category": "vlcc",
+   "title": "Oil Tanker in New York Harbour.jpg",
+   "credit": "Paul Harrison / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_in_New_York_Harbour.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oil_Tanker_in_New_York_Harbour.jpg/1920px-Oil_Tanker_in_New_York_Harbour.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 60,
+    "bright": 156,
+    "contrast": 58,
+    "sharp": 2573
+   },
+   "hash": "1111010000000000110001000000000000000000000000000000000000000000000000000000100000000000011010001111111111001111110000001111111111000000010001111110000000000111111000000000011111100000000000111111111000000111111111111100111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 759
+  },
+  {
+   "file": "photos/vlcc/view-of-oil-tanker-in-1972-facing-stern-png-37cd46.jpg",
+   "category": "vlcc",
+   "title": "VIew of Oil Tanker in 1972, facing Stern.png",
+   "credit": "Roger Vreeland / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:VIew_of_Oil_Tanker_in_1972,_facing_Stern.png",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/VIew_of_Oil_Tanker_in_1972%2C_facing_Stern.png/1920px-VIew_of_Oil_Tanker_in_1972%2C_facing_Stern.png",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 56,
+    "bright": 146,
+    "contrast": 73,
+    "sharp": 4574
+   },
+   "hash": "1100111111111101110011111111110111011110111111011101111011111111110111101111110111011110111111011101000000011101000000000000110000000001000011000000001000000000000000100000000000000000000000000000110000000000000011000000000000001000000000000001101010000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/vlcc/petroleum-tanker-leaving-dar-es-salaam-jpg-7d8d00.jpg",
+   "category": "vlcc",
+   "title": "Petroleum tanker leaving Dar es Salaam.jpg",
+   "credit": "Sarvesh Lutchmun / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Petroleum_tanker_leaving_Dar_es_Salaam.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Petroleum_tanker_leaving_Dar_es_Salaam.jpg/1920px-Petroleum_tanker_leaving_Dar_es_Salaam.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 50,
+    "bright": 130,
+    "contrast": 44,
+    "sharp": 2269
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110001110000100000000110000000000000000000000000000000000000000000000000000110000000000010001000000000001100100000000000",
+   "w": 1280,
+   "h": 960
   }
  ]
 }
