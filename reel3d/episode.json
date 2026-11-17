@@ -1,0 +1,21 @@
+{
+ "id": "self-locking-washer",
+ "music": "lightless-dawn",
+ "voice": "en-IN-PrabhatNeural",
+ "rate": "+2%",
+ "caption": "Why don't vibrating bolts shake themselves loose? 🔩⚙️\n\nOn ships, engines, pumps and pipe brackets shake non-stop. Sideways (transverse) vibration makes a nut creep loose — and the classic split spring washer doesn't stop it. A wedge-locking washer pair does: its cam angle is steeper than the thread's pitch angle, so a nut trying to turn loose has to climb the cams and stretch the bolt even more. Locked by geometry, not friction.\n\nFollow @jaimarineshorts for one marine engineering concept every day.\n\n3D animation by Jai Marine Shorts. AI voice.\n\n#marineengineering #mechanicalengineering #engineering #bolts #fasteners #vibration #shipengineering #merchantnavy #marineengineer #seafarer #engineeringexplained #jaimarineshorts",
+ "scenes": [
+  {"shot": 1, "narration": "Pick up a nut and bolt. Tighten it hard. Now shake the joint, again and again... and watch. The nut starts turning by itself.",
+   "labels": [{"text": "WHY DO BOLTS SHAKE LOOSE?", "at": 0.3, "until": 99}]},
+  {"shot": 2, "narration": "The real enemy is sideways vibration. Every time the joint slips sideways, the friction in the threads lets go for an instant, and the nut creeps back a tiny bit.",
+   "labels": [{"text": "TRANSVERSE VIBRATION", "at": 1.0, "until": 99, "arrows": true}]},
+  {"shot": 3, "narration": "The classic fix is the split spring washer. But vibration tests, like the famous Junker test, showed it does not stop this kind of loosening.",
+   "labels": [{"text": "SPLIT SPRING WASHER", "at": 0.8, "until": 99}, {"text": "DOESN'T STOP IT", "at": 6.0, "until": 99, "style": "cross"}]},
+  {"shot": 4, "narration": "Now meet the wedge-locking washer. It comes as a pair. On the inside, the two faces carry matching cams. On the outside, radial teeth bite into the nut and into the joint.",
+   "labels": [{"text": "WEDGE-LOCKING WASHERS", "at": 0.5, "until": 99}, {"text": "CAMS INSIDE", "at": 5.5, "until": 99, "style": "small"}, {"text": "TEETH OUTSIDE", "at": 8.0, "until": 99, "style": "small"}]},
+  {"shot": 5, "narration": "Here is the trick. The cam angle is steeper than the thread's pitch angle. So when the nut tries to turn loose, the washers must ride up the cams, and that stretches the bolt even tighter.",
+   "labels": [{"text": "CAM ANGLE  >  THREAD ANGLE", "at": 1.5, "until": 99}, {"text": "LOOSENING = MORE TENSION", "at": 7.5, "until": 99, "style": "small"}]},
+  {"shot": 6, "narration": "So the joint is locked by geometry, not by friction. Follow Jai Marine Shorts, for one marine engineering secret every day.",
+   "labels": [{"text": "LOCKED BY GEOMETRY", "at": 0.5, "until": 99}, {"text": "NOT FRICTION", "at": 2.5, "until": 99, "style": "small"}]}
+ ]
+}

@@ -1,0 +1,80 @@
+name: 14 - 3D explainer Reel
+on:
+  workflow_dispatch:
+    inputs:
+      episode: {description: "episode json under reel3d/", required: true, default: "episode.json"}
+      scale: {description: "render scale (1 = 1080x1920)", required: false, default: "0.7"}
+      samples: {description: "Cycles samples", required: false, default: "12"}
+permissions:
+  contents: write
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: sudo apt-get install -y -qq ffmpeg > /dev/null && pip install -q edge-tts numpy
+      - run: mkdir -p work && python -u reel3d/voice.py reel3d/${{ github.event.inputs.episode }} work
+      - uses: actions/upload-artifact@v4
+        with: {name: plan, path: work/}
+  render:
+    needs: voice
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        shot: [1, 2, 3, 4, 5, 6]
+        part: [0, 1, 2]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: |
+          sudo apt-get install -y -qq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 > /dev/null
+          pip install -q bpy
+      - uses: actions/download-artifact@v4
+        with: {name: plan, path: work}
+      - name: Render my part of the shot
+        run: |
+          read FR START END < <(python -c "
+          import json,math;p=json.load(open('work/plan.json'));s=p['shots'][${{ matrix.shot }}-1];n=s['frames'];k=math.ceil(n/3)
+          a=${{ matrix.part }}*k+1;b=min(n,a+k-1);print(n,a,b)")
+          echo "frames $FR range $START-$END"
+          python reel3d/washer.py ${{ matrix.shot }} $FR out/shot${{ matrix.shot }} --start $START --end $END --scale ${{ github.event.inputs.scale }} --samples ${{ github.event.inputs.samples }} 2>&1 | grep -vE "WARNING|Fra:|Sample|Denois" | tail -5
+          ls out/shot${{ matrix.shot }} | wc -l
+      - uses: actions/upload-artifact@v4
+        with: {name: "frames-${{ matrix.shot }}-${{ matrix.part }}", path: out/}
+  assemble:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: sudo apt-get install -y -qq ffmpeg > /dev/null && pip install -q pillow requests numpy
+      - uses: actions/download-artifact@v4
+        with: {name: plan, path: work}
+      - uses: actions/download-artifact@v4
+        with: {pattern: "frames-*", path: work, merge-multiple: true}
+      - run: |
+          for d in work/shot*; do echo "$d $(ls $d | wc -l)"; done
+          mkdir -p reel3d/out
+          python -u reel3d/assemble.py reel3d/${{ github.event.inputs.episode }} work reel3d/out/reel.mp4
+      - env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python - <<'PY'
+          import json, sys
+          sys.path.insert(0, ".")
+          from jms import telegram
+          ep = json.load(open("reel3d/${{ github.event.inputs.episode }}"))
+          telegram.send_video("reel3d/out/reel.mp4", f"🎬 3D explainer test: {ep['id']} (AI voice)")
+          telegram.send_album(["reel3d/out/cover.jpg"], "🖼 Thumbnail / cover")
+          telegram.send_text("REEL CAPTION:\n\n" + ep["caption"])
+          PY
+      - run: |
+          git config user.name "jms-bot"; git config user.email "jms-bot@users.noreply.github.com"
+          git add reel3d/out; git commit -m "3D explainer rendered" || true; git pull --rebase && git push
