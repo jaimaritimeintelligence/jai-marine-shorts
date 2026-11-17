@@ -4022,46 +4022,6 @@
    "h": 386
   },
   {
-   "file": "photos/ship-at-sunset/aidluna-caribbean-sunset-jpg-131e3d.jpg",
-   "category": "ship-at-sunset",
-   "title": "AIDluna - Caribbean Sunset.JPG",
-   "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:AIDluna_-_Caribbean_Sunset.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AIDluna_-_Caribbean_Sunset.JPG/1920px-AIDluna_-_Caribbean_Sunset.JPG",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 67,
-    "bright": 100,
-    "contrast": 56,
-    "sharp": 1582
-   },
-   "hash": "1111111111111100111111111111111011111111111111001111111111111100111111111111110011111111111111001111111111111100111111111111110011111111111111000000000111110100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 712
-  },
-  {
-   "file": "photos/ship-at-sunset/a-pier-at-a-campsite-during-sunset-sidney-spi-058801.jpg",
-   "category": "ship-at-sunset",
-   "title": "A pier at a campsite during sunset, Sidney Spit (part of Gulf Islands National Park Reserve), Sidney Island, British Columbia, Canada 20.jpg",
-   "credit": "Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:A_pier_at_a_campsite_during_sunset,_Sidney_Spit_(part_of_Gulf_Islands_National_Park_Reserve),_Sidney_Island,_British_Columbia,_Canada_20.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/A_pier_at_a_campsite_during_sunset%2C_Sidney_Spit_%28part_of_Gulf_Islands_National_Park_Reserve%29%2C_Sidney_Island%2C_British_Columbia%2C_Canada_20.jpg/1920px-A_pier_at_a_campsite_during_sunset%2C_Sidney_Spit_%28part_of_Gulf_Islands_National_Park_Reserve%29%2C_Sidney_Island%2C_British_Columbia%2C_Canada_20.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 76,
-    "bright": 115,
-    "contrast": 55,
-    "sharp": 2803
-   },
-   "hash": "0000011111111111111011111111111111111111111111111111111111111111111111111111111011111111111111111111111111111111000000000001111100000011111001111111111110000011011110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 733
-  },
-  {
    "file": "photos/ship-at-sunset/abou-karim-ii-ship-1979-s-te-harbour-sunset-0-9e4823.jpg",
    "category": "ship-at-sunset",
    "title": "Abou Karim II (ship, 1979), Sète Harbour Sunset 01.jpg",
@@ -4070,7 +4030,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Abou_Karim_II_%28ship%2C_1979%29%2C_S%C3%A8te_Harbour_Sunset_01.jpg/1920px-Abou_Karim_II_%28ship%2C_1979%29%2C_S%C3%A8te_Harbour_Sunset_01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 43,
     "bright": 119,
@@ -4090,7 +4050,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_storm_at_Pors-Loubous.jpg/1920px-A_storm_at_Pors-Loubous.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 77,
     "bright": 128,
@@ -4110,7 +4070,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hestskj%C3%A6r_fyr_i_storm_fra_Nordvest.jpg/1920px-Hestskj%C3%A6r_fyr_i_storm_fra_Nordvest.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 74,
     "bright": 138,
@@ -4130,7 +4090,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cooped_up_Fishing_ships_in_the_harbour_of_Lauwersoog_during_the_5-6_december_2013_storm_02.jpg/1920px-Cooped_up_Fishing_ships_in_the_harbour_of_Lauwersoog_during_the_5-6_december_2013_storm_02.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 42,
     "bright": 126,
@@ -4140,366 +4100,6 @@
    "hash": "1111111111111100111111111111000011111111111000001111111110000000011111111100000000111111111100000111111110110000011000010000000010000000000000001111111111111111011111111100010100000111110001010000000000100010000011000000000000111110000000001111111110000000",
    "w": 1280,
    "h": 960
-  },
-  {
-   "file": "photos/storm-sea/osv-storm-jpg-123a6f.jpg",
-   "category": "storm-sea",
-   "title": "OSV Storm.jpg",
-   "credit": "GuavaTrain / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:OSV_Storm.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/OSV_Storm.jpg/1920px-OSV_Storm.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 83,
-    "bright": 129,
-    "contrast": 54,
-    "sharp": 3569
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111110011111111111110000011111111111111101111111111111100011111111111100111111111000000111111111100000011000000010000000110000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/storm-sea/staartje-van-storm-gerrit-28-12-2023-actm-01-4ade57.jpg",
-   "category": "storm-sea",
-   "title": "Staartje van storm Gerrit. 28-12-2023. (actm.) 01.jpg",
-   "credit": "Agnes Monkelbaan / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Staartje_van_storm_Gerrit._28-12-2023._(actm.)_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_01.jpg/1920px-Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 52,
-    "bright": 159,
-    "contrast": 58,
-    "sharp": 4905
-   },
-   "hash": "1111111100000111111111111110011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000110001100000000000001000000000000001100000000001111110000000000000010000000000000000010000000000000001110000000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/storm-sea/staartje-van-storm-gerrit-28-12-2023-actm-04-2510a0.jpg",
-   "category": "storm-sea",
-   "title": "Staartje van storm Gerrit. 28-12-2023. (actm.) 04.jpg",
-   "credit": "Agnes Monkelbaan / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Staartje_van_storm_Gerrit._28-12-2023._(actm.)_04.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_04.jpg/1920px-Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_04.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 38,
-    "bright": 152,
-    "contrast": 71,
-    "sharp": 5691
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000111000000000000011100000000000111111000000000111111111000000000011111110000000000101111000000000111000000000000000100000000000000101000000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/storm-sea/staartje-van-storm-gerrit-28-12-2023-actm-05-f98e09.jpg",
-   "category": "storm-sea",
-   "title": "Staartje van storm Gerrit. 28-12-2023. (actm.) 05.jpg",
-   "credit": "Agnes Monkelbaan / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Staartje_van_storm_Gerrit._28-12-2023._(actm.)_05.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_05.jpg/1920px-Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_05.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 39,
-    "bright": 158,
-    "contrast": 58,
-    "sharp": 5118
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111001110111111111000000000000111100000000001111110000000001111110110000000100111111110000000000011110100000000001000111000000100100001100000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 800
-  },
-  {
-   "file": "photos/storm-sea/staartje-van-storm-gerrit-28-12-2023-actm-08-4e0ff2.jpg",
-   "category": "storm-sea",
-   "title": "Staartje van storm Gerrit. 28-12-2023. (actm.) 08.jpg",
-   "credit": "Agnes Monkelbaan / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Staartje_van_storm_Gerrit._28-12-2023._(actm.)_08.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_08.jpg/1920px-Staartje_van_storm_Gerrit._28-12-2023._%28actm.%29_08.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 44,
-    "bright": 169,
-    "contrast": 70,
-    "sharp": 5666
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111001111111111111111111001111000000000000110000000000000011000000000000111100000000011111110000000011111111000000000011111100000000000001110000000000000001",
-   "w": 1280,
-   "h": 596
-  },
-  {
-   "file": "photos/storm-sea/barcelona-ship-in-a-storm-1823-6-william-tur-ec5aba.jpg",
-   "category": "storm-sea",
-   "title": "(Barcelona) Ship in a Storm, 1823-6, William Turner - Tate Britain.jpg",
-   "credit": "Didier Descouens / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:(Barcelona)_Ship_in_a_Storm,_1823-6,_William_Turner_-_Tate_Britain.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%28Barcelona%29_Ship_in_a_Storm%2C_1823-6%2C_William_Turner_-_Tate_Britain.jpg/1920px-%28Barcelona%29_Ship_in_a_Storm%2C_1823-6%2C_William_Turner_-_Tate_Britain.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 27,
-    "bright": 173,
-    "contrast": 37,
-    "sharp": 1658
-   },
-   "hash": "1111111111111111111111000111111111111100000111111111110000000101001100000000000100000000000000010000000000000101000000000111010100000001111110010000001111111111000011111111111100011111111111110000100111111111000000011111111100000000001001110000111111100111",
-   "w": 1280,
-   "h": 1064
-  },
-  {
-   "file": "photos/storm-sea/a-dutch-ship-in-a-storm-rmg-bhc0795-tiff-565a0b.jpg",
-   "category": "storm-sea",
-   "title": "A Dutch Ship in a Storm RMG BHC0795.tiff",
-   "credit": "Matthieu van Plattenberg / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:A_Dutch_Ship_in_a_Storm_RMG_BHC0795.tiff",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_Dutch_Ship_in_a_Storm_RMG_BHC0795.tiff/lossy-page1-1920px-A_Dutch_Ship_in_a_Storm_RMG_BHC0795.tiff.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 120,
-    "bright": 112,
-    "contrast": 74,
-    "sharp": 1384
-   },
-   "hash": "1111111111111111111111111111111100111111111111110001111111111111000011111111111100001111111111110000111111111111000011111111111100011111110111110001111111001111000011111100000000000000010000000000000010000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 911
-  },
-  {
-   "file": "photos/storm-sea/a-ship-caught-in-a-storm-wellcome-v0049618-jp-d52831.jpg",
-   "category": "storm-sea",
-   "title": "A ship caught in a storm Wellcome V0049618.jpg",
-   "credit": "Unknown / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:A_ship_caught_in_a_storm_Wellcome_V0049618.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_ship_caught_in_a_storm_Wellcome_V0049618.jpg/1920px-A_ship_caught_in_a_storm_Wellcome_V0049618.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 105,
-    "bright": 66,
-    "contrast": 52,
-    "sharp": 4904
-   },
-   "hash": "0000000000000000111000000000000011100000001111000100100100111100110111111111010010111111011100001111111100111000111111110000111011111111111111111111111100111110011111100000111000111100001001000111110011000000001111111001000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 812
-  },
-  {
-   "file": "photos/storm-sea/aivazovsky-ship-in-a-storm-jpg-cf281c.jpg",
-   "category": "storm-sea",
-   "title": "Aivazovsky - Ship in a storm.jpg",
-   "credit": "Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Ship_in_a_storm.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aivazovsky_-_Ship_in_a_storm.jpg/1920px-Aivazovsky_-_Ship_in_a_storm.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 135,
-    "bright": 86,
-    "contrast": 44,
-    "sharp": 1417
-   },
-   "hash": "1111111111000011111111111111111110111111111111111111001111001111111110010000011110111100000011111011111000011111111111100000000011000000000000001111000000000000111111110000000000111111111100000010000011000000000000000000000011100000000000001111100000000000",
-   "w": 1280,
-   "h": 837
-  },
-  {
-   "file": "photos/storm-sea/aivazovsky-ship-in-a-storm-cropped-jpg-338b94.jpg",
-   "category": "storm-sea",
-   "title": "Aivazovsky - Ship in a storm (cropped).jpg",
-   "credit": "Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Ship_in_a_storm_(cropped).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aivazovsky_-_Ship_in_a_storm_%28cropped%29.jpg/1920px-Aivazovsky_-_Ship_in_a_storm_%28cropped%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 119,
-    "bright": 82,
-    "contrast": 43,
-    "sharp": 352
-   },
-   "hash": "1111111111111111111111111111111110000111110011111110011100001111111100100000011111111000000011111111110000011111111111000000010000000000000000001100000000000000111011000000000011111110110000001110111111110000110000011000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 875
-  },
-  {
-   "file": "photos/storm-sea/aurora-storm-ship-2015-in-esbjerg-harbour-jpg-5c7cdb.jpg",
-   "category": "storm-sea",
-   "title": "Aurora Storm (ship, 2015) in Esbjerg harbour.jpg",
-   "credit": "Thomas Dahlstrøm Nielsen / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aurora_Storm_(ship,_2015)_in_Esbjerg_harbour.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Aurora_Storm_%28ship%2C_2015%29_in_Esbjerg_harbour.jpg/1920px-Aurora_Storm_%28ship%2C_2015%29_in_Esbjerg_harbour.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 41,
-    "bright": 151,
-    "contrast": 69,
-    "sharp": 1916
-   },
-   "hash": "1111111111111111111111111111111111111111011111111111111101111111111111110111111111111111111111111111110000011111111111000000111111111111000111111111111100011111111111110001111111100100000000010000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/storm-sea/chester-harding-ship-in-storm-66-236-detroit-9e4d74.jpg",
-   "category": "storm-sea",
-   "title": "Chester Harding - Ship in Storm - 66.236 - Detroit Institute of Arts.jpg",
-   "credit": "Chester Harding / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Chester_Harding_-_Ship_in_Storm_-_66.236_-_Detroit_Institute_of_Arts.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chester_Harding_-_Ship_in_Storm_-_66.236_-_Detroit_Institute_of_Arts.jpg/1920px-Chester_Harding_-_Ship_in_Storm_-_66.236_-_Detroit_Institute_of_Arts.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 83,
-    "bright": 101,
-    "contrast": 62,
-    "sharp": 1320
-   },
-   "hash": "1111110000000000111111100000000011111111100000001111111110000000111111110000000011111110000000001111111100000000111111111000000011111111100000001111111111100000111111101110000000010111111000000100011111111000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 1021
-  },
-  {
-   "file": "photos/storm-sea/gh-storm-cat-ship-2014-imo-9663104-port-of-am-e5ef53.jpg",
-   "category": "storm-sea",
-   "title": "GH Storm Cat (ship, 2014) IMO 9663104, Port of Amsterdam pic2.JPG",
-   "credit": "Alf van Beem / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:GH_Storm_Cat_(ship,_2014)_IMO_9663104,_Port_of_Amsterdam_pic2.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/GH_Storm_Cat_%28ship%2C_2014%29_IMO_9663104%2C_Port_of_Amsterdam_pic2.JPG/1920px-GH_Storm_Cat_%28ship%2C_2014%29_IMO_9663104%2C_Port_of_Amsterdam_pic2.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 82,
-    "bright": 135,
-    "contrast": 83,
-    "sharp": 4178
-   },
-   "hash": "1111111111111111111111111111110111111111111111111111111111111111011111111111111101111110111111111111100000011111111110000000111101110000000001100111000000000110000000000000010000000000000001000000000000011100000000000011100000000000000110000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/storm-sea/gh-storm-cat-ship-2014-imo-9663104-port-of-am-91c254.jpg",
-   "category": "storm-sea",
-   "title": "GH Storm Cat (ship, 2014) IMO 9663104, Port of Amsterdam pic3.JPG",
-   "credit": "Alf van Beem / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:GH_Storm_Cat_(ship,_2014)_IMO_9663104,_Port_of_Amsterdam_pic3.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/GH_Storm_Cat_%28ship%2C_2014%29_IMO_9663104%2C_Port_of_Amsterdam_pic3.JPG/1920px-GH_Storm_Cat_%28ship%2C_2014%29_IMO_9663104%2C_Port_of_Amsterdam_pic3.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 84,
-    "bright": 136,
-    "contrast": 80,
-    "sharp": 3558
-   },
-   "hash": "1111111111111110111111111111111011111111111111101111111111111110111111111111111011111000111111101100000000011110100000000000110010000000000011001000000001100100100000000111110000000001111111000000001111110000000000111110000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/storm-sea/ivan-aivazovsky-ship-in-a-storm-jpg-4d0ac6.jpg",
-   "category": "storm-sea",
-   "title": "Ivan Aivazovsky - Ship in a storm.jpg",
-   "credit": "Sefer azeri / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Ivan_Aivazovsky_-_Ship_in_a_storm.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ivan_Aivazovsky_-_Ship_in_a_storm.jpg/1920px-Ivan_Aivazovsky_-_Ship_in_a_storm.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 65,
-    "bright": 131,
-    "contrast": 27,
-    "sharp": 2019
-   },
-   "hash": "1111000000001111110000000000011101000000000001110000000000000111000000000000011100000000000001110000000000000111000000000000111100000000000011110000000000001111100000000000111111111000000011111111111111001111111111111111110011111111111111001111111111111100",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/storm-sea/j-m-w-turner-ship-in-a-storm-b1977-14-13932-y-a705ab.jpg",
-   "category": "storm-sea",
-   "title": "J M W Turner - Ship in a Storm - B1977.14.13932 - Yale Center for British Art.jpg",
-   "credit": "J. M. W. Turner / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:J_M_W_Turner_-_Ship_in_a_Storm_-_B1977.14.13932_-_Yale_Center_for_British_Art.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/J_M_W_Turner_-_Ship_in_a_Storm_-_B1977.14.13932_-_Yale_Center_for_British_Art.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 64,
-    "bright": 138,
-    "contrast": 61,
-    "sharp": 472
-   },
-   "hash": "1111111111111111111111111111111111000000001111111100000000011011100000000000001110000000000000011000000000000001100000000000000110000000000000011000000001000001110000001100000111000000000000011100000000000001100000000000000111111111111111111111111111111111",
-   "w": 1280,
-   "h": 951
-  },
-  {
-   "file": "photos/storm-sea/j-m-w-turner-ship-in-a-storm-b1977-14-8354-ya-bcb261.jpg",
-   "category": "storm-sea",
-   "title": "J M W Turner - Ship in a Storm - B1977.14.8354 - Yale Center for British Art.jpg",
-   "credit": "J. M. W. Turner / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:J_M_W_Turner_-_Ship_in_a_Storm_-_B1977.14.8354_-_Yale_Center_for_British_Art.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/J_M_W_Turner_-_Ship_in_a_Storm_-_B1977.14.8354_-_Yale_Center_for_British_Art.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 55,
-    "bright": 153,
-    "contrast": 66,
-    "sharp": 438
-   },
-   "hash": "1111111111111111111111111111111111000000001111111100000000010111110000000000001111000000000000111100000000000011110000000000001111000000000000111100000001000011110000000000001111000000000000111100000000000011110000000000001111111111111111111111111111111111",
-   "w": 1280,
-   "h": 967
-  },
-  {
-   "file": "photos/storm-sea/kessler-steamer-sailing-ship-storm-sea-tif-b01e79.jpg",
-   "category": "storm-sea",
-   "title": "Kessler steamer sailing ship storm sea.tif",
-   "credit": "Friedrisch August Kessler / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Kessler_steamer_sailing_ship_storm_sea.tif",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kessler_steamer_sailing_ship_storm_sea.tif/lossy-page1-1920px-Kessler_steamer_sailing_ship_storm_sea.tif.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 69,
-    "bright": 113,
-    "contrast": 40,
-    "sharp": 1221
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111000011111111000000011111111100000011111111100000010011111100000000001111100100000000111111110000000000011110000000000000000000100000010011111000000000000001000000000000000000000000",
-   "w": 1280,
-   "h": 875
   },
   {
    "file": "photos/storm-sea/ludolf-bakhuizen-dutch-merchant-ships-in-a-st-863334.jpg",
