@@ -72,3 +72,17 @@ def refresh_token():
                      params={"grant_type": "ig_refresh_token", "access_token": _token()}, timeout=30)
     r.raise_for_status()
     return r.json()
+
+
+def publish_reel(video_url, caption, cover_url=None, share_to_feed=True):
+    """Reel from a public video URL. Instagram fetches and transcodes it; this can take a few minutes."""
+    me = whoami()
+    uid = me["user_id"]
+    params = dict(media_type="REELS", video_url=video_url, caption=caption[:2200], share_to_feed=str(share_to_feed).lower())
+    if cover_url:
+        params["cover_url"] = cover_url
+    c = _post(f"{uid}/media", **params)
+    _wait(c["id"], tries=90)          # up to ~7.5 minutes
+    pub = _post(f"{uid}/media_publish", creation_id=c["id"])
+    link = _get(pub["id"], fields="permalink").get("permalink", "")
+    return pub["id"], link, me.get("username")

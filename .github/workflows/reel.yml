@@ -33,8 +33,8 @@ jobs:
         id: ep
         run: |
           if [ -n "${{ github.event.inputs.episode }}" ]; then E="${{ github.event.inputs.episode }}";
-          else E=$(git diff --name-only HEAD~1 HEAD -- 'reel/episodes/*/episode.json' | head -1 | cut -d/ -f3); fi
-          echo "name=$E" >> $GITHUB_OUTPUT; echo "Episode: $E"
+          else E=$(git diff --name-only HEAD~1 HEAD -- 'reel/episodes/*/episode.json' | cut -d/ -f3 | tr '\n' ' '); fi
+          echo "name=$E" >> $GITHUB_OUTPUT; echo "Episodes: $E"
       - name: Render and send preview to Telegram
         if: steps.ep.outputs.name != ''
         env:
@@ -42,12 +42,11 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TTS_MODE: ${{ github.event.inputs.tts || 'auto' }}
-        run: python -u reel/preview.py reel/episodes/${{ steps.ep.outputs.name }}/episode.json
+        run: for E in ${{ steps.ep.outputs.name }}; do python -u reel/preview.py reel/episodes/$E/episode.json; done
       - name: Save video to the repository
         if: steps.ep.outputs.name != ''
         run: |
-          E=reel/episodes/${{ steps.ep.outputs.name }}
-          rm -f $E/video.mp4 $E/voice.wav $E/music.wav
           git config user.name "jms-bot"; git config user.email "jms-bot@users.noreply.github.com"
-          git add $E; git commit -m "Reel rendered: ${{ steps.ep.outputs.name }}" || echo "nothing"
+          for N in ${{ steps.ep.outputs.name }}; do E=reel/episodes/$N; rm -f $E/video.mp4 $E/voice.wav $E/music.wav; git add $E; done
+          git commit -m "Reel rendered: ${{ steps.ep.outputs.name }}" || echo "nothing"
           git pull --rebase && git push

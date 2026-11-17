@@ -9,7 +9,7 @@ import numpy as np
 ROOT = Path(__file__).resolve().parent
 SR = 24000
 FPS = 30
-PAD_AFTER = 0.45          # silence after each scene's narration
+PAD_AFTER = 0.30          # silence after each scene's narration
 PAD_FIRST = 0.30
 
 
@@ -59,7 +59,7 @@ def _edge_tts(text):
     import asyncio, edge_tts, tempfile
     voice = os.environ.get("EDGE_VOICE", "en-IN-PrabhatNeural")
     tmp = tempfile.mktemp(suffix=".mp3")
-    asyncio.run(edge_tts.Communicate(text, voice, rate="-4%", pitch="-4Hz").save(tmp))
+    asyncio.run(edge_tts.Communicate(text, voice, rate=os.environ.get("EDGE_RATE", "+6%"), pitch="-3Hz").save(tmp))
     raw = subprocess.run(["ffmpeg", "-v", "error", "-i", tmp, "-f", "s16le", "-ac", "1", "-ar", str(SR), "-"],
                          capture_output=True, check=True).stdout
     print(f"  tts ok via edge {voice}", flush=True)

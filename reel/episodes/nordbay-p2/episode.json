@@ -1,0 +1,374 @@
+{
+ "id": "nordbay-p2",
+ "kicker": "NORDBAY · NEW ORLEANS · PART 2 OF 2",
+ "caption": "PART 2/2 — 53 minutes after the first hit, Nordbay struck New Orleans again. ⚠️🚢\n\nDamaged and still moving, the empty Aframax had to round Algiers Point. Tugs were turned away, the master was on the phone — and at 23:06 she hit the Mandeville Street Wharf. Total damage: about $6.4 million.\n\nNTSB lessons: a pilot on board never removes the master's duty to navigate safely, and no call is more important than a ship still under way.\n\nWhat would you have done? 👇\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #neworleans #mississippiriver #seafarer #merchantnavy #bridgeteam #NTSB #maritimesafety #jaimarineshorts",
+ "scenes": [
+  {
+   "type": "card",
+   "headline": "[Previously...]",
+   "p": {
+    "items": [
+     "Empty tanker · river running high",
+     "22:13 — hit a dock and the city's water intakes",
+     "Ballast tank No. 6 holed"
+    ],
+    "hl": 1,
+    "y": 560,
+    "step": 0.9
+   },
+   "narration": "Previously. An empty tanker, a river running high, and a dock destroyed at Nine-Mile Point. Nordbay is damaged... but still moving."
+  },
+  {
+   "type": "river",
+   "clock": [
+    "22:18",
+    "22:58"
+   ],
+   "headline": "Plan: [anchor] below Algiers Point.",
+   "sub": "Tugs requested · relief pilot arranged",
+   "p": {
+    "path": [
+     [
+      80,
+      20
+     ],
+     [
+      170,
+      170
+     ],
+     [
+      150,
+      330
+     ],
+     [
+      260,
+      450
+     ],
+     [
+      470,
+      470
+     ],
+     [
+      640,
+      400
+     ],
+     [
+      800,
+      330
+     ],
+     [
+      920,
+      420
+     ],
+     [
+      930,
+      600
+     ],
+     [
+      820,
+      780
+     ]
+    ],
+    "from": 0.02,
+    "to": 0.62,
+    "width": 140,
+    "bridges": [
+     [
+      640,
+      320,
+      680,
+      500,
+      700,
+      300,
+      "CRESCENT CITY CONNECTION",
+      "middle"
+     ]
+    ],
+    "labels": [
+     [
+      120,
+      470,
+      "Greenville Bend",
+      null,
+      24,
+      "middle"
+     ],
+     [
+      820,
+      520,
+      "ALGIERS POINT",
+      null,
+      26,
+      "middle"
+     ],
+     [
+      990,
+      250,
+      "LEFT BANK",
+      null,
+      24,
+      "end"
+     ]
+    ],
+    "markers": [
+     {
+      "x": 990,
+      "y": 470,
+      "label": "Mandeville St Wharf",
+      "at": 3,
+      "col": "#FF4D4D",
+      "dx": 20,
+      "dy": 70,
+      "anchor": "end"
+     }
+    ]
+   },
+   "narration": "Twenty-two eighteen. The pilot calls for tugs, and decides to anchor below Algiers Point, a sharp bend in the heart of the city. A relief pilot is arranged."
+  },
+  {
+   "type": "quote",
+   "clock": "22:37",
+   "p": {
+    "text": "Two tugs offer their lines. The pilot [declines.]",
+    "by": "At this speed, he fears dragging them",
+    "size": 66
+   },
+   "narration": "Twenty-two thirty-seven. Two tugs come alongside and offer their lines. The pilot declines. At this speed, he fears dragging them."
+  },
+  {
+   "type": "river",
+   "clock": [
+    "22:58",
+    "23:01"
+   ],
+   "headline": "[22:58] Full ahead.",
+   "sub": "Next: hard starboard around Algiers Point",
+   "p": {
+    "path": [
+     [
+      80,
+      20
+     ],
+     [
+      170,
+      170
+     ],
+     [
+      150,
+      330
+     ],
+     [
+      260,
+      450
+     ],
+     [
+      470,
+      470
+     ],
+     [
+      640,
+      400
+     ],
+     [
+      800,
+      330
+     ],
+     [
+      920,
+      420
+     ],
+     [
+      930,
+      600
+     ],
+     [
+      820,
+      780
+     ]
+    ],
+    "from": 0.55,
+    "to": 0.75,
+    "width": 140,
+    "bridges": [
+     [
+      640,
+      320,
+      680,
+      500,
+      700,
+      300,
+      "CRESCENT CITY CONNECTION",
+      "middle"
+     ]
+    ],
+    "labels": [
+     [
+      820,
+      520,
+      "ALGIERS POINT",
+      null,
+      26,
+      "middle"
+     ],
+     [
+      990,
+      250,
+      "LEFT BANK",
+      null,
+      24,
+      "end"
+     ]
+    ],
+    "markers": [
+     {
+      "x": 990,
+      "y": 470,
+      "label": "Mandeville St Wharf",
+      "at": 0,
+      "col": "#FF4D4D",
+      "dx": 20,
+      "dy": 70,
+      "anchor": "end",
+      "pulse": true
+     }
+    ]
+   },
+   "narration": "Twenty-two fifty-eight. She passes under the Crescent City Connection bridges. Full ahead. Now she must swing hard to starboard, around Algiers Point."
+  },
+  {
+   "type": "phone",
+   "clock": "23:01",
+   "headline": "And the master? [On the phone.]",
+   "sub": "Call with the shipping company",
+   "p": {
+    "who": "ON CALL",
+    "caller": "Company",
+    "chips": [
+     "Hard starboard ordered",
+     "11.2 kn over ground"
+    ],
+    "chipsAt": 1.5
+   },
+   "narration": "And the master? At that very moment, he is on a phone call with the shipping company."
+  },
+  {
+   "type": "quote",
+   "clock": "23:04",
+   "alarm": true,
+   "p": {
+    "text": "Emergency... [as much as you can give me!]",
+    "by": "Pilot, 23:04 — NTSB report",
+    "size": 72
+   },
+   "narration": "Twenty-three oh four. The pilot calls out. Emergency! As much as you can give me! The master ends his call, and orders full sea speed."
+  },
+  {
+   "type": "turn",
+   "clock": [
+    "23:05",
+    "23:06"
+   ],
+   "headline": "[Too late.]",
+   "sub": "Rate of turn falling · danger signal",
+   "p": {
+    "cx": 560,
+    "cy": 1180,
+    "R": 330,
+    "a0": 180,
+    "a1": 330,
+    "shipTo": 290,
+    "drift": 140,
+    "dock": "Mandeville St Wharf",
+    "dockAng": 262,
+    "dockDx": 50,
+    "dockDy": -10,
+    "curLabel": "Current carries her wide",
+    "curLx": 1000,
+    "curLy": 1380,
+    "yawLag": 0,
+    "hit": false
+   },
+   "narration": "Too late. Her rate of turn is falling. Twenty-three oh five. The danger signal sounds again."
+  },
+  {
+   "type": "impact",
+   "clock": "23:06",
+   "headline": "[23:06] Second allision.",
+   "sub": "53 minutes after the first",
+   "p": {
+    "stamp": "IMPACT",
+    "pier": 880,
+    "pierLabel": "Mandeville Street Wharf",
+    "sx": 560,
+    "sy": 925,
+    "ang": 100,
+    "ix": 400,
+    "iy": 905,
+    "chips": [
+     "Unused wooden pier",
+     "Mile 94, left bank"
+    ],
+    "chipsAt": 1.0
+   },
+   "narration": "Twenty-three oh six. Nordbay strikes the Mandeville Street Wharf."
+  },
+  {
+   "type": "card",
+   "headline": "The bill: [$6.4 million].",
+   "p": {
+    "items": [
+     "Barge dock and dolphins destroyed",
+     "City water intakes damaged — still working",
+     "Nordbay: 5 propeller blades damaged, buckled steel aft"
+    ],
+    "y": 560,
+    "step": 1.1
+   },
+   "narration": "Total damage, about six point four million dollars. Nordbay herself had five damaged propeller blades, and buckled steel in her stern."
+  },
+  {
+   "type": "card",
+   "headline": "What the [NTSB] found.",
+   "hsize": 74,
+   "p": {
+    "items": [
+     "Risks of handling an empty ship in high water not properly assessed",
+     "Strong current behind her, turning into the wind",
+     "Bridge team lost track of the ship's position",
+     "2nd hit: master distracted by a phone call"
+    ],
+    "hl": 3,
+    "y": 520,
+    "step": 2.6,
+    "max": 34
+   },
+   "narration": "The NTSB found that the pilot and the master did not properly assess the risks of handling an empty ship in high water, with a strong current behind her, turning into the wind. The bridge team lost track of the ship's position. And for the second hit, the master was distracted by a phone call."
+  },
+  {
+   "type": "card",
+   "headline": "[Lessons] for every bridge.",
+   "p": {
+    "items": [
+     "A pilot on board never removes the master's duty",
+     "After an accident, no call matters more than a ship still moving",
+     "Talk through wind, current and ballast condition before the bend"
+    ],
+    "numbered": true,
+    "y": 560,
+    "step": 3.2,
+    "max": 30
+   },
+   "narration": "The lessons. A pilot on board never removes the master's duty to navigate safely. After an accident, no phone call is more important than a ship that is still moving. And talk through the wind, the current and the ship's condition before the bend, not in it."
+  },
+  {
+   "type": "cta",
+   "p": {
+    "lines": [
+     "WHAT WOULD YOU HAVE DONE?",
+     "Tell us in the [comments]."
+    ]
+   },
+   "narration": "What would you have done on that bridge? Tell me in the comments. And follow Jai Marine Shorts for more case files."
+  }
+ ]
+}
