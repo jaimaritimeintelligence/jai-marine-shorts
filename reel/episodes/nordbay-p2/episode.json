@@ -393,5 +393,7 @@
    },
    "narration": "What would you have done on that bridge? Tell me in the comments. And follow Jai Marine Shorts for more case files."
   }
- ]
+ ],
+ "voice": "human",
+ "queue": true
 }

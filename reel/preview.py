@@ -7,6 +7,17 @@ import render
 from jms import telegram
 
 ep_path = Path(sys.argv[1])
+_ep = json.loads(ep_path.read_text())
+if _ep.get("voice") == "human" and os.environ.get("TTS_MODE") != "human":
+    if not _ep.get("script_sent_unix"):
+        import voice_inbox
+        if voice_inbox.waiting():             # one script at a time, so recordings can't get mixed up
+            _ep["script_pending"] = True; ep_path.write_text(json.dumps(_ep, indent=1, ensure_ascii=False))
+            print("another episode is waiting for a recording; script queued")
+        else:
+            voice_inbox.send_script(ep_path)
+            print("script sent; waiting for the Chief's recording")
+    sys.exit(0)
 final = render.build(ep_path, os.environ.get("TTS_MODE", "auto"))
 ep = json.loads(ep_path.read_text())
 size = final.stat().st_size / 1e6

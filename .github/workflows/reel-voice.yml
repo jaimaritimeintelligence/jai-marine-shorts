@@ -1,0 +1,36 @@
+name: 10 - Pick up Chief's voice recording
+on:
+  schedule:
+    - cron: "11 * * * *"     # hourly
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: jms-reel
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Anything waiting?
+        id: w
+        run: |
+          if grep -l '"awaiting_voice": true' reel/episodes/*/episode.json >/dev/null 2>&1; then echo "go=1" >> $GITHUB_OUTPUT; fi
+      - if: steps.w.outputs.go == '1'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q -r reel/requirements.txt
+      - if: steps.w.outputs.go == '1'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -u reel/voice_run.py
+      - if: steps.w.outputs.go == '1'
+        run: |
+          git config user.name "jms-bot"; git config user.email "jms-bot@users.noreply.github.com"
+          for d in reel/episodes/*/; do rm -f $d/video.mp4 $d/voice.wav $d/music.wav; done
+          git add reel; git commit -m "Reel with Chief's voice" || echo "nothing"
+          git pull --rebase && git push

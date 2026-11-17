@@ -274,6 +274,7 @@
    "narration": "Anyone would think the worst was over. It wasn't. Fifty-three minutes later, Nordbay would hit New Orleans again. Part two, tomorrow. Follow, so you don't miss it."
   }
  ],
- "version": 2,
- "cover_title": "EMPTY TANKER HITS NEW ORLEANS TWICE"
+ "cover_title": "EMPTY TANKER HITS NEW ORLEANS TWICE",
+ "voice": "human",
+ "queue": true
 }

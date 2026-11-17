@@ -203,9 +203,21 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
     ep_path = Path(ep_path); work = ep_path.parent
     ep = json.loads(ep_path.read_text())
     voice = []; words = []; t = PAD_FIRST; impacts = []
+    human = None
+    if mode == "human":
+        import human_voice as hv
+        rec = os.environ["VOICE_FILE"]
+        heard = hv.transcribe(rec); audio = hv.load_audio(rec)
+        per = hv.align(ep["scenes"], heard)
+        human = [hv.cut_scene(audio, w) for w in per]
+        cov = [round(sc["_coverage"], 2) for sc in ep["scenes"]]
+        print("coverage per scene:", cov, flush=True)
+        missing = [i + 1 for i, c in enumerate(cov) if c < 0.6]
+        if missing:
+            raise SystemExit(f"VOICE_MISSING:{missing}")
     for i, sc in enumerate(ep["scenes"]):
         print(f"scene {i+1}/{len(ep['scenes'])} {sc['type']}", flush=True)
-        a = tts(sc["narration"], mode)
+        a = human[i][0] if human else tts(sc["narration"], mode)
         d = len(a) / SR if a is not None else est_duration(sc["narration"])
         lead = PAD_FIRST if i == 0 else 0.0
         sc["_dur"] = round(lead + d + PAD_AFTER + sc.get("extra", 0), 3)
@@ -229,7 +241,10 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
         st = starts[i] + lead
         a = voice[i][1]
         d = len(a) / SR if a is not None else est_duration(sc["narration"])
-        words += word_times(sc["narration"], st, d)
+        if human:
+            words += [{"w": x["w"], "s": round(st + x["s"], 3), "e": round(st + x["e"], 3)} for x in human[i][1]]
+        else:
+            words += word_times(sc["narration"], st, d)
         if a is not None:
             j = int(st * SR); voice_track[j:j + len(a)] += a
         if sc["type"] == "impact":
