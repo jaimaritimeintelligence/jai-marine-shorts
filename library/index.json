@@ -2460,6 +2460,506 @@
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111111011111111111111000111111111111000011111110111000001100111000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000",
    "w": 1280,
    "h": 553
+  },
+  {
+   "file": "photos/lng-terminal/07647-nor-hammerfest-melkoya-lng-terminal-v-p-9e7f4d.jpg",
+   "category": "lng-terminal",
+   "title": "07647 NOR Hammerfest Melkoya LNG Terminal V-P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:07647_NOR_Hammerfest_Melkoya_LNG_Terminal_V-P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/07647_NOR_Hammerfest_Melkoya_LNG_Terminal_V-P.jpg/1920px-07647_NOR_Hammerfest_Melkoya_LNG_Terminal_V-P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 56,
+    "bright": 70,
+    "contrast": 37,
+    "sharp": 1381
+   },
+   "hash": "0111111111111111111111111111111111111111111111101111111111111111111111111111111111111111111111001111111111111111111111111111111111111111111111101111111111100000111111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "file": "photos/lng-terminal/fsru-schiff-h-egh-esperanza-in-wilhelmshaven-c9c149.jpg",
+   "category": "lng-terminal",
+   "title": "FSRU-Schiff \"Höegh Esperanza\" in Wilhelmshaven (2024).jpg",
+   "credit": "JoachimKohler-HB / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:FSRU-Schiff_%22H%C3%B6egh_Esperanza%22_in_Wilhelmshaven_(2024).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FSRU-Schiff_%22H%C3%B6egh_Esperanza%22_in_Wilhelmshaven_%282024%29.jpg/1920px-FSRU-Schiff_%22H%C3%B6egh_Esperanza%22_in_Wilhelmshaven_%282024%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 106,
+    "bright": 134,
+    "contrast": 52,
+    "sharp": 4710
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000111110111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 512
+  },
+  {
+   "file": "photos/lng-terminal/agas-lng-terminal-jpg-fa741e.jpg",
+   "category": "lng-terminal",
+   "title": "AGAs LNG-terminal.jpg",
+   "credit": "Jan Arrhénborg / AGA / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:AGAs_LNG-terminal.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AGAs_LNG-terminal.jpg/1920px-AGAs_LNG-terminal.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 101,
+    "bright": 78,
+    "contrast": 51,
+    "sharp": 3481
+   },
+   "hash": "1000000000000011110001000000001100000111011101111100000111110111111101001111111100001111111111110000111111110000000011101111001100001111001111110000011101011110000000111100111100000001110001110000000001000001000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/lng-terminal/figure-1-lng-export-facility-15404529106-jpg-176528.jpg",
+   "category": "lng-terminal",
+   "title": "Figure 1- LNG Export Facility (15404529106).jpg",
+   "credit": "U.S. Government Accountability Office fr / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Figure_1-_LNG_Export_Facility_(15404529106).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Figure_1-_LNG_Export_Facility_%2815404529106%29.jpg/1920px-Figure_1-_LNG_Export_Facility_%2815404529106%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 109,
+    "bright": 172,
+    "contrast": 57,
+    "sharp": 7217
+   },
+   "hash": "1111111111111101000111100011111100000110001111110000101111100100000110111110010000111011010000000011011111100000011101111111000001110111111000000110111111101000000000001110100000001111100101000000111100010100000000000001000000000000000100001111111111111111",
+   "w": 1280,
+   "h": 478
+  },
+  {
+   "file": "photos/lng-terminal/grain-lng-terminal-jpg-9a93ca.jpg",
+   "category": "lng-terminal",
+   "title": "Grain LNG Terminal.jpg",
+   "credit": "Luke McKernan / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Grain_LNG_Terminal.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grain_LNG_Terminal.jpg/1920px-Grain_LNG_Terminal.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 101,
+    "bright": 137,
+    "contrast": 27,
+    "sharp": 901
+   },
+   "hash": "0000000000000000000000000000000011100000000000001111111111000000111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101001101111000100000110011100100000010000000000000000000000",
+   "w": 1280,
+   "h": 632
+  },
+  {
+   "file": "photos/lng-terminal/lng-terminal-swinoujscie-20250326-p1034516-jp-e108f1.jpg",
+   "category": "lng-terminal",
+   "title": "LNG terminal, Swinoujscie (20250326-P1034516).jpg",
+   "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:LNG_terminal,_Swinoujscie_(20250326-P1034516).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/LNG_terminal%2C_Swinoujscie_%2820250326-P1034516%29.jpg/1920px-LNG_terminal%2C_Swinoujscie_%2820250326-P1034516%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 87,
+    "bright": 142,
+    "contrast": 54,
+    "sharp": 4626
+   },
+   "hash": "1111111111111110111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110110001111111111000000000110001100100000011000000000000000000000000000000000000000000000000111111111111111100000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/lng-terminal/lng-terminal-canvey-island-jpg-f7ea8e.jpg",
+   "category": "lng-terminal",
+   "title": "LNG terminal Canvey Island.jpg",
+   "credit": "Alnitak3 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:LNG_terminal_Canvey_Island.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LNG_terminal_Canvey_Island.jpg/1920px-LNG_terminal_Canvey_Island.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 51,
+    "bright": 144,
+    "contrast": 47,
+    "sharp": 756
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111110111111111110110011111111111011001111111111101100111111111110110011111111110010000111111100000000000000000000000000001111000000000000001110000000010000000000000000000000000000000",
+   "w": 1280,
+   "h": 576
+  },
+  {
+   "file": "photos/lng-terminal/lng-terminal-ship-jpg-695fd5.jpg",
+   "category": "lng-terminal",
+   "title": "Lng terminal ship.jpg",
+   "credit": "Uberprutser / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Lng_terminal_ship.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lng_terminal_ship.jpg/1920px-Lng_terminal_ship.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 26,
+    "bright": 143,
+    "contrast": 30,
+    "sharp": 2050
+   },
+   "hash": "1111111111111111111111111111111111111111111101111111111111111111110111111011111111010101000111111101100100111111111110010000011011100000000001000100000000000100000000000100000000000000000000000000000000000110000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "file": "photos/lng-terminal/national-grid-grain-lng-terminal-jpg-8687a4.jpg",
+   "category": "lng-terminal",
+   "title": "National Grid, Grain LNG Terminal.jpg",
+   "credit": "Luke McKernan / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:National_Grid,_Grain_LNG_Terminal.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/National_Grid%2C_Grain_LNG_Terminal.jpg/1920px-National_Grid%2C_Grain_LNG_Terminal.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 88,
+    "bright": 133,
+    "contrast": 57,
+    "sharp": 5616
+   },
+   "hash": "1111111111111111111111111111111111111110111111111111111010111111111110001000111111111000100011111111100010001111111110001000111111111000111011110000000011100100000000001010000000000000111110000000000011111000000000001111100000000100111110000000001111000000",
+   "w": 1280,
+   "h": 592
+  },
+  {
+   "file": "photos/lng-terminal/negishi-lng-terminal-01-jpg-e72fa7.jpg",
+   "category": "lng-terminal",
+   "title": "Negishi LNG Terminal 01.jpg",
+   "credit": "Σ64 / Wikimedia Commons (CC BY 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Negishi_LNG_Terminal_01.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Negishi_LNG_Terminal_01.jpg/1920px-Negishi_LNG_Terminal_01.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 41,
+    "bright": 131,
+    "contrast": 80,
+    "sharp": 3655
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111110000000011111111000000001111000000000000111100000001000011101100000000001110000000000000110000000000001110000000000000100000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/lng-terminal/president-trump-visits-cameron-lng-export-ter-ac727a.jpg",
+   "category": "lng-terminal",
+   "title": "President Trump Visits Cameron LNG Export Terminal (40884405043).jpg",
+   "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:President_Trump_Visits_Cameron_LNG_Export_Terminal_(40884405043).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/President_Trump_Visits_Cameron_LNG_Export_Terminal_%2840884405043%29.jpg/1920px-President_Trump_Visits_Cameron_LNG_Export_Terminal_%2840884405043%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 46,
+    "bright": 157,
+    "contrast": 78,
+    "sharp": 5760
+   },
+   "hash": "1111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000011111111000011001111111100110000111111111111000011011111111111101001000111111110100100011111111010010001100000000000000001111111011111110111100000111000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/lng-terminal/swans-and-grain-lng-terminal-jpg-1bab70.jpg",
+   "category": "lng-terminal",
+   "title": "Swans and Grain LNG Terminal.jpg",
+   "credit": "Luke McKernan / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Swans_and_Grain_LNG_Terminal.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Swans_and_Grain_LNG_Terminal.jpg/1920px-Swans_and_Grain_LNG_Terminal.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 46,
+    "bright": 143,
+    "contrast": 71,
+    "sharp": 1423
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000011100001110000001111111111110000111111111111100000010011111000000000001111000000000001101000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 571
+  },
+  {
+   "file": "photos/lng-terminal/terminal-lng-winouj-cie-nabrze-e-kapita-skie-c09ab7.jpg",
+   "category": "lng-terminal",
+   "title": "Terminal LNG Świnoujście - Nabrzeże Kapitańskie.jpg",
+   "credit": "Maciek Kwiatkowski / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_Nabrze%C5%BCe_Kapita%C5%84skie.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_Nabrze%C5%BCe_Kapita%C5%84skie.jpg/1920px-Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_Nabrze%C5%BCe_Kapita%C5%84skie.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 76,
+    "bright": 133,
+    "contrast": 34,
+    "sharp": 1843
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111110010001000011000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 596
+  },
+  {
+   "file": "photos/lng-terminal/terminal-lng-winouj-cie-brama-wjazdowa-jpg-e8b0f5.jpg",
+   "category": "lng-terminal",
+   "title": "Terminal LNG Świnoujście - brama wjazdowa.jpg",
+   "credit": "Maciek Kwiatkowski / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_brama_wjazdowa.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_brama_wjazdowa.jpg/1920px-Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_brama_wjazdowa.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 57,
+    "bright": 125,
+    "contrast": 57,
+    "sharp": 5412
+   },
+   "hash": "1111111111111111111110011111111111110001111111111110111111111111110000111111111100000000001111101000000000000000110000000000000011000000000000001100000001000000110000001100000111000000000000001110000000000000111111111111000011111111111111111111111111111111",
+   "w": 1280,
+   "h": 721
+  },
+  {
+   "file": "photos/lng-terminal/terminal-lng-winouj-cie-widok-og-lny-jpg-9a3197.jpg",
+   "category": "lng-terminal",
+   "title": "Terminal LNG Świnoujście - widok ogólny.jpg",
+   "credit": "Maciek Kwiatkowski / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_widok_og%C3%B3lny.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_widok_og%C3%B3lny.jpg/1920px-Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_widok_og%C3%B3lny.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 59,
+    "bright": 141,
+    "contrast": 33,
+    "sharp": 2276
+   },
+   "hash": "0011000000000000000100000000000011011000000011111001101000000111111111111000011000111111100100110000000110101100000000000000000000000000000000000000000111110000111111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 721
+  },
+  {
+   "file": "photos/lng-terminal/terminal-lng-winouj-cie-zbiorniki-jpg-4ffee4.jpg",
+   "category": "lng-terminal",
+   "title": "Terminal LNG Świnoujście - zbiorniki.jpg",
+   "credit": "Maciek Kwiatkowski / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_zbiorniki.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_zbiorniki.jpg/1920px-Terminal_LNG_%C5%9Awinouj%C5%9Bcie_-_zbiorniki.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 47,
+    "bright": 138,
+    "contrast": 48,
+    "sharp": 3542
+   },
+   "hash": "1111111110000011111111111111111111111111111111111111111100011111111111110001111111111111011111111111110011111111111111111111111111111111111111000000000000111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 721
+  },
+  {
+   "file": "photos/lng-terminal/tobu-gas-akita-lng-terminal-jpg-58fb51.jpg",
+   "category": "lng-terminal",
+   "title": "Tobu Gas Akita LNG Terminal.jpg",
+   "credit": "掬茶 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Tobu_Gas_Akita_LNG_Terminal.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tobu_Gas_Akita_LNG_Terminal.jpg/1920px-Tobu_Gas_Akita_LNG_Terminal.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 99,
+    "bright": 127,
+    "contrast": 42,
+    "sharp": 3108
+   },
+   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000111000000010011111000111111111100010011111111111111101111110011111110011111001111111001111100110011100111110111000000011111000100000001110100000001111111000000000000000001",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/lng-terminal/winouj-cie-terminal-lng-26-03-2024-15-21-33-b3bf3f.jpg",
+   "category": "lng-terminal",
+   "title": "Świnoujście - terminal LNG - 26.03.2024 15-21-33.jpg",
+   "credit": "Zwiadowca21 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:%C5%9Awinouj%C5%9Bcie_-_terminal_LNG_-_26.03.2024_15-21-33.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%C5%9Awinouj%C5%9Bcie_-_terminal_LNG_-_26.03.2024_15-21-33.jpg/1920px-%C5%9Awinouj%C5%9Bcie_-_terminal_LNG_-_26.03.2024_15-21-33.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 61,
+    "bright": 131,
+    "contrast": 59,
+    "sharp": 3715
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101000011111000000110000111000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 885
+  },
+  {
+   "file": "photos/lng-terminal/2022-11-13-lng-tankstelle-jpg-674d5f.jpg",
+   "category": "lng-terminal",
+   "title": "2022-11-13 LNG-Tankstelle.JPG",
+   "credit": "Bärbel Miemietz / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-11-13_LNG-Tankstelle.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2022-11-13_LNG-Tankstelle.JPG/1920px-2022-11-13_LNG-Tankstelle.JPG",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 36,
+    "bright": 129,
+    "contrast": 64,
+    "sharp": 2908
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111100011111000000110001010000000011000000110100000000000000010000000000000001011000000000000101100000000000000100000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/lng-terminal/2022-11-13-lng-tankstelle-02-jpg-e575a8.jpg",
+   "category": "lng-terminal",
+   "title": "2022-11-13 LNG-Tankstelle 02.JPG",
+   "credit": "Bärbel Miemietz / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-11-13_LNG-Tankstelle_02.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2022-11-13_LNG-Tankstelle_02.JPG/1920px-2022-11-13_LNG-Tankstelle_02.JPG",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 36,
+    "bright": 126,
+    "contrast": 61,
+    "sharp": 3678
+   },
+   "hash": "1111000000001111111100000000111111110000111001111111111111110000111100111111000011100011111100011110001111110000000000111111000011110011111100000011001111111111000000111111111100000111101111010000000000111101000000000011000000000001100111000011111111111111",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/lng-terminal/exterior-of-the-nigeria-liquefied-natural-gas-7b7935.jpg",
+   "category": "lng-terminal",
+   "title": "Exterior of the Nigeria Liquefied Natural Gas (NLNG) building.jpg",
+   "credit": "Simon ojelabi / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Nigeria_Liquefied_Natural_Gas_(NLNG)_building.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Exterior_of_the_Nigeria_Liquefied_Natural_Gas_%28NLNG%29_building.jpg/1920px-Exterior_of_the_Nigeria_Liquefied_Natural_Gas_%28NLNG%29_building.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 55,
+    "bright": 138,
+    "contrast": 72,
+    "sharp": 5032
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001110001100000011111100110000111111111111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/lng-terminal/figure-1-process-of-obtaining-and-processing-40a4a6.jpg",
+   "category": "lng-terminal",
+   "title": "Figure 1- Process of Obtaining and Processing Liquefied Natural Gas (LNG) for Transport (23647734200).jpg",
+   "credit": "U.S. Government Accountability Office fr / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_(LNG)_for_Transport_(23647734200).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg/1920px-Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 36,
+    "bright": 199,
+    "contrast": 52,
+    "sharp": 6982
+   },
+   "hash": "1111111111000000111111100011011111111100001101110001110000101111000111000000010101111100111000001011110001110000100111000011000010111100000000111111110000000011101100100011101110110010001111111111001110111111111100111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 320
+  },
+  {
+   "file": "photos/lng-terminal/isuzu-giga-lngv-liquefied-natural-gas-vehicle-94f28e.jpg",
+   "category": "lng-terminal",
+   "title": "Isuzu Giga LNGV(Liquefied Natural Gas Vehicle) at Japan Truck Show 2022.png",
+   "credit": "Mj-bird / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Isuzu_Giga_LNGV(Liquefied_Natural_Gas_Vehicle)_at_Japan_Truck_Show_2022.png",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Isuzu_Giga_LNGV%28Liquefied_Natural_Gas_Vehicle%29_at_Japan_Truck_Show_2022.png",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 25,
+    "bright": 112,
+    "contrast": 63,
+    "sharp": 2064
+   },
+   "hash": "0111111110000000001111111100000000110011111000000000000111100000000000001111100000000000111110000000010111111011111111111111111101111101111111111100110111110000010011111000010101011111000011111100011000001111110011000001111111001000000011111100110000001111",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "file": "photos/lng-terminal/marsaxlokk-floating-lng-jpg-1e934c.jpg",
+   "category": "lng-terminal",
+   "title": "Marsaxlokk Floating LNG.jpg",
+   "credit": "Raminagrobis / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Marsaxlokk_Floating_LNG.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Marsaxlokk_Floating_LNG.jpg/1920px-Marsaxlokk_Floating_LNG.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 69,
+    "bright": 163,
+    "contrast": 68,
+    "sharp": 2177
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111101111011111111100000000001100000100100000000000010000010000000001000111000000000110011111000000011001111110000000100111111110000000110001111000000000000000000000001100000000000",
+   "w": 1280,
+   "h": 850
+  },
+  {
+   "file": "photos/lng-terminal/fsru-bhv-jpg-b74bf5.jpg",
+   "category": "lng-terminal",
+   "title": "Fsru-bhv.jpg",
+   "credit": "Hannes Grobe / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fsru-bhv.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Fsru-bhv.jpg/1920px-Fsru-bhv.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 27,
+    "bright": 157,
+    "contrast": 87,
+    "sharp": 2607
+   },
+   "hash": "1111111111111111111111111111111111110111111111111111011111111111111100111111111111111001111111111111100111111111111100000111111111100100001111111100000000000111000000000000001100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 748
   }
  ]
 }
