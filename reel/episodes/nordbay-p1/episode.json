@@ -4,6 +4,27 @@
  "caption": "PART 1/2 — The night an empty tanker hit New Orleans twice. 🚢⚠️\n\n2 Feb 2016: the 817-ft Aframax tanker Nordbay, in ballast, heads down the Mississippi in high water with a strong current behind her and wind on her beam. At Nine-Mile Point she can't make the turn — and strikes a barge dock and the city's water intakes. And the night isn't over…\n\nPart 2 tomorrow. Follow so you don't miss it.\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #mississippiriver #neworleans #seafarer #merchantnavy #marineengineering #NTSB #maritime #shipping_news #jaimarineshorts",
  "scenes": [
   {
+   "type": "hook",
+   "p": {
+    "lines": [
+     "EMPTY TANKER",
+     "HITS [NEW ORLEANS]",
+     "[TWICE] IN ONE NIGHT"
+    ],
+    "sizes": [
+     104,
+     92,
+     92
+    ],
+    "max": 12,
+    "badge": "WHY? WATCH TILL THE END",
+    "circle": true,
+    "hitAt": 2.2,
+    "y": 300
+   },
+   "narration": "Imagine you're on the bridge of this empty tanker. It's ten at night. The river is racing behind you... and she will not turn in time."
+  },
+  {
    "type": "alarm",
    "alarm": true,
    "clock": "22:12",
@@ -15,19 +36,6 @@
     "shakeAt": 2.5
    },
    "narration": "Twenty-two twelve. The engine revs suddenly drop. A strange vibration runs through the hull. One minute later, the bridge alarms go off."
-  },
-  {
-   "type": "title",
-   "p": {
-    "lines": [
-     "ONE NIGHT.",
-     "ONE EMPTY TANKER.",
-     "[TWO HITS.]"
-    ],
-    "tag": "PART 1 OF 2",
-    "size": 88
-   },
-   "narration": "This is the story of the night an empty tanker hit New Orleans... not once, but twice."
   },
   {
    "type": "ship_profile",
@@ -266,5 +274,6 @@
    "narration": "Anyone would think the worst was over. It wasn't. Fifty-three minutes later, Nordbay would hit New Orleans again. Part two, tomorrow. Follow, so you don't miss it."
   }
  ],
- "version": 2
+ "version": 2,
+ "cover_title": "EMPTY TANKER HITS NEW ORLEANS TWICE"
 }

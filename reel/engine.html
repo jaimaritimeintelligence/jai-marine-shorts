@@ -43,6 +43,7 @@ function drawBg(alarm){
   return s;
 }
 function drawHud(sc,t,ep){
+  if(sc.type==='hook')return '';
   const a=appear(t,0,.4);
   let s=`<text x="60" y="100" font-size="30" font-weight="800" fill="${GOLD}" letter-spacing="2">JAI MARINE SHORTS · CASE FILE</text>`;
   s+=`<text x="60" y="1400" font-size="22" font-weight="500" fill="${GREY}" opacity=".8">Illustration, not a reconstruction</text>`;
@@ -91,6 +92,33 @@ function smooth(P,steps=12){ // catmull-rom
   const o=[];for(let i=0;i<P.length-1;i++){const p0=P[i-1]||P[i],p1=P[i],p2=P[i+1],p3=P[i+2]||p2;for(let k=0;k<steps;k++){const t=k/steps,t2=t*t,t3=t2*t;o.push([0,1].map(j=>.5*((2*p1[j])+(-p0[j]+p2[j])*t+(2*p0[j]-5*p1[j]+4*p2[j]-p3[j])*t2+(-p0[j]+3*p1[j]-3*p2[j]+p3[j])*t3)))}}o.push(P[P.length-1]);return o}
 // ---------- visuals ----------
 const V={
+
+ hook(sc,t,d){const p=sc.p||{};let s='';const shake=t>(p.hitAt??1.0)&&t<(p.hitAt??1.0)+1?(Math.random()-.5)*26*Math.exp(-(t-(p.hitAt??1.0))*3):0;
+  s+=`<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050A18"/><stop offset=".45" stop-color="#10284F"/><stop offset=".62" stop-color="#7A2A12"/><stop offset=".66" stop-color="#2A0E08"/><stop offset="1" stop-color="#05070D"/></linearGradient>
+   <radialGradient id="fire" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FFE7A0"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".9"/><stop offset="1" stop-color="#FF2A00" stop-opacity="0"/></radialGradient></defs>`;
+  s+=`<rect width="${W}" height="${H}" fill="url(#sky)"/>`;
+  s+=`<g transform="translate(${shake},${shake*.5})">`;
+  // city skyline on far bank
+  let x=0,seed=3;const rnd=()=>{seed=(seed*9301+49297)%233280;return seed/233280};
+  while(x<W){const w=40+rnd()*90,h=80+rnd()*260;s+=`<rect x="${x}" y="${1180-h}" width="${w}" height="${h}" fill="#050B18"/>`;
+   for(let wy=1180-h+14;wy<1170;wy+=26)for(let wx=x+8;wx<x+w-10;wx+=18)if(rnd()>.62)s+=`<rect x="${wx}" y="${wy}" width="8" height="12" fill="#F2B632" opacity="${.35+rnd()*.5}"/>`;x+=w+4}
+  s+=`<rect x="0" y="1180" width="${W}" height="${H-1180}" fill="#06142B"/>`;
+  for(let i=0;i<22;i++){const yy=1200+i*30,xx=(i*137)%W;s+=`<rect x="${xx}" y="${yy}" width="${60+(i*53)%120}" height="3" fill="#F2B632" opacity=".18"/>`}
+  // pier on right
+  s+=`<rect x="760" y="1150" width="340" height="40" fill="#5A4430"/>`;for(let i=0;i<5;i++)s+=`<rect x="${780+i*64}" y="1190" width="14" height="110" fill="#3D2E20"/>`;
+  // tanker: big, angled, bow into the pier
+  const k=out(t/(p.hitAt??1.0)); s+=`<g transform="translate(${-200+130*k},${60}) rotate(-5 540 1180)">`+shipProfile(60,1180,.95,.3).svg+`</g>`;
+  if(t>(p.hitAt??1.0)){const f=.75+.25*Math.sin(t*23);s+=`<circle cx="800" cy="1150" r="${230*f}" fill="url(#fire)"/>`;
+   for(let i=0;i<14;i++){const a=(i*47%360)*Math.PI/180,r=60+((t*300+i*40)%220);s+=`<circle cx="${800+r*Math.cos(a)}" cy="${1150+r*Math.sin(a)*.7}" r="4" fill="#FFD27A" opacity="${1-r/280}"/>`}}
+  s+=`</g>`;
+  // red alarm vignette
+  s+=`<rect width="${W}" height="${H}" fill="${RED}" opacity="${.06+.06*Math.sin(t*8)}"/>`;
+  // title text
+  let y=p.y||300;(p.lines||[]).forEach((l,i)=>{const sz=(p.sizes||[])[i]||118;wrapLines(l,p.max||12).forEach(ll=>{const a=appear(t,.05+i*.25,.3);
+   s+=`<g opacity="${a}" transform="translate(${(1-a)*-60},0)"><text x="62" y="${y+6}" font-size="${sz}" font-weight="900" fill="#000" opacity=".6">${esc(ll.replace(/[\[\]]/g,''))}</text>`+rich(ll,sz,58,y,'start',900)+`</g>`;y+=sz+14})});
+  if(p.circle){const a=appear(t,(p.hitAt??1.0)+.2);s+=`<g opacity="${a}"><ellipse cx="800" cy="1150" rx="210" ry="150" fill="none" stroke="${RED}" stroke-width="12"/>`+arrow(980,880,900,1010,RED,14)+`</g>`}
+  if(p.badge){const w=p.badge.length*24+70;s+=`<g opacity="${appear(t,.6)}"><rect x="58" y="${y+10}" width="${w}" height="76" rx="14" fill="${RED}"/>`+label(58+w/2,y+62,p.badge,'#fff',40,'middle',900)+`</g>`}
+  return s},
  alarm(sc,t,d){const p=sc.p||{}; const pulse=.5+.5*Math.sin(t*9);
   let s=`<g transform="translate(${(Math.random()-.5)*(t>(p.shakeAt||0)?14*Math.exp(-(t-(p.shakeAt||0))*1.5):0)},0)">`;
   s+=`<circle cx="540" cy="900" r="${200+40*pulse}" fill="none" stroke="${RED}" stroke-width="6" opacity="${.25+.4*pulse}"/>`;

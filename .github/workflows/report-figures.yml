@@ -1,0 +1,24 @@
+name: 9 - Fetch accident report + figures
+on:
+  workflow_dispatch:
+    inputs:
+      url: {description: "Report PDF URL", required: true}
+      name: {description: "Folder name under reel/sources", required: true}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y -qq poppler-utils imagemagick > /dev/null
+      - run: |
+          D=reel/sources/${{ github.event.inputs.name }}; mkdir -p $D/fig
+          curl -sSL -A "Mozilla/5.0" -o $D/report.pdf "${{ github.event.inputs.url }}"
+          pdftotext -layout $D/report.pdf $D/report.txt
+          pdfimages -png $D/report.pdf $D/fig/img
+          cd $D/fig && for f in *.png; do s=$(identify -format "%w" "$f"); if [ "$s" -lt 400 ]; then rm "$f"; else convert "$f" -resize '1600x1600>' -quality 85 "${f%.png}.jpg" && rm "$f"; fi; done; ls -la
+      - run: |
+          git config user.name "jms-bot"; git config user.email "jms-bot@users.noreply.github.com"
+          git add reel/sources; git commit -m "Report source: ${{ github.event.inputs.name }}" || true
+          git pull --rebase && git push

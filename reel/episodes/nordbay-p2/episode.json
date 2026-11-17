@@ -4,6 +4,29 @@
  "caption": "PART 2/2 — 53 minutes after the first hit, Nordbay struck New Orleans again. ⚠️🚢\n\nDamaged and still moving, the empty Aframax had to round Algiers Point. Tugs were turned away, the master was on the phone — and at 23:06 she hit the Mandeville Street Wharf. Total damage: about $6.4 million.\n\nNTSB lessons: a pilot on board never removes the master's duty to navigate safely, and no call is more important than a ship still under way.\n\nWhat would you have done? 👇\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #neworleans #mississippiriver #seafarer #merchantnavy #bridgeteam #NTSB #maritimesafety #jaimarineshorts",
  "scenes": [
   {
+   "type": "hook",
+   "p": {
+    "lines": [
+     "MASTER ON",
+     "[THE PHONE.]",
+     "TANKER HITS",
+     "THE WHARF."
+    ],
+    "sizes": [
+     104,
+     104,
+     92,
+     92
+    ],
+    "max": 12,
+    "badge": "PART 2 · WHAT WENT WRONG?",
+    "circle": true,
+    "hitAt": 2.6,
+    "y": 300
+   },
+   "narration": "The master is on the phone. The pilot is shouting for power. And a damaged tanker is heading straight for a wharf."
+  },
+  {
    "type": "card",
    "headline": "[Previously...]",
    "p": {
@@ -16,7 +39,7 @@
     "y": 560,
     "step": 0.9
    },
-   "narration": "Previously. An empty tanker, a river running high, and a dock destroyed at Nine-Mile Point. Nordbay is damaged... but still moving."
+   "narration": "Previously. An empty tanker, a river running high, and a dock destroyed at Nine-Mile Point. Nordbay is damaged, but still moving."
   },
   {
    "type": "river",
