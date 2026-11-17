@@ -6210,7 +6210,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/1920px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 135,
     "bright": 98,
@@ -6230,7 +6230,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSC_HARMONY_III_%28container_ship%2C_2006%29_in_Port_Koper_%28SIKOP%2C_2024%29.jpg/1920px-MSC_HARMONY_III_%28container_ship%2C_2006%29_in_Port_Koper_%28SIKOP%2C_2024%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 112,
     "bright": 104,
@@ -6250,7 +6250,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Maersk_Ahram_%281998%29.jpg/1920px-Maersk_Ahram_%281998%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 37,
     "bright": 151,
@@ -6270,7 +6270,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mile_Rocks_Light_with_Container_ship_Sealand_Balboa_outside_the_Golden_Gate.jpg/1920px-Mile_Rocks_Light_with_Container_ship_Sealand_Balboa_outside_the_Golden_Gate.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 130,
     "bright": 100,
@@ -6290,7 +6290,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WP_Ahoi%2C_Container_Terminal_Altenwerder%2C_Hamburg_%28P1080529%29.jpg/1920px-WP_Ahoi%2C_Container_Terminal_Altenwerder%2C_Hamburg_%28P1080529%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 62,
     "bright": 144,
@@ -6310,7 +6310,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/IMO_9516416_Containership_COSCO_France_-_Cuxhafen_2020-08-27_HBP_02.jpg/1920px-IMO_9516416_Containership_COSCO_France_-_Cuxhafen_2020-08-27_HBP_02.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 46,
     "bright": 162,
@@ -6322,186 +6322,6 @@
    "h": 853
   },
   {
-   "file": "photos/container-ship/baumwurzeln-in-einem-container-jpg-3c15ff.jpg",
-   "category": "container-ship",
-   "title": "Baumwurzeln in einem Container.jpg",
-   "credit": "August Geyler / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Baumwurzeln_in_einem_Container.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Baumwurzeln_in_einem_Container.jpg/1920px-Baumwurzeln_in_einem_Container.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 89,
-    "bright": 107,
-    "contrast": 47,
-    "sharp": 5606
-   },
-   "hash": "1000101111111000110010110111000011101011111100001110111111110000111010001111000001100000101100001100000011100000100000000110000000000000000000000000000000010000000000000000000010110111111111111011011111111111101101111111111110000110111111111011011111111111",
-   "w": 1280,
-   "h": 717
-  },
-  {
-   "file": "photos/container-ship/2017-10-07-01-maersk-dispatcher-imo-9298909-i-22dba6.jpg",
-   "category": "container-ship",
-   "title": "2017-10-07 01 MAERSK DISPATCHER - IMO 9298909 in St. John's NL CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2017-10-07_01_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2017-10-07_01_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg/1920px-2017-10-07_01_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 68,
-    "bright": 142,
-    "contrast": 57,
-    "sharp": 8306
-   },
-   "hash": "1111111111111111001111111111111111111111111111110111111011111111111111000111111111111100011111111111100000111111111110000011111111111000000111110111100000011111111100000000001111010000000000110000100000001111011100000001111111100000000111110000000000011111",
-   "w": 1280,
-   "h": 855
-  },
-  {
-   "file": "photos/container-ship/2017-10-07-03-maersk-dispatcher-imo-9298909-i-1ceb83.jpg",
-   "category": "container-ship",
-   "title": "2017-10-07 03 MAERSK DISPATCHER - IMO 9298909 in St. John's NL CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2017-10-07_03_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2017-10-07_03_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg/1920px-2017-10-07_03_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 125,
-    "bright": 93,
-    "contrast": 42,
-    "sharp": 3784
-   },
-   "hash": "0000000000000000000000000000001100000000000111110000000111111111000000011111111110000000001111111000001111111111001111111111111101001110111111111110000000000111111000000000001100000000000000110000000001111111110000001111111111100001111111111110001111111111",
-   "w": 1280,
-   "h": 854
-  },
-  {
-   "file": "photos/container-ship/2017-10-07-04-maersk-dispatcher-imo-9298909-i-e51102.jpg",
-   "category": "container-ship",
-   "title": "2017-10-07 04 MAERSK DISPATCHER - IMO 9298909 in St. John's NL CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2017-10-07_04_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2017-10-07_04_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg/1920px-2017-10-07_04_MAERSK_DISPATCHER_-_IMO_9298909_in_St._John%27s_NL_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 143,
-    "bright": 64,
-    "contrast": 40,
-    "sharp": 2613
-   },
-   "hash": "0000000000000000000000000000000000000000100000000000000101000000000000000011111100000000000100000000111000000000110111100000000011111111100000001111111111110000111010111111100011100111000101101110000000001111111011110000111111111111111111111111111111111100",
-   "w": 1280,
-   "h": 854
-  },
-  {
-   "file": "photos/container-ship/2024-09-11-01-maersk-trader-imo-9388596-ogden-865d5c.jpg",
-   "category": "container-ship",
-   "title": "2024-09-11 01 MAERSK TRADER - IMO 9388596 – Ogden Point BC CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2024-09-11_01_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2024-09-11_01_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg/1920px-2024-09-11_01_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 69,
-    "bright": 170,
-    "contrast": 44,
-    "sharp": 3124
-   },
-   "hash": "0111111111111111111111111111111111111111111111111111111111011111111111111101111111111111100011111111111100001111001111100000111000001110000010000100110000011111111100000001111101110000000011110000000000001111111111100001111101111111000111100111111000001110",
-   "w": 1280,
-   "h": 852
-  },
-  {
-   "file": "photos/container-ship/2024-09-11-03-maersk-trader-imo-9388596-ogden-d9eab1.jpg",
-   "category": "container-ship",
-   "title": "2024-09-11 03 MAERSK TRADER - IMO 9388596 – Ogden Point BC CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2024-09-11_03_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2024-09-11_03_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg/1920px-2024-09-11_03_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 71,
-    "bright": 198,
-    "contrast": 50,
-    "sharp": 3574
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111100111111111111110011111111111110001111111111110000111111111110000011111111110000000011110000000000001110000000000000110000000000000011110000000000001111100000000000111111111000000010",
-   "w": 1280,
-   "h": 852
-  },
-  {
-   "file": "photos/container-ship/2024-09-11-04-maersk-trader-imo-9388596-ogden-7df072.jpg",
-   "category": "container-ship",
-   "title": "2024-09-11 04 MAERSK TRADER - IMO 9388596 – Ogden Point BC CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2024-09-11_04_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2024-09-11_04_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg/1920px-2024-09-11_04_MAERSK_TRADER_-_IMO_9388596_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 100,
-    "bright": 175,
-    "contrast": 47,
-    "sharp": 3505
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111110111111111111110011111111111111000111111111111000011111111111100001111101111100000111100001100000111110111100000011111111000000001111111100000000011111000000000001111111110010000111110111110000111111",
-   "w": 1280,
-   "h": 852
-  },
-  {
-   "file": "photos/container-ship/2024-10-31-01-maersk-tender-imo-9388651-ogden-0f4f24.jpg",
-   "category": "container-ship",
-   "title": "2024-10-31 01 MAERSK TENDER - IMO 9388651 – Ogden Point BC CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2024-10-31_01_MAERSK_TENDER_-_IMO_9388651_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2024-10-31_01_MAERSK_TENDER_-_IMO_9388651_%E2%80%93_Ogden_Point_BC_CAN.jpg/1920px-2024-10-31_01_MAERSK_TENDER_-_IMO_9388651_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 127,
-    "bright": 141,
-    "contrast": 40,
-    "sharp": 2097
-   },
-   "hash": "1111111111111111111111111111111111111111101111111111111110011111111111111101111111111111100000001111111111100000111111111111000000000110111100000111111111100000001101111111000000111111110000000000000100000000000000000000000000000010100000000000001011000000",
-   "w": 1280,
-   "h": 852
-  },
-  {
-   "file": "photos/container-ship/2024-10-31-02-maersk-tender-imo-9388651-ogden-36c854.jpg",
-   "category": "container-ship",
-   "title": "2024-10-31 02 MAERSK TENDER - IMO 9388651 – Ogden Point BC CAN.jpg",
-   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2024-10-31_02_MAERSK_TENDER_-_IMO_9388651_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2024-10-31_02_MAERSK_TENDER_-_IMO_9388651_%E2%80%93_Ogden_Point_BC_CAN.jpg/1920px-2024-10-31_02_MAERSK_TENDER_-_IMO_9388651_%E2%80%93_Ogden_Point_BC_CAN.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 113,
-    "bright": 142,
-    "contrast": 35,
-    "sharp": 1850
-   },
-   "hash": "0000000000000000000011110111001111111111111111111111111111111110110111111111111111111111111111110000111110111111000000010011111100000001101111001111111111111000110000001111100000001111111000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 852
-  },
-  {
    "file": "photos/container-ship/maersk-chambal-g-teborg-july-2025-01-jpg-c0cbe6.jpg",
    "category": "container-ship",
    "title": "Maersk Chambal Göteborg July 2025 01.jpg",
@@ -6510,7 +6330,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Maersk_Chambal_G%C3%B6teborg_July_2025_01.jpg/1920px-Maersk_Chambal_G%C3%B6teborg_July_2025_01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 43,
     "bright": 165,
@@ -6530,7 +6350,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Maersk_Chambal_G%C3%B6teborg_July_2025_02.jpg/1920px-Maersk_Chambal_G%C3%B6teborg_July_2025_02.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 49,
     "bright": 169,
@@ -6550,7 +6370,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rotterdam-Europoort_-_Estelle_Maersk_CC-BY-SA.jpg/1920px-Rotterdam-Europoort_-_Estelle_Maersk_CC-BY-SA.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 81,
     "bright": 116,
@@ -6570,7 +6390,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CMA_CGM_Goya_%28IMO_9365972%29.jpg/1920px-CMA_CGM_Goya_%28IMO_9365972%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 82,
     "bright": 114,
@@ -6590,7 +6410,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IMO_9406611_-_CMA_CGM_Musset_01.jpg/1920px-IMO_9406611_-_CMA_CGM_Musset_01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 91,
     "bright": 136,
@@ -6610,7 +6430,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uss_iowa_bb-61_pr.jpg/1920px-Uss_iowa_bb-61_pr.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 101,
     "bright": 81,
@@ -6630,7 +6450,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Military_Ships_in_Odessa%2C_Navy_Day._Ukraine.jpg/1920px-Military_Ships_in_Odessa%2C_Navy_Day._Ukraine.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 59,
     "bright": 126,
@@ -6640,46 +6460,6 @@
    "hash": "0000000000000000000000000000000000011100000000000011111000000000111111110000000011111111111000001111111111111111111111111111111111111111011111110000000100001111000000000001111100000001000111000001000000000000000111000001111000111000000011000001000000000000",
    "w": 1280,
    "h": 705
-  },
-  {
-   "file": "photos/navy-escort/3900t-type-multi-mission-frigate-2ndship-js-k-23238d.jpg",
-   "category": "navy-escort",
-   "title": "3900t type multi-mission frigate 2ndShip JS Kumano 3900t型護衛艦2番艦 くまの.jpg",
-   "credit": "名無しの政治将校 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:3900t_type_multi-mission_frigate_2ndShip_JS_Kumano_3900t%E5%9E%8B%E8%AD%B7%E8%A1%9B%E8%89%A62%E7%95%AA%E8%89%A6_%E3%81%8F%E3%81%BE%E3%81%AE.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/3900t_type_multi-mission_frigate_2ndShip_JS_Kumano_3900t%E5%9E%8B%E8%AD%B7%E8%A1%9B%E8%89%A62%E7%95%AA%E8%89%A6_%E3%81%8F%E3%81%BE%E3%81%AE.jpg/1920px-3900t_type_multi-mission_frigate_2ndShip_JS_Kumano_3900t%E5%9E%8B%E8%AD%B7%E8%A1%9B%E8%89%A62%E7%95%AA%E8%89%A6_%E3%81%8F%E3%81%BE%E3%81%AE.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 25,
-    "bright": 107,
-    "contrast": 64,
-    "sharp": 1374
-   },
-   "hash": "0001111111111000111111111111110011110111111111101111111111111110111111111111111111111111111111111111111111111111111110111111111111111011111111001111101111111100011110010000000000011000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/navy-escort/3900t-type-multi-mission-frigate-2ndship-js-k-71c962.jpg",
-   "category": "navy-escort",
-   "title": "3900t type multi-mission frigate 2ndShip JS Kumano 3900t型護衛艦2番艦 くまの 右舷.jpg",
-   "credit": "名無しの政治将校 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:3900t_type_multi-mission_frigate_2ndShip_JS_Kumano_3900t%E5%9E%8B%E8%AD%B7%E8%A1%9B%E8%89%A62%E7%95%AA%E8%89%A6_%E3%81%8F%E3%81%BE%E3%81%AE_%E5%8F%B3%E8%88%B7.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/3900t_type_multi-mission_frigate_2ndShip_JS_Kumano_3900t%E5%9E%8B%E8%AD%B7%E8%A1%9B%E8%89%A62%E7%95%AA%E8%89%A6_%E3%81%8F%E3%81%BE%E3%81%AE_%E5%8F%B3%E8%88%B7.jpg/1920px-3900t_type_multi-mission_frigate_2ndShip_JS_Kumano_3900t%E5%9E%8B%E8%AD%B7%E8%A1%9B%E8%89%A62%E7%95%AA%E8%89%A6_%E3%81%8F%E3%81%BE%E3%81%AE_%E5%8F%B3%E8%88%B7.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 22,
-    "bright": 157,
-    "contrast": 63,
-    "sharp": 1322
-   },
-   "hash": "1111111111111100111111111111110011111110001111001111111111111100111111111111111111111111111111111111111111111100111111111111000011111000000000001111000000000000000000000000000000000000000000001110000000000000111111111111100011111111110000001111111100000000",
-   "w": 1280,
-   "h": 853
   },
   {
    "file": "photos/navy-escort/greek-frigate-spetsai-f-453-jpg-f54f9b.jpg",
