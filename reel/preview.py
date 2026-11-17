@@ -11,6 +11,13 @@ final = render.build(ep_path, os.environ.get("TTS_MODE", "auto"))
 ep = json.loads(ep_path.read_text())
 size = final.stat().st_size / 1e6
 print(f"video {size:.1f} MB")
+slot = None
+if ep.get("queue"):
+    import reel_queue as rq
+    slot = rq.add(ep["id"])
 if os.environ.get("TELEGRAM_BOT_TOKEN"):
     telegram.send_video(final, f"🎬 Jai Marine Shorts — Reel preview: {ep['id']} ({size:.0f} MB)")
     telegram.send_text("REEL CAPTION:\n\n" + ep.get("caption", ""))
+    if slot:
+        telegram.send_text(f"This Reel will post automatically on {slot['date']} at 7:30 AM IST. Tap Reject to stop it.",
+                           buttons=[{"text": "❌ Reject", "callback_data": f"reject:{ep['id']}"}])

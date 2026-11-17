@@ -1,0 +1,30 @@
+name: 7 - Publish morning Reel
+on:
+  schedule:
+    - cron: "57 1 * * *"    # 07:27 IST
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: jms-reel
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests
+      - name: Post today's Reel
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -u reel/publish_reel.py
+      - name: Save queue
+        if: always()
+        run: |
+          git config user.name "jms-bot"; git config user.email "jms-bot@users.noreply.github.com"
+          git add reel/queue.json 2>/dev/null; git commit -m "Reel queue update" || echo "nothing"
+          git pull --rebase && git push
