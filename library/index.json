@@ -5902,26 +5902,6 @@
    "h": 1007
   },
   {
-   "file": "photos/aerial-ship/aerial-view-of-the-sturgeon-bay-ship-canal-do-ef95da.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial view of the Sturgeon Bay Ship Canal, Door County, Wisconsin 2020 (cropped).png",
-   "credit": "Aerial Photography Field Office (APFO) f / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Sturgeon_Bay_Ship_Canal,_Door_County,_Wisconsin_2020_(cropped).png",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aerial_view_of_the_Sturgeon_Bay_Ship_Canal%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png/1920px-Aerial_view_of_the_Sturgeon_Bay_Ship_Canal%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 76,
-    "bright": 79,
-    "contrast": 27,
-    "sharp": 3081
-   },
-   "hash": "1100111100000100110011010000000011110100000000000011101000000000000010110000000010110001101000001101000011000000110011011100000000101111101000000111111110010001010011111100111101101110000011100111110000000100111111100000100011111111110110001111111110011000",
-   "w": 1280,
-   "h": 1053
-  },
-  {
    "file": "photos/aerial-ship/aerial-view-of-the-u-s-s-kearsarge-recovery-s-70f9d6.jpg",
    "category": "aerial-ship",
    "title": "Aerial view of the U S S Kearsarge, recovery ship for the Mercury-Atlas 8 mission (S62-09048).jpg",
@@ -5930,7 +5910,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aerial_view_of_the_U_S_S_Kearsarge%2C_recovery_ship_for_the_Mercury-Atlas_8_mission_%28S62-09048%29.jpg/1920px-Aerial_view_of_the_U_S_S_Kearsarge%2C_recovery_ship_for_the_Mercury-Atlas_8_mission_%28S62-09048%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 222,
     "bright": 56,
@@ -5950,7 +5930,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aerial_view_of_the_experimental_SWATH_ship_Sea_SLICE.jpg/1920px-Aerial_view_of_the_experimental_SWATH_ship_Sea_SLICE.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 73,
     "bright": 75,
@@ -5970,7 +5950,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aerial_view_of_the_port_of_Horta%2C_2015.jpg/1920px-Aerial_view_of_the_port_of_Horta%2C_2015.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 97,
     "bright": 85,
@@ -5990,7 +5970,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dunbrody_ship_-_aerial_-_2026-04-18_01.jpg/1920px-Dunbrody_ship_-_aerial_-_2026-04-18_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 62,
     "bright": 132,
@@ -6010,7 +5990,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dunbrody_ship_-_aerial_-_2026-04-18_02.jpg/1920px-Dunbrody_ship_-_aerial_-_2026-04-18_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 85,
     "bright": 123,
@@ -6030,7 +6010,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dunbrody_ship_-_aerial_-_2026-04-18_03.jpg/1920px-Dunbrody_ship_-_aerial_-_2026-04-18_03.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 84,
     "bright": 120,
@@ -6050,7 +6030,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pinsk_passenger_ship_on_Pina_River_in_Pinsk_%28aerial_view%29.jpg/1920px-Pinsk_passenger_ship_on_Pina_River_in_Pinsk_%28aerial_view%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 94,
     "bright": 95,
@@ -6062,166 +6042,6 @@
    "h": 960
   },
   {
-   "file": "photos/aerial-ship/aerial-photo-of-gothenburg-2013-10-27-087-jpg-426814.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photo of Gothenburg 2013-10-27 087.jpg",
-   "credit": "Averater / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_Gothenburg_2013-10-27_087.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aerial_photo_of_Gothenburg_2013-10-27_087.jpg/1920px-Aerial_photo_of_Gothenburg_2013-10-27_087.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 39,
-    "bright": 134,
-    "contrast": 42,
-    "sharp": 4958
-   },
-   "hash": "1111111111111100111111111111111111111111111111001111111111111000111111111100011100001110001110110011111001111100111111111111110001001111111100000000011111100000000000111000001101000110000000000000000000000000000000000000000000000000000000000000000100100000",
-   "w": 1280,
-   "h": 852
-  },
-  {
-   "file": "photos/aerial-ship/aerial-photograph-60d-2013-08-18-7259-jpg-1084d7.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photograph 60D 2013 08 18 7259.JPG",
-   "credit": "Walter Rademacher / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2013_08_18_7259.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aerial_photograph_60D_2013_08_18_7259.JPG/1920px-Aerial_photograph_60D_2013_08_18_7259.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 21,
-    "bright": 145,
-    "contrast": 50,
-    "sharp": 4984
-   },
-   "hash": "1111111111111111111111111101111111111111100100001111111110000000111111111000000011111111000000001111111100000000111111100000000011111110000000001111111000000000111111100000000011111100000000001111110000000000111111000000000011111000000000001111100000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/aerial-ship/aerial-photograph-60d-2013-08-18-7265-jpg-56900f.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photograph 60D 2013 08 18 7265.JPG",
-   "credit": "Walter Rademacher / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2013_08_18_7265.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aerial_photograph_60D_2013_08_18_7265.JPG/1920px-Aerial_photograph_60D_2013_08_18_7265.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 31,
-    "bright": 96,
-    "contrast": 31,
-    "sharp": 3962
-   },
-   "hash": "1111111111111110111100111111110011111001000111001111110000000001111111000100001111111001000000001111111100000000111111111000000011111101100000001111110111000000111111111100000011111111110000001111111101000000111111110100000011111111000000001111111100000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/aerial-ship/aerial-photograph-60d-2013-08-18-7268-jpg-a0ac4c.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photograph 60D 2013 08 18 7268.JPG",
-   "credit": "Walter Rademacher / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2013_08_18_7268.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_photograph_60D_2013_08_18_7268.JPG/1920px-Aerial_photograph_60D_2013_08_18_7268.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 27,
-    "bright": 125,
-    "contrast": 38,
-    "sharp": 5027
-   },
-   "hash": "1111111111111111111111111111111111111111111111111110111111110000111000000111000011110000000000001111000000000000111100000000011111100110000000111110011100000000111000110000000011100011000000001110001111000000110000011100000010000000110000000000000000000100",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/aerial-ship/aerial-photograph-60d-2013-08-18-7275-jpg-8ee5c0.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photograph 60D 2013 08 18 7275.JPG",
-   "credit": "Walter Rademacher / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2013_08_18_7275.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aerial_photograph_60D_2013_08_18_7275.JPG/1920px-Aerial_photograph_60D_2013_08_18_7275.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 35,
-    "bright": 118,
-    "contrast": 43,
-    "sharp": 5943
-   },
-   "hash": "1111111000011000111111110000000000111110000000000000001010011000000001110011111100000100001111100011100011110010000111100101100000011111000000000000111110000000000011111011000000000111111100000000001011110000000000000111000100000000001000000000000000100000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/aerial-ship/aerial-photograph-60d-2013-08-18-7291-jpg-470427.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photograph 60D 2013 08 18 7291.JPG",
-   "credit": "Walter Rademacher / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2013_08_18_7291.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_photograph_60D_2013_08_18_7291.JPG/1920px-Aerial_photograph_60D_2013_08_18_7291.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 44,
-    "bright": 111,
-    "contrast": 42,
-    "sharp": 4183
-   },
-   "hash": "0011111111111110011111011111111000111111111111101000000111111100000000011111110000000011111110000000001111111000100000000111000001111111111100000001100110000000000110000000000000001000000000000011000000000000111100000000000001100000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/aerial-ship/aerial-photograph-60d-2013-08-18-7310-jpg-f767d0.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photograph 60D 2013 08 18 7310.JPG",
-   "credit": "Walter Rademacher / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2013_08_18_7310.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aerial_photograph_60D_2013_08_18_7310.JPG/1920px-Aerial_photograph_60D_2013_08_18_7310.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 43,
-    "bright": 110,
-    "contrast": 48,
-    "sharp": 5397
-   },
-   "hash": "0111111111111111111111111110000011111111111100001111111111101100100111111111111011100000010101101111100011111110111110001111110000001111111111000000001111110000000001111110000000000111110000000000000110000000011001000000000001100000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/aerial-ship/aerial-photograph-60d-2013-08-18-7326-jpg-f3a7e5.jpg",
-   "category": "aerial-ship",
-   "title": "Aerial photograph 60D 2013 08 18 7326.JPG",
-   "credit": "Walter Rademacher / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2013_08_18_7326.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Aerial_photograph_60D_2013_08_18_7326.JPG/1920px-Aerial_photograph_60D_2013_08_18_7326.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 38,
-    "bright": 115,
-    "contrast": 41,
-    "sharp": 5414
-   },
-   "hash": "0011101111111110000000001100111100000001111111000000010000000111000110000000011100011110010111011001111000000000100111110000000010001111000000000001111101000000111111111100000011111111110000001111111111000000111111111000000111111111110000001111111111000110",
-   "w": 1280,
-   "h": 853
-  },
-  {
    "file": "photos/aerial-ship/aerial-photograph-of-the-port-of-miami-contai-ff0647.jpg",
    "category": "aerial-ship",
    "title": "Aerial photograph of the Port of Miami Container Port.jpg",
@@ -6230,7 +6050,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg/1920px-Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 54,
     "bright": 102,
@@ -6250,7 +6070,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Port_of_Long_Beach_aerial_by_Don_Ramey_Logan.jpg/1920px-Port_of_Long_Beach_aerial_by_Don_Ramey_Logan.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 100,
     "bright": 129,
@@ -6270,7 +6090,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 92,
     "bright": 103,
@@ -6290,7 +6110,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/CMA_CGM_GOYA_%28Bilbao%29.jpg/1920px-CMA_CGM_GOYA_%28Bilbao%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 91,
     "bright": 132,
@@ -6310,7 +6130,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CMA_CGM_Kerguelen%2C_Container_Terminal_Burchardkai%2C_Hamburg_%28P1080471%29.jpg/1920px-CMA_CGM_Kerguelen%2C_Container_Terminal_Burchardkai%2C_Hamburg_%28P1080471%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 96,
     "bright": 105,
@@ -6330,7 +6150,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Container_Terminal_Tollerort%2C_Vorhafen%2C_Hamburg_%28P1080405%29.jpg/1920px-Container_Terminal_Tollerort%2C_Vorhafen%2C_Hamburg_%28P1080405%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 133,
     "bright": 131,
@@ -6350,7 +6170,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Container_ship_being_towed_in_the_Scheldt_towards_the_Port_of_Antwerp%2C_seen_from_Doel%2C_Belgium_%28DSCF3886%29.jpg/1920px-Container_ship_being_towed_in_the_Scheldt_towards_the_Port_of_Antwerp%2C_seen_from_Doel%2C_Belgium_%28DSCF3886%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 74,
     "bright": 133,
@@ -6370,7 +6190,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Container_ship_from_Hamburg_passing_the_Golden_Gate.jpg/1920px-Container_ship_from_Hamburg_passing_the_Golden_Gate.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 33,
     "bright": 174,
