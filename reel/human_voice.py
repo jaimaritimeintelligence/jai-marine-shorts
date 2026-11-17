@@ -26,7 +26,10 @@ def load_audio(path):
 def transcribe(path):
     from faster_whisper import WhisperModel
     m = WhisperModel("small.en", device="cpu", compute_type="int8")
-    segs, _ = m.transcribe(str(path), word_timestamps=True, vad_filter=False, beam_size=5,
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(path), "-ac", "1", "-ar", "16000", "-f", "f32le", "-"],
+                         capture_output=True, check=True).stdout
+    pcm = np.frombuffer(raw, dtype=np.float32)          # decode ourselves (avoids PyAV version issues)
+    segs, _ = m.transcribe(pcm, word_timestamps=True, vad_filter=False, beam_size=5,
                            initial_prompt="Marine accident case file. Nordbay, NTSB, Algiers Point, allision, rpm.")
     out = []
     for s in segs:
