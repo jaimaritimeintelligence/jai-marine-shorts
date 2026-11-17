@@ -193,7 +193,7 @@ def snapshot(ep, times, outdir):
         page.evaluate("ep=>setEpisode(ep)", ep)
         for t in times:
             page.evaluate(f"renderFrame({t})")
-            page.wait_for_timeout(30)
+            page.wait_for_timeout(60)
             page.screenshot(path=str(Path(outdir) / f"snap_{t:06.2f}.jpg"), type="jpeg", quality=80)
         b.close()
 
@@ -276,6 +276,11 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
                     "-i", str(work / "video.mp4"), "-filter_complex", fc, "-map", "2:v", "-map", "[a]",
                     "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-shortest", "-movflags", "+faststart", str(final)],
                    check=True)
+    try:   # cover / thumbnail = the hook frame
+        snapshot(ep, [min(2.8, ep["scenes"][0]["_dur"] - 0.3)], work)
+        snap = sorted(work.glob("snap_*.jpg"))[0]; snap.rename(work / "cover.jpg")
+    except Exception as e:
+        print("cover failed", e)
     print("done", final, flush=True)
     return final
 

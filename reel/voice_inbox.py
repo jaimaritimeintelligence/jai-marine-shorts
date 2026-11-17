@@ -33,13 +33,14 @@ def waiting():
     return [f for _, f in sorted(out)]
 
 
-def fetch_recording(after_unix, dest):
+def fetch_recording(after_unix, dest, before_unix=None):
     """Newest voice/audio message from the Chief sent after the script. Bot downloads are limited to 20 MB."""
     r = requests.get(f"{telegram.BASE}/getUpdates", params={"timeout": 0}, timeout=30); r.raise_for_status()
     best = None
     for u in r.json().get("result", []):
         m = u.get("message") or {}
-        if str((m.get("chat") or {}).get("id")) != telegram.CHAT or m.get("date", 0) < after_unix:
+        if str((m.get("chat") or {}).get("id")) != telegram.CHAT or m.get("date", 0) < after_unix \
+                or (before_unix and m.get("date", 0) >= before_unix):
             continue
         f = m.get("voice") or m.get("audio") or (m.get("document") if (m.get("document") or {}).get("mime_type", "").startswith(("audio", "video")) else None) or m.get("video")
         if f and (best is None or m["date"] > best[0]):

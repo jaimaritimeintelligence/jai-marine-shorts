@@ -12,7 +12,7 @@ svg{position:absolute;left:0;top:0}
 #cap span{padding:2px 10px;border-radius:10px;margin:0 2px;display:inline-block;text-shadow:0 4px 14px rgba(0,0,0,.85)}
 #cap span.on{background:#F2B632;color:#071226;text-shadow:none}
 </style></head>
-<body><div id="stage"><svg id="bg" width="1080" height="1920"></svg><svg id="vis" width="1080" height="1920"></svg><svg id="hud" width="1080" height="1920"></svg><div id="cap"></div></div>
+<body><div id="stage"><svg id="bg" width="1080" height="1920"></svg><div id="ph" style="position:absolute;overflow:hidden;display:none"><img id="phi" style="position:absolute;transform-origin:0 0"></div><svg id="vis" width="1080" height="1920"></svg><svg id="hud" width="1080" height="1920"></svg><div id="cap"></div></div>
 <script>
 const GOLD='#F2B632', NAVY='#071226', NAVY2='#0E2142', LINE='#1A3360', SKY='#5DA9FF', RED='#FF4D4D', GREY='#9FB0CC', WATER='#123A6B', WATER2='#1C4F8C';
 const W=1080,H=1920, VX=40, VY=560, VW=1000, VH=820;   // visual box
@@ -93,11 +93,25 @@ function smooth(P,steps=12){ // catmull-rom
 // ---------- visuals ----------
 const V={
 
+ photo(sc,t,d){const p=sc.p||{};let s='';const g=photoGeom(sc,t,d);
+  if(p.circle){const c=p.circle,a=appear(t,c.at??1.0,.4),pul=.5+.5*Math.sin(t*7);const cx=g.ix(c.x),cy=g.iy(c.y);
+   s+=`<g opacity="${a}"><circle cx="${cx}" cy="${cy}" r="${(c.r||70)*(1+.08*pul)}" fill="none" stroke="${RED}" stroke-width="9"/>`;
+   if(c.label){const lx=c.lx??(cx>540?cx-(c.r||70)-20:cx+(c.r||70)+20),ly=c.ly??cy;const anc=(c.lx==null&&cx>540)?'end':'start';
+    s+=`<text x="${lx}" y="${ly+12}" font-size="34" font-weight="900" fill="#fff" text-anchor="${anc}" stroke="#000" stroke-width="6" paint-order="stroke">${esc(c.label)}</text>`}
+   s+=`</g>`}
+  if(p.credit)s+=label(g.x+g.w-8,g.y+g.h+30,p.credit,GREY,20,'end',500);
+  if(p.flash&&t<.25)s+=`<rect width="${W}" height="${H}" fill="#fff" opacity="${1-t/.25}"/>`;
+  if(p.stamp){const a=appear(t,.35,.25);const sc2=1+.6*(1-a);const w=p.stamp.length*40+80;
+    s+=`<g opacity="${a}" transform="translate(540,${g.y+g.h*0.42}) rotate(-6) scale(${sc2})"><rect x="${-w/2}" y="-60" width="${w}" height="120" rx="12" fill="rgba(7,18,38,.55)" stroke="${RED}" stroke-width="10"/>`+label(0,22,p.stamp,RED,66,'middle',900)+`</g>`}
+  if(p.chips)s+=chips(p.chips,60,g.y+g.h-74-(p.chips.length>2?70:0),t,p.chipsAt||1.0,.45);
+  return s},
+
  hook(sc,t,d){const p=sc.p||{};let s='';const shake=t>(p.hitAt??1.0)&&t<(p.hitAt??1.0)+1?(Math.random()-.5)*26*Math.exp(-(t-(p.hitAt??1.0))*3):0;
   s+=`<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#050A18"/><stop offset=".45" stop-color="#10284F"/><stop offset=".62" stop-color="#7A2A12"/><stop offset=".66" stop-color="#2A0E08"/><stop offset="1" stop-color="#05070D"/></linearGradient>
    <radialGradient id="fire" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FFE7A0"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".9"/><stop offset="1" stop-color="#FF2A00" stop-opacity="0"/></radialGradient></defs>`;
-  s+=`<rect width="${W}" height="${H}" fill="url(#sky)"/>`;
-  s+=`<g transform="translate(${shake},${shake*.5})">`;
+  if(p.src){const g=photoGeom(sc,t,d);s+=`<defs><linearGradient id="fadeT" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04070F"/><stop offset="1" stop-color="#04070F" stop-opacity="0"/></linearGradient><linearGradient id="fadeB" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#04070F"/><stop offset="1" stop-color="#04070F" stop-opacity="0"/></linearGradient></defs><rect x="0" y="${g.y}" width="${W}" height="140" fill="url(#fadeT)"/><rect x="0" y="${g.y+g.h-160}" width="${W}" height="160" fill="url(#fadeB)"/>`;
+   if(p.pcircle){const c=p.pcircle,a=appear(t,c.at??1.2,.3),pul=.5+.5*Math.sin(t*7);s+=`<g opacity="${a}"><circle cx="${g.ix(c.x)}" cy="${g.iy(c.y)}" r="${(c.r||110)*(1+.06*pul)}" fill="none" stroke="${RED}" stroke-width="12"/>`+arrow(g.ix(c.x)+(c.ax??180),g.iy(c.y)-(c.ay??220),g.ix(c.x)+(c.r||110)*.55,g.iy(c.y)-(c.r||110)*.7,RED,14)+`</g>`}}else{s+=`<rect width="${W}" height="${H}" fill="url(#sky)"/>`;}
+  s+=`<g transform="translate(${shake},${shake*.5})" ${p.src?'display="none"':''}>`;
   // city skyline on far bank
   let x=0,seed=3;const rnd=()=>{seed=(seed*9301+49297)%233280;return seed/233280};
   while(x<W){const w=40+rnd()*90,h=80+rnd()*260;s+=`<rect x="${x}" y="${1180-h}" width="${w}" height="${h}" fill="#050B18"/>`;
@@ -221,9 +235,32 @@ function caption(words,T){ // words [{w,s,e}] absolute times
   const chunks=[];let cur=[];words.forEach((x,k)=>{cur.push(k);if(cur.length>=3||/[.!?,;:—]$/.test(x.w)){chunks.push(cur);cur=[]}});if(cur.length)chunks.push(cur);
   const ch=chunks.find(c=>c.includes(i))||[]; return ch.map(k=>`<span class="${k===i&&T<words[k].e+0.05?'on':''}">${esc(words[k].w.replace(/[,;:]$/,''))}</span>`).join(' ');
 }
+
+// ---------- photo layer (persistent <img>, Ken Burns) ----------
+const IMGS={};
+function photoGeom(sc,t,d){const p=sc.p||{};const im=IMGS[p.src];const iw=im?im.naturalWidth:16,ih=im?im.naturalHeight:9;
+  let x,y,w,h;
+  if(p.full){x=0;y=p.top??0;w=W;h=p.height??H;}            // frame area
+  else{w=VW;h=p.h??Math.min(VH,VW*ih/iw);x=VX;y=p.y??(VY+(VH-h)/2);}
+  const cover=Math.max(w/iw,h/ih);const kb=p.kb||[1,1.12];const z=kb[0]+(kb[1]-kb[0])*clamp(t/Math.max(d,.1));
+  const fx=(p.focus||[.5,.5])[0],fy=(p.focus||[.5,.5])[1];const sw=iw*cover*z,sh=ih*cover*z;
+  const ox=x+(w-sw)*fx, oy=y+(h-sh)*fy;
+  return {x,y,w,h,sw,sh,ox,oy,ix:fx2=>ox+sw*fx2,iy:fy2=>oy+sh*fy2};
+}
+function setPhoto(sc,t,d){const ph=document.getElementById('ph'),img=document.getElementById('phi');const p=sc.p||{};
+  const src=(sc.type==='photo'||(sc.type==='hook'&&p.src))?p.src:null;
+  if(!src){ph.style.display='none';return null}
+  const g=photoGeom(sc,t,d);ph.style.display='block';
+  Object.assign(ph.style,{left:g.x+'px',top:g.y+'px',width:g.w+'px',height:g.h+'px',borderRadius:p.full?'0':'18px',
+    boxShadow:p.full?'none':'0 0 0 3px '+GOLD,opacity:Math.min(clamp(t/.25),clamp((d-t)/.2))});
+  if(img.getAttribute('src')!==src)img.setAttribute('src',src);
+  Object.assign(img.style,{left:(g.ox-g.x)+'px',top:(g.oy-g.y)+'px',width:g.sw+'px',height:g.sh+'px',
+    filter:p.filter||'none'});
+  return img.complete?null:img.decode().catch(()=>{});
+}
 // ---------- main ----------
 let EP=null;
-window.setEpisode=(ep)=>{EP=ep; let t=0; EP.scenes.forEach(sc=>{sc._t0=t; t+=sc._dur;}); EP._total=t; return t};
+window.setEpisode=async(ep)=>{EP=ep; for(const sc of ep.scenes){const src=(sc.p||{}).src;if(src&&!IMGS[src]){const im=new Image();im.src=src;await im.decode().catch(()=>{});IMGS[src]=im}} let t=0; EP.scenes.forEach(sc=>{sc._t0=t; t+=sc._dur;}); EP._total=t; return t};
 window.renderFrame=(T)=>{
   const sc=EP.scenes.find(s=>T>=s._t0&&T<s._t0+s._dur)||EP.scenes[EP.scenes.length-1];
   const t=T-sc._t0, d=sc._dur;
@@ -233,5 +270,6 @@ window.renderFrame=(T)=>{
   document.getElementById('vis').innerHTML=`<g opacity="${Math.min(fin,fo)}">`+(V[sc.type]?V[sc.type](sc,t,d):'')+`</g>`;
   document.getElementById('hud').innerHTML=drawHud(sc,t,EP);
   document.getElementById('cap').innerHTML=EP.words?caption(EP.words,T):'';
+  return setPhoto(sc,t,d);
 };
 </script></body></html>

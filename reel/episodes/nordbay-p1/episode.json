@@ -1,26 +1,44 @@
 {
  "id": "nordbay-p1",
  "kicker": "NORDBAY · NEW ORLEANS · 2 FEB 2016",
- "caption": "PART 1/2 — The night an empty tanker hit New Orleans twice. 🚢⚠️\n\n2 Feb 2016: the 817-ft Aframax tanker Nordbay, in ballast, heads down the Mississippi in high water with a strong current behind her and wind on her beam. At Nine-Mile Point she can't make the turn — and strikes a barge dock and the city's water intakes. And the night isn't over…\n\nPart 2 tomorrow. Follow so you don't miss it.\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #mississippiriver #neworleans #seafarer #merchantnavy #marineengineering #NTSB #maritime #shipping_news #jaimarineshorts",
+ "caption": "PART 1/2 — The night an empty tanker hit New Orleans twice. 🚢⚠️\n\n2 Feb 2016: the 817-ft Aframax tanker Nordbay, in ballast, heads down the Mississippi in high water with a strong current behind her and wind on her beam. At Nine-Mile Point she can't make the turn — and strikes a barge dock and the city's water intakes. And the night isn't over…\n\nPart 2 tomorrow. Follow so you don't miss it.\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Photos and maps: NTSB report (credits on screen). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #mississippiriver #neworleans #seafarer #merchantnavy #marineengineering #NTSB #maritime #shipping_news #jaimarineshorts",
  "scenes": [
   {
    "type": "hook",
    "p": {
     "lines": [
-     "EMPTY TANKER",
-     "HITS [NEW ORLEANS]",
+     "THIS TANKER HIT",
+     "[NEW ORLEANS]",
      "[TWICE] IN ONE NIGHT"
     ],
     "sizes": [
-     104,
-     92,
+     100,
+     100,
      92
     ],
-    "max": 12,
-    "badge": "WHY? WATCH TILL THE END",
-    "circle": true,
-    "hitAt": 2.2,
-    "y": 300
+    "max": 16,
+    "y": 230,
+    "src": "episodes/nordbay-p1/img/nordbay_bow.jpg",
+    "full": true,
+    "top": 620,
+    "height": 820,
+    "kb": [
+     1.0,
+     1.18
+    ],
+    "focus": [
+     0.5,
+     0.6
+    ],
+    "pcircle": {
+     "x": 0.5,
+     "y": 0.74,
+     "r": 130,
+     "at": 1.0,
+     "ax": 230,
+     "ay": 260
+    },
+    "badge": "WHY? WATCH TILL THE END"
    },
    "narration": "Ten o'clock at night. The Mississippi is in flood, racing towards the sea. You are on the bridge of an empty, eight-hundred-foot tanker... and in eight minutes, she is going to hit New Orleans.",
    "direction": "Low and slow. Like telling a ghost story. Lean hard on 'eight minutes'."
@@ -40,17 +58,26 @@
    "direction": "Start almost in a whisper. Get faster. Shout 'scream!'"
   },
   {
-   "type": "ship_profile",
+   "type": "photo",
    "headline": "Meet the [Nordbay].",
    "sub": "817-ft Aframax tanker · in ballast · 24 on board",
    "p": {
-    "draft": 0.36,
+    "src": "episodes/nordbay-p1/img/nordbay_bow.jpg",
+    "kb": [
+     1.05,
+     1.22
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Reederei Nord Group, via NTSB report",
     "chips": [
-     "Refinery dock, Mississippi",
      "Pilot boards 19:12",
      "No cargo — ballast only"
     ],
-    "chipsAt": 0.8
+    "chipsAt": 1.2,
+    "h": 780
    },
    "narration": "Rewind three hours. A river pilot climbs aboard the tanker Nordbay. Eight hundred and seventeen feet of steel. No cargo at all. Only ballast.",
    "direction": "Calm, steady, a storyteller setting the scene."
@@ -84,7 +111,7 @@
    "direction": "Tense, slightly faster."
   },
   {
-   "type": "river",
+   "type": "photo",
    "clock": [
     "22:05",
     "22:09"
@@ -92,86 +119,24 @@
    "headline": "[22:05] Huey P. Long Bridge.",
    "sub": "Next: Nine-Mile Point bend",
    "p": {
-    "path": [
-     [
-      90,
-      780
-     ],
-     [
-      230,
-      560
-     ],
-     [
-      400,
-      330
-     ],
-     [
-      560,
-      170
-     ],
-     [
-      700,
-      150
-     ],
-     [
-      820,
-      260
-     ],
-     [
-      880,
-      470
-     ],
-     [
-      860,
-      760
-     ]
+    "src": "episodes/nordbay-p1/img/nola_map.jpg",
+    "kb": [
+     1.0,
+     1.25
     ],
-    "from": 0.04,
-    "to": 0.5,
-    "width": 150,
-    "bridges": [
-     [
-      150,
-      520,
-      330,
-      640,
-      120,
-      500,
-      "HUEY P. LONG BRIDGE",
-      "middle"
-     ]
+    "focus": [
+     0.15,
+     0.25
     ],
-    "labels": [
-     [
-      560,
-      330,
-      "NINE-MILE POINT · MILE 104",
-      "#fff",
-      26
-     ],
-     [
-      930,
-      40,
-      "LEFT BANK",
-      null,
-      24,
-      "end"
-     ]
-    ],
-    "markers": [
-     {
-      "x": 690,
-      "y": 72,
-      "label": "Dock + water intakes",
-      "at": 2.5,
-      "col": "#FF4D4D",
-      "dx": -40,
-      "dy": 10,
-      "anchor": "end"
-     }
-    ],
-    "north": false,
-    "moveFrac": 0.95
+    "credit": "Map: NTSB report (Google Earth imagery)",
+    "circle": {
+     "x": 0.165,
+     "y": 0.27,
+     "r": 60,
+     "at": 2.0,
+     "label": "NINE-MILE POINT"
+    },
+    "h": 820
    },
    "narration": "Twenty-two oh five. Under the Huey P. Long Bridge, at almost fifteen knots over the ground. And dead ahead... Nine-Mile Point. A turn of one hundred and thirty-five degrees.",
    "direction": "Fast, then stop dead before 'Nine-Mile Point'."
@@ -204,7 +169,7 @@
    "direction": "Quote the pilot quietly. Count the rpm up. Leave the last question hanging."
   },
   {
-   "type": "turn",
+   "type": "photo",
    "clock": [
     "22:09",
     "22:12"
@@ -212,45 +177,53 @@
    "headline": "Turning... but [sliding wide].",
    "sub": "Danger signal: five short blasts",
    "p": {
-    "cx": 560,
-    "cy": 1180,
-    "R": 330,
-    "a0": 180,
-    "a1": 330,
-    "shipTo": 300,
-    "drift": 120,
-    "dock": "Dock + intakes",
-    "dockAng": 268,
-    "dockDx": 50,
-    "dockDy": -10,
-    "curLabel": "Current carries her wide",
-    "curLx": 1000,
-    "curLy": 1380,
-    "yawLag": 0
+    "src": "episodes/nordbay-p1/img/ais_ninemile.jpg",
+    "kb": [
+     1.0,
+     1.35
+    ],
+    "focus": [
+     0.82,
+     0.75
+    ],
+    "credit": "NTSB report · AIS track: mrtis.com · Google Earth",
+    "circle": {
+     "x": 0.77,
+     "y": 0.74,
+     "r": 70,
+     "at": 1.5,
+     "label": "NORDBAY"
+    },
+    "h": 820
    },
    "narration": "She is turning... but sliding. Sliding wide. Less than six hundred feet from the bank. Closer. Closer. Twenty-two ten. The danger signal blasts out. Five short blasts.",
    "direction": "Get faster and tighter with every 'closer'. Hit 'five short blasts' hard."
   },
   {
-   "type": "impact",
+   "type": "photo",
    "clock": "22:13",
    "headline": "[22:13] First allision.",
-   "sub": "Allision = a moving ship hits a fixed object",
+   "sub": "What was left of the barge dock",
    "p": {
-    "stamp": "IMPACT",
+    "src": "episodes/nordbay-p1/img/dock_aerial.jpg",
+    "kb": [
+     1.25,
+     1.0
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "flash": true,
+    "stamp": "DESTROYED",
+    "credit": "Photo: Infinity Engineering Consultants, via NTSB report",
     "chips": [
      "Barge dock destroyed",
      "Mooring dolphins smashed",
      "City water intakes hit"
     ],
     "chipsAt": 1.0,
-    "pier": 880,
-    "pierLabel": "Barge dock + mooring dolphins",
-    "sx": 560,
-    "sy": 925,
-    "ang": 100,
-    "ix": 400,
-    "iy": 905
+    "h": 780
    },
    "narration": "Twenty-two thirteen. Impact! Steel tears into a barge dock. Mooring dolphins smash apart. The city's water intakes take the hit.",
    "direction": "Loud on 'Impact!', then fast, punchy."
@@ -289,6 +262,5 @@
  "voice": "human",
  "queue": true,
  "script_sent_unix": 1794897472,
- "awaiting_voice": false,
- "voice_done": true
+ "awaiting_voice": true
 }

@@ -7,10 +7,13 @@ from jms import telegram
 
 for f in voice_inbox.waiting():
     ep = json.loads(f.read_text())
-    rec = voice_inbox.fetch_recording(ep.get("script_sent_unix", 0), f"/tmp/{ep['id']}.rec")
+    later = [json.loads(g.read_text()).get("script_sent_unix") or 0 for g in voice_inbox.EPS.glob("*/episode.json")]
+    later = [x for x in later if x > ep.get("script_sent_unix", 0)]
+    rec = voice_inbox.fetch_recording(ep.get("script_sent_unix", 0), f"/tmp/{ep['id']}.rec", min(later) if later else None)
     if not rec:
         print("no recording yet for", ep["id"]); continue
-    telegram.send_text(f"🎙 Got your recording for {ep['id']} — cleaning it up and editing the Reel now (about 5 minutes).")
+    if not ep.get("quiet_rerender"):
+        telegram.send_text(f"🎙 Got your recording for {ep['id']} — cleaning it up and editing the Reel now (about 5 minutes).")
     env = dict(os.environ, TTS_MODE="human", VOICE_FILE=rec)
     r = subprocess.run([sys.executable, "-u", str(Path(__file__).parent / "preview.py"), str(f)], env=env, capture_output=True, text=True)
     print(r.stdout[-3000:], r.stderr[-3000:])

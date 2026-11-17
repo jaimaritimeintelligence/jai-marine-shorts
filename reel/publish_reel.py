@@ -23,7 +23,9 @@ def main():
         e["date"] = "9999-12-31"; rq.save(q); return
     url = f"https://raw.githubusercontent.com/{REPO}/main/reel/episodes/{e['id']}/{e['id']}.mp4"
     from jms import instagram
-    pid, link, user = instagram.publish_reel(url, ep.get("caption", ""))
+    cover = f"https://raw.githubusercontent.com/{REPO}/main/reel/episodes/{e['id']}/cover.jpg"
+    has_cover = (Path(__file__).parent / "episodes" / e["id"] / "cover.jpg").exists()
+    pid, link, user = instagram.publish_reel(url, ep.get("caption", ""), cover_url=cover if has_cover else None)
     e["posted"] = link or pid; rq.save(q)
     telegram.send_text(f"🎬 Reel posted to @{user}: {link}")
 

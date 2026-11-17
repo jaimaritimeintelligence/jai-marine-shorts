@@ -28,6 +28,9 @@ if ep.get("queue"):
     slot = rq.add(ep["id"])
 if os.environ.get("TELEGRAM_BOT_TOKEN"):
     telegram.send_video(final, f"🎬 Jai Marine Shorts — Reel preview: {ep['id']} ({size:.0f} MB)")
+    cov = final.parent / "cover.jpg"
+    if cov.exists():
+        telegram.send_album([str(cov)], "🖼 Thumbnail / cover")
     telegram.send_text("REEL CAPTION:\n\n" + ep.get("caption", ""))
     if slot:
         telegram.send_text(f"This Reel will post automatically on {slot['date']} at 7:30 AM IST. Tap Reject to stop it.",

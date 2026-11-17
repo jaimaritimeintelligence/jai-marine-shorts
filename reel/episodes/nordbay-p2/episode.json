@@ -1,7 +1,7 @@
 {
  "id": "nordbay-p2",
  "kicker": "NORDBAY · NEW ORLEANS · PART 2 OF 2",
- "caption": "PART 2/2 — 53 minutes after the first hit, Nordbay struck New Orleans again. ⚠️🚢\n\nDamaged and still moving, the empty Aframax had to round Algiers Point. Tugs were turned away, the master was on the phone — and at 23:06 she hit the Mandeville Street Wharf. Total damage: about $6.4 million.\n\nNTSB lessons: a pilot on board never removes the master's duty to navigate safely, and no call is more important than a ship still under way.\n\nWhat would you have done? 👇\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #neworleans #mississippiriver #seafarer #merchantnavy #bridgeteam #NTSB #maritimesafety #jaimarineshorts",
+ "caption": "PART 2/2 — 53 minutes after the first hit, Nordbay struck New Orleans again. ⚠️🚢\n\nDamaged and still moving, the empty Aframax had to round Algiers Point. Tugs were turned away, the master was on the phone — and at 23:06 she hit the Mandeville Street Wharf. Total damage: about $6.4 million.\n\nNTSB lessons: a pilot on board never removes the master's duty to navigate safely, and no call is more important than a ship still under way.\n\nWhat would you have done? 👇\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Photos: NTSB report (credits on screen). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #neworleans #mississippiriver #seafarer #merchantnavy #bridgeteam #NTSB #maritimesafety #jaimarineshorts",
  "scenes": [
   {
    "type": "hook",
@@ -13,16 +13,34 @@
      "THE WHARF."
     ],
     "sizes": [
-     104,
-     104,
+     100,
+     100,
      92,
      92
     ],
-    "max": 12,
-    "badge": "PART 2 · WHAT WENT WRONG?",
-    "circle": true,
-    "hitAt": 2.6,
-    "y": 300
+    "max": 16,
+    "y": 200,
+    "src": "episodes/nordbay-p2/img/nordbay_bow.jpg",
+    "full": true,
+    "top": 680,
+    "height": 800,
+    "kb": [
+     1.18,
+     1.0
+    ],
+    "focus": [
+     0.5,
+     0.6
+    ],
+    "pcircle": {
+     "x": 0.5,
+     "y": 0.74,
+     "r": 130,
+     "at": 1.0,
+     "ax": 230,
+     "ay": 260
+    },
+    "badge": "PART 2 · WHAT WENT WRONG?"
    },
    "narration": "The master is on the phone. The pilot is shouting for power. And a wounded tanker is heading straight for a wharf.",
    "direction": "Fast and tense, like breaking news."
@@ -345,16 +363,31 @@
    "direction": "Loud on 'Impact!', then slow and heavy on the last three lines."
   },
   {
-   "type": "card",
+   "type": "photo",
    "headline": "The bill: [$6.4 million].",
    "p": {
-    "items": [
-     "Barge dock and dolphins destroyed",
-     "City water intakes damaged — still working",
-     "Nordbay: 5 propeller blades damaged, buckled steel aft"
+    "src": "episodes/nordbay-p2/img/propeller.jpg",
+    "kb": [
+     1.0,
+     1.2
     ],
-    "y": 560,
-    "step": 1.1
+    "focus": [
+     0.6,
+     0.75
+    ],
+    "credit": "Photo: DNV-GL, via NTSB report",
+    "circle": {
+     "x": 0.63,
+     "y": 0.7,
+     "r": 120,
+     "at": 1.5,
+     "label": "PROPELLER BLADES"
+    },
+    "chips": [
+     "Dock + dolphins destroyed",
+     "Hull buckled aft"
+    ],
+    "chipsAt": 2.5
    },
    "narration": "The bill? About six point four million dollars. Five propeller blades damaged. Steel buckled in her stern.",
    "direction": "Calm, serious."
