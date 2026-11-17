@@ -1,0 +1,460 @@
+                                  National Transportation Safety Board
+                                              Marine Accident Brief
+                           Allision of Tanker Nordbay with Docks and Water Intakes
+
+ Accident no.    DCA16FM023
+ Vessel name     Nordbay
+ Accident type   Allision (two)
+ Location        Lower Mississippi River at mile markers 104 and 94; New Orleans, Louisiana
+ Date            February 2, 2016
+ Time            2213 central standard time (coordinated universal time – 6 hours)
+ Injuries        None
+ Property        $6.4 million est.
+ damage
+ Environmental   None
+ damage
+ Weather         Overcast, visibility 8 miles, south winds at 17–24 knots, air temperature 73°F, water
+                 temperature 44°F
+ Waterway        Lower Mississippi River near New Orleans. The river stage was 14.2 feet and falling,
+ information     with a current of 4–5 knots. At New Orleans, the extreme difference between high and
+                 low stages is 17 feet, with the mean difference being about 8 feet. The project depth of
+                 the river is 45 feet and is maintained by the US Army Corps of Engineers.
+
+        On February 2, 2016, at 2213 local time, the tanker Nordbay was southbound on the Lower
+Mississippi River in New Orleans, Louisiana, with a pilot on board when it allided with a dock
+and water intakes on the left descending bank. Less than an hour later, as the vessel maneuvered
+through another bend in the river while heading toward an anchorage, it allided with a wharf on
+the left descending bank. No pollution or injuries were reported. The dock, water intakes, the
+wharf, and the Nordbay sustained an estimated $6.4 million in total damage.
+
+
+
+
+            Nordbay under way in loaded condition. (Photo by Reederei Nord Group)
+                                                                                  NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+        The 817-foot-long Aframax tanker Nordbay was owned by MT Nordbay Ship Management
+B.V. and managed by Reederei Nord Group.1 Delivered in 2007, it was classed by Det Norske
+Veritas-Germanischer Lloyd (DNV-GL) and was on a time charter with Valero Marketing and Ship
+Supply Company for carriage of crude oil from South America to the United States. The vessel
+had a single semi-spade rudder with maximum deflection of 35 degrees to port and starboard.2 The
+single fixed-pitch right-hand-turning propeller was driven by a 19,000-hp slow-speed Sulzer
+engine.3 Bridge personnel could control the propeller rpm from a station on the bridge. The system
+had an acceleration-limiting program to help prevent damage to propulsion machinery from rapid
+changes in rpm. It could be overridden, however, by opening a button cover and activating the
+“program cancel” button.
+
+        From December 4, 2015, until June 17, 2016, the Carrollton Gage on the Lower Mississippi
+River remained above 9 feet, constituting a “high-water event.”4 A restriction that required
+implementing emergency procedures was in effect: southbound vessels from mile marker
+(mm) 233 above head of passes (AHP) to mm 90.5 AHP were restricted to daylight movement
+only.5 On January 29, at 0400, the restriction was removed for southbound traffic, but because of
+fog in the area few ships moved.
+
+Accident Events
+       In the early evening of February 2, 2016, preparations were ongoing for the Nordbay to get
+under way from Valero dock no. 4 (at mm 125) in St. Charles, Louisiana, after the ship had
+discharged its oil cargo. Due to strong currents in the river, the vessel was being held at the dock
+by two tugboats in addition to its own moorings.
+
+        At 1912 on February 2, a pilot with the New Orleans–Baton Rouge Steamship Pilots
+Association (NOBRA) boarded the Nordbay in preparation for getting under way.6 He and the
+master met on the navigation bridge for a master/pilot information exchange. According to a
+checklist provided to investigators, the information exchange included minimum and maximum
+speeds for the passage (5 knots minimum and 10 knots maximum), under-keel clearances
+(estimated at 8.9 feet at 10 knots), expected traffic conditions, navigational equipment and
+machinery status (with no deficiencies reported), and tide/current/weather forecast. The checklist
+was completed at 1936 and was signed by the master but not the pilot. The pilot told investigators
+that the visibility was good and that there was a steady southeasterly wind of 15 knots at the time
+they got underway. According to the vessel information card given to him, the Nordbay’s departure
+drafts were 18.0 feet (5.5 meters) forward, 24.1 feet (7.4 meters) midship, and 30.2 feet
+
+
+    1
+       Aframax is a medium-size tanker with a deadweight tonnage ranging between 80,000 and 120,000.
+    2
+       The ship had two power units running at the time of the accident. Based on the bridge information poster, the
+rudder needed about 18 seconds to move between hard port and hard starboard.
+     3
+       According to the ship’s particulars, the draft at which the propeller would have been immersed was 24.3 feet
+(7.4 meters).
+     4
+       A high-water event would be 8 feet or above on a rising stage or 9 feet or above on a falling stage. (For more
+detail, see Title 33 Code of Federal Regulations, Section 161.65.) The Carrollton Gage is maintained by the US Army
+Corps of Engineers and provides current and historical water level information.
+     5
+       Above head of passes (AHP) is a datumn for which mileages on the Lower Mississippi River are measured. Head
+of passes is where three of the river’s main passes come together: South Pass, Southwest Pass, and Pass a Loutre. This
+point of confluence is located at Head of Passes Junction Light (29°08’53” N, 089°15’06” W). Source: United States
+Coast Pilot 5: Gulf of Mexico, Puerto Rico and Virgin Islands, 44th ed. (Washington, DC: US Department of
+Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, 2016)
+     6
+       NOBRA’s area of coverage is the Lower Mississippi River between mm 88 and 234.
+                                                          2                                   NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+(9.2 meters) aft, with a calculated freeboard of 44.3 feet (13.5 meters). Both the master and the
+pilot told investigators that they had discussed the high-water event and were aware there were no
+restrictions on the vessel getting under way at night. The master told investigators that the Nordbay
+was the first large tanker to get under way southbound after the high-water restrictions were lifted.
+
+
+
+
+                                                                               ~ 0.5 mi
+Satellite image of the Lower Mississippi River that runs through New Orleans. The sites of the two
+allisions are marked by red triangles. (Background by Google Earth)
+
+        The Nordbay left the dock at 2030 with assistance from the tugboats, which the pilot then
+dismissed. On the bridge with the pilot was the master, the officer of the watch (third mate), and a
+helmsman. The ship’s bosun, acting as an anchor watch, was posted forward on the bow. One of
+the third mate’s assigned responsibilities was to comply with the pilot’s propulsion orders. In
+accordance with the ship’s procedures, on receiving an order the third mate first informed the
+engine control room by telephone and then adjusted the propulsion lever, which was located on a
+console on the port side of the bridge.
+
+        The transit was uneventful until the Nordbay approached the Huey P. Long Bridge (at
+mm 106). At 2203, as the Nordbay approached the bridge, the pilot received a cell phone call that
+lasted less than a minute and pertained to the possibility of fog farther down the river. He briefly
+discussed the details of the call with the master.
+
+        At 2205, the ship passed under the bridge on a heading of 037 degrees at full-ahead speed
+(71 rpm) with a speed over ground of 14.8 knots and a speed through the water of 12 knots.
+According to the primary radar image captured by the VDR, the Nordbay was about 600 feet from
+the right descending bank. Ahead of the vessel lay Nine-Mile Point, a bend in the river that would
+require a large starboard course change of about 135 degrees. The pilot told investigators that when
+passing under the bridge he began to aim high in the bend so that he could use the current to make
+the turn at Nine-Mile Point. The south winds, at 15–25 knots, were on the starboard quarter of the
+
+                                                  3                              NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+vessel. Although the visibility was reported to be good, the master stated that there was fog on the
+water. Despite the fog, the lights of the shoreline were visible all around them.7
+
+        The pilot issued a series of increasing starboard rudder orders of 10 and 20 degrees and
+hard over. The ship’s rate of turn to starboard increased, as did the heading, but its course over
+ground was slower to change. About 2208, the pilot asked the master, “Do we have any more rpm?
+Can we go to a ten-minute notice?”8 In response, the master ordered an rpm increase to 82.9 The
+third mate complied by calling the engine control room and then moving the propulsion lever.
+About a minute later, the ship was on a heading of 110 degrees true (073 degrees over ground)
+with a rate of turn to starboard of about 23 degrees per minute and less than 600 feet from the left
+descending bank. As the ship continued to set into the bend, the pilot again requested more rpm,
+to which the third mate replied that the ship was increasing in rpm. On hearing this, the master
+ordered an increase to 89 rpm; the third mate complied. However, at 2210, the pilot informed the
+master, “We’re going to be down here in this bend shortly,” and requested to have the danger signal
+sounded on the ship’s whistle.10
+
+         Concerned that he did not hear the ship’s whistle sound, the pilot looked for the whistle
+control panel with his flashlight and then, along with the third mate, inquired about the location of
+the panel. He again requested that the danger signal be sounded. About the same time, the VDR
+recorded a rapid decrease in rate of turn to starboard, a drop of speed over ground to about 9 knots,
+and at a speed through the water of about 6 knots. At 2211, the pilot announced via VHF radio on
+the vessel traffic service (VTS) frequency that the Nordbay was going into the bend at Nine-Mile
+Point (mm 104). Moments later, at 2212, the VDR recorded the rpm dropped from 76 to between 50
+and 60, followed by a vibration noise. At that time, the ship was on a heading of about 143 degrees
+with a course over ground of 119 degrees. The Nordbay was still near the left descending bank,
+with the pilot trying to maneuver the ship out of the bend by “feathering the rudder,” as he called
+it. This strategy entailed issuing a series of rudder orders from starboard 20 to midship in about a
+15-second span. The pilot described feathering the rudder as an effective means for increasing the
+ship’s rate of turn in trying to keep the vessel off the bank. About 2213, the VDR recorded an
+additional vibration followed by alarms sounding on the bridge. The vessel had struck a dock
+owned by River Transport Services; it also struck water intakes owned by the Sewerage and Water
+Board of New Orleans.
+
+        As the pilot got the ship back into the channel on a southerly course, the master ordered
+the general alarm to be sounded at 2215 and instructed all crewmembers to assemble at their muster
+stations. About the same time, the pilot’s cell phone rang; he answered and informed the caller that
+he was unable to talk. He then issued a port-20 rudder order, followed by a half-ahead speed order.
+The pilot later told investigators that the call he received at that time was a personal call.
+
+
+     7
+       There were no entries in the ship’s logbook about the weather conditions or visibility on February 2, 2016, from
+1200 onward.
+     8
+       There is no listing of the phrase “ten-minute notice” in the IMO Standard Marine Communication Phrases [IMO
+resolution A.918(22)]. A pilot may use the phrase to alert engineering watch personnel of upcoming changes in rpm
+that can be expected in the next 10 minutes, for which they will need to plan accordingly.
+     9
+       According to the Nordbay’s maneuvering characteristics (in ballast condition), full-ahead sea speed at 99 rpm
+equates to 16.4 knots through the water, and full-ahead speed of 71 rpm equates to 12.1 knots through the water.
+     10
+        The danger signal, as the term is commonly called, entails sounding at least five short, rapid blasts on the ship’s
+whistle. According to the convention on the international regulations for preventing collisions at sea, this warning is
+to be sounded when in doubt of another vessel’s intentions, actions, and/or when in doubt of whether sufficient action
+is being taken in conditions where vessels are in sight of one another. (Source: COLREG 1972 Rule 34[d].)
+                                                             4                                    NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+
+
+
+Satellite image overlaid with automatic identification system (AIS) trackline of the Nordbay at
+Nine-Mile Point. Background traffic positions may not be accurate. (Source www.mrtis.com;
+Background by Google Earth)
+
+        At 2218, the pilot contacted New Orleans VTS and requested tugboat assistance; he and
+VTS determined that the Nordbay would proceed to the general anchorage (which was the safest
+and closest anchorage) below Algiers Point. The pilot told VTS that he felt he had control of the
+vessel and that there was no oil cargo on board. New Orleans VTS informed the pilot that it would
+try to keep other vessels clear of the Nordbay. The master, who had ordered the chief mate to
+inspect the ship for damage, was told that there was damage to portside ballast water tank no. 6.
+The damage was reported to be above the water line with ballast water spraying into the river.
+
+        The Nordbay passed the Carrollton Gage at 2220. About that time, the pilot notified the
+NOBRA office via cell phone about the accident and arranged for another pilot to board the vessel
+near the anchorage. The master also used the ship’s cell phone to inform the shipping company of
+the damage to the ballast tank. The Nordbay continued southbound and passed through Greenville
+Bend at Six-Mile Point, which required a port turn that the pilot stated was completed successfully
+(he noted that the ship handled well in port turns). At 2237, two escort tugboats—the Greg
+Turecamo and the Captain Jimmy T Moran—met the Nordbay and offered to attach lines to the
+ship, which the pilot declined. He told investigators that he considered adding the lines but that
+maneuvering around Algiers Point required good speed to manage the rudder; therefore, moving
+at such speed with attached tugboats, he thought, would risk dragging them under. Algiers Point,
+between mm 95 and 94, requires a large course change (in the case of the Nordbay about
+120 degrees to starboard, while transitioning from a northerly to east-southeast course).
+
+        After the Nordbay passed underneath the Crescent City connection bridges at 2258 about
+600 feet off the right descending bank, the pilot ordered full-ahead speed in preparation for
+rounding Algiers Point. Three minutes later, the pilot ordered the rudder to starboard 20 and then
+hard to starboard to start the turn. The ship was at 71 rpm with a speed of 11.2 knots over ground
+and 7.4 knots through the water on a heading of 354 degrees true. The master was still on the phone
+with the shipping company when the pilot initiated the turn. The Nordbay continued rounding the
+
+
+                                                 5                             NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+bend; as the vessel changed heading, the winds at 15–25 knots from the south-southeast were on
+the starboard quarter and then starboard beam.
+
+        At 2303, the pilot, recognizing that the Nordbay was again approaching the left descending
+bank, called the Greg Turecamo on his port bow and told the operator to stay clear of that area. He
+again began feathering the rudder to increase the rate of turn. At 2304, on a heading of 067 with
+about a 15-degree rate of turn to starboard and a course over ground of 033 degrees, the pilot asked
+the master, “Can we get more rpm?” The master ended the phone call with the shipping company
+and asked the pilot how many rpm he wanted, to which the pilot replied, “Emergency . . . As much
+as you can give me!” The master called the engine control room stating he needed emergency rpm,
+and moved the propulsion levers to full-ahead sea speed, announcing “ninety-eight” rpm. He then
+asked the pilot what was happening, to which the pilot replied that they were being pushed down
+into the bend. The master also asked about the tugboats, to which the pilot responded by radioing
+the operators to stand by on the starboard bow.
+
+         The pilot continued to make rudder orders of starboard through midship throughout the
+bend, to which the helmsman responded appropriately. The Nordbay’s rate of turn to starboard
+began to decrease from its maximum of about 20 degrees per minute as the heading passed 081
+degrees true with a course over ground of 050 degrees at 2305. The rpm was 78 and the speed through
+the water was 4.4 knots, but with the strong following current, the actual speed over ground was
+9.1 knots. About a minute later, the VDR recorded noise and vibrations, followed seconds later by
+alarms on the bridge. The pilot requested the danger signal be sounded; the VDR recorded two short
+blasts followed by one long blast repeated several times. At 2306, the Nordbay struck the Mandeville
+Street Wharf, which was an unused wooden pier near mm 94 on the left descending bank.
+
+
+
+
+Satellite image with overlaid AIS trackline of the Nordbay (in red) at Algiers Point. Background traffic
+positions may not be accurate. (Source www.mrtis.com; Background by Google Earth)
+
+       After the Nordbay struck the wharf and was still along the left descending bank, the pilot
+continued giving rudder orders between starboard 20, midship, and hard to starboard in quick
+succession to get the ship back into the channel. One of the tugboats was able to get a line on the
+                                                   6                               NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+starboard bow at 2314. Four minutes later, a replacement pilot from the Crescent River Port Pilots
+Association, who had already been assigned to the Nordbay prior to the accident, arrived on the
+bridge. Additional tugboats were called in to help as the Nordbay approached the anchorage; with
+their assistance, the ship was turned to head into the current and maneuvered to the anchorage. The
+pilot was relieved by the Crescent River pilot at 2338. The starboard anchor was let go at 0015 just
+below mm 91.
+
+Personnel
+        The pilot was up to date on all federal, state, and association licensing and training
+requirements. He had been sailing as a fully licensed NOBRA pilot with no tonnage limitations for
+about 4 years at the time of the accident and stated that he averaged about 150 piloting assignments
+a year in that section of the river. He stated that he had experience handling tankers of that size in
+ballast in the river. The pilot was tested for alcohol and other drugs postaccident; the results were
+negative. He reported that he was well-rested, in part because during the past night there were no
+piloting callouts due to fog conditions on the river.
+
+        The master and bridge crew were credentialed with appropriate endorsements for their
+duties on board. They were also tested for alcohol and other drugs, with all results negative. The
+master stated he had about 34 years of seagoing experience and, since 2007, had worked as master
+of the Nordbay and another company tanker. He estimated that he had sailed the Mississippi River
+about 20 times (five times on the Upper Mississippi River and 15 on the lower).
+
+Damage
+       The allisions together resulted in an estimated $6.4 million in damage, as follows:
+
+       •   A DNV-GL survey of the Nordbay found damage to the vessel’s five propeller blades
+           (indentations, sharp edges, and notches) and contact-damage to the aft portside shell
+           plating above the waterline. Further, inset hull plating and buckling of longitudinal
+           webs was found in ballast tank no. 6, the ballast double bottom, and the pump room.
+           Damage to the Nordbay was estimated at $400,000.
+
+       •   The intakes for the Sewerage and Water Board of New Orleans (Jefferson Parish,
+           between about mm 104.1 and 103.8) were damaged but continued to function without
+           interruption. A full and detailed damage report was not made available to investigators;
+           however, estimated damage to the intakes was $2 million.
+
+       •   The River Transport Services (RTS) barge dock and mooring dolphin structures were
+           destroyed and determined not to be serviceable. Cost of replacement was estimated
+           between $1.5 and $4 million.
+
+       •   A full damage assessment for the Mandeville Street Wharf was not available at the time
+           of release of this report.
+
+
+
+
+                                                  7                              NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+
+
+
+At left, Nordbay’s damaged propeller (photo by DNV-GL). At right, the destroyed River Transport
+Services dock (photo by Infinity Engineering Consultants).
+
+Analysis
+        The ship allided with structures on the shoreline while the pilot was navigating two large
+bends in the river, both which required large course changes to starboard. In addition to the
+high-river condition and strong following current, the wind also had an effect on the Nordbay. The
+ship was in ballast with a freeboard greater than the draft and a 12-foot trim by the stern. In a
+lighter draft condition, the hull has less “grip” on the water. The master told investigators that
+Aframax ships like the Nordbay have a large surface area of the hull exposed to wind pressure.
+The master noted that the wind at both starboard turns was on the starboard side and remembered
+the relative wind on the first turn being on the starboard beam at 20–23 knots. He recalled that the
+conditions were similar on the second turn but not as strong. While in the two large bends, the
+Nordbay was turning into the wind with a heading and direction that put the wind on the starboard
+side of the ship, thus setting the vessel deeper into the left descending bank and reducing the rate
+of turn. By the pilot’s account, the stern was “falling into the bend and the bow was not climbing
+out.” Both the master and the pilot stated they were aware of the wind and high-water conditions
+for the downbound transit but they did not discuss the effect of these conditions on the ship. By
+the account of the master and the pilot, both considered the risk of getting under way in those
+conditions acceptable and determined no additional measures were needed to mitigate the risk.
+
+         The master/pilot exchange checklist indicated that the minimum/maximum speed for the
+passage was discussed. Even though the speed in both bends was more than what was covered in
+this exchange, the pilot told investigators that more rpm was necessary to manage the rudder with
+the following current. The current around each of the bends did not flow through the middle of the
+river and as such, at each turn the pilot had to bring the ship into the current and follow the current
+through while managing water flow over the rudder and the ship’s rate of turn. The master told
+investigators there were no problems or differences with the steering and handling of the ship in
+either port or starboard turns, and the pilot mentioned that the ship handled well in course changes
+to port.
+
+       After the first allision, both the master and the pilot became occupied with communications
+and notifications about the accident. While approaching the turn at Algiers Point, the master was
+on the phone with his company representative and responding to requests for information. It was
+                                                   8                              NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+only when the pilot notified the master that he needed more engine rpm that the master ended the
+phone call to attend to the pilot’s urgent request. The master, occupied with this call, had no
+awareness of the rapidly developing situation until the pilot alerted him to it. Additionally, the pilot
+used his cell phone to make and receive phone calls. He received a work-related call moments
+before the first course change around Nine-Mile Point and a personal call at a critical moment
+when trying to get the ship out of the bend. After the allision, the pilot used his cell phone to notify
+NOBRA personnel of the accident and arrange for a relief pilot further downriver, but he was not
+on a call during the turn and the second allision at Algiers Point. Although it is important to provide
+timely notification of an accident, doing so should never interfere with the safe navigation and
+control of the ship.
+
+        There is no evidence that the master and the pilot discussed the particulars of the propulsion
+system, including that the ship had an acceleration-limiting program on the engine and how the
+program could be overridden, if necessary. The pilot told investigators the rpm was not increasing
+quick enough. The master told investigators that the program could be overridden at any time by
+pushing a button on a panel next to the propulsion lever, and that he, in fact, did so when the pilot
+asked for more rpm leading up to the first allision. The master also noted that before the initial
+grounding and allision the pilot requested “a ten-minute notice,” which led him to believe that the
+handling of the ship was “under control,” because no significant rpm changes would be needed for
+the next 10 minutes. Regardless, there was not sufficient evidence to establish whether more rpm
+would have made a difference at that stage in the accident sequence. Furthermore, regulations on
+the river require that the engines be ready for immediate use.
+
+Probable Cause
+        The National Transportation Safety Board determines that the probable cause of the
+Nordbay’s allisions with water intakes and docks was the pilot and the master not adequately
+assessing the risks of handling the ballasted vessel during high-river conditions with strong
+following currents while turning into the wind. Contributing was the bridge team’s poor situational
+awareness of the vessel’s position in the waterway. Contributing to the second allision was the
+master’s distraction from his duties while making a phone call.
+
+
+
+
+                                      Distracted Operations
+   Postaccident communications and notifications should never interfere with the safe
+   operation of a vessel that is still under way. Control of the vessel and attention to
+   the safe handling of the ship must be maintained at all times until the ship is safely
+   anchored or moored. The presence of a pilot does not exempt the master and
+   bridge team from their duty to safely navigate the ship.
+
+
+
+
+                                                   9                               NTSB/MAB-17/30
+Allision of Tanker Nordbay with Docks and Water Intakes
+
+Vessel Particulars
+
+Vessel                                                   Nordbay
+
+Owner/operator                                           MT Nordbay Ship Management B.V.
+
+Port of registry                                         Limassol
+
+Flag                                                     Cyprus
+
+Type                                                     Tanker
+
+Year built                                               2007
+
+IMO number                                               9319870
+
+Classification society                                   Det Norske Veritas-Germanischer Lloyd
+
+Construction                                             Welded steel
+
+Length                                                   817 ft (249 m)
+
+Draft                                                    18 ft (5.5 m) forward, 30.2 ft (9.2 m) aft
+
+Beam/width                                               144 ft (44 m)
+
+Gross tonnage                                            62,241 gross tons
+
+Engine power; manufacturer                               19,000 hp (14,168 kW); Sulzer 7RTA58T
+
+Persons on board                                         24
+
+
+NTSB investigators worked closely with our counterparts from Coast Guard Sector New Orleans
+throughout this investigation.
+
+
+For more details about this accident, visit www.ntsb.gov and search for NTSB accident ID
+DCA16FM023.
+Issued: August 25, 2017
+
+The NTSB has authority to investigate and establish the probable cause of any major marine casualty or any marine
+casualty involving both public and nonpublic vessels under Title 49 United States Code, Section 1131. This report is
+based on factual information either gathered by NTSB investigators or provided by the Coast Guard from its informal
+investigation of the accident.
+The NTSB does not assign fault or blame for a marine casualty; rather, as specified by NTSB regulation, “[NTSB]
+investigations are fact-finding proceedings with no formal issues and no adverse parties . . . and are not conducted for
+the purpose of determining the rights or liabilities of any person.” Title 49 Code of Federal Regulations, Section 831.4.
+Assignment of fault or legal liability is not relevant to the NTSB’s statutory mission to improve transportation safety
+by conducting investigations and issuing safety recommendations. In addition, statutory language prohibits the
+admission into evidence or use of any part of an NTSB report related to an accident in a civil action for damages
+resulting from a matter mentioned in the report. Title 49 United States Code, Section 1154(b).
+
+
+
+
+                                                            10                                    NTSB/MAB-17/30
+
