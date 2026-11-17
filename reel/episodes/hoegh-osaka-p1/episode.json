@@ -1,0 +1,204 @@
+{
+ "id": "hoegh-osaka-p1",
+ "voice": "human",
+ "queue": true,
+ "music": "lightless-dawn",
+ "kicker": "HOEGH OSAKA · SOLENT, UK · 3 JAN 2015",
+ "cover_title": "CAR CARRIER LIES DOWN IN ONE TURN",
+ "caption": "PART 1/2 — One turn. Forty degrees of list. 🚢⚠️\n\n3 Jan 2015: the car carrier Hoegh Osaka leaves Southampton for Bremerhaven with 1,450 cars and 183 heavy units on board. At the berth she lists 7°. The departure stability calculation only starts after she has sailed. Then comes the turn at West Bramble…\n\nPart 2 tomorrow. Follow so you don't miss it.\n\nSource: MAIB report 6/2016 (public report). Photos: Wikimedia Commons (credits on screen). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #carcarrier #stability #solent #southampton #seafarer #merchantnavy #marineengineering #chiefofficer #MAIB #maritimesafety #jaimarineshorts",
+ "scenes": [
+  {
+   "type": "hook",
+   "p": {
+    "lines": [
+     "ONE TURN.",
+     "[40° LIST.]",
+     "1,450 CARS",
+     "ON BOARD."
+    ],
+    "sizes": [
+     100,
+     110,
+     92,
+     92
+    ],
+    "max": 16,
+    "y": 220,
+    "src": "episodes/hoegh-osaka-p1/img/aground_geni.jpg",
+    "full": true,
+    "top": 760,
+    "height": 760,
+    "kb": [
+     1.0,
+     1.15
+    ],
+    "focus": [
+     0.5,
+     0.55
+    ],
+    "pcircle": {
+     "x": 0.5,
+     "y": 0.5,
+     "r": 150,
+     "at": 1.0,
+     "ax": 230,
+     "ay": 260
+    },
+    "badge": "WHY? WATCH TILL THE END"
+   },
+   "narration": "A car carrier leaves Southampton with fourteen hundred and fifty cars on board. One hour later... she is lying on her side.",
+   "direction": "Low and slow. Pause before 'she is lying on her side'."
+  },
+  {
+   "type": "alarm",
+   "alarm": true,
+   "clock": "21:10",
+   "p": {
+    "lines": [
+     "SHE'S HEELING OVER",
+     "Rudder and propeller lift out of the water"
+    ],
+    "shakeAt": 2.0
+   },
+   "narration": "Twenty-one ten. She heels hard to starboard. Rudder and propeller lift out of the water. The pilot asks... what the hell is the G M of this vessel?",
+   "direction": "Start in a whisper, get faster. Quote the pilot sharply."
+  },
+  {
+   "type": "photo",
+   "headline": "Meet the [Hoegh Osaka].",
+   "sub": "Car carrier · Southampton → Bremerhaven",
+   "p": {
+    "src": "episodes/hoegh-osaka-p1/img/ship_southampton.jpg",
+    "kb": [
+     1.05,
+     1.2
+    ],
+    "focus": [
+     0.45,
+     0.6
+    ],
+    "credit": "Photo: Nige Brown / Wikimedia Commons (CC BY 2.0)",
+    "chips": [
+     "180 m long · 24 crew",
+     "1,633 vehicles on board"
+    ],
+    "chipsAt": 1.2,
+    "h": 760
+   },
+   "narration": "Rewind. Third January, twenty-fifteen. Hoegh Osaka. One hundred and eighty metres. Twenty-four crew. Sixteen hundred and thirty-three vehicles, bound for Bremerhaven.",
+   "direction": "Calm storyteller."
+  },
+  {
+   "type": "card",
+   "headline": "The plan [changed].",
+   "sub": "Pre-stowage plan vs final tally",
+   "p": {
+    "items": [
+     "Port order changed — stowage plan not revised",
+     "112 more units than planned",
+     "617 t more cargo",
+     "Upper decks full, lower decks light"
+    ],
+    "hl": 2,
+    "y": 600,
+    "step": 1.4,
+    "max": 30
+   },
+   "narration": "But the port order has changed, and the stowage plan is never revised. One hundred and twelve more units than planned. Six hundred tonnes more cargo. Upper decks full. Lower decks light.",
+   "direction": "Steady, building. Land hard on 'Lower decks light'."
+  },
+  {
+   "type": "gauges",
+   "headline": "A [7° list] at the berth.",
+   "sub": "As the stern ramp is raised",
+   "p": {
+    "items": [
+     {
+      "label": "LIST TO STARBOARD",
+      "from": 0,
+      "value": 7,
+      "min": 0,
+      "max": 20,
+      "unit": "°",
+      "red": true
+     }
+    ],
+    "note": "Usual: 1–2°"
+   },
+   "narration": "At the berth, the stern ramp comes up... and she lists. Seven degrees. Normal is one or two. Ballast is moved across. She comes upright. And she sails.",
+   "direction": "Slow. Let 'Seven degrees' sink in. Flat on 'And she sails'."
+  },
+  {
+   "type": "card",
+   "clock": [
+    "20:06",
+    "20:25"
+   ],
+   "headline": "Stability check? [After sailing.]",
+   "p": {
+    "items": [
+     "20:06 — lines let go",
+     "20:25 — departure stability calculation starts",
+     "Most ballast gauges dead since July 2014"
+    ],
+    "hl": 1,
+    "y": 600,
+    "step": 1.4,
+    "max": 30
+   },
+   "narration": "Twenty oh six. Lines let go. Only at twenty twenty-five, already under way, does the Chief Officer start the stability calculation. Most ballast gauges have not worked for months.",
+   "direction": "Matter-of-fact, with disbelief on 'already under way'."
+  },
+  {
+   "type": "phone",
+   "headline": "\"She does [not feel right].\"",
+   "sub": "Master calls the Chief Officer",
+   "p": {
+    "who": "MASTER",
+    "caller": "Chief Officer",
+    "chips": [
+     "\"Not feel right\"",
+     "\"I'm working on it\""
+    ],
+    "chipsAt": 1.5
+   },
+   "narration": "The master calls him. The ship does not feel right. The answer: I'm working on it.",
+   "direction": "Quiet. Two separate voices, a beat between them."
+  },
+  {
+   "type": "gauges",
+   "clock": [
+    "21:07",
+    "21:09"
+   ],
+   "headline": "[21:07] The West Bramble turn.",
+   "sub": "\"She's very tender captain\"",
+   "p": {
+    "items": [
+     {
+      "label": "SPEED",
+      "from": 10,
+      "value": 12,
+      "min": 0,
+      "max": 20,
+      "unit": "kn"
+     }
+    ],
+    "note": "Previous turn at 10 kn"
+   },
+   "narration": "Twenty-one oh seven. The West Bramble turn, at twelve knots. Port ten. Port five. Midships. The pilot says... she's very tender, captain.",
+   "direction": "Tighter and faster with each helm order. Whisper the pilot's words."
+  },
+  {
+   "type": "cta",
+   "p": {
+    "lines": [
+     "SHE STARTS TO LEAN...",
+     "...and she [does not stop]."
+    ]
+   },
+   "narration": "And then she starts to lean... and she does not stop. Part two, tomorrow. Follow, so you don't miss it.",
+   "direction": "Slow, almost a whisper on 'does not stop'. Normal voice for the last line."
+  }
+ ]
+}

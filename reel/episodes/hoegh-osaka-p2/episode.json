@@ -1,0 +1,208 @@
+{
+ "id": "hoegh-osaka-p2",
+ "voice": "human",
+ "queue": true,
+ "music": "lightless-dawn",
+ "kicker": "HOEGH OSAKA · SOLENT, UK · PART 2 OF 2",
+ "cover_title": "STABILITY CHECKED AFTER SAILING",
+ "caption": "PART 2/2 — The stability calculation started after she sailed. ⚠️🚢\n\nAt 21:09 Hoegh Osaka loses her stability in the West Bramble turn. At 21:15 she grounds on Bramble Bank with a 40° list. Cargo breaks loose, about 2,700 t of seawater floods in, and the crew wait for helicopters through the night.\n\nMAIB: stability must be calculated after loading and before sailing — with real weights and real soundings.\n\nWhat would you have done? 👇\n\nSource: MAIB report 6/2016 (public report). Photos: Wikimedia Commons (credits on screen). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #carcarrier #stability #solent #southampton #seafarer #merchantnavy #marineengineering #chiefofficer #MAIB #maritimesafety #jaimarineshorts",
+ "scenes": [
+  {
+   "type": "hook",
+   "p": {
+    "lines": [
+     "SHE SAILED.",
+     "THE [STABILITY]",
+     "CHECK CAME",
+     "[AFTER]."
+    ],
+    "sizes": [
+     100,
+     96,
+     96,
+     110
+    ],
+    "max": 16,
+    "y": 200,
+    "src": "episodes/hoegh-osaka-p2/img/aground_day.jpg",
+    "full": true,
+    "top": 780,
+    "height": 740,
+    "kb": [
+     1.15,
+     1.0
+    ],
+    "focus": [
+     0.5,
+     0.6
+    ],
+    "pcircle": {
+     "x": 0.55,
+     "y": 0.68,
+     "r": 140,
+     "at": 1.0,
+     "ax": 230,
+     "ay": 260
+    },
+    "badge": "PART 2 · WHAT WENT WRONG?"
+   },
+   "narration": "Sixteen hundred vehicles. Twenty-five people. And the departure stability calculation... starts only after she sails.",
+   "direction": "Fast and tense, then slow on the last line."
+  },
+  {
+   "type": "card",
+   "headline": "[Previously...]",
+   "p": {
+    "items": [
+     "617 t more cargo than planned",
+     "7° list at the berth",
+     "Stability calc starts after sailing",
+     "21:09 — \"She's very tender captain\""
+    ],
+    "hl": 3,
+    "y": 560,
+    "step": 0.9,
+    "max": 30
+   },
+   "narration": "Previously... extra cargo, a list at the berth, a late stability check. And now... the turn.",
+   "direction": "Quiet, ominous."
+  },
+  {
+   "type": "alarm",
+   "alarm": true,
+   "clock": [
+    "21:09",
+    "21:10"
+   ],
+   "p": {
+    "lines": [
+     "STABILITY LOST AT 12°",
+     "Hard a-starboard · Stop engines"
+    ],
+    "shakeAt": 1.5
+   },
+   "narration": "Twenty-one oh nine. At just twelve degrees, she loses her stability. Hard a-starboard! Stop engines! She rolls... possibly as far as sixty degrees.",
+   "direction": "Shout the orders. Then slow and heavy on 'sixty degrees'."
+  },
+  {
+   "type": "photo",
+   "clock": "21:15",
+   "headline": "[21:15] Aground. 40° list.",
+   "sub": "Bramble Bank, the Solent",
+   "p": {
+    "src": "episodes/hoegh-osaka-p2/img/aground_geni.jpg",
+    "kb": [
+     1.25,
+     1.0
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "flash": true,
+    "stamp": "AGROUND",
+    "credit": "Photo: Geni / Wikimedia Commons (CC BY-SA 4.0)",
+    "chips": [
+     "No steering · no propulsion"
+    ],
+    "chipsAt": 1.2,
+    "h": 700
+   },
+   "narration": "No steering. No propulsion. Twenty-one fifteen. She grounds on the Bramble Bank, forty degrees to starboard. The pilot phones V T S: keep her on the bank.",
+   "direction": "Breathless, then calm and firm on 'keep her on the bank'."
+  },
+  {
+   "type": "card",
+   "headline": "Below decks: [chaos].",
+   "p": {
+    "items": [
+     "Cargo breaks loose, shifts to starboard",
+     "Digger's tracks pierce the hull",
+     "Falling cargo breaks a deck",
+     "≈2,700 t of seawater gets in"
+    ],
+    "hl": 2,
+    "y": 600,
+    "step": 1.4,
+    "max": 30
+   },
+   "narration": "Below, cargo breaks loose. A digger's tracks pierce the hull. Falling cargo breaks a deck. Two thousand seven hundred tonnes of seawater gets in.",
+   "direction": "Urgent, punchy."
+  },
+  {
+   "type": "card",
+   "headline": "Escape [in the dark].",
+   "p": {
+    "items": [
+     "5 climb out of the engine room",
+     "1 falls 18 m — arm and leg broken",
+     "2 jump into the sea, rescued",
+     "02:09 — last 3 airlifted"
+    ],
+    "hl": 3,
+    "y": 560,
+    "step": 1.6,
+    "max": 30
+   },
+   "narration": "Five men escape the engine room. One falls eighteen metres and breaks an arm and a leg. Two jump into the sea. At oh two oh nine, the last three are airlifted off.",
+   "direction": "Serious, steady. Relief on 'All twenty-five survive'."
+  },
+  {
+   "type": "quote",
+   "p": {
+    "text": "\"Unsafe practices had become [the norm].\"",
+    "by": "MAIB report 6/2016",
+    "size": 70
+   },
+   "narration": "The investigators wrote it plainly. Unsafe practices had become the norm.",
+   "direction": "Slow. Every word separate."
+  },
+  {
+   "type": "card",
+   "headline": "What the [MAIB] found.",
+   "hsize": 74,
+   "p": {
+    "items": [
+     "No departure stability calculation before sailing",
+     "Cargo weights estimated, cargo centres of gravity ignored",
+     "Ballast gauges dead, tank levels estimated",
+     "Not enough stability for a 12-knot turn"
+    ],
+    "hl": 0,
+    "y": 520,
+    "step": 2.4,
+    "max": 32
+   },
+   "narration": "The M A I B found: no departure stability calculation before sailing. Cargo weights estimated, their heights left out. Ballast quantities estimated. Not enough stability for a twelve-knot turn.",
+   "direction": "Investigator voice."
+  },
+  {
+   "type": "card",
+   "headline": "[Lessons] for every ship.",
+   "p": {
+    "items": [
+     "Stability is calculated before the lines come off",
+     "Use real weights and real soundings",
+     "A strange list at the berth is a warning"
+    ],
+    "numbered": true,
+    "y": 560,
+    "step": 3.0,
+    "max": 30
+   },
+   "narration": "Lesson one. Calculate stability before the lines come off. Lesson two. Real weights, real soundings, not estimates. Lesson three. A strange list at the berth is a warning... find out why.",
+   "direction": "Firm, like a senior Chief teaching juniors."
+  },
+  {
+   "type": "cta",
+   "p": {
+    "lines": [
+     "WHAT WOULD YOU HAVE DONE?",
+     "Tell us in the [comments]."
+    ]
+   },
+   "narration": "Now tell me... what would you have done at that berth? Comment below. And follow Jai Marine Shorts for the next case file.",
+   "direction": "Warm, inviting."
+  }
+ ]
+}
