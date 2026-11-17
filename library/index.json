@@ -9060,6 +9060,606 @@
    "hash": "1111111100000000111111100000111111111110000011111111111000001111111111110000011111111111000100111100111100111000110000011111100000000111111110000000011111111000100001111110000001100010000000000000000000000000001100000000000000100000000000000000000000000000",
    "w": 1280,
    "h": 885
+  },
+  {
+   "file": "photos/ice-arctic/aurora-australis-icebreaker-berthed-in-hobart-4da297.jpg",
+   "category": "ice-arctic",
+   "title": "Aurora Australis (icebreaker) berthed in Hobart under a rainbow.jpg",
+   "credit": "Edoddridge / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Aurora_Australis_(icebreaker)_berthed_in_Hobart_under_a_rainbow.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Aurora_Australis_%28icebreaker%29_berthed_in_Hobart_under_a_rainbow.jpg/1920px-Aurora_Australis_%28icebreaker%29_berthed_in_Hobart_under_a_rainbow.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 85,
+    "bright": 147,
+    "contrast": 47,
+    "sharp": 2255
+   },
+   "hash": "0000011111000000011111111111000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111011111111111110000010010011110000000000001100000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 370
+  },
+  {
+   "file": "photos/ice-arctic/icebreaker-stephan-jantzen-in-stadthafen-rost-266ed0.jpg",
+   "category": "ice-arctic",
+   "title": "Icebreaker Stephan Jantzen in Stadthafen Rostock 2010-12-28 perspective correction-GD.jpg",
+   "credit": "Icebreaker_Stephan_Jantzen_in_Stadthafen / Wikimedia Commons (CC BY-SA 3.0 de)",
+   "page": "https://commons.wikimedia.org/wiki/File:Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg/1920px-Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 51,
+    "bright": 158,
+    "contrast": 69,
+    "sharp": 2242
+   },
+   "hash": "0101111111111111111111111111111111111110011111111111111011111111111111101111111111111110111111111111100000111111111110000111111111001100011111111100000101111111110000000111111111000000000111111100000000001000110000000000111100000000011111110000000111111111",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/ice-arctic/ss-sankt-erik-icebreaker-museum-ship-stockhol-a4035e.jpg",
+   "category": "ice-arctic",
+   "title": "SS Sankt Erik icebreaker museum ship Stockholm 2016 02.jpg",
+   "credit": "Julian Herzog (Website) / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:SS_Sankt_Erik_icebreaker_museum_ship_Stockholm_2016_02.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SS_Sankt_Erik_icebreaker_museum_ship_Stockholm_2016_02.jpg/1920px-SS_Sankt_Erik_icebreaker_museum_ship_Stockholm_2016_02.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 61,
+    "bright": 140,
+    "contrast": 63,
+    "sharp": 3264
+   },
+   "hash": "0000111111111111000111111111111100111111111111110111111111111111111111111111111111111111111111111111110111111111111111111111111111111111111111111111111111111001000101111000000100100000000000001100000000000000111000000000000011100000000000001111000000000011",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/ice-arctic/william-simpson-george-zobel-england-and-amer-7d693a.jpg",
+   "category": "ice-arctic",
+   "title": "William Simpson - George Zobel - England and America. The visit of her majesty Queen Victoria to the Arctic ship Resolute - December 16th, 1856.jpg",
+   "credit": "William Simpson / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:William_Simpson_-_George_Zobel_-_England_and_America._The_visit_of_her_majesty_Queen_Victoria_to_the_Arctic_ship_Resolute_-_December_16th,_1856.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_Simpson_-_George_Zobel_-_England_and_America._The_visit_of_her_majesty_Queen_Victoria_to_the_Arctic_ship_Resolute_-_December_16th%2C_1856.jpg/1920px-William_Simpson_-_George_Zobel_-_England_and_America._The_visit_of_her_majesty_Queen_Victoria_to_the_Arctic_ship_Resolute_-_December_16th%2C_1856.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 33,
+    "bright": 115,
+    "contrast": 75,
+    "sharp": 2428
+   },
+   "hash": "1111111111111111111111111000110110111111100010011000111100011001100011100100100110001110000000011000000000000001100000000000000111000000000000011000000000000001100000000000000110000000000000011000000111000001100000011100000111111111111111111111111111111111",
+   "w": 1280,
+   "h": 898
+  },
+  {
+   "file": "photos/ice-arctic/2025-09-26-01-refrigerated-cargo-shipl-ice-im-e9bdfc.jpg",
+   "category": "ice-arctic",
+   "title": "2025-09-26 01 Refrigerated cargo shipl ICE - IMO 8412699 - Bergen, Norway.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-09-26_01_Refrigerated_cargo_shipl_ICE_-_IMO_8412699_-_Bergen,_Norway.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2025-09-26_01_Refrigerated_cargo_shipl_ICE_-_IMO_8412699_-_Bergen%2C_Norway.jpg/1920px-2025-09-26_01_Refrigerated_cargo_shipl_ICE_-_IMO_8412699_-_Bergen%2C_Norway.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 108,
+    "bright": 120,
+    "contrast": 55,
+    "sharp": 3670
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111100111100000000001010000000000000000000000000000000000111010011000000001111011110000001111101111000000000000000100011000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/ice-arctic/arkhangelsk-icebreaker-dikson-p7151141-2200-j-90e2c5.jpg",
+   "category": "ice-arctic",
+   "title": "Arkhangelsk. Icebreaker Dikson P7151141 2200.jpg",
+   "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Arkhangelsk._Icebreaker_Dikson_P7151141_2200.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Arkhangelsk._Icebreaker_Dikson_P7151141_2200.jpg/1920px-Arkhangelsk._Icebreaker_Dikson_P7151141_2200.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 107,
+    "bright": 123,
+    "contrast": 56,
+    "sharp": 3776
+   },
+   "hash": "1000000000000000110000000000000011000000000000001111110000000000111111000110001011111111111111101111111111111111111011111111111011000000111111001110000000110000100000000001000000000000111111111000011111111111000111111111111100000011111111111100011111111111",
+   "w": 1280,
+   "h": 785
+  },
+  {
+   "file": "photos/ice-arctic/ss-sankt-erik-icebreaker-museum-ship-stockhol-a6d902.jpg",
+   "category": "ice-arctic",
+   "title": "SS Sankt Erik icebreaker museum ship Stockholm 2016 01.jpg",
+   "credit": "Julian Herzog (Website) / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:SS_Sankt_Erik_icebreaker_museum_ship_Stockholm_2016_01.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SS_Sankt_Erik_icebreaker_museum_ship_Stockholm_2016_01.jpg/1920px-SS_Sankt_Erik_icebreaker_museum_ship_Stockholm_2016_01.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 62,
+    "bright": 147,
+    "contrast": 66,
+    "sharp": 3807
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111111111111111111111111111111111111111111100111111100110000000000000000000000001111000000000000111100000000000011110000000000000000000000000100",
+   "w": 1280,
+   "h": 909
+  },
+  {
+   "file": "photos/ice-arctic/voima-icebreaker-jpg-6424df.jpg",
+   "category": "ice-arctic",
+   "title": "Voima icebreaker.JPG",
+   "credit": "Óðinn / Wikimedia Commons (CC BY-SA 2.5 ca)",
+   "page": "https://commons.wikimedia.org/wiki/File:Voima_icebreaker.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Voima_icebreaker.JPG/1920px-Voima_icebreaker.JPG",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 126,
+    "bright": 99,
+    "contrast": 47,
+    "sharp": 4113
+   },
+   "hash": "1111111000000000111111111000000011111111111100001111111111111011111111111001111111111111111111111111111111111111111111111111111111111111111111110000000011110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ice-arctic/zodiacs-navigate-between-icebergs-in-arctic-j-afe325.jpg",
+   "category": "ice-arctic",
+   "title": "Zodiacs navigate between icebergs in Arctic.jpg",
+   "credit": "Brocken Inaglory / Wikimedia Commons (CC BY 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Zodiacs_navigate_between_icebergs_in_Arctic.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zodiacs_navigate_between_icebergs_in_Arctic.jpg/1920px-Zodiacs_navigate_between_icebergs_in_Arctic.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 22,
+    "bright": 136,
+    "contrast": 46,
+    "sharp": 1500
+   },
+   "hash": "1111111111111111000011111111111100000000000111110000000000001000000000000000000011111111000111101111111111111111111111111111111100000111111110000000000000000111000000000111111110111011111111110000111100001111000000000000000001100000000000001111000000000001",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ice-arctic/07582-nor-hammerfest-arctic-princess-port-for-0fd8d6.jpg",
+   "category": "ice-arctic",
+   "title": "07582 NOR Hammerfest Arctic Princess port forward V-P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:07582_NOR_Hammerfest_Arctic_Princess_port_forward_V-P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/07582_NOR_Hammerfest_Arctic_Princess_port_forward_V-P.jpg/1920px-07582_NOR_Hammerfest_Arctic_Princess_port_forward_V-P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 78,
+    "bright": 138,
+    "contrast": 62,
+    "sharp": 5910
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111110000011111110001111111100001111111111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000001110010000000001111011110000110111110",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "photos/ice-arctic/07583-nor-hammerfest-arctic-princess-forward-21e0c6.jpg",
+   "category": "ice-arctic",
+   "title": "07583 NOR Hammerfest Arctic Princess forward port V-P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:07583_NOR_Hammerfest_Arctic_Princess_forward_port_V-P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/07583_NOR_Hammerfest_Arctic_Princess_forward_port_V-P.jpg/1920px-07583_NOR_Hammerfest_Arctic_Princess_forward_port_V-P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 66,
+    "bright": 139,
+    "contrast": 57,
+    "sharp": 5298
+   },
+   "hash": "1111111111111111111111111111111111111111111111111110011110000001000000000000000000000000000000001111111111111111111110000111111100000000000000000000000000000000111110000000000011111000001011111111000000000000101100000000000000100000000000001110000000000000",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "photos/ice-arctic/07584-nor-hammerfest-arctic-princess-frontal-b36a52.jpg",
+   "category": "ice-arctic",
+   "title": "07584 NOR Hammerfest Arctic Princess frontal view V-P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:07584_NOR_Hammerfest_Arctic_Princess_frontal_view_V-P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/07584_NOR_Hammerfest_Arctic_Princess_frontal_view_V-P.jpg/1920px-07584_NOR_Hammerfest_Arctic_Princess_frontal_view_V-P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 58,
+    "bright": 144,
+    "contrast": 58,
+    "sharp": 5317
+   },
+   "hash": "1111111111111111111111111111111111111111111111110000000001111111000000000011011111111111111111111111111111111111001111100110000000000000000000000000000000000000111111000000000000001100001111100000110001111110000011000111111000001110011111110000111001111111",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "photos/ice-arctic/07585-nor-hammerfest-arctic-princess-stb-forw-695efe.jpg",
+   "category": "ice-arctic",
+   "title": "07585 NOR Hammerfest Arctic Princess stb forward V-P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:07585_NOR_Hammerfest_Arctic_Princess_stb_forward_V-P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/07585_NOR_Hammerfest_Arctic_Princess_stb_forward_V-P.jpg/1920px-07585_NOR_Hammerfest_Arctic_Princess_stb_forward_V-P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 63,
+    "bright": 144,
+    "contrast": 73,
+    "sharp": 6956
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111110000000011111110000000000000111000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000011100000000011111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "photos/ice-arctic/0915-nor-hammerfest-arctic-princess-v-p-jpg-3462d7.jpg",
+   "category": "ice-arctic",
+   "title": "0915 NOR Hammerfest Arctic Princess V-P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:0915_NOR_Hammerfest_Arctic_Princess_V-P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/0915_NOR_Hammerfest_Arctic_Princess_V-P.jpg/1920px-0915_NOR_Hammerfest_Arctic_Princess_V-P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 165,
+    "bright": 107,
+    "contrast": 55,
+    "sharp": 2723
+   },
+   "hash": "0000111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000111111001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/ice-arctic/2022-08-21-01-horizon-arctic-imo-9732838-jpg-06bee5.jpg",
+   "category": "ice-arctic",
+   "title": "2022-08-21 01 HORIZON ARCTIC - IMO 9732838.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-08-21_01_HORIZON_ARCTIC_-_IMO_9732838.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2022-08-21_01_HORIZON_ARCTIC_-_IMO_9732838.jpg/1920px-2022-08-21_01_HORIZON_ARCTIC_-_IMO_9732838.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 39,
+    "bright": 174,
+    "contrast": 65,
+    "sharp": 3353
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111100111111111111110011111111111111000111111111111000001111111111000000110111111100000001000000000000000000000000000000111000000000000001100000000000001111111111100000110011111110000011",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/ice-arctic/2022-08-21-02-horizon-arctic-imo-9732838-jpg-d6bd0a.jpg",
+   "category": "ice-arctic",
+   "title": "2022-08-21 02 HORIZON ARCTIC - IMO 9732838.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-08-21_02_HORIZON_ARCTIC_-_IMO_9732838.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2022-08-21_02_HORIZON_ARCTIC_-_IMO_9732838.jpg/1920px-2022-08-21_02_HORIZON_ARCTIC_-_IMO_9732838.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 48,
+    "bright": 173,
+    "contrast": 67,
+    "sharp": 2615
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111111111111110011111111111111000111111111110000000110000010000000001000000000000000000000000000000010000000000000001000001100000011100000000000001110000000000000000",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/ice-arctic/arctic-hunter-rendsburg-p1100511-jpg-7f29fc.jpg",
+   "category": "ice-arctic",
+   "title": "Arctic Hunter, Rendsburg (P1100511).jpg",
+   "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Arctic_Hunter,_Rendsburg_(P1100511).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arctic_Hunter%2C_Rendsburg_%28P1100511%29.jpg/1920px-Arctic_Hunter%2C_Rendsburg_%28P1100511%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 47,
+    "bright": 126,
+    "contrast": 64,
+    "sharp": 3007
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111000000000000011100000000000000000000001100000000000000111100000000000000000000000001000000000001011111111111110100000000001100000001111111110110000000111111111100011001000010000000000000000100",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ice-arctic/arctic-hunter-rendsburg-p1100513-jpg-7ad95d.jpg",
+   "category": "ice-arctic",
+   "title": "Arctic Hunter, Rendsburg (P1100513).jpg",
+   "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Arctic_Hunter,_Rendsburg_(P1100513).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arctic_Hunter%2C_Rendsburg_%28P1100513%29.jpg/1920px-Arctic_Hunter%2C_Rendsburg_%28P1100513%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 56,
+    "bright": 122,
+    "contrast": 64,
+    "sharp": 2875
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111101111111111000000011111110100000000000100000000010000000000000111000000000000001111000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111110111111111111111",
+   "w": 1280,
+   "h": 800
+  },
+  {
+   "file": "photos/ice-arctic/arctic-hunter-rendsburg-p1100514-jpg-825ce7.jpg",
+   "category": "ice-arctic",
+   "title": "Arctic Hunter, Rendsburg (P1100514).jpg",
+   "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Arctic_Hunter,_Rendsburg_(P1100514).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Arctic_Hunter%2C_Rendsburg_%28P1100514%29.jpg/1920px-Arctic_Hunter%2C_Rendsburg_%28P1100514%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 54,
+    "bright": 144,
+    "contrast": 62,
+    "sharp": 3666
+   },
+   "hash": "1111111111111111111111111111111111111111111111110011100011100000000110000000000000000000000010000000110000000000001111000000000000111110000000000000000000000000100000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ice-arctic/ship-in-ice-greenland-expedition-met-dp11674-776f05.jpg",
+   "category": "ice-arctic",
+   "title": "-Ship in Ice, Greenland Expedition- MET DP116744.jpg",
+   "credit": "Isaac Israel Hayes / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:-Ship_in_Ice,_Greenland_Expedition-_MET_DP116744.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/-Ship_in_Ice%2C_Greenland_Expedition-_MET_DP116744.jpg/1920px--Ship_in_Ice%2C_Greenland_Expedition-_MET_DP116744.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 66,
+    "bright": 166,
+    "contrast": 63,
+    "sharp": 1668
+   },
+   "hash": "0000000000000000011111111111111011111111111111101111111111111110011111111111111001111111111111100111111111111110011111111111111001111111111111100111111111111110010000001100000001101110110000000111111011111000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 750
+  },
+  {
+   "file": "photos/ice-arctic/8412699-samskip-ice-1985-jpg-be39cc.jpg",
+   "category": "ice-arctic",
+   "title": "8412699 Samskip Ice 1985.jpg",
+   "credit": "Cavernia / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:8412699_Samskip_Ice_1985.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/8412699_Samskip_Ice_1985.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 149,
+    "bright": 126,
+    "contrast": 62,
+    "sharp": 2962
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111000010000000000000000000000000000000000000000000000011000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 850
+  },
+  {
+   "file": "photos/ice-arctic/cap-lara-ship-among-ice-floes-in-quebec-city-3b3094.jpg",
+   "category": "ice-arctic",
+   "title": "Cap Lara ship among ice floes in Quebec City.jpg",
+   "credit": "Wilfredor / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cap_Lara_ship_among_ice_floes_in_Quebec_City.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cap_Lara_ship_among_ice_floes_in_Quebec_City.jpg/1920px-Cap_Lara_ship_among_ice_floes_in_Quebec_City.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 87,
+    "bright": 84,
+    "contrast": 46,
+    "sharp": 2782
+   },
+   "hash": "1111111111111111111111111111111100000000000111110000000000000000000000000000000000000000000000000000000000000000001111111100000000000011111000000000011111101000000011101110110000000000010000000001111111111111101111111111111100111101111000111111111001001110",
+   "w": 1280,
+   "h": 767
+  },
+  {
+   "file": "photos/ice-arctic/golden-ice-ship-2008-imo-9401362-hornhaven-po-3cc865.jpg",
+   "category": "ice-arctic",
+   "title": "Golden Ice (ship, 2008) IMO 9401362 Hornhaven Port of Amsterdam pic2.JPG",
+   "credit": "Alf van Beem / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Ice_(ship,_2008)_IMO_9401362_Hornhaven_Port_of_Amsterdam_pic2.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Golden_Ice_%28ship%2C_2008%29_IMO_9401362_Hornhaven_Port_of_Amsterdam_pic2.JPG/1920px-Golden_Ice_%28ship%2C_2008%29_IMO_9401362_Hornhaven_Port_of_Amsterdam_pic2.JPG",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 57,
+    "bright": 125,
+    "contrast": 45,
+    "sharp": 1275
+   },
+   "hash": "1111111111111111111111111111111111111111111111110111101111111111011110001001111100000000000000001111000000000000111111111001000011111111111111111100111110000001110000000000001000000000000000000000000000000000010000000000000001000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ice-arctic/golden-ice-ship-2008-imo-9401362-hornhaven-po-7788e1.jpg",
+   "category": "ice-arctic",
+   "title": "Golden Ice (ship, 2008) IMO 9401362 Hornhaven Port of Amsterdam pic3.JPG",
+   "credit": "Alf van Beem / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Ice_(ship,_2008)_IMO_9401362_Hornhaven_Port_of_Amsterdam_pic3.JPG",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Golden_Ice_%28ship%2C_2008%29_IMO_9401362_Hornhaven_Port_of_Amsterdam_pic3.JPG/1920px-Golden_Ice_%28ship%2C_2008%29_IMO_9401362_Hornhaven_Port_of_Amsterdam_pic3.JPG",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 53,
+    "bright": 130,
+    "contrast": 55,
+    "sharp": 3376
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111011111111111111101111111111111100111111111111110011111111111110011111111111111011111111111110000011100000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000011100",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ice-arctic/ice-river-ship-panoramio-jpg-f690ae.jpg",
+   "category": "ice-arctic",
+   "title": "Ice River Ship - panoramio.jpg",
+   "credit": "---=XEON=--- / Wikimedia Commons (CC BY 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ice_River_Ship_-_panoramio.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ice_River_Ship_-_panoramio.jpg/1920px-Ice_River_Ship_-_panoramio.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 92,
+    "bright": 106,
+    "contrast": 72,
+    "sharp": 2806
+   },
+   "hash": "0000000000001100000001100001100111111111111101101111110111111111111101000011111110111000111111111000111000110000100000111000000011011000111000001111110000111000111111000001111011111100000001111111011000000001111101100000000001111100000000000111110001000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ice-arctic/ice-ship-in-the-waves-iceland-jpg-85c59d.jpg",
+   "category": "ice-arctic",
+   "title": "Ice Ship in the Waves - Iceland.jpg",
+   "credit": "Eric Kilby / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ice_Ship_in_the_Waves_-_Iceland.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ice_Ship_in_the_Waves_-_Iceland.jpg/1920px-Ice_Ship_in_the_Waves_-_Iceland.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 30,
+    "bright": 158,
+    "contrast": 49,
+    "sharp": 1300
+   },
+   "hash": "1111111111111111111100001111111100000111111111111111111111111111111111111011110011111111011000001111110001100000111111101110000011111111011000010011111000000111000111111111111100111111100011110011000000001111000000000000010000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ice-arctic/ice-ship-34362092413-jpg-f56654.jpg",
+   "category": "ice-arctic",
+   "title": "Ice ship (34362092413).jpg",
+   "credit": "Markus Trienke / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ice_ship_(34362092413).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ice_ship_%2834362092413%29.jpg/1920px-Ice_ship_%2834362092413%29.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 74,
+    "bright": 140,
+    "contrast": 49,
+    "sharp": 5603
+   },
+   "hash": "1111111111111111111011010000001000000000000000000000000000000100000001110011111100000011100000000000000000100000000000000000000011111111111111111111110111111111111111111111111111110111111010011110000000000001000000000000000100000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ice-arctic/icebreaker-sisu-in-helsinki-jpg-972bad.jpg",
+   "category": "ice-arctic",
+   "title": "Icebreaker \"Sisu\" in Helsinki.jpg",
+   "credit": "WanderingTrad / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Icebreaker_%22Sisu%22_in_Helsinki.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Icebreaker_%22Sisu%22_in_Helsinki.jpg/1920px-Icebreaker_%22Sisu%22_in_Helsinki.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 99,
+    "bright": 102,
+    "contrast": 57,
+    "sharp": 4086
+   },
+   "hash": "0000000000001100000000000000000000000000000000000000000000000000000010100000000000001111011000000000011111100010111111111111111111111111111111110111111111111111011111111111111101111111111111000111111111111100000011110111100000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/ice-arctic/icebreaker-aurora-on-drift-ice-at-sea-of-okho-b71167.jpg",
+   "category": "ice-arctic",
+   "title": "Icebreaker Aurora on drift ice at Sea of Okhost.jpg",
+   "credit": "Lkj12344321 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Icebreaker_Aurora_on_drift_ice_at_Sea_of_Okhost.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Icebreaker_Aurora_on_drift_ice_at_Sea_of_Okhost.jpg/1920px-Icebreaker_Aurora_on_drift_ice_at_Sea_of_Okhost.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 51,
+    "bright": 175,
+    "contrast": 39,
+    "sharp": 2339
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111110001111111111110000011111111000000001111111100000000011111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/ice-arctic/moscow-polyarnik-breaking-ice-jan-2026-04-jpg-c10cd1.jpg",
+   "category": "ice-arctic",
+   "title": "Moscow, 'Polyarnik' breaking ice, Jan 2026 04.jpg",
+   "credit": "Retired electrician / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Moscow,_%27Polyarnik%27_breaking_ice,_Jan_2026_04.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow%2C_%27Polyarnik%27_breaking_ice%2C_Jan_2026_04.jpg/1920px-Moscow%2C_%27Polyarnik%27_breaking_ice%2C_Jan_2026_04.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 53,
+    "bright": 125,
+    "contrast": 68,
+    "sharp": 4005
+   },
+   "hash": "1110000000000000111110000000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000000111111101111110011111111111110000111111110000000001111111000000000011111110000000000111111000000000011111111111111111111111111111111111",
+   "w": 1280,
+   "h": 854
   }
  ]
 }
