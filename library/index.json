@@ -2760,6 +2760,606 @@
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111100001111111111100000011111001000000000111100000011000000100000001111111111000000001111111110000000000111111001000000001111010000000000000000000000000000100000000000000100000000",
    "w": 1280,
    "h": 811
+  },
+  {
+   "file": "photos/navy-escort/edward-duncan-the-explosion-of-the-united-sta-1f8acc.jpg",
+   "category": "navy-escort",
+   "title": "Edward Duncan - The Explosion of the United States Steam Frigate Missouri.jpg",
+   "credit": "Thomas Goldsworthy Dutton / Edward Dunca / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg/1920px-Edward_Duncan_-_The_Explosion_of_the_United_States_Steam_Frigate_Missouri.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 36,
+    "bright": 109,
+    "contrast": 63,
+    "sharp": 1593
+   },
+   "hash": "1111111111111111100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000011000000110000001100000011000000111000001100000011100100110000001100000011000001111000001100000111110000111111111111111111111111111111111",
+   "w": 1280,
+   "h": 1065
+  },
+  {
+   "file": "photos/navy-escort/red-fish-at-papah-naumoku-kea-jpg-ab5425.jpg",
+   "category": "navy-escort",
+   "title": "Red Fish at Papahānaumokuākea.jpg",
+   "credit": "U.S. Fish &amp; Wildlife Service - Pacif / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Fish_at_Papah%C4%81naumoku%C4%81kea.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Red_Fish_at_Papah%C4%81naumoku%C4%81kea.jpg/1920px-Red_Fish_at_Papah%C4%81naumoku%C4%81kea.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 118,
+    "bright": 86,
+    "contrast": 59,
+    "sharp": 4945
+   },
+   "hash": "0000110000000100000111001001110000011011001111000001100111111000111000011111000011000010011000001000100000000000010000010000000011101111001100111011111001100011111000000000011111110000000001001111111110011000110111111111110011111111110001101111110010000110",
+   "w": 1280,
+   "h": 892
+  },
+  {
+   "file": "photos/navy-escort/the-burning-of-the-uss-missouri-in-gibraltar-4680f3.jpg",
+   "category": "navy-escort",
+   "title": "The Burning of the USS Missouri in Gibraltar.jpg",
+   "credit": "Thomas Goldsworthy Dutton / Edward Dunca / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg/1920px-The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 45,
+    "bright": 123,
+    "contrast": 62,
+    "sharp": 2303
+   },
+   "hash": "1111111111111111100000000000000110000000000000011000000000000001100010011000000110001101100000011000110011000001100011101110000110001111111100011110001111011001100110000000000110000000000000011000000001100001100011011111000111111111111111111111111111111111",
+   "w": 1280,
+   "h": 1070
+  },
+  {
+   "file": "photos/navy-escort/the-hermione-being-escorted-by-the-uss-mitsch-daccb2.jpg",
+   "category": "navy-escort",
+   "title": "The Hermione being escorted by the USS Mitscher (DDG-57) (1).jpg",
+   "credit": "U.S. Navy/Mass Communication Specialist  / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Hermione_being_escorted_by_the_USS_Mitscher_(DDG-57)_(1).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Hermione_being_escorted_by_the_USS_Mitscher_%28DDG-57%29_%281%29.jpg/1920px-The_Hermione_being_escorted_by_the_USS_Mitscher_%28DDG-57%29_%281%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 66,
+    "bright": 125,
+    "contrast": 68,
+    "sharp": 3498
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111100111101000000000011111001110000001001100000000000111111000000000001111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/navy-escort/aralibertad-0031-jpg-269882.jpg",
+   "category": "navy-escort",
+   "title": "ARALibertad--0031.jpg",
+   "credit": "Ezarate / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:ARALibertad--0031.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ARALibertad--0031.jpg/1920px-ARALibertad--0031.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 26,
+    "bright": 185,
+    "contrast": 32,
+    "sharp": 2446
+   },
+   "hash": "1111110001111000111111111111100011111110111111001111111001111111111110000011111111110000011111111111110011111111111111000111111111111100011101111111100000001101111110000111110001111000011111100000100001111100000000000000000011000000000011111110000000001111",
+   "w": 1280,
+   "h": 731
+  },
+  {
+   "file": "photos/navy-escort/aralibertad-0032-jpg-53dfa6.jpg",
+   "category": "navy-escort",
+   "title": "ARALibertad--0032.jpg",
+   "credit": "Ezarate / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:ARALibertad--0032.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/ARALibertad--0032.jpg/1920px-ARALibertad--0032.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 30,
+    "bright": 193,
+    "contrast": 48,
+    "sharp": 5477
+   },
+   "hash": "1111110000111111111111000001111111111100001111111111110100111111111110000011111111111000000111111111100100111111111110000001111111111000000111111111100000000001111110000010011111000000000011111101100000010011110000000000001011110000000000101110000000000111",
+   "w": 1280,
+   "h": 832
+  },
+  {
+   "file": "photos/navy-escort/admiral-istomin-vessel-2012-g2-jpg-62bfc0.jpg",
+   "category": "navy-escort",
+   "title": "Admiral Istomin vessel 2012 G2.jpg",
+   "credit": "George Chernilevsky / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Admiral_Istomin_vessel_2012_G2.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Admiral_Istomin_vessel_2012_G2.jpg/1920px-Admiral_Istomin_vessel_2012_G2.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 71,
+    "bright": 119,
+    "contrast": 62,
+    "sharp": 3060
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000111100000111110000000000011111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 836
+  },
+  {
+   "file": "photos/navy-escort/ancre-surcouf-img-5913-jpg-49170b.jpg",
+   "category": "navy-escort",
+   "title": "Ancre-Surcouf-IMG 5913.jpg",
+   "credit": "Rama / Wikimedia Commons (CC BY-SA 2.0 fr)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancre-Surcouf-IMG_5913.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ancre-Surcouf-IMG_5913.jpg/1920px-Ancre-Surcouf-IMG_5913.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 37,
+    "bright": 140,
+    "contrast": 55,
+    "sharp": 1005
+   },
+   "hash": "1111111110000110111111100000001111111110000000111111111000000001111111110000000111111111000000001100000000000000110000000000000111000000000000111100000000000010111001000000000011111110000100001111111100110000111111111000000011111111110000001111111111100000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/navy-escort/canon-100mm-surcouf-img-5916-jpg-a17c7c.jpg",
+   "category": "navy-escort",
+   "title": "Canon 100mm-Surcouf-IMG 5916.jpg",
+   "credit": "Rama / Wikimedia Commons (CC BY-SA 2.0 fr)",
+   "page": "https://commons.wikimedia.org/wiki/File:Canon_100mm-Surcouf-IMG_5916.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Canon_100mm-Surcouf-IMG_5916.jpg/1920px-Canon_100mm-Surcouf-IMG_5916.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 54,
+    "bright": 120,
+    "contrast": 53,
+    "sharp": 956
+   },
+   "hash": "1111111111111111100111111111111110001111111111111100111111111110111001111000000011110111111111111111000111111111111110001111111111111000111111110011110011110011000110011111101100000001111000110000000000000011000000000000001100000000000000010000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/navy-escort/devonport-dockyard-from-torpoint-ferry-jpg-cf2380.jpg",
+   "category": "navy-escort",
+   "title": "Devonport dockyard from Torpoint ferry.jpg",
+   "credit": "Nilfanion / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Devonport_dockyard_from_Torpoint_ferry.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Devonport_dockyard_from_Torpoint_ferry.jpg/1920px-Devonport_dockyard_from_Torpoint_ferry.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 19,
+    "bright": 153,
+    "contrast": 48,
+    "sharp": 3404
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111001111111011111111111111110111111111111110001111100001000000001000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 155
+  },
+  {
+   "file": "photos/navy-escort/fgs-sachsen-and-latouche-tr-ville-in-hernesaa-26512d.jpg",
+   "category": "navy-escort",
+   "title": "FGS Sachsen and Latouche-Tréville in Hernesaari, Helsinki, Finland, 2022 May - 2.jpg",
+   "credit": "Ximonic (Simo Räsänen) / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:FGS_Sachsen_and_Latouche-Tr%C3%A9ville_in_Hernesaari,_Helsinki,_Finland,_2022_May_-_2.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FGS_Sachsen_and_Latouche-Tr%C3%A9ville_in_Hernesaari%2C_Helsinki%2C_Finland%2C_2022_May_-_2.jpg/1920px-FGS_Sachsen_and_Latouche-Tr%C3%A9ville_in_Hernesaari%2C_Helsinki%2C_Finland%2C_2022_May_-_2.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 51,
+    "bright": 162,
+    "contrast": 62,
+    "sharp": 3539
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111101111111111111111111111111111111011111111111101101111111111110110111111111110011011111111111000101111111111100000011100000110000001110000000000000110000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/navy-escort/frigate-pytlivyy-2012-g2-jpg-a006f1.jpg",
+   "category": "navy-escort",
+   "title": "Frigate Pytlivyy 2012 G2.jpg",
+   "credit": "George Chernilevsky / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Frigate_Pytlivyy_2012_G2.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Frigate_Pytlivyy_2012_G2.jpg/1920px-Frigate_Pytlivyy_2012_G2.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 33,
+    "bright": 166,
+    "contrast": 74,
+    "sharp": 3984
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111110111111111111111001111111100011000111011110000000000000000000000000000000000000000000000000000000000000000011110000000001001111100111100000111110011110000011111001110000001111100110000000",
+   "w": 1280,
+   "h": 640
+  },
+  {
+   "file": "photos/navy-escort/fr-gate-hermione-r-plique-de-la-fr-gate-de-17-8c65b3.jpg",
+   "category": "navy-escort",
+   "title": "Frégate Hermione réplique de la frégate de 1779 en aout 2014 DSC 5906.jpg",
+   "credit": "Pline / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fr%C3%A9gate_Hermione_r%C3%A9plique_de_la_fr%C3%A9gate_de_1779_en_aout_2014_DSC_5906.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fr%C3%A9gate_Hermione_r%C3%A9plique_de_la_fr%C3%A9gate_de_1779_en_aout_2014_DSC_5906.jpg/1920px-Fr%C3%A9gate_Hermione_r%C3%A9plique_de_la_fr%C3%A9gate_de_1779_en_aout_2014_DSC_5906.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 67,
+    "bright": 119,
+    "contrast": 65,
+    "sharp": 6912
+   },
+   "hash": "1111110000000111111111111110111111111111110000111111111111101111001111111111111100001111111111110000001111111111100000011010011110000001001000001000000110100000000000011110000010000000111100001000000000001110000000000001111100000000000100110000000000000111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/navy-escort/german-frigates-f223-and-f225-in-hamburg-augu-010053.jpg",
+   "category": "navy-escort",
+   "title": "German frigates F223 and F225 in Hamburg, August 2019.jpg",
+   "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:German_frigates_F223_and_F225_in_Hamburg,_August_2019.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/German_frigates_F223_and_F225_in_Hamburg%2C_August_2019.jpg/1920px-German_frigates_F223_and_F225_in_Hamburg%2C_August_2019.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 50,
+    "bright": 140,
+    "contrast": 59,
+    "sharp": 3459
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111011111111111111111111111111111111011111111111101000111111111110100001111110001000100000111010000000001110011000000000111100000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 909
+  },
+  {
+   "file": "photos/navy-escort/hermione-fregat-replica-dsc-5751-jpg-bd0d4c.jpg",
+   "category": "navy-escort",
+   "title": "Hermione-fregat replica -DSC 5751.jpg",
+   "credit": "Pline / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Hermione-fregat_replica_-DSC_5751.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hermione-fregat_replica_-DSC_5751.jpg/1920px-Hermione-fregat_replica_-DSC_5751.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 70,
+    "bright": 115,
+    "contrast": 63,
+    "sharp": 6138
+   },
+   "hash": "1110111101111111111010000110111111111111111111110011111111111111001111111111111100000011001101110000000000111111000100010001111100010000000000000000000000011100000000000001111100010000000011110000000000001111001100000001111100111000000100110000000000110111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/navy-escort/hetman-sahaidachny-2012-g1-jpg-a623de.jpg",
+   "category": "navy-escort",
+   "title": "Hetman Sahaidachny 2012 G1.jpg",
+   "credit": "George Chernilevsky / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Hetman_Sahaidachny_2012_G1.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hetman_Sahaidachny_2012_G1.jpg/1920px-Hetman_Sahaidachny_2012_G1.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 89,
+    "bright": 151,
+    "contrast": 49,
+    "sharp": 4234
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111011111111111111000011011001100000000000000100000000000011110000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 640
+  },
+  {
+   "file": "photos/navy-escort/nrp-bartolomeu-dias-f333-in-hernesaari-as-see-356d04.jpg",
+   "category": "navy-escort",
+   "title": "NRP Bartolomeu Dias F333 in Hernesaari as seen from Verkkokauppa in Helsinki, Finland, 2023 April.jpg",
+   "credit": "Ximonic (Simo Räsänen) / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:NRP_Bartolomeu_Dias_F333_in_Hernesaari_as_seen_from_Verkkokauppa_in_Helsinki,_Finland,_2023_April.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NRP_Bartolomeu_Dias_F333_in_Hernesaari_as_seen_from_Verkkokauppa_in_Helsinki%2C_Finland%2C_2023_April.jpg/1920px-NRP_Bartolomeu_Dias_F333_in_Hernesaari_as_seen_from_Verkkokauppa_in_Helsinki%2C_Finland%2C_2023_April.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 73,
+    "bright": 109,
+    "contrast": 55,
+    "sharp": 5291
+   },
+   "hash": "1111111111111111111111111111111100000000000000000000000000000000000000000000000000000010100000000001111111000000000000010000000011111111110100001111101111011000111111111111111001111111111111100011111111110000000000110000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/navy-escort/navy-in-sevastopol-bay-2012-g02-jpg-b85201.jpg",
+   "category": "navy-escort",
+   "title": "Navy in Sevastopol bay 2012 G02.jpg",
+   "credit": "George Chernilevsky / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Navy_in_Sevastopol_bay_2012_G02.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Navy_in_Sevastopol_bay_2012_G02.jpg/1920px-Navy_in_Sevastopol_bay_2012_G02.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 56,
+    "bright": 178,
+    "contrast": 56,
+    "sharp": 2819
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111111011111111111111000111111111111000011111110111000001100111000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 553
+  },
+  {
+   "file": "photos/navy-escort/pc-securite-fregate-surcouf-img-5881-jpg-89075e.jpg",
+   "category": "navy-escort",
+   "title": "PC securite fregate Surcouf-IMG 5881.jpg",
+   "credit": "Rama / Wikimedia Commons (CC BY-SA 2.0 fr)",
+   "page": "https://commons.wikimedia.org/wiki/File:PC_securite_fregate_Surcouf-IMG_5881.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/PC_securite_fregate_Surcouf-IMG_5881.jpg/1920px-PC_securite_fregate_Surcouf-IMG_5881.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 103,
+    "bright": 82,
+    "contrast": 70,
+    "sharp": 2585
+   },
+   "hash": "1110011111111000111001111111100011110011111110001111101111111000111000111111100010000011111111001000001111110110000001111110000000001111110000000000001111110000000000011111110000000000101111100000000000111110000000000001111000000000000011000000000000000100",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/navy-escort/playagrande-0015-jpg-55c607.jpg",
+   "category": "navy-escort",
+   "title": "PlayaGrande-0015.jpg",
+   "credit": "Ezarate / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:PlayaGrande-0015.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PlayaGrande-0015.jpg/1920px-PlayaGrande-0015.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 42,
+    "bright": 173,
+    "contrast": 46,
+    "sharp": 5807
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000000000000000000001111000011001000111111000010001011100000000011000011011000000001",
+   "w": 1280,
+   "h": 763
+  },
+  {
+   "file": "photos/navy-escort/project-1135-ladny-2012-g1-jpg-c75ef5.jpg",
+   "category": "navy-escort",
+   "title": "Project 1135 Ladny 2012 G1.jpg",
+   "credit": "George Chernilevsky / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Project_1135_Ladny_2012_G1.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Project_1135_Ladny_2012_G1.jpg/1920px-Project_1135_Ladny_2012_G1.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 68,
+    "bright": 157,
+    "contrast": 65,
+    "sharp": 3987
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111001111111111111100111111111111100011111111100100001111110000000000011100000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 784
+  },
+  {
+   "file": "photos/navy-escort/project-1135-ladny-2012-g2-jpg-448351.jpg",
+   "category": "navy-escort",
+   "title": "Project 1135 Ladny 2012 G2.jpg",
+   "credit": "George Chernilevsky / Wikimedia Commons (Public domain)",
+   "page": "https://commons.wikimedia.org/wiki/File:Project_1135_Ladny_2012_G2.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Project_1135_Ladny_2012_G2.jpg/1920px-Project_1135_Ladny_2012_G2.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 64,
+    "bright": 168,
+    "contrast": 71,
+    "sharp": 3512
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111011111111111111101111101111111110111111111111110001111111111111000000011111011000000001111001100000000111000100000000000000000000000011110000000000001111000000000000111100000000000001110000000000000101",
+   "w": 1280,
+   "h": 907
+  },
+  {
+   "file": "photos/navy-escort/project-1135-ladny-2012-g4-jpg-d35313.jpg",
+   "category": "navy-escort",
+   "title": "Project 1135 Ladny 2012 G4.jpg",
+   "credit": "George Chernilevsky / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Project_1135_Ladny_2012_G4.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Project_1135_Ladny_2012_G4.jpg/1920px-Project_1135_Ladny_2012_G4.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 91,
+    "bright": 146,
+    "contrast": 55,
+    "sharp": 4442
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000000001000000000000010100000000001101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 640
+  },
+  {
+   "file": "photos/navy-escort/prouefrance1-jpg-2b0425.jpg",
+   "category": "navy-escort",
+   "title": "Prouefrance1.jpg",
+   "credit": "Jebulon / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Prouefrance1.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Prouefrance1.jpg/1920px-Prouefrance1.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 17,
+    "bright": 143,
+    "contrast": 48,
+    "sharp": 1401
+   },
+   "hash": "1111111111111111110110001111111111000000000111111100000000011111111000000001111111100000000001111110000000000000111100000000000011100001000000000000010000000000000000100000000011000010000000001110001111000000110000111111100010000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/navy-escort/vergue-poulies-cordages-hermione-rochefort-su-17e7ef.jpg",
+   "category": "navy-escort",
+   "title": "Vergue, poulies, cordages Hermione Rochefort sur Mer.jpg",
+   "credit": "Jebulon / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Vergue,_poulies,_cordages_Hermione_Rochefort_sur_Mer.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vergue%2C_poulies%2C_cordages_Hermione_Rochefort_sur_Mer.jpg/1920px-Vergue%2C_poulies%2C_cordages_Hermione_Rochefort_sur_Mer.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 67,
+    "bright": 147,
+    "contrast": 34,
+    "sharp": 1015
+   },
+   "hash": "0000000000000000100000000000000000000011110000000001001111111001000010011111111000000101111111001100000001110011111100000100011111111100001111111111111000011111111111001001111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 798
+  },
+  {
+   "file": "photos/navy-escort/almeja-gigante-tridacna-maxima-temple-sharm-e-958331.jpg",
+   "category": "navy-escort",
+   "title": "Almeja gigante (Tridacna maxima), Temple, Sharm el-Sheij, Egipto, 2022-03-26, DD 33.jpg",
+   "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Almeja_gigante_(Tridacna_maxima),_Temple,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_33.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Almeja_gigante_%28Tridacna_maxima%29%2C_Temple%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_33.jpg/1920px-Almeja_gigante_%28Tridacna_maxima%29%2C_Temple%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_33.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 121,
+    "bright": 134,
+    "contrast": 56,
+    "sharp": 4590
+   },
+   "hash": "1111111111111100111111111111010001111110000011111111100000001111111100000000000011100000100000100110111101001011100101100110000100000010001000110000100010011011000001011010000110000111011100111100001111110011010000110011011100000011001111100101000101111110",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/navy-escort/anfiteatro-el-jem-t-nez-2016-09-04-dd-38-40-h-42e228.jpg",
+   "category": "navy-escort",
+   "title": "Anfiteatro, El Jem, Túnez, 2016-09-04, DD 38-40 HDR.jpg",
+   "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_38-40_HDR.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_38-40_HDR.jpg/1920px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_38-40_HDR.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 115,
+    "bright": 121,
+    "contrast": 54,
+    "sharp": 6113
+   },
+   "hash": "0000000000000000000000000000000000000011110000000000011111100000000011111111100000001110011100000000110000110000011111000011110000011000001110000001100110111000000110000011100000011111111110000001111111111000000111111111100000011111111110000011111111111000",
+   "w": 1280,
+   "h": 708
+  },
+  {
+   "file": "photos/navy-escort/anfiteatro-de-pula-croacia-2017-04-17-dd-13-1-2c0ce6.jpg",
+   "category": "navy-escort",
+   "title": "Anfiteatro de Pula, Croacia, 2017-04-17, DD 13-18 HDR PAN.jpg",
+   "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro_de_Pula,_Croacia,_2017-04-17,_DD_13-18_HDR_PAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_13-18_HDR_PAN.jpg/1920px-Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_13-18_HDR_PAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 132,
+    "bright": 81,
+    "contrast": 37,
+    "sharp": 3811
+   },
+   "hash": "1111111111111111111111000111111111110011000011111111111010011111111111101000111111111011101101111111111111011111111111110000111111111111100000111111111110000011111000001000001011100000000000100111100010000000000011111000000010000000000000000000000000000000",
+   "w": 1280,
+   "h": 724
+  },
+  {
+   "file": "photos/navy-escort/anfiteatro-de-pula-croacia-2017-04-17-dd-49-5-fa6c46.jpg",
+   "category": "navy-escort",
+   "title": "Anfiteatro de Pula, Croacia, 2017-04-17, DD 49-57 HDR PAN.jpg",
+   "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Anfiteatro_de_Pula,_Croacia,_2017-04-17,_DD_49-57_HDR_PAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_49-57_HDR_PAN.jpg/1920px-Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_49-57_HDR_PAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 189,
+    "bright": 90,
+    "contrast": 51,
+    "sharp": 5597
+   },
+   "hash": "0011111110000001001111100001111100111110110011110011000011111111001000100111111100101000000111110100000000001111010000000001111101000000001111111100001111111111000011111111111100000000000000110000000000000111100000000000011100000000000111110000000000000011",
+   "w": 1280,
+   "h": 635
+  },
+  {
+   "file": "photos/navy-escort/ayuntamiento-la-coru-a-espa-a-2015-09-25-dd-1-e859fe.jpg",
+   "category": "navy-escort",
+   "title": "Ayuntamiento, La Coruña, España, 2015-09-25, DD 141-143 HDR.jpg",
+   "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ayuntamiento,_La_Coru%C3%B1a,_Espa%C3%B1a,_2015-09-25,_DD_141-143_HDR.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ayuntamiento%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-25%2C_DD_141-143_HDR.jpg/1920px-Ayuntamiento%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-25%2C_DD_141-143_HDR.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 180,
+    "bright": 86,
+    "contrast": 62,
+    "sharp": 3640
+   },
+   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000100001100001000010000110000100011000011000011001110011110011101111111111111110011111111111111001111111111111111111111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 906
   }
  ]
 }
