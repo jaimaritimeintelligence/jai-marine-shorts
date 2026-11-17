@@ -1,0 +1,269 @@
+{
+ "id": "nordbay-p1",
+ "kicker": "NORDBAY · NEW ORLEANS · 2 FEB 2016",
+ "caption": "PART 1/2 — The night an empty tanker hit New Orleans twice. 🚢⚠️\n\n2 Feb 2016: the 817-ft Aframax tanker Nordbay, in ballast, heads down the Mississippi in high water with a strong current behind her and wind on her beam. At Nine-Mile Point she can't make the turn — and strikes a barge dock and the city's water intakes. And the night isn't over…\n\nPart 2 tomorrow. Follow so you don't miss it.\n\nSource: NTSB Marine Accident Brief MAB-17/30 (public report). Animated illustration, not a reconstruction.\n\n#marineaccident #shipping #tanker #mississippiriver #neworleans #seafarer #merchantnavy #marineengineering #NTSB #maritime #shipping_news #jaimarineshorts",
+ "scenes": [
+  {
+   "type": "alarm",
+   "alarm": true,
+   "clock": "22:12",
+   "p": {
+    "lines": [
+     "ENGINE RPM DROPS",
+     "Vibration runs through the hull"
+    ],
+    "shakeAt": 2.5
+   },
+   "narration": "Twenty-two twelve. The engine revs suddenly drop. A strange vibration runs through the hull. One minute later, the bridge alarms go off."
+  },
+  {
+   "type": "title",
+   "p": {
+    "lines": [
+     "ONE NIGHT.",
+     "ONE EMPTY TANKER.",
+     "[TWO HITS.]"
+    ],
+    "tag": "PART 1 OF 2",
+    "size": 88
+   },
+   "narration": "This is the story of the night an empty tanker hit New Orleans... not once, but twice."
+  },
+  {
+   "type": "ship_profile",
+   "headline": "Meet the [Nordbay].",
+   "sub": "817-ft Aframax tanker · in ballast · 24 on board",
+   "p": {
+    "draft": 0.36,
+    "chips": [
+     "Refinery dock, Mississippi",
+     "Pilot boards 19:12",
+     "No cargo — ballast only"
+    ],
+    "chipsAt": 0.8
+   },
+   "narration": "Earlier that evening, a river pilot boards the tanker Nordbay at a refinery dock. She is an Aframax, eight hundred and seventeen feet long. Tonight, she carries no cargo. Only ballast."
+  },
+  {
+   "type": "ship_profile",
+   "headline": "An empty ship is a [giant sail].",
+   "sub": "Freeboard more than draft",
+   "p": {
+    "draft": 0.36,
+    "freeboard": "≈44 ft above water",
+    "draftLabel": "max draft 30 ft",
+    "wind": "Wind S, 17–24 kn",
+    "windAt": 3.5
+   },
+   "narration": "Empty, she floats high. Her deck stands about forty-four feet above the water, more than her draft below. With a southerly wind of up to twenty-four knots, that high hull becomes a giant sail."
+  },
+  {
+   "type": "ship_profile",
+   "headline": "The river is [running high].",
+   "sub": "High-water season since December 2015",
+   "p": {
+    "draft": 0.36,
+    "current": "Current 4–5 kn — from behind",
+    "currentAt": 1.5,
+    "wind": "Wind",
+    "windAt": 0.2
+   },
+   "narration": "The river is running high, after two months of high water. Its current, four to five knots, is pushing her from behind."
+  },
+  {
+   "type": "river",
+   "clock": [
+    "22:05",
+    "22:09"
+   ],
+   "headline": "[22:05] Huey P. Long Bridge.",
+   "sub": "Next: Nine-Mile Point bend",
+   "p": {
+    "path": [
+     [
+      90,
+      780
+     ],
+     [
+      230,
+      560
+     ],
+     [
+      400,
+      330
+     ],
+     [
+      560,
+      170
+     ],
+     [
+      700,
+      150
+     ],
+     [
+      820,
+      260
+     ],
+     [
+      880,
+      470
+     ],
+     [
+      860,
+      760
+     ]
+    ],
+    "from": 0.04,
+    "to": 0.5,
+    "width": 150,
+    "bridges": [
+     [
+      150,
+      520,
+      330,
+      640,
+      120,
+      500,
+      "HUEY P. LONG BRIDGE",
+      "middle"
+     ]
+    ],
+    "labels": [
+     [
+      560,
+      330,
+      "NINE-MILE POINT · MILE 104",
+      "#fff",
+      26
+     ],
+     [
+      930,
+      40,
+      "LEFT BANK",
+      null,
+      24,
+      "end"
+     ]
+    ],
+    "markers": [
+     {
+      "x": 690,
+      "y": 72,
+      "label": "Dock + water intakes",
+      "at": 2.5,
+      "col": "#FF4D4D",
+      "dx": -40,
+      "dy": 10,
+      "anchor": "end"
+     }
+    ],
+    "north": false,
+    "moveFrac": 0.95
+   },
+   "narration": "Twenty-two oh five. She passes under the Huey P. Long Bridge at almost fifteen knots over the ground. Just ahead lies Nine-Mile Point, a turn of about one hundred and thirty-five degrees to starboard."
+  },
+  {
+   "type": "gauges",
+   "headline": "The pilot wants [more power].",
+   "sub": "\"Do we have any more rpm?\"",
+   "p": {
+    "items": [
+     {
+      "label": "ENGINE RPM",
+      "from": 71,
+      "value": 89,
+      "min": 0,
+      "max": 100
+     },
+     {
+      "label": "SPEED OVER GROUND",
+      "value": 14.8,
+      "dec": 1,
+      "unit": "kn",
+      "min": 0,
+      "max": 20
+     }
+    ],
+    "note": "71 → 82 → 89 rpm"
+   },
+   "narration": "The pilot asks, do we have any more R P M? The master gives more. Then more again."
+  },
+  {
+   "type": "turn",
+   "clock": [
+    "22:09",
+    "22:12"
+   ],
+   "headline": "Turning... but [sliding wide].",
+   "sub": "Under 600 ft from the left bank",
+   "p": {
+    "cx": 560,
+    "cy": 1180,
+    "R": 330,
+    "a0": 180,
+    "a1": 330,
+    "shipTo": 300,
+    "drift": 120,
+    "dock": "Dock + intakes",
+    "dockAng": 268,
+    "dockDx": 50,
+    "dockDy": -10,
+    "curLabel": "Current carries her wide",
+    "curLx": 1000,
+    "curLy": 1380,
+    "yawLag": 0
+   },
+   "narration": "She is turning fast. But the current is carrying her wide, closer and closer to the left bank. Twenty-two ten. The pilot calls for the danger signal."
+  },
+  {
+   "type": "impact",
+   "clock": "22:13",
+   "headline": "[22:13] First allision.",
+   "sub": "Allision = a moving ship hits a fixed object",
+   "p": {
+    "stamp": "IMPACT",
+    "chips": [
+     "Barge dock destroyed",
+     "Mooring dolphins hit",
+     "City water intakes damaged"
+    ],
+    "chipsAt": 1.0,
+    "pier": 880,
+    "pierLabel": "Barge dock + mooring dolphins",
+    "sx": 560,
+    "sy": 925,
+    "ang": 100,
+    "ix": 400,
+    "iy": 905
+   },
+   "narration": "Twenty-two thirteen. Nordbay slams into a barge dock, its mooring dolphins, and the city's water intakes."
+  },
+  {
+   "type": "card",
+   "clock": "22:18",
+   "headline": "The hull is [breached].",
+   "sub": "Damage reported to the bridge",
+   "p": {
+    "items": [
+     "Ballast tank No. 6 holed above the waterline",
+     "Ballast water spraying out",
+     "General alarm — crew mustered"
+    ],
+    "hl": 0,
+    "y": 620,
+    "step": 1.2
+   },
+   "narration": "Ballast tank number six is holed above the waterline. Ballast water sprays out. The general alarm sounds, and the crew musters."
+  },
+  {
+   "type": "cta",
+   "p": {
+    "lines": [
+     "IT WASN'T OVER.",
+     "53 minutes later, she hit New Orleans [again]."
+    ]
+   },
+   "narration": "Anyone would think the worst was over. It wasn't. Fifty-three minutes later, Nordbay would hit New Orleans again. Part two, tomorrow. Follow, so you don't miss it."
+  }
+ ]
+}

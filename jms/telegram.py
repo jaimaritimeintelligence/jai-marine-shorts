@@ -68,3 +68,13 @@ def read_decision(day, after_unix=0):
             elif t in ("reject", "no", "skip", "❌"):
                 decision = "reject"
     return decision
+
+
+def send_video(path, caption=""):
+    """Bot API upload limit is 50 MB."""
+    with open(path, "rb") as fh:
+        r = requests.post(f"{BASE}/sendVideo", data={"chat_id": CHAT, "caption": caption[:1000], "supports_streaming": "true",
+                                                     "width": 1080, "height": 1920},
+                          files={"video": fh}, timeout=300)
+    r.raise_for_status()
+    return r.json()["result"]["message_id"]

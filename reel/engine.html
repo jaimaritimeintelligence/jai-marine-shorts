@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:M;font-weight:500;src:url(fonts/montserrat-latin-500-normal.woff2)}
+@font-face{font-family:M;font-weight:700;src:url(fonts/montserrat-latin-700-normal.woff2)}
+@font-face{font-family:M;font-weight:800;src:url(fonts/montserrat-latin-800-normal.woff2)}
+@font-face{font-family:M;font-weight:900;src:url(fonts/montserrat-latin-900-normal.woff2)}
+html,body{margin:0;padding:0;background:#071226;overflow:hidden}
+#stage{position:relative;width:1080px;height:1920px;font-family:M,sans-serif;color:#fff;overflow:hidden}
+svg{position:absolute;left:0;top:0}
+#cap{position:absolute;left:70px;right:150px;top:1440px;text-align:center;font-weight:800;font-size:58px;line-height:1.25;text-transform:uppercase;letter-spacing:.5px}
+#cap span{padding:2px 10px;border-radius:10px;margin:0 2px;display:inline-block;text-shadow:0 4px 14px rgba(0,0,0,.85)}
+#cap span.on{background:#F2B632;color:#071226;text-shadow:none}
+</style></head>
+<body><div id="stage"><svg id="bg" width="1080" height="1920"></svg><svg id="vis" width="1080" height="1920"></svg><svg id="hud" width="1080" height="1920"></svg><div id="cap"></div></div>
+<script>
+const GOLD='#F2B632', NAVY='#071226', NAVY2='#0E2142', LINE='#1A3360', SKY='#5DA9FF', RED='#FF4D4D', GREY='#9FB0CC', WATER='#123A6B', WATER2='#1C4F8C';
+const W=1080,H=1920, VX=40, VY=560, VW=1000, VH=820;   // visual box
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const ease=x=>{x=clamp(x);return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2};
+const out=x=>{x=clamp(x);return 1-Math.pow(1-x,3)};
+const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;');
+function appear(t,start,d=.5){return out((t-start)/d)}
+function rich(text,size,x,y,anchor='start',weight=900,base='#fff'){ // [gold] markup -> tspans
+  const parts=String(text).split(/(\[[^\]]+\])/).filter(Boolean);
+  return `<text x="${x}" y="${y}" font-size="${size}" font-weight="${weight}" text-anchor="${anchor}" fill="${base}">`+
+    parts.map(p=>p.startsWith('[')?`<tspan fill="${GOLD}">${esc(p.slice(1,-1))}</tspan>`:esc(p)).join('')+`</text>`;
+}
+function wrapLines(text,maxChars){ // keeps [..] groups intact
+  const words=String(text).split(' '); const lines=[]; let cur=''; let open=false;
+  for(const w of words){ const plain=(cur+' '+w).replace(/[\[\]]/g,'').trim();
+    if(plain.length>maxChars && cur){ if(open){cur+=']';} lines.push(cur.trim()); cur=open?'[':''; }
+    cur+=(cur&&cur!=='['?' ':'')+w; if(w.includes('['))open=true; if(w.includes(']'))open=false; }
+  if(cur.trim())lines.push(cur.trim()); return lines.map(l=>l.replace('[]',''));
+}
+// ---------- background + HUD ----------
+function drawBg(alarm){
+  let s=`<defs><radialGradient id="vg" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#0F2448"/><stop offset="1" stop-color="#050C1C"/></radialGradient></defs>`;
+  s+=`<rect width="${W}" height="${H}" fill="url(#vg)"/>`;
+  for(let x=0;x<=W;x+=60)s+=`<line x1="${x}" y1="0" x2="${x}" y2="${H}" stroke="${LINE}" stroke-width="1" opacity=".35"/>`;
+  for(let y=0;y<=H;y+=60)s+=`<line x1="0" y1="${y}" x2="${W}" y2="${y}" stroke="${LINE}" stroke-width="1" opacity=".35"/>`;
+  if(alarm>0)s+=`<rect width="${W}" height="${H}" fill="${RED}" opacity="${alarm}"/>`;
+  return s;
+}
+function drawHud(sc,t,ep){
+  const a=appear(t,0,.4);
+  let s=`<text x="60" y="100" font-size="30" font-weight="800" fill="${GOLD}" letter-spacing="2">JAI MARINE SHORTS · CASE FILE</text>`;
+  s+=`<text x="60" y="1400" font-size="22" font-weight="500" fill="${GREY}" opacity=".8">Illustration, not a reconstruction</text>`;
+  const k=sc.kicker||ep.kicker; if(k){const w=k.length*17+48;
+    s+=`<g opacity="${a}"><rect x="60" y="140" width="${w}" height="56" rx="10" fill="${NAVY2}" stroke="${GOLD}" stroke-width="2"/><text x="84" y="178" font-size="26" font-weight="800" fill="#fff" letter-spacing="1">${esc(k)}</text></g>`;}
+  if(sc.headline){const lines=wrapLines(sc.headline,sc.hmax||20); const fs=sc.hsize||(lines.length>2?68:78);
+    lines.forEach((l,i)=>{const ai=appear(t,.08+i*.12,.45); s+=`<g opacity="${ai}" transform="translate(${(1-ai)*-40},0)">`+rich(l,fs,60,290+i*(fs+12))+`</g>`});
+    if(sc.sub){const ys=290+lines.length*(fs+12)+8; s+=`<g opacity="${appear(t,.45,.5)}">`+rich(sc.sub,36,60,ys,'start',600,GREY)+`</g>`}}
+  if(sc.clock){const c=clockAt(sc.clock,t,sc._dur); s+=`<g opacity="${a}"><rect x="760" y="140" width="260" height="70" rx="12" fill="#000" opacity=".55"/><text x="890" y="192" text-anchor="middle" font-size="50" font-weight="900" fill="${GOLD}" font-family="monospace">${c}</text></g>`}
+  return s;
+}
+function clockAt(c,t,dur){ // c=[ "22:05","22:13" ] or "22:13"
+  if(typeof c==='string')return c; const tm=x=>{const [h,m]=x.split(':').map(Number);return h*60+m};
+  const a=tm(c[0]),b=tm(c[1]); const v=Math.round(a+(b-a)*ease(t/Math.max(dur*.85,.1)));
+  return String(Math.floor(v/60)%24).padStart(2,'0')+':'+String(v%60).padStart(2,'0');
+}
+// ---------- shapes ----------
+function shipTop(x,y,ang,len=260,beam=52,col='#C9D3E3',acc=GOLD){ // bow toward ang (deg, 0=up)
+  const L=len,B=beam;
+  return `<g transform="translate(${x},${y}) rotate(${ang})">
+   <path d="M0,${-L/2} C${B*.55},${-L/2+L*.12} ${B/2},${-L/2+L*.25} ${B/2},${-L/2+L*.3} L${B/2},${L/2-6} Q${B/2},${L/2} ${B/2-8},${L/2} L${-B/2+8},${L/2} Q${-B/2},${L/2} ${-B/2},${L/2-6} L${-B/2},${-L/2+L*.3} C${-B/2},${-L/2+L*.25} ${-B*.55},${-L/2+L*.12} 0,${-L/2}Z" fill="${col}" stroke="#fff" stroke-width="2"/>
+   <line x1="0" y1="${-L*.32}" x2="0" y2="${L*.28}" stroke="#7d8aa3" stroke-width="3" stroke-dasharray="10 8"/>
+   <rect x="${-B/2+6}" y="${L/2-L*.17}" width="${B-12}" height="${L*.12}" rx="4" fill="#F4F6FA" stroke="${acc}" stroke-width="2"/>
+  </g>`;
+}
+function shipProfile(x,y,s,draftFrac){ // side view tanker, bow right. y = waterline
+  const L=820*s, D=230*s; const hullTop=y-D*(1-draftFrac), keel=y+D*draftFrac;
+  let g=`<g>`;
+  g+=`<path d="M${x},${hullTop} L${x+L*.93},${hullTop} L${x+L},${hullTop-12*s} L${x+L*.97},${keel-10*s} Q${x+L*.95},${keel} ${x+L*.9},${keel} L${x+L*.06},${keel} Q${x},${keel} ${x},${keel-30*s} Z" fill="#B23A3A"/>`;
+  g+=`<path d="M${x},${hullTop} L${x+L*.93},${hullTop} L${x+L},${hullTop-12*s} L${x+L*.985},${y} L${x},${y} Z" fill="#1B2A44" stroke="#fff" stroke-width="2"/>`;
+  g+=`<rect x="${x+L*.02}" y="${hullTop-110*s}" width="${L*.14}" height="${110*s}" fill="#EEF2F8"/>`;
+  for(let i=0;i<4;i++)g+=`<rect x="${x+L*.035}" y="${hullTop-100*s+i*24*s}" width="${L*.11}" height="${8*s}" fill="#2B3F63"/>`;
+  g+=`<rect x="${x+L*.06}" y="${hullTop-150*s}" width="${L*.05}" height="${42*s}" fill="${GOLD}"/>`;
+  g+=`<line x1="${x+L*.18}" y1="${hullTop-6*s}" x2="${x+L*.9}" y2="${hullTop-6*s}" stroke="#7d8aa3" stroke-width="${4*s}"/>`;
+  g+=`</g>`; return {svg:g,hullTop,keel};
+}
+function arrow(x1,y1,x2,y2,col,w=6,op=1){const a=Math.atan2(y2-y1,x2-x1),h=w*3.2;
+  return `<g opacity="${op}"><line x1="${x1}" y1="${y1}" x2="${x2-Math.cos(a)*h*.8}" y2="${y2-Math.sin(a)*h*.8}" stroke="${col}" stroke-width="${w}" stroke-linecap="round"/><path d="M${x2},${y2} L${x2-Math.cos(a-.45)*h},${y2-Math.sin(a-.45)*h} L${x2-Math.cos(a+.45)*h},${y2-Math.sin(a+.45)*h}Z" fill="${col}"/></g>`}
+function label(x,y,txt,col='#fff',size=30,anchor='middle',weight=800){return `<text x="${x}" y="${y}" font-size="${size}" font-weight="${weight}" fill="${col}" text-anchor="${anchor}">${esc(txt)}</text>`}
+function chip(x,y,txt,op=1,col=GOLD){const w=txt.length*17+44;return `<g opacity="${op}"><rect x="${x}" y="${y}" width="${w}" height="54" rx="27" fill="${NAVY2}" stroke="${col}" stroke-width="2"/><text x="${x+22}" y="${y+37}" font-size="27" font-weight="700" fill="#fff">${esc(txt)}</text></g>`}
+function chips(list,x,y,t,start=.5,step=.35,maxW=940){let s='',cx=x,cy=y;list.forEach((c,i)=>{const w=c.length*17+44; if(cx+w>x+maxW){cx=x;cy+=70}; s+=chip(cx,cy,c,appear(t,start+i*step,.35)); cx+=w+16}); return s}
+// polyline helpers
+function plen(P){let L=[0];for(let i=1;i<P.length;i++)L.push(L[i-1]+Math.hypot(P[i][0]-P[i-1][0],P[i][1]-P[i-1][1]));return L}
+function pAt(P,f){const L=plen(P),T=L[L.length-1]*clamp(f);for(let i=1;i<P.length;i++)if(L[i]>=T){const r=(T-L[i-1])/(L[i]-L[i-1]||1);const x=P[i-1][0]+(P[i][0]-P[i-1][0])*r,y=P[i-1][1]+(P[i][1]-P[i-1][1])*r;const ang=Math.atan2(P[i][1]-P[i-1][1],P[i][0]-P[i-1][0])*180/Math.PI+90;return [x,y,ang]}const n=P.length-1;return [P[n][0],P[n][1],Math.atan2(P[n][1]-P[n-1][1],P[n][0]-P[n-1][0])*180/Math.PI+90]}
+function smooth(P,steps=12){ // catmull-rom
+  const o=[];for(let i=0;i<P.length-1;i++){const p0=P[i-1]||P[i],p1=P[i],p2=P[i+1],p3=P[i+2]||p2;for(let k=0;k<steps;k++){const t=k/steps,t2=t*t,t3=t2*t;o.push([0,1].map(j=>.5*((2*p1[j])+(-p0[j]+p2[j])*t+(2*p0[j]-5*p1[j]+4*p2[j]-p3[j])*t2+(-p0[j]+3*p1[j]-3*p2[j]+p3[j])*t3)))}}o.push(P[P.length-1]);return o}
+// ---------- visuals ----------
+const V={
+ alarm(sc,t,d){const p=sc.p||{}; const pulse=.5+.5*Math.sin(t*9);
+  let s=`<g transform="translate(${(Math.random()-.5)*(t>(p.shakeAt||0)?14*Math.exp(-(t-(p.shakeAt||0))*1.5):0)},0)">`;
+  s+=`<circle cx="540" cy="900" r="${200+40*pulse}" fill="none" stroke="${RED}" stroke-width="6" opacity="${.25+.4*pulse}"/>`;
+  s+=`<circle cx="540" cy="900" r="${300+60*pulse}" fill="none" stroke="${RED}" stroke-width="3" opacity="${.15+.25*pulse}"/>`;
+  s+=`<path d="M540,770 L660,980 L420,980Z" fill="none" stroke="${RED}" stroke-width="14" stroke-linejoin="round"/><rect x="532" y="830" width="16" height="90" rx="6" fill="${RED}"/><circle cx="540" cy="950" r="10" fill="${RED}"/>`;
+  (p.lines||[]).forEach((l,i)=>s+=`<g opacity="${appear(t,.4+i*.6)}">`+label(540,1120+i*60,l,i?GREY:'#fff',i?34:42)+`</g>`);
+  return s+`</g>`},
+ title(sc,t,d){const p=sc.p||{};let s='';const a=appear(t,.1,.7);
+  s+=`<g opacity="${.25*a}">`+shipTop(540,980+40*(1-a),90,520,90,'#3B5585','#3B5585')+`</g>`;
+  (p.lines||[]).forEach((l,i)=>{const ai=appear(t,.2+i*.25,.5);s+=`<g opacity="${ai}" transform="translate(0,${(1-ai)*30})">`+rich(l,p.size||92,540,760+i*((p.size||92)+18),'middle')+`</g>`});
+  if(p.tag){const w=p.tag.length*22+60;s+=`<g opacity="${appear(t,.9)}"><rect x="${540-w/2}" y="1180" width="${w}" height="70" rx="35" fill="${GOLD}"/>`+label(540,1228,p.tag,NAVY,36,'middle',900)+`</g>`}
+  return s},
+ ship_profile(sc,t,d){const p=sc.p||{};const wl=1080;let s='';
+  s+=`<rect x="0" y="${wl}" width="${W}" height="300" fill="${WATER}" opacity=".9"/>`;
+  for(let i=0;i<9;i++){const x=((i*140+t*60)%1200)-60;s+=`<path d="M${x},${wl+20} q20,-10 40,0 t40,0" stroke="${SKY}" stroke-width="3" fill="none" opacity=".5"/>`}
+  const sh=shipProfile(110,wl,1,p.draft||.2); s+=sh.svg;
+  if(p.freeboard){const a=appear(t,.6);s+=`<g opacity="${a}">`+arrow(990,wl,990,sh.hullTop+4,GOLD,5)+arrow(990,sh.hullTop,990,wl-4,GOLD,5)+label(985,sh.hullTop-20,p.freeboard,GOLD,30,'end')+`</g>`}
+  if(p.draftLabel){const a=appear(t,1.0);s+=`<g opacity="${a}">`+arrow(130,wl,130,sh.keel-2,SKY,5)+arrow(130,sh.keel,130,wl+4,SKY,5)+label(150,sh.keel+44,p.draftLabel,SKY,30,'start')+`</g>`}
+  if(p.wind){const a=appear(t,p.windAt||1.4);for(let i=0;i<4;i++){const ox=((t*240+i*120)%240);s+=arrow(1040-ox,640+i*70,880-ox,640+i*70,'#E6EEF9',5,a*.85)}s+=`<g opacity="${a}">`+label(1010,620,p.wind,'#fff',30,'end')+`</g>`}
+  if(p.current){const a=appear(t,p.currentAt||1.8);for(let i=0;i<3;i++){const ox=((t*160+i*200)%400);s+=arrow(60+ox,wl+120+i*55,180+ox,wl+120+i*55,SKY,5,a*.8)}s+=`<g opacity="${a}">`+label(60,wl+290,p.current,SKY,30,'start')+`</g>`}
+  if(p.chips)s+=chips(p.chips,60,620,t,p.chipsAt||.6);
+  return s},
+ river(sc,t,d){const p=sc.p;let s='';const P=smooth(p.path.map(([x,y])=>[VX+x,VY+y]));
+  const d0=P.map((q,i)=>(i?'L':'M')+q[0].toFixed(1)+','+q[1].toFixed(1)).join(' ');
+  s+=`<path d="${d0}" stroke="#2A3E62" stroke-width="${(p.width||150)+26}" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`;
+  s+=`<path d="${d0}" stroke="${WATER}" stroke-width="${p.width||150}" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`;
+  s+=`<path d="${d0}" stroke="${WATER2}" stroke-width="${(p.width||150)*.35}" fill="none" stroke-linecap="round" opacity=".6" stroke-dasharray="30 30" stroke-dashoffset="${-t*60}"/>`;
+  (p.bridges||[]).forEach(b=>{s+=`<line x1="${VX+b[0]}" y1="${VY+b[1]}" x2="${VX+b[2]}" y2="${VY+b[3]}" stroke="#C9D3E3" stroke-width="10"/>`+label(VX+b[4],VY+b[5],b[6],'#C9D3E3',24,b[7]||'middle',700)});
+  (p.labels||[]).forEach(l=>s+=label(VX+l[0],VY+l[1],l[2],l[3]||GREY,l[4]||26,l[5]||'middle',700));
+  const f0=p.from||0,f1=p.to||1, k=ease(t/Math.max(d*(p.moveFrac||.85),.1)), f=f0+(f1-f0)*k;
+  const tr=[];for(let i=0;i<=40;i++){const q=pAt(P,f0+(f-f0)*i/40);tr.push(q)}
+  s+=`<path d="${tr.map((q,i)=>(i?'L':'M')+q[0].toFixed(1)+','+q[1].toFixed(1)).join(' ')}" stroke="${GOLD}" stroke-width="5" fill="none" stroke-dasharray="14 10"/>`;
+  (p.markers||[]).forEach(m=>{const a=appear(t,m.at||0);const col=m.col||RED;const pul=m.pulse?(.5+.5*Math.sin(t*8)):0;
+    s+=`<g opacity="${a}"><circle cx="${VX+m.x}" cy="${VY+m.y}" r="${16+pul*10}" fill="${col}" opacity=".9"/><circle cx="${VX+m.x}" cy="${VY+m.y}" r="${30+pul*14}" fill="none" stroke="${col}" stroke-width="3"/>`+label(VX+m.x+(m.dx||0),VY+m.y+(m.dy||-44),m.label,'#fff',28,m.anchor||'middle')+`</g>`});
+  const q=pAt(P,f); s+=shipTop(q[0],q[1],q[2],p.shipLen||90,p.shipBeam||22,'#E9EEF6');
+  s+=label(VX+VW-10,VY+VH+10,'Schematic, not to scale',GREY,22,'end',500);
+  if(p.north)s+=arrow(VX+40,VY+VH-10,VX+40,VY+VH-80,GREY,4)+label(VX+40,VY+VH+24,'N',GREY,24);
+  return s},
+ turn(sc,t,d){const p=sc.p||{};let s='';const cx=p.cx||300,cy=p.cy||1000,R=p.R||430,wid=300;
+  // bend: river arcs from top (heading down) turning to the left side of screen = ship's starboard when heading down
+  const a0=p.a0??-10,a1=p.a1??125; const arc=(r)=>{let pts=[];for(let a=a0;a<=a1;a+=3){const rad=a*Math.PI/180;pts.push([cx+r*Math.cos(rad),cy+r*Math.sin(rad)])}return pts};
+  const outer=arc(R+wid/2),inner=arc(R-wid/2);
+  s+=`<path d="M${outer.map(q=>q.join(',')).join(' L')} L${inner.reverse().map(q=>q.join(',')).join(' L')}Z" fill="${WATER}" stroke="#2A3E62" stroke-width="14"/>`;
+  for(let i=0;i<5;i++){const a=a0+20+i*24+((t*30)%24);const rad=a*Math.PI/180;const r=R+40;s+=arrow(cx+r*Math.cos(rad),cy+r*Math.sin(rad),cx+(r+70)*Math.cos(rad+.08),cy+(r+70)*Math.sin(rad+.08),SKY,5,.7*appear(t,.6))}
+  s+=`<g opacity="${appear(t,.8)}">`+label(p.curLx||820,p.curLy||1300,p.curLabel||'Current pushes her wide',SKY,30,'end')+`</g>`;
+  if(p.dock){const a=(p.dockAng??55)*Math.PI/180;const r=R+wid/2+18;const x=cx+r*Math.cos(a),y=cy+r*Math.sin(a);
+    s+=`<g transform="translate(${x},${y}) rotate(${p.dockAng??55})"><rect x="-10" y="-70" width="40" height="140" fill="#8C6B4A" stroke="#fff" stroke-width="2"/></g>`+label(x+(p.dockDx||60),y+(p.dockDy||0),p.dock,'#fff',28,'start')}
+  const k=ease(t/Math.max(d*.9,.1)); const ang=(a0+12)+((p.shipTo??(a1-25))-(a0+12))*k; const rr=R+(p.drift||110)*Math.pow(k,1.6)-40; const rad=ang*Math.PI/180;
+  s+=shipTop(cx+rr*Math.cos(rad),cy+rr*Math.sin(rad),ang+180-(p.yawLag||12),170,36,'#E9EEF6');
+  if(p.hit&&k>.97){s+=`<circle cx="${cx+rr*Math.cos(rad)}" cy="${cy+rr*Math.sin(rad)}" r="140" fill="#fff" opacity="${clamp(1-(t-d*.9)*3)}"/>`}
+  return s},
+ gauges(sc,t,d){const p=sc.p;let s='';const n=p.items.length;
+  p.items.forEach((g,i)=>{const cx=n==1?540:(n==2?300+i*480:200+i*340),cy=1000,r=n>2?140:180;const a=appear(t,.2+i*.35,.5);
+   const v=(g.from??0)+((g.value)-(g.from??0))*ease((t-.3-i*.35)/1.4); const frac=clamp((v-g.min)/(g.max-g.min));
+   const A=(-210+240*frac)*Math.PI/180;
+   s+=`<g opacity="${a}"><circle cx="${cx}" cy="${cy}" r="${r}" fill="${NAVY2}" stroke="${GOLD}" stroke-width="5"/>`;
+   for(let k=0;k<=10;k++){const aa=(-210+24*k)*Math.PI/180;s+=`<line x1="${cx+(r-12)*Math.cos(aa)}" y1="${cy+(r-12)*Math.sin(aa)}" x2="${cx+(r-32)*Math.cos(aa)}" y2="${cy+(r-32)*Math.sin(aa)}" stroke="#fff" stroke-width="4"/>`}
+   if(g.red!=null){const fr=(g.red-g.min)/(g.max-g.min);let pts=[];for(let k=fr;k<=1.001;k+=.02){const aa=(-210+240*k)*Math.PI/180;pts.push(`${cx+(r-20)*Math.cos(aa)},${cy+(r-20)*Math.sin(aa)}`)}s+=`<polyline points="${pts.join(' ')}" stroke="${RED}" stroke-width="12" fill="none"/>`}
+   s+=`<line x1="${cx}" y1="${cy}" x2="${cx+(r-40)*Math.cos(A)}" y2="${cy+(r-40)*Math.sin(A)}" stroke="${GOLD}" stroke-width="9" stroke-linecap="round"/><circle cx="${cx}" cy="${cy}" r="16" fill="${GOLD}"/>`;
+   s+=label(cx,cy+r*.62,(g.dec?v.toFixed(g.dec):Math.round(v))+(g.unit?' '+g.unit:''),'#fff',n>2?40:52,'middle',900)+label(cx,cy+r+60,g.label,GREY,n>2?28:34)+`</g>`});
+  if(p.note)s+=`<g opacity="${appear(t,1.6)}">`+label(540,1310,p.note,GOLD,36)+`</g>`;
+  return s},
+ impact(sc,t,d){const p=sc.p||{};let s='';const sh=t<1.2?(Math.random()-.5)*40*Math.exp(-t*3):0;
+  s+=`<g transform="translate(${sh},${sh*.6})">`;
+  if(p.pier){const py=p.pier;s+=`<rect x="0" y="${VY+40}" width="${W}" height="${py-VY-60}" fill="#1B2B47"/><rect x="0" y="${py-26}" width="${W}" height="30" fill="#8C6B4A"/>`;for(let i=0;i<7;i++)s+=`<circle cx="${120+i*140}" cy="${py+18}" r="16" fill="#6E5338" stroke="#fff" stroke-width="2"/>`;s+=label(60,VY+110,p.bankLabel||'LEFT BANK',GREY,28,'start',800)+label(60,py-40,p.pierLabel||'',GOLD,28,'start',800);
+    s+=`<rect x="0" y="${py+4}" width="${W}" height="${VY+VH-py}" fill="${WATER}" opacity=".85"/>`}
+  if(p.ship!==false)s+=shipTop(p.sx??540,p.sy??960,p.ang??-60,420,80,'#E9EEF6');
+  for(let i=0;i<12;i++){const a=i*30*Math.PI/180,r1=60+out(t/.6)*80,r2=r1+90*out(t/.6);s+=`<line x1="${p.ix??380}" y1="${p.iy??820}" x2="${(p.ix??380)+r2*Math.cos(a)}" y2="${(p.iy??820)+r2*Math.sin(a)}" stroke="${GOLD}" stroke-width="6" opacity="${clamp(1-t/1.2)}"/>`}
+  s+=`</g>`;
+  if(t<.25)s+=`<rect width="${W}" height="${H}" fill="#fff" opacity="${1-t/.25}"/>`;
+  if(p.stamp){const a=appear(t,.35,.25);const sc2=1+.6*(1-a);const w=p.stamp.length*40+80;
+    s+=`<g opacity="${a}" transform="translate(540,1150) rotate(-6) scale(${sc2})"><rect x="${-w/2}" y="-60" width="${w}" height="120" rx="12" fill="none" stroke="${RED}" stroke-width="10"/>`+label(0,22,p.stamp,RED,66,'middle',900)+`</g>`}
+  if(p.chips)s+=chips(p.chips,60,1240,t,p.chipsAt||1.2,.45);
+  return s},
+ phone(sc,t,d){const p=sc.p||{};let s='';const ring=Math.sin(t*30)*(Math.sin(t*3)>0?6:0);
+  s+=`<g transform="translate(540,960) rotate(${ring})"><rect x="-110" y="-200" width="220" height="400" rx="34" fill="${NAVY2}" stroke="${GOLD}" stroke-width="6"/><rect x="-90" y="-160" width="180" height="300" rx="10" fill="#0B1A33"/>`+label(0,-40,p.who||'CALLING…',GOLD,26)+label(0,10,p.caller||'',`#fff`,30)+`<circle cx="0" cy="170" r="14" fill="${GOLD}"/></g>`;
+  for(let i=0;i<3;i++){const r=(t*120+i*60)%180;s+=`<circle cx="540" cy="960" r="${240+r}" fill="none" stroke="${GOLD}" stroke-width="3" opacity="${.5*(1-r/180)}"/>`}
+  if(p.chips)s+=chips(p.chips,60,1240,t,p.chipsAt||.8,.45);
+  return s},
+ quote(sc,t,d){const p=sc.p||{};let s=label(110,800,'“',GOLD,260,'start',900);
+  const lines=wrapLines(p.text,p.max||18);lines.forEach((l,i)=>{const a=appear(t,.2+i*.3);s+=`<g opacity="${a}">`+rich(l,p.size||70,110,880+i*((p.size||70)+20),'start',900)+`</g>`});
+  if(p.by)s+=`<g opacity="${appear(t,.4+lines.length*.3)}">`+label(110,920+lines.length*((p.size||70)+20),'— '+p.by,GREY,34,'start',700)+`</g>`;
+  return s},
+ card(sc,t,d){const p=sc.p||{};let s='';let y=p.y||640;
+  (p.items||[]).forEach((it,i)=>{const a=appear(t,(p.at||.4)+i*(p.step||.8),.45);const lines=wrapLines(it,p.max||30);const h=lines.length*52+50;
+   s+=`<g opacity="${a}" transform="translate(${(1-a)*60},0)"><rect x="60" y="${y}" width="900" height="${h}" rx="18" fill="${NAVY2}" stroke="${i===p.hl?RED:GOLD}" stroke-width="3"/><rect x="60" y="${y}" width="14" height="${h}" rx="7" fill="${i===p.hl?RED:GOLD}"/>`;
+   if(p.numbered)s+=label(130,y+60,String(i+1),GOLD,48,'middle',900);
+   lines.forEach((l,j)=>s+=rich(l,40,p.numbered?180:110,y+62+j*52,'start',700));s+=`</g>`;y+=h+28});
+  return s},
+ cta(sc,t,d){const p=sc.p||{};let s='';const a=appear(t,.1,.6);
+  s+=`<g opacity="${a}">`+shipTop(540,880,90,460,80,'#3B5585','#3B5585')+`</g>`;
+  let yy=1100;(p.lines||[]).forEach((l,i)=>{wrapLines(l,i?26:18).forEach(ll=>{s+=`<g opacity="${appear(t,.3+i*.35)}">`+rich(ll,i?50:72,540,yy,'middle',900)+`</g>`;yy+=i?64:88})});
+  s+=`<g opacity="${appear(t,1.2)}"><rect x="240" y="1300" width="600" height="80" rx="40" fill="${GOLD}"/>`+label(540,1353,'FOLLOW @JAIMARINESHORTS',NAVY,34,'middle',900)+`</g>`;
+  return s},
+};
+// ---------- captions ----------
+function caption(words,T){ // words [{w,s,e}] absolute times
+  let i=words.findIndex(x=>T>=x.s&&T<x.e); if(i<0){i=words.findIndex(x=>x.s>T)-1; if(i<-1||i<0){ if(T>=words[words.length-1]?.e+0.3) return ''; i=Math.max(0,i)}}
+  // group into chunks of 3-4 words, break at sentence ends
+  const chunks=[];let cur=[];words.forEach((x,k)=>{cur.push(k);if(cur.length>=3||/[.!?,;:—]$/.test(x.w)){chunks.push(cur);cur=[]}});if(cur.length)chunks.push(cur);
+  const ch=chunks.find(c=>c.includes(i))||[]; return ch.map(k=>`<span class="${k===i&&T<words[k].e+0.05?'on':''}">${esc(words[k].w.replace(/[,;:]$/,''))}</span>`).join(' ');
+}
+// ---------- main ----------
+let EP=null;
+window.setEpisode=(ep)=>{EP=ep; let t=0; EP.scenes.forEach(sc=>{sc._t0=t; t+=sc._dur;}); EP._total=t; return t};
+window.renderFrame=(T)=>{
+  const sc=EP.scenes.find(s=>T>=s._t0&&T<s._t0+s._dur)||EP.scenes[EP.scenes.length-1];
+  const t=T-sc._t0, d=sc._dur;
+  const alarm=sc.alarm?(.10+.10*Math.sin(t*9)):0;
+  document.getElementById('bg').innerHTML=drawBg(alarm);
+  const fin=clamp(t/.25), fo=clamp((d-t)/.2);
+  document.getElementById('vis').innerHTML=`<g opacity="${Math.min(fin,fo)}">`+(V[sc.type]?V[sc.type](sc,t,d):'')+`</g>`;
+  document.getElementById('hud').innerHTML=drawHud(sc,t,EP);
+  document.getElementById('cap').innerHTML=EP.words?caption(EP.words,T):'';
+};
+</script></body></html>
