@@ -2822,146 +2822,6 @@
    "h": 972
   },
   {
-   "file": "photos/ship-bridge/sydney-harbour-bridge-from-circular-quay-jpg-d1ac35.jpg",
-   "category": "ship-bridge",
-   "title": "Sydney Harbour Bridge from Circular Quay.jpg",
-   "credit": "JJ Harrison (https://www.jjharrison.com. / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_from_Circular_Quay.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg/1920px-Sydney_Harbour_Bridge_from_Circular_Quay.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 84,
-    "bright": 67,
-    "contrast": 33,
-    "sharp": 2137
-   },
-   "hash": "0000000111000000000000001100000000000000001000000000000001110000000000011111000000000000011000000001100100100000001111100001000000011111111010000001111111111100000110000111110000001100011111110001111111110100000111111110010000011110111001000001111111100100",
-   "w": 1280,
-   "h": 583
-  },
-  {
-   "file": "photos/ship-bridge/taipei-taiwan-taipei-bridge-01-jpg-58a093.jpg",
-   "category": "ship-bridge",
-   "title": "Taipei Taiwan Taipei-Bridge-01.jpg",
-   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Taipei-Bridge-01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taipei_Taiwan_Taipei-Bridge-01.jpg/1920px-Taipei_Taiwan_Taipei-Bridge-01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 69,
-    "bright": 73,
-    "contrast": 56,
-    "sharp": 2595
-   },
-   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000001100000000001100110000000001100001111000001110001111010111111110111101111011111011111111101111111111110011111110111111001011111011110000001111001111000010111100111000000011100",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/ship-bridge/the-bridge-august-2013-jpg-4e9901.jpg",
-   "category": "ship-bridge",
-   "title": "The Bridge (August 2013).jpg",
-   "credit": "Frank Schulenburg / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:The_Bridge_(August_2013).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Bridge_%28August_2013%29.jpg/1920px-The_Bridge_%28August_2013%29.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 119,
-    "bright": 110,
-    "contrast": 54,
-    "sharp": 468
-   },
-   "hash": "1111111111111111111111111111111111111111111111101111111111000100111111111000000011111111100000001111111111000000111111110000000010011111110000001101111111000000100001111000000011001110000000001110000000000000111000000000000011000000000000001100000000000000",
-   "w": 1280,
-   "h": 560
-  },
-  {
-   "file": "photos/ship-bridge/tower-bridge-london-dusk-feb-2006-jpg-f96559.jpg",
-   "category": "ship-bridge",
-   "title": "Tower Bridge London Dusk Feb 2006.jpg",
-   "credit": "Diliff / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Dusk_Feb_2006.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tower_Bridge_London_Dusk_Feb_2006.jpg/1920px-Tower_Bridge_London_Dusk_Feb_2006.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 104,
-    "bright": 80,
-    "contrast": 37,
-    "sharp": 2481
-   },
-   "hash": "1111111111111111111111111111111111111111111111101111111111111100111111111111100011111111111100001111111101100000111111111111000011111111011110000100111101101000000011000100000000110000000000000000110000100000000000000000000000000000100000000000000010000000",
-   "w": 1280,
-   "h": 568
-  },
-  {
-   "file": "photos/ship-bridge/vasabron-vasa-bridge-stockholm-2016-01-jpg-c010ef.jpg",
-   "category": "ship-bridge",
-   "title": "Vasabron Vasa bridge Stockholm 2016 01.jpg",
-   "credit": "Julian Herzog (Website) / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Vasabron_Vasa_bridge_Stockholm_2016_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Vasabron_Vasa_bridge_Stockholm_2016_01.jpg/1920px-Vasabron_Vasa_bridge_Stockholm_2016_01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 60,
-    "bright": 122,
-    "contrast": 64,
-    "sharp": 2387
-   },
-   "hash": "1111111111000000111111111110000011111111111100001111111111111000111111111111100011111111111100001111111111110100000011111111010000000011100000000000000000000000000000011000000000000000000000000000111110000000000111111000000001111100000000000000000000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/ship-bridge/view-to-moscow-river-from-bolshoy-moskvoretsk-b5e152.jpg",
-   "category": "ship-bridge",
-   "title": "View to Moscow river from Bolshoy Moskvoretsky Bridge.jpg",
-   "credit": "This photo was taken by Anton Zelenov. P / Wikimedia Commons (CC BY 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:View_to_Moscow_river_from_Bolshoy_Moskvoretsky_Bridge.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/View_to_Moscow_river_from_Bolshoy_Moskvoretsky_Bridge.jpg/1920px-View_to_Moscow_river_from_Bolshoy_Moskvoretsky_Bridge.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 52,
-    "bright": 162,
-    "contrast": 50,
-    "sharp": 3081
-   },
-   "hash": "0000000111000000000000111111000000000111111111000001111111111111001111111111111111111111111111111111111111111111111111111111111111011111111110111101111111111000000001001000000000100000000000000000001110000000000000111100000000000101110000000000000111000000",
-   "w": 1280,
-   "h": 432
-  },
-  {
-   "file": "photos/ship-bridge/wreckage-from-key-bridge-collapse-240326-a-se-781aac.jpg",
-   "category": "ship-bridge",
-   "title": "Wreckage from Key Bridge Collapse (240326-A-SE916-9511).jpg",
-   "credit": "David Adams / U.S. Army Corps of Enginee / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Wreckage_from_Key_Bridge_Collapse_(240326-A-SE916-9511).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wreckage_from_Key_Bridge_Collapse_%28240326-A-SE916-9511%29.jpg/1920px-Wreckage_from_Key_Bridge_Collapse_%28240326-A-SE916-9511%29.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 41,
-    "bright": 131,
-    "contrast": 61,
-    "sharp": 5155
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111011111111111111111111111111111111111100111111111111001100000101111111110000000011111110000000000011110000000000011111000000000001111000000000000011000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
    "file": "photos/ship-bridge/close-up-on-the-bridge-rio-tagus-ship-1979-s-29fd3d.jpg",
    "category": "ship-bridge",
    "title": "Close up on the bridge Rio Tagus (ship, 1979), Sète cf01.jpg",
@@ -2970,7 +2830,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Close_up_on_the_bridge_Rio_Tagus_%28ship%2C_1979%29%2C_S%C3%A8te_cf01.jpg/1920px-Close_up_on_the_bridge_Rio_Tagus_%28ship%2C_1979%29%2C_S%C3%A8te_cf01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 98,
     "bright": 122,
@@ -2982,26 +2842,6 @@
    "h": 854
   },
   {
-   "file": "photos/ship-bridge/golden-gate-bridge-and-san-francisco-and-crui-b778ab.jpg",
-   "category": "ship-bridge",
-   "title": "Golden Gate Bridge and San Francisco and cruise ship.jpg",
-   "credit": "Brocken Inaglory / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San_Francisco_and_cruise_ship.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Golden_Gate_Bridge_and_San_Francisco_and_cruise_ship.jpg/1920px-Golden_Gate_Bridge_and_San_Francisco_and_cruise_ship.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 57,
-    "bright": 162,
-    "contrast": 58,
-    "sharp": 1375
-   },
-   "hash": "1111111111110000111111111111011011111111111101101111111111110000111111111111000011111111111100001111111111110000111111111111000011111111111100001111111000000000111000000000000011100000000000001111100000000000111110000000000011111000000000001111100000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
    "file": "photos/engine-room/ns-savannah-engine-compartment-md1-jpg-48d504.jpg",
    "category": "engine-room",
    "title": "NS Savannah engine compartment MD1.jpg",
@@ -3010,7 +2850,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NS_Savannah_engine_compartment_MD1.jpg/1920px-NS_Savannah_engine_compartment_MD1.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 162,
     "bright": 126,
@@ -3030,7 +2870,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NS_Savannah_engine_compartment_and_control_room_MD1.jpg/1920px-NS_Savannah_engine_compartment_and_control_room_MD1.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 162,
     "bright": 122,
@@ -3042,46 +2882,6 @@
    "h": 856
   },
   {
-   "file": "photos/engine-room/warwick-castle-engine-house-waterwheel-weir-a-21a233.jpg",
-   "category": "engine-room",
-   "title": "Warwick Castle - Engine House, Waterwheel, Weir, and Old Castle Bridge.jpg",
-   "credit": "DeFacto / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Warwick_Castle_-_Engine_House,_Waterwheel,_Weir,_and_Old_Castle_Bridge.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Warwick_Castle_-_Engine_House%2C_Waterwheel%2C_Weir%2C_and_Old_Castle_Bridge.jpg/1920px-Warwick_Castle_-_Engine_House%2C_Waterwheel%2C_Weir%2C_and_Old_Castle_Bridge.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 66,
-    "bright": 146,
-    "contrast": 67,
-    "sharp": 5808
-   },
-   "hash": "1111111111111110111111111111110001111111111111000111111111111100111111111111110011111110111111001110010011110100000000001111000000000000000000000000000000000000000000000000000000000000000000000000000000111110000000000011111000000000001000000000000011000000",
-   "w": 1280,
-   "h": 721
-  },
-  {
-   "file": "photos/engine-room/engine-room-chadburn-in-sankt-erik-1915-ship-f394fd.jpg",
-   "category": "engine-room",
-   "title": "Engine room Chadburn in Sankt Erik (1915) ship, Wasahamnen marina, Stockholm, Sweden julesvernex2.jpg",
-   "credit": "Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Engine_room_Chadburn_in_Sankt_Erik_(1915)_ship,_Wasahamnen_marina,_Stockholm,_Sweden_julesvernex2.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Engine_room_Chadburn_in_Sankt_Erik_%281915%29_ship%2C_Wasahamnen_marina%2C_Stockholm%2C_Sweden_julesvernex2.jpg/1920px-Engine_room_Chadburn_in_Sankt_Erik_%281915%29_ship%2C_Wasahamnen_marina%2C_Stockholm%2C_Sweden_julesvernex2.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 112,
-    "bright": 76,
-    "contrast": 66,
-    "sharp": 3333
-   },
-   "hash": "0000011111100000000001111110000000000100011000000000011111100000000001111111010000001111111101111000111111110010101011111111100010001111111100000000011111110010000001111110100000000011110110000000000000101000000010011111110000000000111111000000000011100000",
-   "w": 1280,
-   "h": 895
-  },
-  {
    "file": "photos/engine-room/ns-savannah-engine-room-md5-jpg-d61bdf.jpg",
    "category": "engine-room",
    "title": "NS Savannah engine room MD5.jpg",
@@ -3090,7 +2890,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/NS_Savannah_engine_room_MD5.jpg/1920px-NS_Savannah_engine_room_MD5.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 160,
     "bright": 95,
@@ -3102,126 +2902,6 @@
    "h": 853
   },
   {
-   "file": "photos/engine-room/pulau-pinang-engine-room-02-jpg-716a6d.jpg",
-   "category": "engine-room",
-   "title": "Pulau Pinang Engine Room 02.jpg",
-   "credit": "LEE 003 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pulau_Pinang_Engine_Room_02.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pulau_Pinang_Engine_Room_02.jpg/1920px-Pulau_Pinang_Engine_Room_02.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 141,
-    "bright": 89,
-    "contrast": 51,
-    "sharp": 3499
-   },
-   "hash": "1111111111111110010010111111000001000111011110000000011111111011000000011111000000000110000111100000001100010111000000100001001100000010001101110000101100110111000010111001101100001011100111110000111110011111000011111111111100000111111111110000011111111101",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/engine-room/pulau-pinang-engine-room-18-jpg-9f9356.jpg",
-   "category": "engine-room",
-   "title": "Pulau Pinang Engine Room 18.jpg",
-   "credit": "LEE 003 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pulau_Pinang_Engine_Room_18.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pulau_Pinang_Engine_Room_18.jpg/1920px-Pulau_Pinang_Engine_Room_18.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 128,
-    "bright": 66,
-    "contrast": 53,
-    "sharp": 5052
-   },
-   "hash": "0111101111111100101110001111110000011000011111000001111111111100100011111111100100001111111100000001111111110000000111111111110000011111111111000000111111111000000000001110000000000000111001000000000011000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/engine-room/pulau-pinang-engine-room-21-jpg-ec50ac.jpg",
-   "category": "engine-room",
-   "title": "Pulau Pinang Engine Room 21.jpg",
-   "credit": "LEE 003 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pulau_Pinang_Engine_Room_21.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pulau_Pinang_Engine_Room_21.jpg/1920px-Pulau_Pinang_Engine_Room_21.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 68,
-    "bright": 98,
-    "contrast": 58,
-    "sharp": 2363
-   },
-   "hash": "0000000010001111000000011111111001000011111111111111111111111111111111111111111111110001111111111111100011110111000010000101011100000000110011110000011001110011000001111100000100000011110000000000001010000000000000111000000000000010000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/engine-room/pulau-pinang-engine-room-30-jpg-16ef8c.jpg",
-   "category": "engine-room",
-   "title": "Pulau Pinang Engine Room 30.jpg",
-   "credit": "LEE 003 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pulau_Pinang_Engine_Room_30.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pulau_Pinang_Engine_Room_30.jpg/1920px-Pulau_Pinang_Engine_Room_30.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 33,
-    "bright": 128,
-    "contrast": 64,
-    "sharp": 2989
-   },
-   "hash": "0000111000000000001000000000000000000000011000001001110001111000101111111111100011100000011101000010000001000000000000000110000000000100010000001111110001110000111111110111111011111111111111111111111111111111111111111111111111111111111111111111111111100000",
-   "w": 1280,
-   "h": 962
-  },
-  {
-   "file": "photos/engine-room/pulau-pinang-engine-room-46-jpg-19b547.jpg",
-   "category": "engine-room",
-   "title": "Pulau Pinang Engine Room 46.jpg",
-   "credit": "LEE 003 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pulau_Pinang_Engine_Room_46.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pulau_Pinang_Engine_Room_46.jpg/1920px-Pulau_Pinang_Engine_Room_46.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 87,
-    "bright": 119,
-    "contrast": 62,
-    "sharp": 2036
-   },
-   "hash": "1111111111111010111111111111000111111111111000110111111111101111011111111111110000000111111100000000011111111000000001111111110000000000001111111100000000001111000000000000000000000000000000000000000000000000000000100000000000000010000000000000000000000000",
-   "w": 1280,
-   "h": 962
-  },
-  {
-   "file": "photos/engine-room/pulau-pinang-engine-room-47-jpg-0358c0.jpg",
-   "category": "engine-room",
-   "title": "Pulau Pinang Engine Room 47.jpg",
-   "credit": "LEE 003 / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Pulau_Pinang_Engine_Room_47.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pulau_Pinang_Engine_Room_47.jpg/1920px-Pulau_Pinang_Engine_Room_47.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 99,
-    "bright": 58,
-    "contrast": 44,
-    "sharp": 2548
-   },
-   "hash": "0000000000000000100000000111000000000000011111000000000001110000100000000111111110011001111111111111100111111111111111111111110000001111111111100000000111111111000000011110000000000001111001000000000111100000010100011110000000100001110010001110000111000000",
-   "w": 1280,
-   "h": 962
-  },
-  {
    "file": "photos/engine-room/virginia-v-ship-1922-engine-room-01-jpg-a6425d.jpg",
    "category": "engine-room",
    "title": "Virginia V (ship, 1922) engine room 01.jpg",
@@ -3230,7 +2910,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Virginia_V_%28ship%2C_1922%29_engine_room_01.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 75,
     "bright": 89,
@@ -3238,66 +2918,6 @@
     "sharp": 3205
    },
    "hash": "0111101110000000011110111011110010011011011011111100101111111011100000111111100010011011111111001011100011110010101110011111001011111001111111111111101111111111100111111111111100000111111001110000000100000011000000000000000100000000000000000000000000000000",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-02-jpg-366c73.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 02.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_02.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Virginia_V_%28ship%2C_1922%29_engine_room_02.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_02.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 49,
-    "bright": 79,
-    "contrast": 51,
-    "sharp": 2858
-   },
-   "hash": "1000111111011111000011111101111110000010101111110111011000111111010001100001111101000001111111110000001000100101000011110111011100001111111001111100101000001001110010100011110011000000000001000000000000000001000000000000000000000000001000000000000000101000",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-03-jpg-735fc2.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 03.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_03.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Virginia_V_%28ship%2C_1922%29_engine_room_03.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_03.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 51,
-    "bright": 101,
-    "contrast": 55,
-    "sharp": 2573
-   },
-   "hash": "1101111111111111110111111111111111011011111100111001111111110011110111111011001110000110000000111001011100110011100101110001000000010111111100101001011111110010001001100101000100000111000000100001011111100000000001111110000000000110010000000000011001110000",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/engine-room/virginia-v-ship-1922-engine-room-04-squeak-ab-a91c20.jpg",
-   "category": "engine-room",
-   "title": "Virginia V (ship, 1922) engine room 04 - 'Squeak Abatement Fund'.jpg",
-   "credit": "Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Virginia_V_(ship,_1922)_engine_room_04_-_%27Squeak_Abatement_Fund%27.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Virginia_V_%28ship%2C_1922%29_engine_room_04_-_%27Squeak_Abatement_Fund%27.jpg/1920px-Virginia_V_%28ship%2C_1922%29_engine_room_04_-_%27Squeak_Abatement_Fund%27.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 46,
-    "bright": 57,
-    "contrast": 50,
-    "sharp": 1278
-   },
-   "hash": "1010011001011111001001101101111100100100111111110010011001011100001001100001110000000110100111001000011110011001000001111001110000000111110110000000000110000000000000001000000000000010101100001000001111111000000000111111100000000000111111100000000000011000",
    "w": 1280,
    "h": 850
   },
