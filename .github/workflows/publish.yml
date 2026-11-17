@@ -6,6 +6,10 @@ on:
     - cron: "57 14 * * *"   # 20:27 IST
     - cron: "27 15 * * *"   # 20:57 IST - final try
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Post now without waiting for Telegram approval"
+        default: "false"
 permissions:
   contents: write
 concurrency: jms-daily
@@ -25,7 +29,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          AUTO_POST: ${{ vars.AUTO_POST }}
+          AUTO_POST: ${{ github.event.inputs.force == 'true' && 'true' || vars.AUTO_POST }}
           FINAL_TRY: ${{ github.event.schedule == '27 15 * * *' }}
         run: python publish.py
       - name: Save status
