@@ -112,37 +112,65 @@ def word_times(text, t0, dur):
 
 
 # ---------------------------------------------------------------- music (generated here, licence-free)
-def music(total, impacts, tense_until=None):
-    n = int(total * SR); t = np.arange(n) / SR
-    rng = np.random.default_rng(7)
-    lfo = 0.6 + 0.4 * np.sin(2 * np.pi * t / 9)
-    drone = (np.sin(2 * np.pi * 55 * t) + 0.6 * np.sin(2 * np.pi * 82.4 * t) + 0.35 * np.sin(2 * np.pi * 110 * t + np.sin(2*np.pi*0.2*t))) * lfo
-    # soft filtered noise "air"
-    noise = rng.standard_normal(n)
-    k = 400; air = np.convolve(noise, np.ones(k) / k, mode="same") * 3
-    # heartbeat pulse ~ 62 bpm
-    beat = np.zeros(n); period = 60 / 62
-    for s in np.arange(0.5, total, period):
-        for off, amp in ((0, 1.0), (0.22, 0.6)):
-            i = int((s + off) * SR); L = int(0.25 * SR)
-            if i + L < n:
-                env = np.exp(-np.linspace(0, 9, L))
-                beat[i:i+L] += amp * env * np.sin(2 * np.pi * 48 * np.arange(L) / SR)
-    mix = 0.22 * drone + 0.05 * air + 0.5 * beat
-    # impact booms + risers
+INTENSITY = {"hook": .85, "alarm": 1.0, "title": .6, "ship_profile": .45, "photo": .6, "river": .7, "gauges": .8,
+             "turn": .95, "impact": 1.0, "phone": .7, "quote": .9, "card": .55, "cta": .45}
+
+
+def _lp(x, cutoff):
+    """one-pole low-pass (cutoff Hz)"""
+    a = np.exp(-2 * np.pi * cutoff / SR); y = np.empty_like(x); acc = 0.0
+    # vectorised via scipy if present
+    try:
+        from scipy.signal import lfilter
+        return lfilter([1 - a], [1, -a], x)
+    except Exception:
+        for i, v in enumerate(x):
+            acc = (1 - a) * v + a * acc; y[i] = acc
+        return y
+
+
+def music(total, impacts, scenes=None, starts=None):
+    """Cinematic tension bed: dark detuned pad, driving low pulse, ticking clock, risers into impacts, booms."""
+    n = int(total * SR); t = np.arange(n) / SR; rng = np.random.default_rng(11)
+    # intensity envelope per scene
+    env = np.full(n, 0.6)
+    if scenes and starts:
+        for sc, st in zip(scenes, starts):
+            a = int(st * SR); b = min(n, int((st + sc["_dur"]) * SR))
+            env[a:b] = INTENSITY.get(sc["type"], .6)
+        env = _lp(env, 0.6)
+    # pad: detuned saws around A minor with a tense flat-2 (Bb)
+    pad = np.zeros(n)
+    for f, g in ((55, 1), (55.4, .8), (82.4, .6), (110, .45), (116.5, .35), (164.8, .25)):
+        ph = (t * f + rng.random()) % 1.0
+        pad += g * (2 * ph - 1)
+    pad = _lp(pad, 700) * (0.7 + 0.3 * np.sin(2 * np.pi * t / 7.5))
+    # driving pulse at 92 bpm: low thump + muted tick on off-beats
+    beat = 60 / 92; pulse = np.zeros(n); tick = np.zeros(n)
+    L = int(0.35 * SR); kenv = np.exp(-np.linspace(0, 7, L)); kick = kenv * np.sin(2 * np.pi * (52 + 40 * kenv) * np.arange(L) / SR)
+    T = int(0.03 * SR); tk = rng.standard_normal(T) * np.exp(-np.linspace(0, 8, T))
+    k = 0
+    for st in np.arange(0.2, total, beat / 2):
+        i = int(st * SR)
+        if k % 2 == 0 and i + L < n: pulse[i:i + L] += kick
+        if i + T < n: tick[i:i + T] += tk * (1.0 if k % 2 else 0.5)
+        k += 1
+    tick = tick - _lp(tick, 3000)            # high-passed clicks
+    # risers + booms
+    fx = np.zeros(n)
     for it in impacts:
-        i = int(it * SR); L = int(2.5 * SR)
-        if i + L < n:
-            env = np.exp(-np.linspace(0, 5, L))
-            boom = env * (np.sin(2 * np.pi * 38 * np.arange(L) / SR) + 0.4 * rng.standard_normal(L) * np.exp(-np.linspace(0, 30, L)))
-            mix[i:i+L] += 1.6 * boom
-        r0 = max(0, i - int(3 * SR))
+        i = int(it * SR); r0 = max(0, i - int(3.5 * SR))
         if i > r0:
-            ramp = np.linspace(0, 1, i - r0) ** 2
-            mix[r0:i] += 0.25 * ramp * rng.standard_normal(i - r0) * 0.4 + 0.25 * ramp * np.sin(2*np.pi*(80+200*ramp)*np.arange(i-r0)/SR)
-    fade = int(1.5 * SR)
-    mix[:fade] *= np.linspace(0, 1, fade); mix[-fade:] *= np.linspace(1, 0, fade)
-    return mix / (np.abs(mix).max() + 1e-6) * 0.9
+            ramp = np.linspace(0, 1, i - r0) ** 2.2
+            fx[r0:i] += ramp * (0.6 * rng.standard_normal(i - r0) * 0.5 + np.sin(2 * np.pi * np.cumsum(150 + 650 * ramp) / SR))
+        Lb = int(3 * SR)
+        if i + Lb < n:
+            e = np.exp(-np.linspace(0, 4.5, Lb))
+            fx[i:i + Lb] += 2.2 * e * (np.sin(2 * np.pi * 36 * np.arange(Lb) / SR) + 0.5 * rng.standard_normal(Lb) * np.exp(-np.linspace(0, 25, Lb)))
+    fx = _lp(fx, 4000)
+    mix = 0.5 * pad * (0.5 + 0.5 * env) + 0.9 * pulse * env ** 1.5 + 0.18 * tick * env + 0.8 * fx
+    fade = int(1.2 * SR); mix[:fade] *= np.linspace(0, 1, fade); mix[-fade:] *= np.linspace(1, 0, fade)
+    return mix / (np.abs(mix).max() + 1e-6) * 0.95
 
 
 def write_wav(path, x):
@@ -255,8 +283,10 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
             words += word_times(sc["narration"], st, d)
         if a is not None:
             j = int(st * SR); voice_track[j:j + len(a)] += a
-        if sc["type"] == "impact":
+        if sc["type"] == "impact" or (sc.get("p") or {}).get("flash"):
             impacts.append(starts[i])
+        if sc["type"] == "hook" and (sc.get("p") or {}).get("hitAt") is not None and not (sc.get("p") or {}).get("src"):
+            impacts.append(starts[i] + sc["p"]["hitAt"])
     ep["words"] = words
     (work / "timeline.json").write_text(json.dumps(ep, indent=1))
     print(f"total {total:.1f}s, {len(words)} words", flush=True)
@@ -264,13 +294,13 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
         snapshot(ep, snaps if snaps else [s + 1.5 for s in starts], work)
         return
     write_wav(work / "voice.wav", voice_track)
-    write_wav(work / "music.wav", music(total + 1, impacts))
+    write_wav(work / "music.wav", music(total + 1, impacts, ep["scenes"], starts))
     render_frames(ep, total, work / "video.mp4", preview)
     final = work / f"{ep['id']}.mp4"
     # voice chain: rumble cut, warmth, presence, gentle compression; music ducked under voice
     fc = ("[0:a]highpass=f=80,equalizer=f=180:t=q:w=1:g=2,equalizer=f=3200:t=q:w=1.2:g=3,"
           "deesser=i=0.4,acompressor=threshold=-21dB:ratio=3.5:attack=8:release=140:makeup=2,asplit=2[v][vsc];"
-          "[1:a]volume=0.22[m];[m][vsc]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[md];"
+          "[1:a]volume=0.75[m];[m][vsc]sidechaincompress=threshold=0.06:ratio=2.5:attack=30:release=500[md];"
           "[v][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(work / "voice.wav"), "-i", str(work / "music.wav"),
                     "-i", str(work / "video.mp4"), "-filter_complex", fc, "-map", "2:v", "-map", "[a]",

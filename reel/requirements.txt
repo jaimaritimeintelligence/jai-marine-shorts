@@ -4,3 +4,4 @@ google-genai>=1.20
 playwright>=1.45
 edge-tts>=6.1
 faster-whisper>=1.0
+scipy>=1.11
