@@ -316,7 +316,7 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
     # voice chain: rumble cut, warmth, presence, gentle compression; music ducked under voice
     fc = ("[0:a]highpass=f=80,equalizer=f=180:t=q:w=1:g=2,equalizer=f=3200:t=q:w=1.2:g=3,"
           "deesser=i=0.4,acompressor=threshold=-21dB:ratio=3.5:attack=8:release=140:makeup=2,asplit=2[v][vsc];"
-          "[1:a]volume=0.75[m];[m][vsc]sidechaincompress=threshold=0.06:ratio=2.5:attack=30:release=500[md];"
+          f"[1:a]volume={0.32 if ep.get('music') else 0.75}[m];[m][vsc]sidechaincompress=threshold=0.06:ratio=2.5:attack=30:release=500[md];"
           "[v][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(work / "voice.wav"), "-i", str(work / "music.wav"),
                     "-i", str(work / "video.mp4"), "-filter_complex", fc, "-map", "2:v", "-map", "[a]",
