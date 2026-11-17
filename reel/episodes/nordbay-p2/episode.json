@@ -396,5 +396,6 @@
  ],
  "voice": "human",
  "queue": true,
- "script_pending": true
+ "script_sent_unix": 1794896827,
+ "awaiting_voice": true
 }
