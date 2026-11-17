@@ -2160,6 +2160,606 @@
    ],
    "w": 1600,
    "h": 1067
+  },
+  {
+   "file": "photos/coast-guard/2025-02-19-01-uscgc-james-wmsl-754-imo-466654-3c6b4c.jpg",
+   "category": "coast-guard",
+   "title": "2025-02-19 01 USCGC James (WMSL-754) – IMO 4666541 - Golfito, CRI.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-02-19_01_USCGC_James_(WMSL-754)_%E2%80%93_IMO_4666541_-_Golfito,_CRI.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2025-02-19_01_USCGC_James_%28WMSL-754%29_%E2%80%93_IMO_4666541_-_Golfito%2C_CRI.jpg/1920px-2025-02-19_01_USCGC_James_%28WMSL-754%29_%E2%80%93_IMO_4666541_-_Golfito%2C_CRI.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 64,
+    "bright": 77,
+    "contrast": 52,
+    "sharp": 4533
+   },
+   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000111111000000001111111111110011111111111111101111111111111101111111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/coast-guard/2025-03-11-01-uscgc-sockeye-wpb87337-imo-4685-797e33.jpg",
+   "category": "coast-guard",
+   "title": "2025-03-11 01 USCGC Sockeye WPB87337 – IMO 4685652 – Bodega Bay, CA USA.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-03-11_01_USCGC_Sockeye_WPB87337_%E2%80%93_IMO_4685652_%E2%80%93_Bodega_Bay,_CA_USA.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2025-03-11_01_USCGC_Sockeye_WPB87337_%E2%80%93_IMO_4685652_%E2%80%93_Bodega_Bay%2C_CA_USA.jpg/1920px-2025-03-11_01_USCGC_Sockeye_WPB87337_%E2%80%93_IMO_4685652_%E2%80%93_Bodega_Bay%2C_CA_USA.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 78,
+    "bright": 122,
+    "contrast": 49,
+    "sharp": 3712
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111000000111111111100000000001111110000000000000001000000011000000000000011110000000000011110000000001111111111110000111111111111000011111111111100000001111000100000000111100000000000000110000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/coast-guard/obion-uscg-jpg-7b372c.jpg",
+   "category": "coast-guard",
+   "title": "Obion(USCG).jpg",
+   "credit": "Joe Schneid, Louisville, KY / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Obion(USCG).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Obion%28USCG%29.jpg/1920px-Obion%28USCG%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 25,
+    "bright": 108,
+    "contrast": 45,
+    "sharp": 4465
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111001111111111111100001100101000000000000000000000000001100000000000000000000000000000110000000100000011100000010000111111100000001011011100000000110000000000000011111111111111111111111111111111",
+   "w": 1280,
+   "h": 589
+  },
+  {
+   "file": "photos/coast-guard/uscgc-storis-at-coast-guard-base-seattle-june-c9276b.jpg",
+   "category": "coast-guard",
+   "title": "USCGC Storis at Coast Guard Base Seattle, June 2026.jpg",
+   "credit": "Guywelch2000 / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:USCGC_Storis_at_Coast_Guard_Base_Seattle,_June_2026.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/USCGC_Storis_at_Coast_Guard_Base_Seattle%2C_June_2026.jpg/1920px-USCGC_Storis_at_Coast_Guard_Base_Seattle%2C_June_2026.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 140,
+    "bright": 86,
+    "contrast": 49,
+    "sharp": 5316
+   },
+   "hash": "0000000000000000011110000000000000111111110000000001111111100000011111111101011001111111111111001111111111110110111111111100011100000001110001110000000111110000110011111000000000011111000000000001111100000000000111111000000000001111110011100000111111001110",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/coast-guard/uscgc-taney-whec-37-in-baltimore-jpg-2aec45.jpg",
+   "category": "coast-guard",
+   "title": "USCGC Taney (WHEC-37) in Baltimore.jpg",
+   "credit": "Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:USCGC_Taney_(WHEC-37)_in_Baltimore.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USCGC_Taney_%28WHEC-37%29_in_Baltimore.jpg/1920px-USCGC_Taney_%28WHEC-37%29_in_Baltimore.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 40,
+    "bright": 165,
+    "contrast": 70,
+    "sharp": 3675
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111100111111111111110011111111111111101111110111111111011110001111111101111011111101000110011110110000000000010000000001100000110000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/coast-guard/lower-manhattan-from-governors-island-with-a-9a1bc5.jpg",
+   "category": "coast-guard",
+   "title": "Lower Manhattan from Governors Island with a fishing boat (46294p).jpg",
+   "credit": "Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Governors_Island_with_a_fishing_boat_(46294p).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lower_Manhattan_from_Governors_Island_with_a_fishing_boat_%2846294p%29.jpg/1920px-Lower_Manhattan_from_Governors_Island_with_a_fishing_boat_%2846294p%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 55,
+    "bright": 148,
+    "contrast": 52,
+    "sharp": 5003
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111111101000010101111100000000010011100000000100001100000000000000100000000000000010000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 584
+  },
+  {
+   "file": "photos/coast-guard/pearl-mist-jpg-48f521.jpg",
+   "category": "coast-guard",
+   "title": "Pearl Mist.jpg",
+   "credit": "Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Pearl_Mist.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pearl_Mist.jpg/1920px-Pearl_Mist.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 94,
+    "bright": 107,
+    "contrast": 55,
+    "sharp": 3834
+   },
+   "hash": "0111111111110000111111111111111111111111111111111111111111111111111111111111111111111111111111110011111111111111000111111111111100011111111111111100111111111111000011001101010000000010100010000000000100000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 850
+  },
+  {
+   "file": "photos/coast-guard/rescue-exercise-rca-2012-jpg-28c904.jpg",
+   "category": "coast-guard",
+   "title": "Rescue exercise RCA 2012.jpg",
+   "credit": "Letartean / Wikimedia Commons (CC BY 3.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Rescue_exercise_RCA_2012.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rescue_exercise_RCA_2012.jpg/1920px-Rescue_exercise_RCA_2012.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 125,
+    "bright": 82,
+    "contrast": 38,
+    "sharp": 3759
+   },
+   "hash": "0111111111111111011111111111111111111111111111111111000111111111001111111111111100011101111111110000001111111111111111111111110000000000001001000000000001100000000000001111000011110001111100001111111110000000000011100000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 772
+  },
+  {
+   "file": "photos/coast-guard/2017-08-25-02-t-rsvik-imo-7807316-in-tasiilaq-cb59c0.jpg",
+   "category": "coast-guard",
+   "title": "2017-08-25 02 TÓRSVIK - IMO 7807316 in Tasiilaq, East Greenland.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2017-08-25_02_T%C3%93RSVIK_-_IMO_7807316_in_Tasiilaq,_East_Greenland.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017-08-25_02_T%C3%93RSVIK_-_IMO_7807316_in_Tasiilaq%2C_East_Greenland.jpg/1920px-2017-08-25_02_T%C3%93RSVIK_-_IMO_7807316_in_Tasiilaq%2C_East_Greenland.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 50,
+    "bright": 120,
+    "contrast": 62,
+    "sharp": 4297
+   },
+   "hash": "1111111111111111111110111111111100000000111111110000000011111111000000001111111100000000111111110000000011111111000000001110111100000000111111110011110011111111011111101100001100000000000000110000000000000011000000000000001100000000000001110000011000001111",
+   "w": 1280,
+   "h": 855
+  },
+  {
+   "file": "photos/coast-guard/2018-spb-coast-guard-ship-01-jpg-e3ac6a.jpg",
+   "category": "coast-guard",
+   "title": "2018 SPb Coast guard ship 01.jpg",
+   "credit": "Andrey Korzun / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018_SPb_Coast_guard_ship_01.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2018_SPb_Coast_guard_ship_01.jpg/1920px-2018_SPb_Coast_guard_ship_01.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 34,
+    "bright": 134,
+    "contrast": 62,
+    "sharp": 3147
+   },
+   "hash": "1111111111111111111111111111111111111111111111101111111111110000011111111110000000000111111101110000001111111111000000001111111100000000111101110001111101000000001111111110000000000111011000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 910
+  },
+  {
+   "file": "photos/coast-guard/2018-spb-coast-guard-ship-02-jpg-f1f824.jpg",
+   "category": "coast-guard",
+   "title": "2018 SPb Coast guard ship 02.jpg",
+   "credit": "Andrey Korzun / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018_SPb_Coast_guard_ship_02.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018_SPb_Coast_guard_ship_02.jpg/1920px-2018_SPb_Coast_guard_ship_02.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 20,
+    "bright": 178,
+    "contrast": 66,
+    "sharp": 3015
+   },
+   "hash": "1111111111111111111111111111111101111111111111110111111111111111001111111111111100111111111111110011111111111111001011111111111100000001111001000000001110000000000001111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 1028
+  },
+  {
+   "file": "photos/coast-guard/2018-spb-coast-guard-ship-04-jpg-1e80c3.jpg",
+   "category": "coast-guard",
+   "title": "2018 SPb Coast guard ship 04.jpg",
+   "credit": "Andrey Korzun / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2018_SPb_Coast_guard_ship_04.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2018_SPb_Coast_guard_ship_04.jpg/1920px-2018_SPb_Coast_guard_ship_04.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 21,
+    "bright": 176,
+    "contrast": 67,
+    "sharp": 4349
+   },
+   "hash": "1111111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111111011111111111111100110000000110000000000110000000000010111100000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 942
+  },
+  {
+   "file": "photos/coast-guard/2021-08-23-03-ccgs-cape-spry-825552-at-souris-b1d0ec.jpg",
+   "category": "coast-guard",
+   "title": "2021-08-23 03 CCGS CAPE SPRY 825552 at Souris PEI Canada.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2021-08-23_03_CCGS_CAPE_SPRY_825552_at_Souris_PEI_Canada.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2021-08-23_03_CCGS_CAPE_SPRY_825552_at_Souris_PEI_Canada.jpg/1920px-2021-08-23_03_CCGS_CAPE_SPRY_825552_at_Souris_PEI_Canada.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 59,
+    "bright": 149,
+    "contrast": 62,
+    "sharp": 4302
+   },
+   "hash": "1111111111111111111111111111111111011111111111110000111111111111111111111111111111101000101111111111100000000000111110001100001011110100111100101000001111110010100000111100000000000000000000000000000000000000100000000000000010000000000000111000000111111111",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/coast-guard/2021-08-23-04-ccgs-cape-edensaw-827458-l-and-d23de4.jpg",
+   "category": "coast-guard",
+   "title": "2021-08-23 04 CCGS CAPE EDENSAW 827458 (L) and CCGS CAPE SPRY 825552 (R).jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2021-08-23_04_CCGS_CAPE_EDENSAW_827458_(L)_and_CCGS_CAPE_SPRY_825552_(R).jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2021-08-23_04_CCGS_CAPE_EDENSAW_827458_%28L%29_and_CCGS_CAPE_SPRY_825552_%28R%29.jpg/1920px-2021-08-23_04_CCGS_CAPE_EDENSAW_827458_%28L%29_and_CCGS_CAPE_SPRY_825552_%28R%29.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 78,
+    "bright": 136,
+    "contrast": 50,
+    "sharp": 4056
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111011111111111111101111111111111110100010111111110010001011011011001100001000000110010000000000000000000000000000000000001100000000000010010010000001000000000000001000",
+   "w": 1280,
+   "h": 440
+  },
+  {
+   "file": "photos/coast-guard/2021-11-19-canadian-ccgs-atlantic-raven-imo-9-cb98e9.jpg",
+   "category": "coast-guard",
+   "title": "2021-11-19 Canadian CCGS ATLANTIC RAVEN - IMO 9187942.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2021-11-19_Canadian_CCGS_ATLANTIC_RAVEN_-_IMO_9187942.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2021-11-19_Canadian_CCGS_ATLANTIC_RAVEN_-_IMO_9187942.jpg/1920px-2021-11-19_Canadian_CCGS_ATLANTIC_RAVEN_-_IMO_9187942.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 85,
+    "bright": 120,
+    "contrast": 46,
+    "sharp": 2009
+   },
+   "hash": "1111111111111111111111111111111111110000000111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111000000001100000000000000100000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/coast-guard/2023-09-14-01-ccgs-cap-nord-imo-4520084-summe-49e8ed.jpg",
+   "category": "coast-guard",
+   "title": "2023-09-14 01 CCGS CAP NORD - IMO 4520084 – Summerside PEI CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2023-09-14_01_CCGS_CAP_NORD_-_IMO_4520084_%E2%80%93_Summerside_PEI_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2023-09-14_01_CCGS_CAP_NORD_-_IMO_4520084_%E2%80%93_Summerside_PEI_CAN.jpg/1920px-2023-09-14_01_CCGS_CAP_NORD_-_IMO_4520084_%E2%80%93_Summerside_PEI_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 57,
+    "bright": 129,
+    "contrast": 60,
+    "sharp": 5703
+   },
+   "hash": "1111111111111111111111111111111111111001111111110111100001111111011110001001111101110001001100100111100000111111011000001101010000000001111001000000000111110000000011111111100110000111111000000000010000000000000000000000000011000000000000001111111110000001",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/coast-guard/2024-11-12-01-ccgs-sir-wilfred-grenfell-imo-8-0a65a2.jpg",
+   "category": "coast-guard",
+   "title": "2024-11-12 01 CCGS SIR WILFRED GRENFELL - IMO 8415495 – Victoria BC CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2024-11-12_01_CCGS_SIR_WILFRED_GRENFELL_-_IMO_8415495_%E2%80%93_Victoria_BC_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2024-11-12_01_CCGS_SIR_WILFRED_GRENFELL_-_IMO_8415495_%E2%80%93_Victoria_BC_CAN.jpg/1920px-2024-11-12_01_CCGS_SIR_WILFRED_GRENFELL_-_IMO_8415495_%E2%80%93_Victoria_BC_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 62,
+    "bright": 154,
+    "contrast": 49,
+    "sharp": 2987
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111101111111111111110011111111111110001100011111111000000000000000011000000000000111010000000000001111000000000000000000010000000000000000000000000000000101111111111111110011111111111111",
+   "w": 1280,
+   "h": 886
+  },
+  {
+   "file": "photos/coast-guard/2024-12-18-01-ccgs-cape-sutil-imo-4519944-off-249261.jpg",
+   "category": "coast-guard",
+   "title": "2024-12-18 01 CCGS CAPE SUTIL - IMO 4519944 off Ogden Point BC CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2024-12-18_01_CCGS_CAPE_SUTIL_-_IMO_4519944_off_Ogden_Point_BC_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2024-12-18_01_CCGS_CAPE_SUTIL_-_IMO_4519944_off_Ogden_Point_BC_CAN.jpg/1920px-2024-12-18_01_CCGS_CAPE_SUTIL_-_IMO_4519944_off_Ogden_Point_BC_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 87,
+    "bright": 117,
+    "contrast": 55,
+    "sharp": 4130
+   },
+   "hash": "1111111111111111111111111111111101001111111111110000000000000000000000011000000000000011000000000000110000000000011011000000000011111001111111111111111101111111111111111111111111111001100000111100000000000111111000000000011111111111111111111111111111111111",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/coast-guard/2024-12-31-01-usns-eagleview-imo-9472361-port-e3c0cb.jpg",
+   "category": "coast-guard",
+   "title": "2024-12-31 01 USNS EAGLEVIEW - IMO 9472361 – Port Angeles, WA USA.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2024-12-31_01_USNS_EAGLEVIEW_-_IMO_9472361_%E2%80%93_Port_Angeles,_WA_USA.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2024-12-31_01_USNS_EAGLEVIEW_-_IMO_9472361_%E2%80%93_Port_Angeles%2C_WA_USA.jpg/1920px-2024-12-31_01_USNS_EAGLEVIEW_-_IMO_9472361_%E2%80%93_Port_Angeles%2C_WA_USA.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 67,
+    "bright": 166,
+    "contrast": 52,
+    "sharp": 2020
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001100000000000001111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 852
+  },
+  {
+   "file": "photos/coast-guard/2025-08-16-01-ccgs-atlantic-eagle-imo-9199103-f151ab.jpg",
+   "category": "coast-guard",
+   "title": "2025-08-16 01 CCGS ATLANTIC EAGLE - IMO 9199103 – Port Hardy, BC CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-08-16_01_CCGS_ATLANTIC_EAGLE_-_IMO_9199103_%E2%80%93_Port_Hardy,_BC_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2025-08-16_01_CCGS_ATLANTIC_EAGLE_-_IMO_9199103_%E2%80%93_Port_Hardy%2C_BC_CAN.jpg/1920px-2025-08-16_01_CCGS_ATLANTIC_EAGLE_-_IMO_9199103_%E2%80%93_Port_Hardy%2C_BC_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 70,
+    "bright": 128,
+    "contrast": 62,
+    "sharp": 3592
+   },
+   "hash": "1111111111111111000000000111111100000000000000110000000000000000000000000000000000000000000000000000000000000000000000000010000000001111111111101111111111111111111111110001011111101000000101111100000000000111111101111001111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/coast-guard/2025-08-16-02-ccgs-atlantic-eagle-imo-9199103-856cd7.jpg",
+   "category": "coast-guard",
+   "title": "2025-08-16 02 CCGS ATLANTIC EAGLE - IMO 9199103 – Port Hardy, BC CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-08-16_02_CCGS_ATLANTIC_EAGLE_-_IMO_9199103_%E2%80%93_Port_Hardy,_BC_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2025-08-16_02_CCGS_ATLANTIC_EAGLE_-_IMO_9199103_%E2%80%93_Port_Hardy%2C_BC_CAN.jpg/1920px-2025-08-16_02_CCGS_ATLANTIC_EAGLE_-_IMO_9199103_%E2%80%93_Port_Hardy%2C_BC_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 50,
+    "bright": 182,
+    "contrast": 64,
+    "sharp": 3054
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000111111000000000000000100000000000000011111101100111111111111100100011110000000000001110000000000000111000000000000010111111111001111011111111101111000011111110111000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/coast-guard/2025-08-17-01-ccgs-florencia-bay-mmsi-3160419-8c900f.jpg",
+   "category": "coast-guard",
+   "title": "2025-08-17 01 CCGS FLORENCIA BAY - MMSI 316041901 - off Dowager Island, BC CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-08-17_01_CCGS_FLORENCIA_BAY_-_MMSI_316041901_-_off_Dowager_Island,_BC_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2025-08-17_01_CCGS_FLORENCIA_BAY_-_MMSI_316041901_-_off_Dowager_Island%2C_BC_CAN.jpg/1920px-2025-08-17_01_CCGS_FLORENCIA_BAY_-_MMSI_316041901_-_off_Dowager_Island%2C_BC_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 99,
+    "bright": 84,
+    "contrast": 52,
+    "sharp": 3022
+   },
+   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000111110011111111111110001111111110000011111111111111100111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/coast-guard/2025-08-17-02-ccgs-florencia-bay-mmsi-3160419-ca39bc.jpg",
+   "category": "coast-guard",
+   "title": "2025-08-17 02 CCGS FLORENCIA BAY - MMSI 316041901 - off Dowager Island, BC CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-08-17_02_CCGS_FLORENCIA_BAY_-_MMSI_316041901_-_off_Dowager_Island,_BC_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2025-08-17_02_CCGS_FLORENCIA_BAY_-_MMSI_316041901_-_off_Dowager_Island%2C_BC_CAN.jpg/1920px-2025-08-17_02_CCGS_FLORENCIA_BAY_-_MMSI_316041901_-_off_Dowager_Island%2C_BC_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 87,
+    "bright": 86,
+    "contrast": 53,
+    "sharp": 2512
+   },
+   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000001000000000000000111111111111111111111111111111111111111111111111111111111110111111110111111110111000011111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/coast-guard/2025-08-25-03-canadian-ccgs-atlantic-raven-im-648561.jpg",
+   "category": "coast-guard",
+   "title": "2025-08-25 03 Canadian CCGS ATLANTIC RAVEN - IMO 9187942 – Victoria BC CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-08-25_03_Canadian_CCGS_ATLANTIC_RAVEN_-_IMO_9187942_%E2%80%93_Victoria_BC_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2025-08-25_03_Canadian_CCGS_ATLANTIC_RAVEN_-_IMO_9187942_%E2%80%93_Victoria_BC_CAN.jpg/1920px-2025-08-25_03_Canadian_CCGS_ATLANTIC_RAVEN_-_IMO_9187942_%E2%80%93_Victoria_BC_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 91,
+    "bright": 136,
+    "contrast": 36,
+    "sharp": 2476
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111011111111111111101111111111111110111111111111111111111100000000111100000000000111010000000000001000000000000000100000000000000010000000000000001100000000000000110000000000000111110000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/coast-guard/boote-l-neburg-oldenburg-jade-der-k-stenwache-47f2a9.jpg",
+   "category": "coast-guard",
+   "title": "Boote (Lüneburg, Oldenburg, Jade) der Küstenwache (Zoll) in Wilhelmshaven.jpg",
+   "credit": "JoachimKohler-HB / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Boote_(L%C3%BCneburg,_Oldenburg,_Jade)_der_K%C3%BCstenwache_(Zoll)_in_Wilhelmshaven.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Boote_%28L%C3%BCneburg%2C_Oldenburg%2C_Jade%29_der_K%C3%BCstenwache_%28Zoll%29_in_Wilhelmshaven.jpg/1920px-Boote_%28L%C3%BCneburg%2C_Oldenburg%2C_Jade%29_der_K%C3%BCstenwache_%28Zoll%29_in_Wilhelmshaven.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 42,
+    "bright": 161,
+    "contrast": 51,
+    "sharp": 4034
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111110010011011110001100001100111100011000000001100000000000000110000000000000111000000000000111100001100011111111101111111111111111111111111111111111111111111111111111111111111",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/coast-guard/bow-of-kv-bergen-w341-jpg-152cb8.jpg",
+   "category": "coast-guard",
+   "title": "Bow of KV Bergen W341.jpg",
+   "credit": "W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Bow_of_KV_Bergen_W341.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bow_of_KV_Bergen_W341.jpg/1920px-Bow_of_KV_Bergen_W341.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 36,
+    "bright": 134,
+    "contrast": 54,
+    "sharp": 1098
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111001111111111111001111000000001100000000000000010000000000000001000000000000011100000000000011110000000000011111000000000001111100000000001111110000000000111111",
+   "w": 1280,
+   "h": 821
+  },
+  {
+   "file": "photos/coast-guard/bridge-of-kv-bergen-w341-jpg-c1ca8b.jpg",
+   "category": "coast-guard",
+   "title": "Bridge of KV Bergen W341.jpg",
+   "credit": "W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Bridge_of_KV_Bergen_W341.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bridge_of_KV_Bergen_W341.jpg/1920px-Bridge_of_KV_Bergen_W341.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 68,
+    "bright": 136,
+    "contrast": 53,
+    "sharp": 2213
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111011111111111111110111111111111111111111111111100000011111111110000000011111111000111111111111000011111111001000000111000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 924
+  },
+  {
+   "file": "photos/coast-guard/ccgs-cape-edensaw-on-825552-souris-pei-can-jp-df733d.jpg",
+   "category": "coast-guard",
+   "title": "CCGS CAPE EDENSAW - ON 825552 - Souris PEI CAN.jpg",
+   "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:CCGS_CAPE_EDENSAW_-_ON_825552_-_Souris_PEI_CAN.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CCGS_CAPE_EDENSAW_-_ON_825552_-_Souris_PEI_CAN.jpg/1920px-CCGS_CAPE_EDENSAW_-_ON_825552_-_Souris_PEI_CAN.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 61,
+    "bright": 134,
+    "contrast": 60,
+    "sharp": 3636
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111100000111111111110010111111111111111100000000000111100000000011111111101111101111111111000001111111111100000111110001000000000000000000000000000000000000000000000000010000000000000111000001110000011",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/coast-guard/coast-guard-boat-in-spb-jpg-613144.jpg",
+   "category": "coast-guard",
+   "title": "Coast guard boat in SPB.jpg",
+   "credit": "Florstein (Telegram:WikiPhoto.Space) / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Coast_guard_boat_in_SPB.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Coast_guard_boat_in_SPB.jpg/1920px-Coast_guard_boat_in_SPB.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 70,
+    "bright": 118,
+    "contrast": 51,
+    "sharp": 4847
+   },
+   "hash": "0000000000000000000110000000000111111110010000110011111111111111111111111101001111111111111111111100111111111111101111111111111111101111111111111011111111111110111000111111111000000000101100000000011111110000000001011000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 848
+  },
+  {
+   "file": "photos/coast-guard/fais-ship-r02-jpg-91416c.jpg",
+   "category": "coast-guard",
+   "title": "Fais ship R02.jpg",
+   "credit": "Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Fais_ship_R02.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fais_ship_R02.jpg/1920px-Fais_ship_R02.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 66,
+    "bright": 143,
+    "contrast": 53,
+    "sharp": 4283
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111100001111111111100000011111001000000000111100000011000000100000001111111111000000001111111110000000000111111001000000001111010000000000000000000000000000100000000000000100000000",
+   "w": 1280,
+   "h": 811
   }
  ]
 }
