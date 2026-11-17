@@ -18,6 +18,9 @@ def main():
         telegram.send_text(f"❌ OK — Reel {e['id']} will NOT be posted."); return
     import json
     ep = json.loads((Path(__file__).parent / "episodes" / e["id"] / "episode.json").read_text())
+    if ep.get("voice") == "human" and not ep.get("voice_done"):
+        telegram.send_text(f"⏸ Reel {e['id']} not posted today — still waiting for your new recording. It will take the next free morning.")
+        e["date"] = "9999-12-31"; rq.save(q); return
     url = f"https://raw.githubusercontent.com/{REPO}/main/reel/episodes/{e['id']}/{e['id']}.mp4"
     from jms import instagram
     pid, link, user = instagram.publish_reel(url, ep.get("caption", ""))

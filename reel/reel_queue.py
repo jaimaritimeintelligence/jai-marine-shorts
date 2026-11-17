@@ -18,8 +18,11 @@ def save(q):
 def add(ep_id):
     """Give the episode the next free morning slot (today if before 05:00 IST, else tomorrow onward)."""
     q = load()
-    if any(e["id"] == ep_id for e in q):
-        return next(e for e in q if e["id"] == ep_id)
+    old = next((e for e in q if e["id"] == ep_id), None)
+    if old and not old.get("posted") and old["date"] != "9999-12-31":
+        return old
+    if old:
+        q.remove(old)
     now = datetime.now(IST)
     day = now.date() if now.hour < 5 else now.date() + timedelta(days=1)
     taken = {e["date"] for e in q if not e.get("rejected")}

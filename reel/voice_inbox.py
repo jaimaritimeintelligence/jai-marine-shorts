@@ -15,6 +15,9 @@ def send_script(ep_path):
              "Speak like you're telling a gripping story: slower and lower on the dramatic lines, faster when the tension builds.", ""]
     for i, sc in enumerate(ep["scenes"], 1):
         lines.append(f"{i}. {sc['narration']}")
+        if sc.get("direction"):
+            lines.append(f"   🎭 ({sc['direction']})")
+        lines.append("")
     telegram.send_text("\n".join(lines))
     telegram.send_text(f"When done, send the recording here as a reply. (Episode: {ep['id']})")
     ep["script_sent_unix"] = int(time.time()); ep["awaiting_voice"] = True

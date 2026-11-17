@@ -210,12 +210,12 @@ def build(ep_path, mode="auto", preview=None, snaps=None):
         heard = hv.transcribe(rec); audio = hv.load_audio(rec)
         per = hv.align(ep["scenes"], heard)
         rate = hv.speaking_rate(per)
-        target = float(os.environ.get("TARGET_WPS", "2.75"))       # brisk storytelling pace
-        factor = max(1.0, min(1.18, target / rate)) if rate else 1.0
+        target = float(os.environ.get("TARGET_WPS", "2.6"))       # brisk storytelling pace
+        factor = max(1.0, min(1.12, target / rate)) if rate else 1.0
         print(f"speaking rate {rate:.2f} words/s -> tempo x{factor:.2f}", flush=True)
         human = []
         for w in per:
-            a_, t_ = hv.cut_scene(audio, w, max_gap=0.35)
+            a_, t_ = hv.cut_scene(audio, w, max_gap=0.75)   # keep dramatic pauses
             a_ = hv.stretch(a_, factor)
             human.append((a_, [{"w": x["w"], "s": x["s"] / factor, "e": x["e"] / factor} for x in t_]))
         cov = [round(sc["_coverage"], 2) for sc in ep["scenes"]]

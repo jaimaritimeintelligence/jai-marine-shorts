@@ -22,7 +22,8 @@
     "hitAt": 2.2,
     "y": 300
    },
-   "narration": "Imagine you're on the bridge of this empty tanker. It's ten at night. The river is racing behind you... and she will not turn in time."
+   "narration": "Ten o'clock at night. The Mississippi is in flood, racing towards the sea. You are on the bridge of an empty, eight-hundred-foot tanker... and in eight minutes, she is going to hit New Orleans.",
+   "direction": "Low and slow. Like telling a ghost story. Lean hard on 'eight minutes'."
   },
   {
    "type": "alarm",
@@ -35,7 +36,8 @@
     ],
     "shakeAt": 2.5
    },
-   "narration": "Twenty-two twelve. The engine revs suddenly drop. A strange vibration runs through the hull. One minute later, the bridge alarms go off."
+   "narration": "Twenty-two twelve. The engine suddenly groans. The revs fall. A shudder runs through the whole hull... and then... the bridge alarms scream!",
+   "direction": "Start almost in a whisper. Get faster. Shout 'scream!'"
   },
   {
    "type": "ship_profile",
@@ -50,7 +52,8 @@
     ],
     "chipsAt": 0.8
    },
-   "narration": "Earlier that evening, a river pilot boards the tanker Nordbay at a refinery dock. She is an Aframax, eight hundred and seventeen feet long. Tonight, she carries no cargo. Only ballast."
+   "narration": "Rewind three hours. A river pilot climbs aboard the tanker Nordbay. Eight hundred and seventeen feet of steel. No cargo at all. Only ballast.",
+   "direction": "Calm, steady, a storyteller setting the scene."
   },
   {
    "type": "ship_profile",
@@ -63,7 +66,8 @@
     "wind": "Wind S, 17–24 kn",
     "windAt": 3.5
    },
-   "narration": "Empty, she floats high. Her deck stands about forty-four feet above the water, more than her draft below. With a southerly wind of up to twenty-four knots, that high hull becomes a giant sail."
+   "narration": "And an empty ship... is a giant sail. Her deck towers forty-four feet above the water, higher than her draft below. And tonight, a southerly wind is gusting up to twenty-four knots, right onto her beam.",
+   "direction": "Slow on 'giant sail'. Build up through the wind."
   },
   {
    "type": "ship_profile",
@@ -76,7 +80,8 @@
     "wind": "Wind",
     "windAt": 0.2
    },
-   "narration": "The river is running high, after two months of high water. Its current, four to five knots, is pushing her from behind."
+   "narration": "The river is running high. Four, five knots of current, shoving her from behind, adding speed she does not want.",
+   "direction": "Tense, slightly faster."
   },
   {
    "type": "river",
@@ -168,11 +173,12 @@
     "north": false,
     "moveFrac": 0.95
    },
-   "narration": "Twenty-two oh five. She passes under the Huey P. Long Bridge at almost fifteen knots over the ground. Just ahead lies Nine-Mile Point, a turn of about one hundred and thirty-five degrees to starboard."
+   "narration": "Twenty-two oh five. Under the Huey P. Long Bridge, at almost fifteen knots over the ground. And dead ahead... Nine-Mile Point. A turn of one hundred and thirty-five degrees.",
+   "direction": "Fast, then stop dead before 'Nine-Mile Point'."
   },
   {
    "type": "gauges",
-   "headline": "The pilot wants [more power].",
+   "headline": "More power... [is it enough?]",
    "sub": "\"Do we have any more rpm?\"",
    "p": {
     "items": [
@@ -194,7 +200,8 @@
     ],
     "note": "71 → 82 → 89 rpm"
    },
-   "narration": "The pilot asks, do we have any more R P M? The master gives more. Then more again."
+   "narration": "The pilot asks... do we have any more R P M? Eighty-two. Eighty-nine. The engine roars. She swings to starboard... but is it enough?",
+   "direction": "Quote the pilot quietly. Count the rpm up. Leave the last question hanging."
   },
   {
    "type": "turn",
@@ -203,7 +210,7 @@
     "22:12"
    ],
    "headline": "Turning... but [sliding wide].",
-   "sub": "Under 600 ft from the left bank",
+   "sub": "Danger signal: five short blasts",
    "p": {
     "cx": 560,
     "cy": 1180,
@@ -221,7 +228,8 @@
     "curLy": 1380,
     "yawLag": 0
    },
-   "narration": "She is turning fast. But the current is carrying her wide, closer and closer to the left bank. Twenty-two ten. The pilot calls for the danger signal."
+   "narration": "She is turning... but sliding. Sliding wide. Less than six hundred feet from the bank. Closer. Closer. Twenty-two ten. The danger signal blasts out. Five short blasts.",
+   "direction": "Get faster and tighter with every 'closer'. Hit 'five short blasts' hard."
   },
   {
    "type": "impact",
@@ -232,8 +240,8 @@
     "stamp": "IMPACT",
     "chips": [
      "Barge dock destroyed",
-     "Mooring dolphins hit",
-     "City water intakes damaged"
+     "Mooring dolphins smashed",
+     "City water intakes hit"
     ],
     "chipsAt": 1.0,
     "pier": 880,
@@ -244,40 +252,41 @@
     "ix": 400,
     "iy": 905
    },
-   "narration": "Twenty-two thirteen. Nordbay slams into a barge dock, its mooring dolphins, and the city's water intakes."
+   "narration": "Twenty-two thirteen. Impact! Steel tears into a barge dock. Mooring dolphins smash apart. The city's water intakes take the hit.",
+   "direction": "Loud on 'Impact!', then fast, punchy."
   },
   {
    "type": "card",
    "clock": "22:18",
-   "headline": "The hull is [breached].",
+   "headline": "General alarm. [Hull breached.]",
    "sub": "Damage reported to the bridge",
    "p": {
     "items": [
-     "Ballast tank No. 6 holed above the waterline",
-     "Ballast water spraying out",
-     "General alarm — crew mustered"
+     "General alarm — crew to muster stations",
+     "Ballast tank No. 6 holed",
+     "Ballast water spraying out"
     ],
     "hl": 0,
     "y": 620,
     "step": 1.2
    },
-   "narration": "Ballast tank number six is holed above the waterline. Ballast water sprays out. The general alarm sounds, and the crew musters."
+   "narration": "The general alarm screams through every deck. Crew run to their muster stations. Ballast tank number six is holed... and water is spraying out.",
+   "direction": "Urgent, breathless. Drop low on the last line."
   },
   {
    "type": "cta",
    "p": {
     "lines": [
      "IT WASN'T OVER.",
-     "53 minutes later, she hit New Orleans [again]."
+     "53 minutes later... the master was [on the phone]."
     ]
    },
-   "narration": "Anyone would think the worst was over. It wasn't. Fifty-three minutes later, Nordbay would hit New Orleans again. Part two, tomorrow. Follow, so you don't miss it."
+   "narration": "Everyone thinks the nightmare is over. It is not. In fifty-three minutes... Nordbay will hit New Orleans again. And this time... the master is on the phone. Part two, tomorrow. Follow, so you don't miss it.",
+   "direction": "Slow and quiet, almost a whisper on 'It is not.' Normal voice for the last line."
   }
  ],
  "cover_title": "EMPTY TANKER HITS NEW ORLEANS TWICE",
  "voice": "human",
  "queue": true,
- "script_sent_unix": 1794895593,
- "awaiting_voice": false,
- "voice_done": true
+ "script_sent_unix": 0
 }
