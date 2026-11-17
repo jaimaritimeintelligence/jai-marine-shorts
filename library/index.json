@@ -2542,86 +2542,6 @@
    "h": 960
   },
   {
-   "file": "photos/seafarers/seven-seas-mariner-vesuvius-jpg-2449da.jpg",
-   "category": "seafarers",
-   "title": "Seven Seas Mariner Vesuvius.jpg",
-   "credit": "Jebulon / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Seven_Seas_Mariner_Vesuvius.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Seven_Seas_Mariner_Vesuvius.jpg/1920px-Seven_Seas_Mariner_Vesuvius.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 70,
-    "bright": 117,
-    "contrast": 53,
-    "sharp": 2700
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111100000111111111000100001111110000111000110111000101101000011100011100011111000000111111111100000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 661
-  },
-  {
-   "file": "photos/seafarers/bristol-merchant-seafarers-geograph-org-uk-64-c9fe1c.jpg",
-   "category": "seafarers",
-   "title": "Bristol Merchant Seafarers - geograph.org.uk - 6460703.jpg",
-   "credit": "Anthony O'Neil / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Bristol_Merchant_Seafarers_-_geograph.org.uk_-_6460703.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bristol_Merchant_Seafarers_-_geograph.org.uk_-_6460703.jpg/1920px-Bristol_Merchant_Seafarers_-_geograph.org.uk_-_6460703.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 50,
-    "bright": 130,
-    "contrast": 70,
-    "sharp": 7509
-   },
-   "hash": "1110010011111000111100011111100011000000111100001010000011100000111110000000000011111000000000001100000110000000110000000000000011110110110100001111111011000100111111111111111111111111111111110000010111111000111000000101111011111111111111100000000000000110",
-   "w": 1280,
-   "h": 1157
-  },
-  {
-   "file": "photos/seafarers/merchant-seafarer-s-cardiff-bay-jpg-0b3061.jpg",
-   "category": "seafarers",
-   "title": "Merchant Seafarer's - Cardiff Bay.jpg",
-   "credit": "Benjamin Raisanen / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Merchant_Seafarer%27s_-_Cardiff_Bay.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Merchant_Seafarer%27s_-_Cardiff_Bay.jpg/1920px-Merchant_Seafarer%27s_-_Cardiff_Bay.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 49,
-    "bright": 125,
-    "contrast": 63,
-    "sharp": 5230
-   },
-   "hash": "1111111111111111111111111111111111111111111111111101111110111111100000110001111110000000000001110000000000000111100000000000011011000000000001101100000000000100111000000000111111111000000111001110100000011100110000000000011111000000000000011111111000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/seafarers/seafarers-memorials-on-minerva-pier-kingston-81d7b3.jpg",
-   "category": "seafarers",
-   "title": "Seafarers Memorials on Minerva Pier, Kingston upon Hull May24.jpg",
-   "credit": "Hullian111 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Seafarers_Memorials_on_Minerva_Pier,_Kingston_upon_Hull_May24.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seafarers_Memorials_on_Minerva_Pier%2C_Kingston_upon_Hull_May24.jpg/1920px-Seafarers_Memorials_on_Minerva_Pier%2C_Kingston_upon_Hull_May24.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 58,
-    "bright": 137,
-    "contrast": 63,
-    "sharp": 2607
-   },
-   "hash": "1111111111111111111111111111111111111111110011111111111111011111111111111001111111111111100111111111111110011111111111111011111100010011000111111001001100011111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
    "file": "photos/seafarers/defense-gov-news-photo-100930-n-2855b-251-u-s-439d8d.jpg",
    "category": "seafarers",
    "title": "Defense.gov News Photo 100930-N-2855B-251 - U.S. Navy sailors aboard the guided missile destroyer USS Bainbridge DDG 96 haul in a mooring line while m",
@@ -2630,7 +2550,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Defense.gov_News_Photo_100930-N-2855B-251_-_U.S._Navy_sailors_aboard_the_guided_missile_destroyer_USS_Bainbridge_DDG_96_haul_in_a_mooring_line_while_mooring_the_ship_in_Faslane_Scotland_on.jpg/1920px-thumbnail.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 32,
     "bright": 131,
@@ -2650,7 +2570,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flickr_-_Official_U.S._Navy_Imagery_-_Sailors_heave_a_line_while_mooring_the_ship_in_Victoria%2C_Seychelles..jpg/1920px-Flickr_-_Official_U.S._Navy_Imagery_-_Sailors_heave_a_line_while_mooring_the_ship_in_Victoria%2C_Seychelles..jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 39,
     "bright": 112,
@@ -2670,7 +2590,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sailors_haul_in_mooring_lines_as_the_ship_departs_Varna%2C_Bulgaria._%2840396516292%29.jpg/1920px-Sailors_haul_in_mooring_lines_as_the_ship_departs_Varna%2C_Bulgaria._%2840396516292%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 22,
     "bright": 112,
@@ -2682,66 +2602,6 @@
    "h": 878
   },
   {
-   "file": "photos/seafarers/single-point-mooring-spm-sokol-173409603-jpeg-b07b42.jpg",
-   "category": "seafarers",
-   "title": "Single Point Mooring Spm Sokol (173409603).jpeg",
-   "credit": "Maksim Safiullin / Wikimedia Commons (CC BY 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Single_Point_Mooring_Spm_Sokol_(173409603).jpeg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Single_Point_Mooring_Spm_Sokol_%28173409603%29.jpeg/1920px-Single_Point_Mooring_Spm_Sokol_%28173409603%29.jpeg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 53,
-    "bright": 152,
-    "contrast": 72,
-    "sharp": 2542
-   },
-   "hash": "1111111110111111111111111011111111111111101111111111111110111111111111111011111111111111101111110011111111111111000000000001111000000000000111100000000000000000000000000000000000000000000000000000000000001100000000000000011000000000000000110000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/seafarers/single-point-mooring-spm-sokol-173409605-jpeg-968b80.jpg",
-   "category": "seafarers",
-   "title": "Single Point Mooring Spm Sokol (173409605).jpeg",
-   "credit": "Maksim Safiullin / Wikimedia Commons (CC BY 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Single_Point_Mooring_Spm_Sokol_(173409605).jpeg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Single_Point_Mooring_Spm_Sokol_%28173409605%29.jpeg/1920px-Single_Point_Mooring_Spm_Sokol_%28173409605%29.jpeg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 31,
-    "bright": 138,
-    "contrast": 59,
-    "sharp": 2154
-   },
-   "hash": "1111110011111111111111001111111111111110111111111111111011111111111111101111111111111100111111111111110011111111111111101111111111111110111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/seafarers/single-point-mooring-spm-sokol-173409613-jpeg-b8991b.jpg",
-   "category": "seafarers",
-   "title": "Single Point Mooring Spm Sokol (173409613).jpeg",
-   "credit": "Maksim Safiullin / Wikimedia Commons (CC BY 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Single_Point_Mooring_Spm_Sokol_(173409613).jpeg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Single_Point_Mooring_Spm_Sokol_%28173409613%29.jpeg/1920px-Single_Point_Mooring_Spm_Sokol_%28173409613%29.jpeg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 30,
-    "bright": 130,
-    "contrast": 65,
-    "sharp": 2998
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111111111000000011000000000000000100000000000000000011000000000000000000000000000000001000000000000000111000000000000000100000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/seafarers/trinidad-and-tobago-ship-quinam-mooring-in-mo-cfdea8.jpg",
    "category": "seafarers",
    "title": "Trinidad and Tobago Ship Quinam, mooring in Montego Bay, Jamaica - 160619-N-FE728-122.jpg",
@@ -2750,7 +2610,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinidad_and_Tobago_Ship_Quinam%2C_mooring_in_Montego_Bay%2C_Jamaica_-_160619-N-FE728-122.jpg/1920px-Trinidad_and_Tobago_Ship_Quinam%2C_mooring_in_Montego_Bay%2C_Jamaica_-_160619-N-FE728-122.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 19,
     "bright": 182,
@@ -2770,7 +2630,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/U.S._Navy_Boatswain%27s_Mate_2nd_Class_Jason_Wommack%2C_assigned_to_port_operations_with_Commander_Fleet_Activities_Okinawa%2C_ties_down_mooring_lines_as_the_dock_landing_ship_USS_Ashland_%28LSD_48%29_arrives_at_the_White_131115-N-NJ145-132.jpg/1920px-thumbnail.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 40,
     "bright": 139,
@@ -2790,7 +2650,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/U.S._Sailors_aboard_the_dock_landing_ship_USS_Ashland_%28LSD_48%29_tighten_the_mooring_lines_as_the_ship_arrives_at_the_White_Beach_Naval_Facility_in_Okinawa%2C_Japan%2C_Nov._15%2C_2013%2C_to_load_U.S._Marines_and_Sailors_131115-N-NJ145-135.jpg/1920px-thumbnail.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 33,
     "bright": 160,
@@ -2810,7 +2670,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/U.S._Sailors_assigned_to_the_guided_missile_cruiser_USS_Hue_City_%28CG_66%29_heave_a_mooring_line_as_the_ship_moors_at_Naval_Station_Norfolk%2C_Va.%2C_July_1%2C_2013_130701-N-ER662-062.jpg/1920px-thumbnail.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 58,
     "bright": 139,
@@ -2830,7 +2690,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/U.S._Sailors_heave_in_mooring_lines_from_the_aircraft_carrier_USS_Enterprise_%28CVN_65%29_as_the_ship_arrives_in_Manama%2C_Bahrain%2C_for_a_routine_port_visit_May_20%2C_2012_120520-N-SC392-015.jpg/1920px-thumbnail.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 45,
     "bright": 131,
@@ -2842,26 +2702,6 @@
    "h": 821
   },
   {
-   "file": "photos/seafarers/us-navy-040614-n-7293m-002-sailors-from-the-r-e5c8e0.jpg",
-   "category": "seafarers",
-   "title": "US Navy 040614-N-7293M-002 Sailors from the Republic of Korea ship ROKS Chungmugong Yi Sun Shin (DDH 975) place a \"rat guard\" on the bow mooring line.",
-   "credit": "U.S. Navy photo / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_040614-N-7293M-002_Sailors_from_the_Republic_of_Korea_ship_ROKS_Chungmugong_Yi_Sun_Shin_(DDH_975)_place_a_%22rat_guard%22_on_the_bow_mooring_line.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/US_Navy_040614-N-7293M-002_Sailors_from_the_Republic_of_Korea_ship_ROKS_Chungmugong_Yi_Sun_Shin_%28DDH_975%29_place_a_%22rat_guard%22_on_the_bow_mooring_line.jpg/1920px-US_Navy_040614-N-7293M-002_Sailors_from_the_Republic_of_Korea_ship_ROKS_Chungmugong_Yi_Sun_Shin_%28DDH_975%29_place_a_%22rat_guard%22_on_the_bow_mooring_line.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 40,
-    "bright": 139,
-    "contrast": 64,
-    "sharp": 2036
-   },
-   "hash": "0001111000111111111111100110111100011111111111110000111111111111000001111111011100000111110000111001001100000111111110100000011111111000000011111111000000001111111100000000111100110000000111111110000000011111111100000001111111110000000111111101000000000000",
-   "w": 1280,
-   "h": 914
-  },
-  {
    "file": "photos/seafarers/us-navy-040920-n-0683j-028-sailors-assigned-t-b406cd.jpg",
    "category": "seafarers",
    "title": "US Navy 040920-N-0683J-028 Sailors assigned to Naval Station Everett, Wash., secure mooring a line around a bollard.jpg",
@@ -2870,7 +2710,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/US_Navy_040920-N-0683J-028_Sailors_assigned_to_Naval_Station_Everett%2C_Wash.%2C_secure_mooring_a_line_around_a_bollard.jpg/1920px-US_Navy_040920-N-0683J-028_Sailors_assigned_to_Naval_Station_Everett%2C_Wash.%2C_secure_mooring_a_line_around_a_bollard.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 58,
     "bright": 110,
@@ -2882,26 +2722,6 @@
    "h": 851
   },
   {
-   "file": "photos/seafarers/us-navy-061106-n-5055g-042-a-sailor-aboard-th-6481fa.jpg",
-   "category": "seafarers",
-   "title": "US Navy 061106-N-5055G-042 A Sailor aboard the guided-missile destroyer USS Ross (DDG 71) throws a mooring line to the pier as the ship prepares to mo",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_061106-N-5055G-042_A_Sailor_aboard_the_guided-missile_destroyer_USS_Ross_(DDG_71)_throws_a_mooring_line_to_the_pier_as_the_ship_prepares_to_moor_in_its_homeport_at_Naval_Station_Norfolk.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/US_Navy_061106-N-5055G-042_A_Sailor_aboard_the_guided-missile_destroyer_USS_Ross_%28DDG_71%29_throws_a_mooring_line_to_the_pier_as_the_ship_prepares_to_moor_in_its_homeport_at_Naval_Station_Norfolk.jpg/1920px-thumbnail.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 95,
-    "bright": 118,
-    "contrast": 43,
-    "sharp": 2945
-   },
-   "hash": "0000000000000000000000000000000000000000000000000100000000000000111111111110000011111111111111111101111111111111110011100111111111100010000111110001110111111111001110011110001100111001111000110011101110000011011100110000000011110111001000001111011100101000",
-   "w": 1280,
-   "h": 914
-  },
-  {
    "file": "photos/seafarers/us-navy-070104-n-8704k-005-boatswain-s-mate-s-9de8eb.jpg",
    "category": "seafarers",
    "title": "US Navy 070104-N-8704K-005 Boatswain's Mate Seaman Ruben Casilla prepares to release the mooring lines as amphibious dock landing ship USS Oak Hill (L",
@@ -2910,7 +2730,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/US_Navy_070104-N-8704K-005_Boatswain%27s_Mate_Seaman_Ruben_Casilla_prepares_to_release_the_mooring_lines_as_amphibious_dock_landing_ship_USS_Oak_Hill_%28LSD_51%29_departs_from_Naval_Amphibious_Base_%28NAB%29_Little_Creek.jpg/1920px-thumbnail.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 39,
     "bright": 111,
@@ -2922,86 +2742,6 @@
    "h": 857
   },
   {
-   "file": "photos/seafarers/us-navy-090309-n-0807w-263-deck-department-pe-710045.jpg",
-   "category": "seafarers",
-   "title": "US Navy 090309-N-0807W-263 Deck department personnel standby for mooring operations as the amphibious dock landing ship USS Tortuga (LSD 46) returns t",
-   "credit": "U.S. Navy photo by Mass Communication Sp / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_090309-N-0807W-263_Deck_department_personnel_standby_for_mooring_operations_as_the_amphibious_dock_landing_ship_USS_Tortuga_(LSD_46)_returns_to_Fleet_Activities_Sasebo_following_the_first_half_of_spring_patrol.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/US_Navy_090309-N-0807W-263_Deck_department_personnel_standby_for_mooring_operations_as_the_amphibious_dock_landing_ship_USS_Tortuga_%28LSD_46%29_returns_to_Fleet_Activities_Sasebo_following_the_first_half_of_spring_patrol.jpg/1920px-thumbnail.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 29,
-    "bright": 108,
-    "contrast": 81,
-    "sharp": 1506
-   },
-   "hash": "1111111111111111111111111111111111111111111111110110000111111111001000000111111100000000011111110000000001110010000000000111011000000000001100000000000000000000000000000010000000000000111001100000000000000000000000000000000000000000011000000000000000000000",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/seafarers/us-navy-100913-n-0780f-006-sailors-prepare-fo-7fdfd9.jpg",
-   "category": "seafarers",
-   "title": "US Navy 100913-N-0780F-006 Sailors prepare for mooring operations as the Wasp-class amphibious assault ship USS Kearsarge (LHD 3).jpg",
-   "credit": "U.S. Navy photo by Paul Farley / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_100913-N-0780F-006_Sailors_prepare_for_mooring_operations_as_the_Wasp-class_amphibious_assault_ship_USS_Kearsarge_(LHD_3).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/US_Navy_100913-N-0780F-006_Sailors_prepare_for_mooring_operations_as_the_Wasp-class_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29.jpg/1920px-US_Navy_100913-N-0780F-006_Sailors_prepare_for_mooring_operations_as_the_Wasp-class_amphibious_assault_ship_USS_Kearsarge_%28LHD_3%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 26,
-    "bright": 153,
-    "contrast": 45,
-    "sharp": 695
-   },
-   "hash": "0001111111100000010111111110000001111111111000001111111111110000111111111110000011100111110000101100001110000000100000111000001010000010000001001000001011111110000110111111111001100111111111100111111111111100001111111111110001111111111111000111111111111100",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/seafarers/us-navy-110606-n-mo201-082-a-sailor-observes-6a292a.jpg",
-   "category": "seafarers",
-   "title": "US Navy 110606-N-MO201-082 A Sailor observes mooring operations as the amphibious transport dock ship USS Mesa Verde (LPD 19) arrives for a routine.jp",
-   "credit": "U.S. Navy photo by Paul Farley / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_110606-N-MO201-082_A_Sailor_observes_mooring_operations_as_the_amphibious_transport_dock_ship_USS_Mesa_Verde_(LPD_19)_arrives_for_a_routine.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/US_Navy_110606-N-MO201-082_A_Sailor_observes_mooring_operations_as_the_amphibious_transport_dock_ship_USS_Mesa_Verde_%28LPD_19%29_arrives_for_a_routine.jpg/1920px-US_Navy_110606-N-MO201-082_A_Sailor_observes_mooring_operations_as_the_amphibious_transport_dock_ship_USS_Mesa_Verde_%28LPD_19%29_arrives_for_a_routine.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 61,
-    "bright": 142,
-    "contrast": 52,
-    "sharp": 701
-   },
-   "hash": "1110000011111111110111110111111111111111011111111111111111111111111010010111111111111001011111111110100101111111111000000011111111100000001111111110000000111111111000000111111111100000011111111110000001111111111000000111111111110000111111111111111111111111",
-   "w": 1280,
-   "h": 850
-  },
-  {
-   "file": "photos/seafarers/us-navy-110606-n-mo201-089-sailors-prepare-fo-8f393f.jpg",
-   "category": "seafarers",
-   "title": "US Navy 110606-N-MO201-089 Sailors prepare for mooring operations as the amphibious transport dock ship USS Mesa Verde (LPD 19) arrives for a routi.jp",
-   "credit": "U.S. Navy photo by Paul Farley / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_110606-N-MO201-089_Sailors_prepare_for_mooring_operations_as_the_amphibious_transport_dock_ship_USS_Mesa_Verde_(LPD_19)_arrives_for_a_routi.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US_Navy_110606-N-MO201-089_Sailors_prepare_for_mooring_operations_as_the_amphibious_transport_dock_ship_USS_Mesa_Verde_%28LPD_19%29_arrives_for_a_routi.jpg/1920px-US_Navy_110606-N-MO201-089_Sailors_prepare_for_mooring_operations_as_the_amphibious_transport_dock_ship_USS_Mesa_Verde_%28LPD_19%29_arrives_for_a_routi.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 40,
-    "bright": 153,
-    "contrast": 28,
-    "sharp": 1078
-   },
-   "hash": "0000000000011111000000010001111100000011000111110001001100111111001100111111111100110111111011110011110111001111000100011101111110010011110111110001101110111111100111111111111111011111111111111111111111111111111111111110111111111111010111101111111111111110",
-   "w": 1280,
-   "h": 850
-  },
-  {
    "file": "photos/seafarers/us-navy-110724-n-ql533-004-line-handlers-help-b72680.jpg",
    "category": "seafarers",
    "title": "US Navy 110724-N-QL533-004 Line handlers help to position a brow following a mooring operation for SS Bataan (LHD 5).jpg",
@@ -3010,7 +2750,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/US_Navy_110724-N-QL533-004_Line_handlers_help_to_position_a_brow_following_a_mooring_operation_for_SS_Bataan_%28LHD_5%29.jpg/1920px-US_Navy_110724-N-QL533-004_Line_handlers_help_to_position_a_brow_following_a_mooring_operation_for_SS_Bataan_%28LHD_5%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 37,
     "bright": 128,
