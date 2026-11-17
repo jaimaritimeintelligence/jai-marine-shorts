@@ -262,6 +262,7 @@
  "voice": "human",
  "queue": false,
  "script_sent_unix": 1794897472,
- "awaiting_voice": true,
- "quiet_rerender": true
+ "awaiting_voice": false,
+ "quiet_rerender": true,
+ "voice_done": true
 }
