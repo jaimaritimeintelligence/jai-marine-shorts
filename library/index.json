@@ -18360,6 +18360,386 @@
    "hash": "1111111111111111111111111111111111001111111111111001111111111111110111111101111101011111111111101111111111111111111111111110000011111111000000000000000000000000000000000000000000000000000000000000111110000000001111111000000000000001100100000000000111100000",
    "w": 1280,
    "h": 720
+  },
+  {
+   "file": "photos/cruise-ship/03613-isl-akureyri-cruise-vessel-vapors-v-p-j-f6f04e.jpg",
+   "category": "cruise-ship",
+   "title": "03613 ISL Akureyri cruise vessel vapors V P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:03613_ISL_Akureyri_cruise_vessel_vapors_V_P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/03613_ISL_Akureyri_cruise_vessel_vapors_V_P.jpg/1920px-03613_ISL_Akureyri_cruise_vessel_vapors_V_P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 45,
+    "bright": 148,
+    "contrast": 61,
+    "sharp": 3202
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111110111000000000000111100000000000000000000001000000000111000000000001111101000001011111110011001100000000000001110000000100000001111111110000000000111100000000000010110000000",
+   "w": 1280,
+   "h": 640
+  },
+  {
+   "file": "photos/cruise-ship/bolgar-cruise-ship-solnechnyy-gorod-p5182061-804540.jpg",
+   "category": "cruise-ship",
+   "title": "Bolgar. Cruise ship Solnechnyy Gorod P5182061 2200.jpg",
+   "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Bolgar._Cruise_ship_Solnechnyy_Gorod_P5182061_2200.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bolgar._Cruise_ship_Solnechnyy_Gorod_P5182061_2200.jpg/1920px-Bolgar._Cruise_ship_Solnechnyy_Gorod_P5182061_2200.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 58,
+    "bright": 119,
+    "contrast": 41,
+    "sharp": 2129
+   },
+   "hash": "1110000000000001111100000000000011001110000000001100011100011000111101111111111111111111111111111111111111111100111111111111111111111111111111111111111111111111000000000001111100000000000000000000000000000000000000000000111100000000011111110000111111111110",
+   "w": 1280,
+   "h": 706
+  },
+  {
+   "file": "photos/cruise-ship/borealis-ship-1997-at-liverpool-cruise-termin-cf5675.jpg",
+   "category": "cruise-ship",
+   "title": "Borealis (ship, 1997) at Liverpool Cruise Terminal 2.jpg",
+   "credit": "Rodhullandemu / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Borealis_(ship,_1997)_at_Liverpool_Cruise_Terminal_2.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Borealis_%28ship%2C_1997%29_at_Liverpool_Cruise_Terminal_2.jpg/1920px-Borealis_%28ship%2C_1997%29_at_Liverpool_Cruise_Terminal_2.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 48,
+    "bright": 136,
+    "contrast": 50,
+    "sharp": 4466
+   },
+   "hash": "1111111111100011111101111110001111110111111000111111011111000011111111111100001111111111111100111111111110111110001111111111110001111111111111100111111111111100000000100000000000000010000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 636
+  },
+  {
+   "file": "photos/cruise-ship/cruise-ship-le-lyrial-off-anvers-island-antar-ffc2fb.jpg",
+   "category": "cruise-ship",
+   "title": "Cruise ship Le Lyrial off Anvers Island, Antarctica V-P.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_ship_Le_Lyrial_off_Anvers_Island,_Antarctica_V-P.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cruise_ship_Le_Lyrial_off_Anvers_Island%2C_Antarctica_V-P.jpg/1920px-Cruise_ship_Le_Lyrial_off_Anvers_Island%2C_Antarctica_V-P.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 105,
+    "bright": 111,
+    "contrast": 58,
+    "sharp": 3663
+   },
+   "hash": "0011111111111111000011111111111111111111111111111111111111111111111111110111111111111100001101111111110011111011111111011111101111111001111111110111100111111110001111111011100000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/cruise-ship/cruise-ship-modigliani-bamberg-20220610-rm-17-071787.jpg",
+   "category": "cruise-ship",
+   "title": "Cruise ship Modigliani Bamberg-20220610-RM-170943.jpg",
+   "credit": "Ermell / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_ship_Modigliani_Bamberg-20220610-RM-170943.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cruise_ship_Modigliani_Bamberg-20220610-RM-170943.jpg/1920px-Cruise_ship_Modigliani_Bamberg-20220610-RM-170943.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 81,
+    "bright": 131,
+    "contrast": 45,
+    "sharp": 2198
+   },
+   "hash": "0000000001110000000000000000000000100000000000000001000000000000111111000111111111011111111111101011011111111111000011111111111100001111111111110010011111111111111100111111111111111111111111111111111111111110011000000000000000000000000000000000000000100000",
+   "w": 1280,
+   "h": 906
+  },
+  {
+   "file": "photos/cruise-ship/cruise-ship-modigliani-bamberg-20220610-rm-17-7c493e.jpg",
+   "category": "cruise-ship",
+   "title": "Cruise ship Modigliani Bamberg-20220610-RM-171024.jpg",
+   "credit": "Ermell / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_ship_Modigliani_Bamberg-20220610-RM-171024.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cruise_ship_Modigliani_Bamberg-20220610-RM-171024.jpg/1920px-Cruise_ship_Modigliani_Bamberg-20220610-RM-171024.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 43,
+    "bright": 163,
+    "contrast": 48,
+    "sharp": 3757
+   },
+   "hash": "0000000000000011000000011100001100011111111101111011111111111111111111111111111101111111111111111111111111111111111111111100001000001101111100000000011111111000111100000011000011111100110000000111100000000001000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 793
+  },
+  {
+   "file": "photos/cruise-ship/cruise-ship-modigliani-bamberg-20220610-rm-17-bacd20.jpg",
+   "category": "cruise-ship",
+   "title": "Cruise ship Modigliani Bamberg-20220610-RM-175403.jpg",
+   "credit": "Ermell / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_ship_Modigliani_Bamberg-20220610-RM-175403.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cruise_ship_Modigliani_Bamberg-20220610-RM-175403.jpg/1920px-Cruise_ship_Modigliani_Bamberg-20220610-RM-175403.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 106,
+    "bright": 100,
+    "contrast": 52,
+    "sharp": 3932
+   },
+   "hash": "1111111111111111111111111111111111100011111111110100000111111110000000000000000000000000000011000000000011111100000000111111110000000111111111000000011111110000000001111100000000000011100000000000001110000000000000100000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 809
+  },
+  {
+   "file": "photos/cruise-ship/cruise-ship-modigliani-bamberg-8285963-jpg-a1d3a7.jpg",
+   "category": "cruise-ship",
+   "title": "Cruise ship Modigliani Bamberg 8285963.jpg",
+   "credit": "Ermell / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_ship_Modigliani_Bamberg_8285963.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cruise_ship_Modigliani_Bamberg_8285963.jpg/1920px-Cruise_ship_Modigliani_Bamberg_8285963.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 74,
+    "bright": 118,
+    "contrast": 59,
+    "sharp": 4840
+   },
+   "hash": "1111111111111111111111111111110011111111111111001111111111111000111111111111000011111000000000001100000000000000000000000000000000011110000000000011111100000000001111110000000001111111000000000111111100000000011111110000000011111111000000000011111100000000",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "file": "photos/cruise-ship/cruise-ship-in-the-port-of-nagasaki-20240814-e59d19.jpg",
+   "category": "cruise-ship",
+   "title": "Cruise ship in the Port of Nagasaki, 20240814 0829 3199.jpg",
+   "credit": "Jakub Hałun / Wikimedia Commons (CC BY 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_ship_in_the_Port_of_Nagasaki,_20240814_0829_3199.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cruise_ship_in_the_Port_of_Nagasaki%2C_20240814_0829_3199.jpg/1920px-Cruise_ship_in_the_Port_of_Nagasaki%2C_20240814_0829_3199.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 51,
+    "bright": 133,
+    "contrast": 46,
+    "sharp": 3901
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111000011111111111000000111111111111111011111111111111101111011111111000000001111111100000010011111101000000000000000000000000000000000000000000000000000000000000111000000000000011100000",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/cruise-ship/cruise-vessel-expedition-off-cuverville-islan-f97083.jpg",
+   "category": "cruise-ship",
+   "title": "Cruise vessel Expedition off Cuverville Island.jpg",
+   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_vessel_Expedition_off_Cuverville_Island.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cruise_vessel_Expedition_off_Cuverville_Island.jpg/1920px-Cruise_vessel_Expedition_off_Cuverville_Island.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 59,
+    "bright": 161,
+    "contrast": 80,
+    "sharp": 3255
+   },
+   "hash": "1110000011111111111110011110111111111111111111111100111111111111111000011111111111111000111111111111100010111111111111111001111111111111110011111111111111111111111111111111111111111011111111110000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 854
+  },
+  {
+   "file": "photos/cruise-ship/vasco-da-gama-ship-1993-at-liverpool-cruise-t-030a86.jpg",
+   "category": "cruise-ship",
+   "title": "Vasco da Gama (ship, 1993) at Liverpool Cruise Terminal 1.jpg",
+   "credit": "Rodhullandemu / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Vasco_da_Gama_(ship,_1993)_at_Liverpool_Cruise_Terminal_1.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vasco_da_Gama_%28ship%2C_1993%29_at_Liverpool_Cruise_Terminal_1.jpg/1920px-Vasco_da_Gama_%28ship%2C_1993%29_at_Liverpool_Cruise_Terminal_1.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 43,
+    "bright": 109,
+    "contrast": 56,
+    "sharp": 3359
+   },
+   "hash": "1111111111111111111111111111001111111111111100111111111111110011111111111111001111101011111100111111111111110011111111111111111111111111111111111111111111000000111000000000000010000000000000000000000000000000000000000000000000000000000000000000001100000000",
+   "w": 1280,
+   "h": 749
+  },
+  {
+   "file": "photos/cruise-ship/vasco-da-gama-ship-1993-at-liverpool-cruise-t-f56b32.jpg",
+   "category": "cruise-ship",
+   "title": "Vasco da Gama (ship, 1993) at Liverpool Cruise Terminal 2.jpg",
+   "credit": "Rodhullandemu / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Vasco_da_Gama_(ship,_1993)_at_Liverpool_Cruise_Terminal_2.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vasco_da_Gama_%28ship%2C_1993%29_at_Liverpool_Cruise_Terminal_2.jpg/1920px-Vasco_da_Gama_%28ship%2C_1993%29_at_Liverpool_Cruise_Terminal_2.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 54,
+    "bright": 125,
+    "contrast": 50,
+    "sharp": 3055
+   },
+   "hash": "0000011111111000110001111000000011100011100000011111000000001111111111000000111111111110100111111011001111111111100111110011111100011111111111110001111111111111000001111111111100000000000000100000000000000000000000110000000000001111111111100000111110111100",
+   "w": 1280,
+   "h": 616
+  },
+  {
+   "file": "photos/cruise-ship/volga-river-cruise-ship-president-p5212945-22-e93c42.jpg",
+   "category": "cruise-ship",
+   "title": "Volga River. Cruise ship President P5212945 2200.jpg",
+   "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Volga_River._Cruise_ship_President_P5212945_2200.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Volga_River._Cruise_ship_President_P5212945_2200.jpg/1920px-Volga_River._Cruise_ship_President_P5212945_2200.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 94,
+    "bright": 126,
+    "contrast": 47,
+    "sharp": 2558
+   },
+   "hash": "1000011110000011010000011100001111100000111000000110000000001111111111111111111111111111111111111111111111111111111111111111111100001000001111110000000000000000000100000000010000000000000000011110000000000111111100000001111111111000000110000110000100000000",
+   "w": 1280,
+   "h": 784
+  },
+  {
+   "file": "photos/cruise-ship/volga-river-river-cruise-ship-valeriy-chkalov-9ed62a.jpg",
+   "category": "cruise-ship",
+   "title": "Volga River. River cruise ship Valeriy Chkalov P5171824 2200.jpg",
+   "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:Volga_River._River_cruise_ship_Valeriy_Chkalov_P5171824_2200.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Volga_River._River_cruise_ship_Valeriy_Chkalov_P5171824_2200.jpg/1920px-Volga_River._River_cruise_ship_Valeriy_Chkalov_P5171824_2200.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 44,
+    "bright": 132,
+    "contrast": 38,
+    "sharp": 3098
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110011111111100000000011111110000000000001100000001111000011100000011000001110000001000011111000001000001111100000000000000000000000000000000",
+   "w": 1280,
+   "h": 773
+  },
+  {
+   "file": "photos/cruise-ship/zaandam-cruise-in-quebec-city-jpg-dd1a9b.jpg",
+   "category": "cruise-ship",
+   "title": "ZAANDAM Cruise in Quebec City.jpg",
+   "credit": "Wilfredor / Wikimedia Commons (CC0)",
+   "page": "https://commons.wikimedia.org/wiki/File:ZAANDAM_Cruise_in_Quebec_City.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ZAANDAM_Cruise_in_Quebec_City.jpg/1920px-ZAANDAM_Cruise_in_Quebec_City.jpg",
+   "origin": "commons",
+   "vetted": true,
+   "score": null,
+   "checks": {
+    "sat": 60,
+    "bright": 126,
+    "contrast": 62,
+    "sharp": 3324
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111111111111000011111111001100000000011101111111110000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001111111111111110",
+   "w": 1280,
+   "h": 742
+  },
+  {
+   "file": "photos/cruise-ship/2014-mv-arcadia-cruise-ship-port-of-barcelona-4a0ab7.jpg",
+   "category": "cruise-ship",
+   "title": "2014- MV Arcadia Cruise Ship, Port of Barcelona, Spain ( Ank Kumar ) 01.jpg",
+   "credit": "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2014-_MV_Arcadia_Cruise_Ship,_Port_of_Barcelona,_Spain_(_Ank_Kumar_)_01.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_01.jpg/1920px-2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_01.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 73,
+    "bright": 112,
+    "contrast": 59,
+    "sharp": 5252
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111110000011111000000000000000000000000000000000100110100000000000010000000001100011000011000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/cruise-ship/2014-mv-arcadia-cruise-ship-port-of-barcelona-444107.jpg",
+   "category": "cruise-ship",
+   "title": "2014- MV Arcadia Cruise Ship, Port of Barcelona, Spain ( Ank Kumar ) 03.jpg",
+   "credit": "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2014-_MV_Arcadia_Cruise_Ship,_Port_of_Barcelona,_Spain_(_Ank_Kumar_)_03.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_03.jpg/1920px-2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_03.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 60,
+    "bright": 137,
+    "contrast": 57,
+    "sharp": 5397
+   },
+   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111101111111111111111101111111110000000011000000000000000111000001111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/cruise-ship/2014-mv-arcadia-cruise-ship-port-of-barcelona-19029b.jpg",
+   "category": "cruise-ship",
+   "title": "2014- MV Arcadia Cruise Ship, Port of Barcelona, Spain ( Ank Kumar ) 04.jpg",
+   "credit": "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2014-_MV_Arcadia_Cruise_Ship,_Port_of_Barcelona,_Spain_(_Ank_Kumar_)_04.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_04.jpg/1920px-2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_04.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 103,
+    "bright": 119,
+    "contrast": 46,
+    "sharp": 3361
+   },
+   "hash": "1111111000000000111111110000000011111111100000001111111111100000111111111111111011111111111111111111111111111111111111111111111111111111111111111111111110001111110000000000000010000000011110000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "photos/cruise-ship/2014-mv-arcadia-cruise-ship-port-of-barcelona-8677ad.jpg",
+   "category": "cruise-ship",
+   "title": "2014- MV Arcadia Cruise Ship, Port of Barcelona, Spain ( Ank Kumar ) 05.jpg",
+   "credit": "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)",
+   "page": "https://commons.wikimedia.org/wiki/File:2014-_MV_Arcadia_Cruise_Ship,_Port_of_Barcelona,_Spain_(_Ank_Kumar_)_05.jpg",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_05.jpg/1920px-2014-_MV_Arcadia_Cruise_Ship%2C_Port_of_Barcelona%2C_Spain_%28_Ank_Kumar_%29_05.jpg",
+   "origin": "commons",
+   "vetted": false,
+   "score": null,
+   "checks": {
+    "sat": 58,
+    "bright": 148,
+    "contrast": 58,
+    "sharp": 1512
+   },
+   "hash": "0111111111111100011111111111110001111111111111100111111111111110011111111111111101111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000110000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "w": 1280,
+   "h": 854
   }
  ]
 }
