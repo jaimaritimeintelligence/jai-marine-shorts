@@ -27,4 +27,5 @@ jobs:
         run: |
           git config user.name "jms-bot"
           git config user.email "jms-bot@users.noreply.github.com"
+          REVIEW_ONLY=1 python -u library/build_library.py
           python -u library/build_library.py ${{ github.event.inputs.per_category || '14' }}

@@ -10,7 +10,7 @@ TYPE_CATS = {
     "bulk carrier": ["bulk-carrier"], "car carrier": ["car-carrier"], "cruise ship": ["cruise-ship"],
     "riverboat": ["riverboat"], "offshore vessel": ["offshore"], "tug": ["tug"],
     "naval": ["navy-escort", "coast-guard"], "port": ["port-terminal", "oil-terminal"],
-    "shipyard": ["shipyard"], "other": ["ship-at-sunset", "container-ship"],
+    "shipyard": ["shipyard"], "other": ["general-cargo", "ship-at-sunset", "aerial-ship"],
 }
 WORD_CATS = [
     (("fire", "blaze", "explosion"), ["ship-fire"]), (("rescue", "rescued", "evacuat"), ["rescue", "coast-guard"]),
@@ -22,6 +22,9 @@ WORD_CATS = [
     (("engine", "machinery"), ["engine-room"]), (("lng",), ["lng-carrier"]), (("lpg", "ammonia"), ["lpg-carrier"]),
     (("shipyard", "newbuild", "order", "delivery", "delivered"), ["shipyard"]),
     (("port", "terminal", "congestion", "dockworker"), ["port-terminal"]), (("attack", "drone", "missile", "navy"), ["navy-escort"]),
+    (("ice", "arctic", "polar", "northern sea route"), ["ice-arctic"]), (("anchorage", "waiting", "stranded", "stuck"), ["anchorage"]),
+    (("storm", "typhoon", "cyclone", "weather"), ["storm-sea"]), (("ferry",), ["ferry"]), (("pilot",), ["pilot-boat"]),
+    (("coast guard", "coastguard"), ["coast-guard"]), (("refinery", "refining"), ["refinery"]),
 ]
 
 
@@ -53,7 +56,7 @@ def candidates(story, taken, n=6):
     avoid = recently_used() | taken
     pool = [p for p in photos if p["category"] in cats and p["file"] not in avoid]
     random.shuffle(pool)
-    pool.sort(key=lambda p: (cats.index(p["category"]) // 2, -p.get("score", 0)))  # main type first, best first
+    pool.sort(key=lambda p: (cats.index(p["category"]) // 2, -(p.get("score") or 6)))  # main type first, best first
     out = []
     for p in pool[:n]:
         try:

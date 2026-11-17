@@ -147,8 +147,49 @@ def build_category(cat, queries, idx):
     print(f"{cat}: +{added} (total {added + len(have)})")
 
 
+REVIEW_PROMPT = """Quality check for a shipping-news Instagram photo library. For EACH photo (category in brackets) answer:
+keep = true only if it is a real, sharp, attractive colour photograph that clearly shows its category subject.
+Reject maps, drawings, paintings, models/toys, logos, satellite images, blurry/dark/cluttered images, tiny subjects,
+and close-up portraits of identifiable people. score 1-10 = how good it looks full-screen.
+Return JSON only: {"photos":[{"i":0,"keep":true,"score":8}, ...]}"""
+
+
+def review_unscored(idx, limit_calls=40):
+    """Gemini check for photos collected without Gemini (score None). Deletes rejects."""
+    todo = [p for p in idx["photos"] if p.get("score") is None]
+    print("Unscored photos to review:", len(todo))
+    calls = 0
+    for start in range(0, len(todo), 24):
+        if calls >= limit_calls: break
+        batch = todo[start:start + 24]
+        parts = [REVIEW_PROMPT]
+        for i, p in enumerate(batch):
+            im = Image.open(os.path.join(ROOT, p["file"])).convert("RGB"); im.thumbnail((400, 400))
+            b = io.BytesIO(); im.save(b, "JPEG", quality=70)
+            parts += [f"Photo {i} [{p['category']}]: {p['title'][:70]}", types.Part.from_bytes(data=b.getvalue(), mime_type="image/jpeg")]
+        try:
+            r = ai._call(parts, temperature=0.1, budget_s=240); calls += 1
+        except Exception as ex:
+            print("  review stopped:", str(ex)[:150]); break
+        verdict = {int(x["i"]): x for x in r.get("photos", []) if "i" in x}
+        for i, p in enumerate(batch):
+            v = verdict.get(i)
+            if not v: continue
+            if v.get("keep") and int(v.get("score", 0)) >= 6:
+                p["score"] = int(v["score"])
+            else:
+                try: os.remove(os.path.join(ROOT, p["file"]))
+                except FileNotFoundError: pass
+                p["_drop"] = True
+        idx["photos"] = [p for p in idx["photos"] if not p.get("_drop")]
+        save_index(idx); commit("Photo library: Gemini review")
+        time.sleep(15)
+
+
 def main():
     idx = load_index()
+    if os.environ.get("REVIEW_ONLY") == "1":
+        review_unscored(idx); return
     t0 = time.time()
     for cat, qs in CATEGORIES.items():
         if time.time() - t0 > 5.3 * 3600: print("time limit reached"); break
