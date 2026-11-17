@@ -2,11 +2,19 @@
 import os, time, requests
 
 VER = os.environ.get("IG_API_VERSION", "v23.0")
-BASE = f"https://graph.instagram.com/{VER}"
+IG_USER_ID = os.environ.get("IG_USER_ID", "17841414943506881").strip()   # @jaimarineshorts
 
 
 def _token():
     return os.environ["IG_ACCESS_TOKEN"].strip()
+
+
+def _fb_token():
+    """Unified login / system-user tokens start with EAA and use the Facebook Graph host."""
+    return _token().startswith("EAA")
+
+
+BASE = f"https://graph.facebook.com/{VER}" if os.environ.get("IG_ACCESS_TOKEN", "").strip().startswith("EAA") else f"https://graph.instagram.com/{VER}"
 
 
 def _post(path, **params):
@@ -26,6 +34,9 @@ def _get(path, **params):
 
 
 def whoami():
+    if _fb_token():
+        me = _get(IG_USER_ID, fields="id,username")
+        return {"user_id": me["id"], "username": me.get("username")}
     return _get("me", fields="user_id,username")
 
 
