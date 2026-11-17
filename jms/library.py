@@ -54,7 +54,9 @@ def candidates(story, taken, n=6):
         if any(w in text for w in words): cats += cs
     cats = list(dict.fromkeys(cats))
     avoid = recently_used() | taken
-    pool = [p for p in photos if p["category"] in cats and p["file"] not in avoid]
+    # only photos that passed a quality review (Gemini score) or come from curated stock sites
+    pool = [p for p in photos if p["category"] in cats and p["file"] not in avoid
+            and (p.get("score") is not None or p.get("origin") in ("pexels", "pixabay"))]
     random.shuffle(pool)
     pool.sort(key=lambda p: (cats.index(p["category"]) // 2, -(p.get("score") or 6)))  # main type first, best first
     out = []

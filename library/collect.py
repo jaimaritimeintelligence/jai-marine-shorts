@@ -39,9 +39,9 @@ CATS = {
     "navy-escort": (["frigate", "destroyer warship", "naval vessel at sea"], ["frigate", "destroyer", "navy", "uss ", "hms ", "warship"]),
     "port-terminal": (["container terminal", "container port", "gantry crane port", "port cranes"], ["terminal", "port", "crane", "harbour", "harbor"]),
     "oil-terminal": (["oil terminal", "oil jetty", "tanker terminal", "oil storage tanks port"], ["oil", "terminal", "jetty", "refinery"]),
-    "lng-terminal": (["LNG terminal", "LNG plant", "FSRU"], ["lng", "fsru", "terminal"]),
-    "shipyard": (["shipyard", "ship under construction", "dry dock", "ship launch"], ["shipyard", "dock", "construction", "launch", "yard"]),
-    "seafarers": (["sailors on deck", "ship crew", "merchant seaman", "mooring lines ship", "deck crew"], ["crew", "sailor", "seam", "mooring", "deck"]),
+    "lng-terminal": (["LNG terminal", "LNG plant", "FSRU"], ["lng", "fsru"]),
+    "shipyard": (["shipyard", "ship under construction", "dry dock ship", "ship launch shipyard"], ["shipyard", "dry dock", "drydock", "floating dock", "under construction", "launch", "newbuilding"]),
+    "seafarers": (["ship crew on deck", "merchant seafarers", "mooring operation ship", "crew members ship deck"], ["seafarer", "seafarers", "crew", "mariner", "mariners", "mooring", "deckhand", "merchant navy"]),
     "ship-bridge": (["ship bridge", "wheelhouse", "ship navigation bridge"], ["bridge", "wheelhouse"]),
     "engine-room": (["ship engine room", "marine diesel engine", "engine control room"], ["engine"]),
     "canal-strait": (["Suez Canal ship", "Panama Canal ship", "Bosphorus ship", "Kiel Canal ship", "Strait of Gibraltar"], ["canal", "bosphorus", "bosporus", "strait"]),
@@ -60,8 +60,9 @@ CATS = {
     "lighthouse": (["lighthouse sea", "lighthouse ship"], ["lighthouse"]),
     "aerial-ship": (["aerial view ship", "drone view cargo ship", "aerial container ship"], ["aerial", "drone", "from above"]),
 }
-BAD = ("map", "logo", "diagram", "drawing", "flag of", "coat of arms", "chart", "plan ", "painting", "poster",
-       "model", "stamp", "postcard", "sketch", "lithograph", "engraving", "toy", "lego", "illustration", "render")
+BAD = ("map", "logo", "diagram", "drawing", "flag", "coat of arms", "chart", "plan", "painting", "poster", "butterfly",
+       "model", "stamp", "postcard", "sketch", "lithograph", "engraving", "toy", "lego", "illustration", "render",
+       "memorial", "plaque", "fish", "insect", "bird", "flower", "museum exhibit", "1800s", "battle")
 
 
 def now_utc(): return datetime.datetime.now(datetime.timezone.utc)
@@ -204,9 +205,9 @@ def collect_category(cat, idx, hashes):
     for c in cands:
         if c["url"] in seen or c["url"] in known: continue
         seen.add(c["url"])
-        text = (c["title"] + " " + c.get("tags", "")).lower()
-        if any(b in text for b in BAD): continue
-        if c["source"] in ("commons", "openverse") and not any(m in text for m in must): continue
+        text = " " + re.sub(r"[^a-z0-9]+", " ", (c["title"] + " " + c.get("tags", "")).lower()) + " "
+        if any(f" {b.strip()} " in text for b in BAD): continue
+        if c["source"] in ("commons", "openverse") and not any(f" {m.strip()} " in text for m in must): continue
         ranked.append(c)
     ranked.sort(key=lambda c: (not c["vetted"], c["source"] != "commons"))
     print(f"{cat}: {len(cands)} found, {len(ranked)} pass filters, need {need}")
