@@ -1,0 +1,165 @@
+{
+ "stories": [
+  {
+   "slot": 2,
+   "headline": "Brent edges up to [$92.6] on Riyadh attacks",
+   "summary": "Brent crude rose 59 cents, or 0.6%, to $92.57 a barrel on Friday morning, 20 Nov, and December WTI gained 0.5% to $83.63. Houthi missile attacks on Riyadh revived Middle East supply worries. Still, Brent is set for a 3.5% weekly fall as Hormuz crude shipments return to near pre-war levels.",
+   "sources": "Reuters, Gulf News",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "VLCC",
+    "queries": [
+     "VLCC tanker at sea",
+     "crude oil tanker underway",
+     "oil tanker at terminal"
+    ]
+   }
+  },
+  {
+   "slot": 3,
+   "headline": "Hormuz attacks [one a day] - 2 seafarers missing",
+   "summary": "Attacks on ships in the Strait of Hormuz are running at roughly one a day, with about 14 incidents so far in November, UKMTO says. At least two seafarers are missing after attacks this week. ADNOC says one crew member is still unaccounted for and 11 were injured on its tanker. Kuwait has told the IMO eight of its tankers were attacked.",
+   "sources": "gCaptain, Bloomberg, UKMTO",
+   "photo": {
+    "exact_subjects": [
+     "Strait of Hormuz"
+    ],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "oil tanker Strait of Hormuz",
+     "crude oil tanker at sea",
+     "tanker ship underway"
+    ]
+   }
+  },
+  {
+   "slot": 4,
+   "headline": "Bayesian report: crew [never knew wind risk]",
+   "summary": "Britain's MAIB says the 56-metre superyacht Bayesian's vulnerability to wind had never been assessed, so its crew were unaware of the risk. The yacht capsized and sank in about 18 minutes after a violent downburst off Porticello, Sicily, in August 2024. Seven people died, including tech tycoon Mike Lynch and his daughter Hannah.",
+   "sources": "gCaptain, Reuters",
+   "photo": {
+    "exact_subjects": [
+     "Bayesian",
+     "Porticello"
+    ],
+    "ship_type": "other",
+    "queries": [
+     "sailing superyacht at anchor",
+     "large sailing yacht mast",
+     "superyacht harbour Sicily"
+    ]
+   }
+  },
+  {
+   "slot": 5,
+   "headline": "Houston pilot faces [manslaughter charge] over collision",
+   "summary": "Ship pilot Darris Jefferson, 39, has been indicted on a federal seaman's manslaughter charge, the first case of its kind against a pilot. He was conning bulk carrier Yangze 7 when it hit towboat Miss Peggy in the Houston Ship Channel in July 2024. Deckhand Aquarius Lowman, 25, died. NTSB found a 39-minute phone call distracted him.",
+   "sources": "gCaptain, NTSB",
+   "photo": {
+    "exact_subjects": [
+     "Yangze 7",
+     "Houston Ship Channel"
+    ],
+    "ship_type": "bulk carrier",
+    "queries": [
+     "bulk carrier Houston Ship Channel",
+     "bulk carrier underway river",
+     "bulk carrier ship at sea"
+    ]
+   }
+  },
+  {
+   "slot": 6,
+   "headline": "LA-Long Beach port strike [could start Saturday]",
+   "summary": "About 250 port security workers of ILWU Local 26 could walk off the job from 12:01 a.m. Saturday, 21 Nov, when their contract extension ends. Their six terminals handle about 85% of Long Beach cargo and 33% of Los Angeles cargo. Other dockworkers are expected to honour picket lines. Talks resume on Friday.",
+   "sources": "gCaptain, PMA",
+   "photo": {
+    "exact_subjects": [
+     "Port of Long Beach",
+     "Port of Los Angeles"
+    ],
+    "ship_type": "port",
+    "queries": [
+     "Port of Long Beach container terminal",
+     "Port of Los Angeles cranes",
+     "container port terminal cranes"
+    ]
+   }
+  },
+  {
+   "slot": 7,
+   "headline": "Samsung to build [nuclear-powered LNG carrier]",
+   "summary": "Samsung Heavy Industries and Norway's Tesser Atomics signed an exclusive deal on 19 Nov to develop the first nuclear-powered LNG carrier. It would use Tesser's Triton salt-cooled reactor with TRISO fuel. The demonstration ship is expected to trade commercially between the United States and Europe. No size, price or delivery date was given.",
+   "sources": "Splash247, GlobeNewswire",
+   "photo": {
+    "exact_subjects": [
+     "Samsung Heavy Industries"
+    ],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier at sea",
+     "LNG tanker membrane",
+     "LNG carrier shipyard"
+    ]
+   }
+  },
+  {
+   "slot": 8,
+   "headline": "US LNG ships [U-turn to Europe] as prices rise",
+   "summary": "More US LNG cargoes are diverting to Europe as the market there tightens, ship-tracking by Kpler shows. Al Qassar turned west from Egypt's Port Said and Amaryllis Knutsen made a U-turn near Egypt. Two other US-loaded ships turned north from Asia. Asian LNG now trades at a discount to European prices.",
+   "sources": "gCaptain, Bloomberg, Kpler",
+   "photo": {
+    "exact_subjects": [
+     "Al Qassar",
+     "Amaryllis Knutsen"
+    ],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier underway",
+     "LNG tanker at sea",
+     "Moss LNG carrier"
+    ]
+   }
+  },
+  {
+   "slot": 9,
+   "headline": "TEN posts [record $403m] profit, doubles dividend",
+   "summary": "Greek tanker owner TEN Ltd reported record nine-month net income of $403 million, up 355%, on revenues of $851 million. Third-quarter profit was $174.5 million. It doubled its next semi-annual dividend to $1.00 a share. TEN booked $94 million gains from selling four ships and has a 20-vessel newbuilding programme.",
+   "sources": "GlobeNewswire",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "product tanker",
+    "queries": [
+     "Aframax tanker at sea",
+     "product tanker underway",
+     "shuttle tanker at sea"
+    ]
+   }
+  },
+  {
+   "slot": 10,
+   "headline": "Samsung Heavy wins [$245m] LNG carrier order",
+   "summary": "Samsung Heavy Industries won an order for one LNG carrier worth 342.4 billion won, about $245 million, from a shipowner in Oceania, for delivery by July 2029. The yard has now taken 49 ships worth $12.7 billion this year, 91% of its annual target, including 21 LNG carriers.",
+   "sources": "Cyprus Shipping News, Business Korea",
+   "photo": {
+    "exact_subjects": [
+     "Samsung Heavy Industries"
+    ],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier newbuilding shipyard",
+     "LNG carrier sea trials",
+     "LNG carrier at sea"
+    ]
+   }
+  }
+ ],
+ "caption": "Everything that happened in the shipping industry in the last 24 hours (20 Nov 2026) 🚢\n\n1. Brent edges up to $92.6 on Riyadh attacks\n2. Hormuz attacks one a day - 2 seafarers missing\n3. Bayesian report: crew never knew wind risk\n4. Houston pilot faces manslaughter charge over collision\n5. LA-Long Beach port strike could start Saturday\n6. Samsung to build nuclear-powered LNG carrier\n7. US LNG ships U-turn to Europe as prices rise\n8. TEN posts record $403m profit, doubles dividend\n9. Samsung Heavy wins $245m LNG carrier order\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #StraitOfHormuz #maritimesafety #superyacht #portstrike #shipbuilding #LNGcarrier #nuclearshipping #shippingnews #jaimarineshorts",
+ "song": {
+  "title": "Tu Mil Jaaye",
+  "artist": "Arijit Singh, Madhubanti Bagchi & Ed Sheeran (Sachin-Jigar)",
+  "language": "Hindi",
+  "start": "0:50",
+  "why": "SRK's 'King' song still dominating Indian charts and Reels this week after crossing 100M plays"
+ }
+}
