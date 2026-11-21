@@ -1,0 +1,166 @@
+{
+ "stories": [
+  {
+   "slot": 2,
+   "headline": "Brent ends week at [$92.57] - third weekly loss",
+   "summary": "Brent crude settled at $92.57 a barrel on Friday, 20 Nov, up 0.6% on the day, and December WTI closed at $83.98, up 0.9%. Reports of a tanker fire near Hormuz lifted prices. But Brent fell 3.4% over the week, its third weekly loss, as the IEA says global supply is back in surplus. OPEC+ meets on 29 Nov.",
+   "sources": "EnergyNow, FinanceFeeds, Reuters",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "VLCC",
+    "queries": [
+     "VLCC tanker at sea",
+     "crude oil tanker underway",
+     "oil tanker at terminal"
+    ]
+   }
+  },
+  {
+   "slot": 3,
+   "headline": "Tanker hit off Khasab - [fire, crew safe]",
+   "summary": "An outbound tanker was struck on its port bow by an unknown projectile on Friday, 20 Nov, about 8 nm north of Khasab, Oman, UKMTO said. A fire broke out, but no casualties or pollution were reported. Iran's IRGC claims the tanker hit a mine - not confirmed. Four tankers have been hit near Khasab in three days.",
+   "sources": "UKMTO, gCaptain, Reuters",
+   "photo": {
+    "exact_subjects": [
+     "Strait of Hormuz",
+     "Khasab"
+    ],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "oil tanker Strait of Hormuz",
+     "crude oil tanker at sea",
+     "tanker ship Persian Gulf"
+    ]
+   }
+  },
+  {
+   "slot": 4,
+   "headline": "Bulker MIRO G grounds in France - [19 crew airlifted]",
+   "summary": "The Maltese-flagged bulk carrier MIRO G, 28,200 dwt, ran aground near Lit-et-Mixe in southwest France just after midnight on 20 Nov. Gusts of 48 knots dragged her anchor. An Air Force helicopter lifted 19 of the 22 crew to safety; the captain and two others stayed aboard. She has over 100 tonnes of diesel, but no pollution so far.",
+   "sources": "gCaptain",
+   "photo": {
+    "exact_subjects": [
+     "MIRO G",
+     "Lit-et-Mixe"
+    ],
+    "ship_type": "bulk carrier",
+    "queries": [
+     "bulk carrier aground on beach",
+     "bulk carrier ship",
+     "stranded cargo ship coast"
+    ]
+   }
+  },
+  {
+   "slot": 5,
+   "headline": "Houthis threaten Jeddah - [ships told to leave]",
+   "summary": "Houthi spokesman Yahya Saree said on 20 Nov that Jeddah and all Saudi Red Sea ports will become targets if the Saudi-led coalition strikes Hodeidah. He urged shipping companies to move their ships away. The coalition says it has begun a targeted operation and hit Houthi capabilities at Hodeidah port. No attack on a Saudi port is confirmed.",
+   "sources": "Al Jazeera, Reuters",
+   "photo": {
+    "exact_subjects": [
+     "Jeddah Islamic Port",
+     "Red Sea"
+    ],
+    "ship_type": "port",
+    "queries": [
+     "Jeddah Islamic Port",
+     "container port Red Sea",
+     "port cranes container terminal"
+    ]
+   }
+  },
+  {
+   "slot": 6,
+   "headline": "Gunmen fire on bulker off Yemen - [guards shoot back]",
+   "summary": "Six armed men fired four shots at an eastbound bulk carrier about 95 nm southwest of Al Mukalla, Yemen, on Friday. The ship's security team fired warning shots and there were no injuries or damage. Orbital Risk Intelligence counted 15 attacks and piracy incidents worldwide in seven days - up 50% and the highest weekly total since mid-October.",
+   "sources": "gCaptain",
+   "photo": {
+    "exact_subjects": [
+     "Gulf of Aden"
+    ],
+    "ship_type": "bulk carrier",
+    "queries": [
+     "bulk carrier at sea",
+     "bulk carrier Gulf of Aden",
+     "cargo ship underway open sea"
+    ]
+   }
+  },
+  {
+   "slot": 7,
+   "headline": "Manila seeks [warlike zone] for Black Sea",
+   "summary": "The Philippines will seek an international review to declare the southwestern Black Sea a high-risk or warlike zone, Migrant Workers Secretary Hans Leo Cacdac said. It follows the suspected drone strike on LPG tanker Gas Husky, which sank off Bulgaria. All 19 Filipino crew were rescued by a Bulgarian helicopter; two had minor injuries. They await repatriation from Varna.",
+   "sources": "Daily Tribune, Inquirer",
+   "photo": {
+    "exact_subjects": [
+     "Gas Husky",
+     "Varna",
+     "Black Sea"
+    ],
+    "ship_type": "LPG carrier",
+    "queries": [
+     "LPG tanker at sea",
+     "gas carrier ship",
+     "Black Sea ship"
+    ]
+   }
+  },
+  {
+   "slot": 8,
+   "headline": "US LNG exports hit [40 cargoes] in a week",
+   "summary": "US LNG plants shipped 40 cargoes in the week to 18 Nov, up three from the week before, EIA data shows. LNG Prime says export capacity and ship departures both hit record highs. At the same time, Atlantic and Pacific spot LNG carrier rates fell for a second straight week, according to Spark Commodities.",
+   "sources": "LNG Prime, EIA",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier at sea",
+     "LNG tanker loading terminal",
+     "liquefied natural gas carrier"
+    ]
+   }
+  },
+  {
+   "slot": 9,
+   "headline": "COSCO orders [16 VLCCs] worth $2bn",
+   "summary": "COSCO Shipping Development has ordered 16 VLCCs of 307,000 dwt from China State Shipbuilding Group, worth CNY13.43 billion (US$2.01 billion), or about CNY839 million each. The methanol- and LNG-ready tankers will be built at Dalian Shipbuilding, with delivery from late 2029 to 2030.",
+   "sources": "Baird Maritime",
+   "photo": {
+    "exact_subjects": [
+     "Dalian Shipbuilding"
+    ],
+    "ship_type": "VLCC",
+    "queries": [
+     "VLCC tanker newbuilding",
+     "very large crude carrier at sea",
+     "shipyard China tanker"
+    ]
+   }
+  },
+  {
+   "slot": 10,
+   "headline": "Foresight orders [4 gas carriers] at HD Hyundai",
+   "summary": "UAE's Foresight Group has ordered four 90,000 cbm LPG/ammonia carriers from HD Hyundai Heavy Industries, worth an estimated US$470 million, for delivery in 2029-2030. They are the first of a planned 10-ship programme worth about $1.2 billion. Foresight runs seven VLGCs carrying US LPG for Indian state oil companies.",
+   "sources": "Baird Maritime",
+   "photo": {
+    "exact_subjects": [
+     "HD Hyundai Heavy Industries"
+    ],
+    "ship_type": "LPG carrier",
+    "queries": [
+     "LPG carrier at sea",
+     "VLGC gas carrier",
+     "LPG tanker ship"
+    ]
+   }
+  }
+ ],
+ "caption": "Everything that happened in the shipping industry in the last 24 hours (21 Nov 2026) 🚢\n\n1. Brent ends week at $92.57 - third weekly loss\n2. Tanker hit off Khasab - fire, crew safe\n3. Bulker MIRO G grounds in France - 19 crew airlifted\n4. Houthis threaten Jeddah - ships told to leave\n5. Gunmen fire on bulker off Yemen - guards shoot back\n6. Manila seeks warlike zone for Black Sea\n7. US LNG exports hit 40 cargoes in a week\n8. COSCO orders 16 VLCCs worth $2bn\n9. Foresight orders 4 gas carriers at HD Hyundai\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #StraitOfHormuz #RedSea #BlackSea #maritimesafety #VLCC #LPG #shipbuilding #piracy #shippingnews #jaimarineshorts",
+ "song": {
+  "title": "Saajan Saajan Teri Dulhan",
+  "artist": "Alka Yagnik (film Aarzoo)",
+  "language": "Hindi",
+  "start": "0:00",
+  "why": "Its opening hook powers the viral 'Desi Batman' reels by Sujal Jaiswal, all over Indian news and Instagram this week"
+ }
+}
