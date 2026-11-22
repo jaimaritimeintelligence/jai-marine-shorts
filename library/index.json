@@ -7110,7 +7110,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/CATALUNYA_SPIRIT_LNG_Tanker_in_Boston_Inner_Harbor_View_From_Fan_Pier.jpg/1920px-CATALUNYA_SPIRIT_LNG_Tanker_in_Boston_Inner_Harbor_View_From_Fan_Pier.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 35,
     "bright": 146,
@@ -7122,66 +7122,6 @@
    "h": 960
   },
   {
-   "file": "photos/lng-carrier/madison-maersk-lng-tanker-al-sahla-1666464921-b06869.jpg",
-   "category": "lng-carrier",
-   "title": "MADISON MAERSK & LNG tanker AL SAHLA (16664649214).jpg",
-   "credit": "kees torn / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:MADISON_MAERSK_%26_LNG_tanker_AL_SAHLA_(16664649214).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MADISON_MAERSK_%26_LNG_tanker_AL_SAHLA_%2816664649214%29.jpg/1920px-MADISON_MAERSK_%26_LNG_tanker_AL_SAHLA_%2816664649214%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 50,
-    "bright": 156,
-    "contrast": 43,
-    "sharp": 2445
-   },
-   "hash": "1111111111111111111111111111111111111111111111101111111111111001111111111111111111111101111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000001000111110111100000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 602
-  },
-  {
-   "file": "photos/lng-carrier/one-layer-of-a-lng-carrier-membrane-jpg-384b46.jpg",
-   "category": "lng-carrier",
-   "title": "One layer of a LNG carrier membrane.jpg",
-   "credit": "Herry Lawford from London, UK / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:One_layer_of_a_LNG_carrier_membrane.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/One_layer_of_a_LNG_carrier_membrane.jpg/1920px-One_layer_of_a_LNG_carrier_membrane.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 38,
-    "bright": 130,
-    "contrast": 68,
-    "sharp": 2388
-   },
-   "hash": "0000000000001111000000000000101100000000000001110000000000000001110000000000001111110000000000111111100100000001111111111001000111111111111110011111111111111111111111111111000111111111111100011110111101110001110001110010000010011110000000000110000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/lng-carrier/protest-against-lng-on-sellin-s-dstrand-with-0e4114.jpg",
-   "category": "lng-carrier",
-   "title": "Protest against LNG on Sellin Südstrand with LNG tanker behind 2023-05-28 04.jpg",
-   "credit": "Leonhard Lenz / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_04.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_04.jpg/1920px-Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_04.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 92,
-    "bright": 121,
-    "contrast": 50,
-    "sharp": 2521
-   },
-   "hash": "0000111111111111000001111111111100000111111111111111111111111111111111111111111111111111111111111000000110000000100000001000000011111111111111000011111111101100001111001110010000011111111111110011111111111100000000000000000011000000000000000111111111000000",
-   "w": 1280,
-   "h": 857
-  },
-  {
    "file": "photos/lng-carrier/shell-lng-tanker-cardissa-37640300821-jpg-cef2a6.jpg",
    "category": "lng-carrier",
    "title": "Shell LNG tanker CARDISSA (37640300821).jpg",
@@ -7190,7 +7130,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shell_LNG_tanker_CARDISSA_%2837640300821%29.jpg/1920px-Shell_LNG_tanker_CARDISSA_%2837640300821%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 42,
     "bright": 139,
@@ -7202,126 +7142,6 @@
    "h": 635
   },
   {
-   "file": "photos/lng-carrier/protest-against-lng-on-sellin-s-dstrand-with-90472b.jpg",
-   "category": "lng-carrier",
-   "title": "Protest against LNG on Sellin Südstrand with LNG tanker behind 2023-05-28 02.jpg",
-   "credit": "Leonhard Lenz / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_02.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_02.jpg/1920px-Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_02.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 97,
-    "bright": 125,
-    "contrast": 44,
-    "sharp": 706
-   },
-   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111110011111101111111111111101101111111100000010000000000000001100000000111111111111010011111111110011001111110011101100111110011110011111111111111101001111111111111100",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/lng-carrier/protest-against-lng-on-sellin-s-dstrand-with-3f20c9.jpg",
-   "category": "lng-carrier",
-   "title": "Protest against LNG on Sellin Südstrand with LNG tanker behind 2023-05-28 03.jpg",
-   "credit": "Leonhard Lenz / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_03.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_03.jpg/1920px-Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_03.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 95,
-    "bright": 130,
-    "contrast": 48,
-    "sharp": 1182
-   },
-   "hash": "0001111111111111000001111111111100000011111111110000011111111111111111111111111111111111111111111111111111111111000001000100000000000000000000000111110111000000111111111111100011111111110110000111100011001011011111111111111101111111111110010000000000000001",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/lng-carrier/protest-against-lng-on-sellin-s-dstrand-with-36419c.jpg",
-   "category": "lng-carrier",
-   "title": "Protest against LNG on Sellin Südstrand with LNG tanker behind 2023-05-28 06.jpg",
-   "credit": "Leonhard Lenz / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_06.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_06.jpg/1920px-Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_06.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 180,
-    "bright": 110,
-    "contrast": 39,
-    "sharp": 2059
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000110010000000000001010000000000000111000000000000001100000000000000110000000000000011100000000000010110000000000001001100000",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/lng-carrier/protest-against-lng-on-sellin-s-dstrand-with-777d79.jpg",
-   "category": "lng-carrier",
-   "title": "Protest against LNG on Sellin Südstrand with LNG tanker behind 2023-05-28 09.jpg",
-   "credit": "Leonhard Lenz / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_09.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_09.jpg/1920px-Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_09.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 115,
-    "bright": 119,
-    "contrast": 47,
-    "sharp": 848
-   },
-   "hash": "0000100000000000001110000001001111111000100111111111000111001111111100011110001111110011101000111110001111100011110000101101000000000000000000000000000000000010000000000000000000000000000000001011111111011110111111111111111111111111111111111010011100011111",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/lng-carrier/protest-against-lng-on-sellin-s-dstrand-with-a2e95c.jpg",
-   "category": "lng-carrier",
-   "title": "Protest against LNG on Sellin Südstrand with LNG tanker behind 2023-05-28 10.jpg",
-   "credit": "Leonhard Lenz / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_10.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_10.jpg/1920px-Protest_against_LNG_on_Sellin_S%C3%BCdstrand_with_LNG_tanker_behind_2023-05-28_10.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 109,
-    "bright": 123,
-    "contrast": 46,
-    "sharp": 732
-   },
-   "hash": "0011110001111110111111000000000011111000010111111111100111011111111110011100011111110011111000011111001110100011111001101111001100000000000000000000000000000010000000000000000000000000000000000001111110011010111111111111111111111111111011111011011110101001",
-   "w": 1280,
-   "h": 857
-  },
-  {
-   "file": "photos/lpg-carrier/bulk-carrier-aktea-r-and-lpg-tanker-quebec-at-d0e4df.jpg",
-   "category": "lpg-carrier",
-   "title": "Bulk carrier Aktea R and LPG Tanker Quebec at Kwinana Bulk Jetty, August 2021 02.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Bulk_carrier_Aktea_R_and_LPG_Tanker_Quebec_at_Kwinana_Bulk_Jetty,_August_2021_02.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bulk_carrier_Aktea_R_and_LPG_Tanker_Quebec_at_Kwinana_Bulk_Jetty%2C_August_2021_02.jpg/1920px-Bulk_carrier_Aktea_R_and_LPG_Tanker_Quebec_at_Kwinana_Bulk_Jetty%2C_August_2021_02.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 90,
-    "bright": 154,
-    "contrast": 46,
-    "sharp": 1585
-   },
-   "hash": "1000000001111111000000111111111100000111111111110001111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111111111001111111111111100000000001100000000000000000000000000000000000000000000000100000111111111111111111111111011",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/lpg-carrier/lpg-tanker-quebec-leaving-bp-oil-refinery-jet-538ccf.jpg",
    "category": "lpg-carrier",
    "title": "LPG tanker Quebec leaving BP Oil Refinery Jetty, Kwinana, November 2021 01.jpg",
@@ -7330,7 +7150,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LPG_tanker_Quebec_leaving_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2021_01.jpg/1920px-LPG_tanker_Quebec_leaving_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2021_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 68,
     "bright": 152,
@@ -7350,7 +7170,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LPG_tanker_Quebec_leaving_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2021_03.jpg/1920px-LPG_tanker_Quebec_leaving_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2021_03.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 68,
     "bright": 163,
@@ -7370,7 +7190,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LPG_tanker_Quebec_leaving_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2021_06.jpg/1920px-LPG_tanker_Quebec_leaving_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2021_06.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 70,
     "bright": 165,
@@ -7390,7 +7210,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LPG_tanker_Run_Far_in_waters_off_Peng_Chau%2C_Hong_Kong_2019-10-22.jpg/1920px-LPG_tanker_Run_Far_in_waters_off_Peng_Chau%2C_Hong_Kong_2019-10-22.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 26,
     "bright": 137,
@@ -7402,166 +7222,6 @@
    "h": 929
   },
   {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-cce967.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 01.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_01.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_01.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 111,
-    "bright": 119,
-    "contrast": 53,
-    "sharp": 5552
-   },
-   "hash": "1111110111111111111111110111011111111110011101111111111001111111011111001111111101111101111111110011101111111111000110101111110000001001111010000000001111000000000000000001001100000000000110000010000001111010000000000101000000001000000010001111111111111011",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-f5d77f.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 02.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_02.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_02.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_02.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 98,
-    "bright": 114,
-    "contrast": 47,
-    "sharp": 5064
-   },
-   "hash": "1111111111111111111111111111111111111111001111111111111100111110111111100011011000111110111111100011110111111111001111011111111100011111111110110000101111111000000000100000000000000000000000010011000000100000000000000010000010000010000011001111110010001101",
-   "w": 1280,
-   "h": 722
-  },
-  {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-f9546b.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 03.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_03.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_03.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_03.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 87,
-    "bright": 138,
-    "contrast": 68,
-    "sharp": 5436
-   },
-   "hash": "1111111101111111111111100111111111111110111111111111110111111111011111011111111100111011111111110011101111111111000111111111100000000111011100000000010000000000000000000000000000000000001000000100000000100000000000000000110000001000000010000111000001111001",
-   "w": 1280,
-   "h": 722
-  },
-  {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-f90d87.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 04.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_04.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_04.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_04.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 87,
-    "bright": 118,
-    "contrast": 66,
-    "sharp": 6121
-   },
-   "hash": "1111011111111111111101111111111111101111111111110110111111011111000011111000011101001111000000000000111000000000000000000000001000000000000000111000100000001111100000000000111000000000000010000001100000001110010110000000000011100000100000010111000010111111",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-0768cc.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 05.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_05.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_05.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_05.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 95,
-    "bright": 121,
-    "contrast": 53,
-    "sharp": 4969
-   },
-   "hash": "1111111111111111111111111111111111111111101111101111111100111100011111110111110001111110111111000111111011111110001111111111111000111101111110010001000100000000000000000001100000000000000010000001000000000000000000000000000000000100010000111111101111000011",
-   "w": 1280,
-   "h": 722
-  },
-  {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-65e158.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 07.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_07.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_07.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_07.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 83,
-    "bright": 124,
-    "contrast": 54,
-    "sharp": 5593
-   },
-   "hash": "1111111111110011001111111111111110111111111111111001111111101111000011110110111100000111111111000001011110110000001110010011000000110000001100000001000000110000001100000000000011111001000000001111100111110000000110011100111000111001111111111100000111111010",
-   "w": 1280,
-   "h": 722
-  },
-  {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-d4c577.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 08.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_08.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_08.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_08.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 95,
-    "bright": 114,
-    "contrast": 55,
-    "sharp": 5350
-   },
-   "hash": "0100000001111111111111111011111111111000001111111110000110111111111011111001111100111111110111111111111111011110111000011100000001000001111000001000001111110000000000011111100000000000011110000100001000111000010110000001100011100000000010000000000000000100",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/lpg-carrier/lpg-tanker-recovery-at-thalassery-by-shagil-k-031cea.jpg",
-   "category": "lpg-carrier",
-   "title": "LPG tanker recovery at Thalassery by Shagil Kannur 09.jpg",
-   "credit": "Shagil Kannur / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_09.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_09.jpg/1920px-LPG_tanker_recovery_at_Thalassery_by_Shagil_Kannur_09.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 79,
-    "bright": 110,
-    "contrast": 68,
-    "sharp": 4573
-   },
-   "hash": "1101000001100110111100001110110011100001111111001100000111110111000000111110000000000111111000110000000111100011000000011110010100100011111000000110000011000000000000001100000000000100110000001000011011000010100001000111111011001101011101111100100001100011",
-   "w": 1280,
-   "h": 720
-  },
-  {
    "file": "photos/lpg-carrier/mooring-of-the-lpg-tanker-bw-cedar-at-the-kwi-5b8805.jpg",
    "category": "lpg-carrier",
    "title": "Mooring of the LPG Tanker BW Cedar at the Kwinana Bulk Terminal, September 2020 01.jpg",
@@ -7570,7 +7230,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mooring_of_the_LPG_Tanker_BW_Cedar_at_the_Kwinana_Bulk_Terminal%2C_September_2020_01.jpg/1920px-Mooring_of_the_LPG_Tanker_BW_Cedar_at_the_Kwinana_Bulk_Terminal%2C_September_2020_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 44,
     "bright": 139,
