@@ -1,0 +1,165 @@
+{
+  "stories": [
+    {
+      "slot": 2,
+      "headline": "Brent slips to [$91.97] as Hormuz attacks continue",
+      "summary": "Brent fell 0.65% to $91.97 a barrel and WTI fell 0.59% to $82.92 on Monday morning. Oversupply worries are weighing on prices. Weekend ship attacks in the Gulf near Hormuz, reported by UKMTO, limited the fall. Brent lost 4% last week. OPEC+ ministers meet on 29 November to discuss 2027 output.",
+      "sources": "Reuters, Amwal Al Ghad",
+      "photo": {
+        "exact_subjects": [],
+        "ship_type": "crude oil tanker",
+        "queries": [
+          "crude oil tanker at sea",
+          "VLCC tanker underway",
+          "oil tanker loading terminal"
+        ]
+      }
+    },
+    {
+      "slot": 3,
+      "headline": "Sea drones strike Russian ships in [Benghazi port]",
+      "summary": "Eastern Libya's government says a suspected sea drone attack hit a Russian vessel at Benghazi naval base, causing an explosion and a brief fire. Reuters says an unknown number of people were injured. Maritime Executive reports the corvette Merkury was seen on its side and cargo ship Ascalon was also attacked - not officially confirmed. Nobody has claimed it.",
+      "sources": "Al Jazeera, Maritime Executive, Reuters",
+      "photo": {
+        "exact_subjects": [
+          "Benghazi port",
+          "Merkury"
+        ],
+        "ship_type": "naval",
+        "queries": [
+          "Russian navy corvette",
+          "Benghazi harbour Libya",
+          "warship in port"
+        ]
+      }
+    },
+    {
+      "slot": 4,
+      "headline": "Search on for [missing Jordanian sailor] after Hormuz strike",
+      "summary": "The UAE and Oman are searching for a Jordanian seafarer missing after an ADNOC Logistics tanker was attacked in the Strait of Hormuz. The National says 11 crew were injured and the rest evacuated. JMIC says seven oil tankers have been hit since 16 November, three near Oman on 20-21 November. Iran's mine claims are not confirmed.",
+      "sources": "Gulf News, The National, UKMTO",
+      "photo": {
+        "exact_subjects": [
+          "Strait of Hormuz"
+        ],
+        "ship_type": "crude oil tanker",
+        "queries": [
+          "oil tanker Strait of Hormuz",
+          "tanker at sea Persian Gulf",
+          "Khasab Musandam coast"
+        ]
+      }
+    },
+    {
+      "slot": 5,
+      "headline": "Fire on OceanJet 168 - [326 passengers rescued]",
+      "summary": "Around 326 passengers were rescued after a fire broke out on the fast craft OceanJet 168 in the Philippines. The ferry was sailing from Cebu Port to Ormoc Port. The Philippine Red Cross said the fire was brought under control and passengers moved to a rescue vessel. The Coast Guard is towing the craft back to Cebu.",
+      "sources": "Daily Tribune, Philippine Red Cross",
+      "photo": {
+        "exact_subjects": [
+          "OceanJet",
+          "Cebu Port"
+        ],
+        "ship_type": "other",
+        "queries": [
+          "fast ferry Philippines",
+          "passenger fast craft Cebu",
+          "high speed ferry at sea"
+        ]
+      }
+    },
+    {
+      "slot": 6,
+      "headline": "IMO backs [Red Sea coastguard task force] against piracy",
+      "summary": "The IMO has endorsed a coastguard-led task force of about 22 nations against piracy and smuggling in the Red Sea, Gulf of Aden and West Indian Ocean. Members include Saudi Arabia, Djibouti and Yemen. Houthi attacks were cited as a cause of renewed piracy. IMO's Damien Chevallier said there is no price on the life of any seafarer.",
+      "sources": "The National, IMO",
+      "photo": {
+        "exact_subjects": [
+          "Red Sea",
+          "Gulf of Aden"
+        ],
+        "ship_type": "naval",
+        "queries": [
+          "coast guard patrol vessel at sea",
+          "Red Sea merchant ship",
+          "Gulf of Aden patrol ship"
+        ]
+      }
+    },
+    {
+      "slot": 7,
+      "headline": "US ports face [thousands of cyber attacks] daily",
+      "summary": "Hackers are running a growing campaign against US ports and cargo ships, with thousands of attempted attacks each day, the Financial Times reports. A wave of breaches has hit ports, oil tankers and shipping firms. The attackers are described as cybercriminals and groups linked to hostile states. No victims were named in the report.",
+      "sources": "Financial Times, Political Wire",
+      "photo": {
+        "exact_subjects": [],
+        "ship_type": "port",
+        "queries": [
+          "container port cranes at night",
+          "container terminal port",
+          "container ship at port"
+        ]
+      }
+    },
+    {
+      "slot": 8,
+      "headline": "MISC books [five LNG carriers] at Hudong-Zhonghua",
+      "summary": "GTT has won the tank design order for five new LNG carriers from China's Hudong-Zhonghua Shipbuilding. The owner is Malaysia's MISC. Each ship will carry 174,000 cubic metres using GTT's NO96 Super+ membrane system. Deliveries are planned between late 2029 and the third quarter of 2030. No contract price was given.",
+      "sources": "Cyprus Shipping News, GTT",
+      "photo": {
+        "exact_subjects": [
+          "MISC",
+          "Hudong-Zhonghua"
+        ],
+        "ship_type": "LNG carrier",
+        "queries": [
+          "LNG carrier at sea",
+          "membrane LNG carrier",
+          "LNG tanker underway"
+        ]
+      }
+    },
+    {
+      "slot": 9,
+      "headline": "Gulf Energy Maritime tied to [four LR1 tankers]",
+      "summary": "Dubai's Gulf Energy Maritime is reported to have ordered up to four 74,000 dwt LR1 product tankers at K Shipbuilding's Jinhae yard. Market sources put the deal at about $264m, or $66m each, with delivery around 2029. The yard has not named the buyer, so GEM's role is not confirmed. GEM already has 10 ships on order.",
+      "sources": "IndexBox, Splash247",
+      "photo": {
+        "exact_subjects": [
+          "K Shipbuilding"
+        ],
+        "ship_type": "product tanker",
+        "queries": [
+          "LR1 product tanker",
+          "product tanker at sea",
+          "oil products tanker underway"
+        ]
+      }
+    },
+    {
+      "slot": 10,
+      "headline": "SCI tenders [22 ships worth $3.2bn]",
+      "summary": "Shipping Corporation of India has issued a tender for 22 ships worth up to $3.2 billion. It covers eight 88,000 cbm VLGCs for IOC, BPCL and HPCL, twelve container ships and two 155,000 dwt Suezmax tankers. Foreign yards must invest in India or share technology to qualify. It is a tender, not yet a contract.",
+      "sources": "Splash247, New-Ships",
+      "photo": {
+        "exact_subjects": [
+          "Shipping Corporation of India"
+        ],
+        "ship_type": "LPG carrier",
+        "queries": [
+          "VLGC LPG carrier at sea",
+          "LPG gas carrier",
+          "Suezmax tanker"
+        ]
+      }
+    }
+  ],
+  "caption": "Everything that happened in the shipping industry in the last 24 hours (23 Nov 2026) 🚢\n\n1. Brent slips to $91.97 as Hormuz attacks continue\n2. Sea drones strike Russian ships in Benghazi port\n3. Search on for missing Jordanian sailor after Hormuz strike\n4. Fire on OceanJet 168 - 326 passengers rescued\n5. IMO backs Red Sea coastguard task force against piracy\n6. US ports face thousands of cyber attacks daily\n7. MISC books five LNG carriers at Hudong-Zhonghua\n8. Gulf Energy Maritime tied to four LR1 tankers\n9. SCI tenders 22 ships worth $3.2bn\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #StraitOfHormuz #RedSea #maritimesecurity #cybersecurity #shipbuilding #LNGcarrier #seafarerlife #marinenews #jaimarineshorts",
+  "song": {
+    "title": "November",
+    "artist": "Past Day",
+    "language": "English (instrumental feel)",
+    "start": "0:00",
+    "why": "Rising on Reels this week (~142K reels, SocialPilot/CreatorDB) for November dumps - its top viral reel is a dip in the Irish Sea"
+  }
+}
