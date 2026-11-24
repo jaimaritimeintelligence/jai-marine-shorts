@@ -1,0 +1,184 @@
+{
+ "day": "2026-11-24",
+ "caption": "Everything that happened in the shipping industry in the last 24 hours (24 Nov 2026) 🚢\n\n1. Brent slides below $90 on US-Iran deal hopes\n2. Hormuz ship attacks hit highest level of the war\n3. US probes cyber attacks on 50 tankers\n4. Drone-hit Sparta II burns - 16 crew evacuated\n5. Costa Concordia captain released from prison\n6. Samsung plans nuclear-powered LNG carrier\n7. UK removes LNG carrier from Russia sanctions list\n8. Aegean adds two ice-class LR2s at COSCO\n9. Petronas names third FLNG PFLNG Tiga\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #straitofhormuz #shippingnews #lngcarrier #shipbuilding #maritimesecurity #cybersecurity #sailorlife #oceanlife #jaimarineshorts",
+ "stories": [
+  {
+   "slot": 2,
+   "headline": "Brent slides [below $90] on US-Iran deal hopes",
+   "summary": "Brent crude traded near $89 a barrel on Tuesday, down about 0.4%, after falling 3.5% on Monday. WTI was near $80. Traders are weighing a possible US-Iran deal as US Vice President JD Vance holds talks with Qatar's prime minister. Goldman Sachs still raised its December Brent forecast to $105.",
+   "sources": "Kotak Neo, Arbiterz, Oilprice.com",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "crude oil tanker at sea",
+     "VLCC tanker underway",
+     "oil tanker loading terminal"
+    ]
+   },
+   "photo_credit": "Representative · Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/vlcc/white-trader-crude-oil-tanker-bosphorus-strait-ist-b24172.jpg"
+  },
+  {
+   "slot": 3,
+   "headline": "Hormuz ship attacks hit [highest level] of the war",
+   "summary": "UKMTO data shows more than 30 attacks on ships in October, the highest month since the war began, and at least 22 in November up to 22 November. Tankers TORKEL and ARINA were hit near Khasab, Oman, on 20-21 November. JMIC counts seven tankers struck since 16 November and rates the threat as severe.",
+   "sources": "Gulf News, Beinsure, CNN",
+   "photo": {
+    "exact_subjects": [
+     "Strait of Hormuz",
+     "Khasab"
+    ],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "oil tanker Strait of Hormuz",
+     "tanker Musandam Oman coast",
+     "crude oil tanker at sea"
+    ]
+   },
+   "photo_credit": "Representative · Frans Berkelaar / Wikimedia Commons (CC BY 2.0)",
+   "library_file": "photos/crude-tanker/chemical-oil-products-tanker-stolt-petrel-north-se-aa0cb4.jpg"
+  },
+  {
+   "slot": 4,
+   "headline": "US probes [cyber attacks on 50 tankers]",
+   "summary": "US authorities are investigating suspected Iranian cyberattacks on as many as 50 ships carrying oil, LPG, chemicals and other hazardous cargo, the Wall Street Journal reports. Some ships received warnings and bomb threats. Iran is the main suspect, with Russia also seen as possible. Reuters could not verify the report.",
+   "sources": "gCaptain, Reuters, WSJ",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "product tanker",
+    "queries": [
+     "chemical tanker at sea",
+     "ship bridge navigation console",
+     "product tanker underway"
+    ]
+   },
+   "photo_credit": "Representative · Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/product-tanker/arrival-and-mooring-of-the-oil-chemical-tanker-gol-fd64ac.jpg"
+  },
+  {
+   "slot": 5,
+   "headline": "Drone-hit Sparta II burns - [16 crew evacuated]",
+   "summary": "Russian cargo ship Sparta II, 121 metres long, was hit by two drones on 21 November in the eastern Gulf of Finland and drifted into Finnish waters on fire. All 16 crew were moved to another Russian ship; one had minor injuries. The rescue vessel Murman towed it out on 22 November. Finland says Ukraine was likely behind it - not confirmed.",
+   "sources": "Marine Insight, Euronews",
+   "photo": {
+    "exact_subjects": [
+     "Sparta II",
+     "Gulf of Finland"
+    ],
+    "ship_type": "other",
+    "queries": [
+     "Sparta II cargo ship",
+     "Russian cargo ship Baltic Sea",
+     "general cargo ship at sea"
+    ]
+   },
+   "photo_credit": "Representative · Ra Boe / Wikimedia Commons (CC BY-SA 2.5)"
+  },
+  {
+   "slot": 6,
+   "headline": "Costa Concordia captain [released from prison]",
+   "summary": "Francesco Schettino, 66, captain of the Costa Concordia, has left Rome's Rebibbia prison after nine years, ANSA reports. A court let him serve the rest of his 16-year sentence under social services, with an office job in Campania. The ship capsized off Giglio on 13 January 2012, killing 32 people.",
+   "sources": "gCaptain, ANSA",
+   "photo": {
+    "exact_subjects": [
+     "Costa Concordia",
+     "Isola del Giglio"
+    ],
+    "ship_type": "cruise ship",
+    "queries": [
+     "Costa Concordia wreck Giglio",
+     "Costa Concordia cruise ship",
+     "cruise ship at sea"
+    ]
+   },
+   "photo_credit": "Rvongher / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  {
+   "slot": 7,
+   "headline": "Samsung plans [nuclear-powered LNG carrier]",
+   "summary": "Samsung Heavy Industries, Tesser Atomics, NTNU and DNV signed an MoU in Norway to develop a nuclear-powered LNG carrier demonstration ship. It would sail between LNG terminals in the US and Europe. Tesser will supply a fluoride-salt-cooled reactor, Samsung the ship design and DNV the safety and class work.",
+   "sources": "LNG Industry, Container News",
+   "photo": {
+    "exact_subjects": [
+     "Samsung Heavy Industries"
+    ],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier at sea",
+     "membrane LNG carrier underway",
+     "LNG tanker ship"
+    ]
+   },
+   "photo_credit": "Asfreeas / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "slot": 8,
+   "headline": "UK [removes LNG carrier] from Russia sanctions list",
+   "summary": "The UK has removed the 2006-built LNG carrier LNG Soars from its Russia sanctions list, in a notice dated 20 November, with no reason given. The ship now trades as LNG Scorpio under the Panama flag. UK rules on carrying, insuring and brokering Russian LNG still apply.",
+   "sources": "Baird Maritime",
+   "photo": {
+    "exact_subjects": [
+     "LNG Soars"
+    ],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "Moss type LNG carrier",
+     "LNG carrier at sea",
+     "LNG tanker underway"
+    ]
+   },
+   "photo_credit": "Representative · Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/lng-carrier/2023-05-20-02-lng-tanker-gulf-energy-imo-7390143-j-e4d09e.jpg"
+  },
+  {
+   "slot": 9,
+   "headline": "Aegean adds [two ice-class LR2s] at COSCO",
+   "summary": "Greek owner Aegean Shipping has been linked to two more ice-class LR2 product tankers at COSCO Shipping Heavy Industry's Yangzhou yard in China. Delivery is set for the first quarter of 2030. Aegean is one of COSCO's biggest European shipbuilding customers and already has LR2s on charter to Vitol.",
+   "sources": "InterManager, Offshore Energy",
+   "photo": {
+    "exact_subjects": [
+     "COSCO Yangzhou"
+    ],
+    "ship_type": "product tanker",
+    "queries": [
+     "LR2 product tanker at sea",
+     "product tanker underway",
+     "Aframax tanker"
+    ]
+   },
+   "photo_credit": "Representative · Wilfredor / Wikimedia Commons (CC0)",
+   "library_file": "photos/shipyard/shipyard-craft-chacachacare-margarita-island-6f62d4.jpg"
+  },
+  {
+   "slot": 10,
+   "headline": "Petronas names [third FLNG] PFLNG Tiga",
+   "summary": "Malaysia's Petronas has officially named its third floating LNG unit, PFLNG Tiga, at Samsung Heavy Industries' Geoje yard in South Korea. The unit joins PFLNG Satu and PFLNG Dua in the Petronas fleet. Floating LNG units produce, liquefy and store gas offshore before it is loaded onto LNG carriers.",
+   "sources": "LNG Prime",
+   "photo": {
+    "exact_subjects": [
+     "PFLNG Tiga",
+     "Geoje shipyard"
+    ],
+    "ship_type": "offshore vessel",
+    "queries": [
+     "floating LNG facility FLNG",
+     "PFLNG Satu",
+     "Samsung Heavy Industries Geoje shipyard"
+    ]
+   },
+   "photo_credit": "Representative · GuavaTrain / Wikimedia Commons (CC0)",
+   "library_file": "photos/offshore/oil-platform-crew-transfer-jpg-51989a.jpg"
+  }
+ ],
+ "song": {
+  "title": "Barsaat",
+  "artist": "Banjaare, Roni",
+  "language": "Hindi",
+  "start": "0:30",
+  "why": "Top riser on Instagram Reels on 24 Nov (about 1.6M reels, per Kabo tracker); its rain mood suits sea footage - use the hook/chorus."
+ },
+ "created": "2026-11-24T16:17:56.863908+05:30",
+ "preview_unix": 1795517523,
+ "posted": null
+}
