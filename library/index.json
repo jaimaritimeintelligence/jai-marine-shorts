@@ -9250,7 +9250,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ship_under_construction_-_geograph.org.uk_-_6943224.jpg/1920px-Ship_under_construction_-_geograph.org.uk_-_6943224.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 26,
     "bright": 143,
@@ -9270,7 +9270,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%283%29.jpg/1920px-Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%283%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 35,
     "bright": 133,
@@ -9290,7 +9290,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%284%29.jpg/1920px-Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%284%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 53,
     "bright": 137,
@@ -9310,7 +9310,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%285%29.jpg/1920px-Ships_under_construction_at_Chantiers_de_l%27Atlantique_shipyard%2C_2025_%285%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 31,
     "bright": 140,
@@ -9330,7 +9330,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dry_Dock_-_geograph.org.uk_-_2143543.jpg/1920px-Dry_Dock_-_geograph.org.uk_-_2143543.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 61,
     "bright": 162,
@@ -9342,66 +9342,6 @@
    "h": 1248
   },
   {
-   "file": "photos/shipyard/kaskelot-ship-1948-in-dry-dock-having-in-glou-1f3925.jpg",
-   "category": "shipyard",
-   "title": "Kaskelot (ship, 1948) in dry dock having in Gloucester.JPG",
-   "credit": "Rodw / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Kaskelot_(ship,_1948)_in_dry_dock_having_in_Gloucester.JPG",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kaskelot_%28ship%2C_1948%29_in_dry_dock_having_in_Gloucester.JPG/1920px-Kaskelot_%28ship%2C_1948%29_in_dry_dock_having_in_Gloucester.JPG",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 38,
-    "bright": 131,
-    "contrast": 80,
-    "sharp": 2755
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000001111111111100011000000000000000100000010000000010000010000000000000000000000000000000000000000010000000000000001000000000000000100000000000000010000000000000001",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/shipyard/mms-ship-repairs-at-alexandra-dry-dock-hull-g-1fd370.jpg",
-   "category": "shipyard",
-   "title": "MMS Ship Repairs at Alexandra Dry Dock, Hull - geograph.org.uk - 4510538.jpg",
-   "credit": "Ian S / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:MMS_Ship_Repairs_at_Alexandra_Dry_Dock,_Hull_-_geograph.org.uk_-_4510538.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MMS_Ship_Repairs_at_Alexandra_Dry_Dock%2C_Hull_-_geograph.org.uk_-_4510538.jpg/1920px-MMS_Ship_Repairs_at_Alexandra_Dry_Dock%2C_Hull_-_geograph.org.uk_-_4510538.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 81,
-    "bright": 108,
-    "contrast": 69,
-    "sharp": 5944
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111001111011111111110111100110010001111110000001000100111000000000011110000000000001111000011100000110000001111100011010000000000111001010000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 849
-  },
-  {
-   "file": "photos/shipyard/seattle-construction-and-dry-dock-company-ste-4d2fee.jpg",
-   "category": "shipyard",
-   "title": "Seattle Construction and Dry Dock Company, Steel Dry Dock, ca. 1910 - DPLA - 4287bd95fbb13ece8aa5626ce2f11e06 (page 1).jpg",
-   "credit": "Unknown / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:Seattle_Construction_and_Dry_Dock_Company,_Steel_Dry_Dock,_ca._1910_-_DPLA_-_4287bd95fbb13ece8aa5626ce2f11e06_(page_1).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seattle_Construction_and_Dry_Dock_Company%2C_Steel_Dry_Dock%2C_ca._1910_-_DPLA_-_4287bd95fbb13ece8aa5626ce2f11e06_%28page_1%29.jpg/1920px-Seattle_Construction_and_Dry_Dock_Company%2C_Steel_Dry_Dock%2C_ca._1910_-_DPLA_-_4287bd95fbb13ece8aa5626ce2f11e06_%28page_1%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 41,
-    "bright": 136,
-    "contrast": 65,
-    "sharp": 3495
-   },
-   "hash": "1111111111111111111111111111111111101111111111111111111111111111111111111111111111111111111111111111111110111111111111111001111110011101100111111000000000000001000000000000000100000000000000000000000000000000000000000000000010000000000000001001010000000001",
-   "w": 1280,
-   "h": 814
-  },
-  {
    "file": "photos/car-carrier/2023-05-20-01-roro-cargo-misana-imo-9348936-j-6139e7.jpg",
    "category": "car-carrier",
    "title": "2023-05-20 01 RORO Cargo MISANA - IMO 9348936.jpg",
@@ -9410,7 +9350,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2023-05-20_01_RORO_Cargo_MISANA_-_IMO_9348936.jpg/1920px-2023-05-20_01_RORO_Cargo_MISANA_-_IMO_9348936.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 95,
     "bright": 130,
@@ -9430,7 +9370,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zeebrugge_Belgium_Car-Carrier-HONOR-leaving-Pierre-Vandamme-Lock-01.jpg/1920px-Zeebrugge_Belgium_Car-Carrier-HONOR-leaving-Pierre-Vandamme-Lock-01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 131,
     "bright": 108,
@@ -9450,7 +9390,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zeebrugge_Belgium_Tugboat-Smit-Tiger-and_-car-carrier-Honor-01.jpg/1920px-Zeebrugge_Belgium_Tugboat-Smit-Tiger-and_-car-carrier-Honor-01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 80,
     "bright": 108,
@@ -9470,7 +9410,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Car_carrier_GLOVIS_SIGMA_%C3%A0_quai.jpg/1920px-Car_carrier_GLOVIS_SIGMA_%C3%A0_quai.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 146,
     "bright": 99,
@@ -9478,26 +9418,6 @@
     "sharp": 2227
    },
    "hash": "0000000000000111000000000000111100000000000011110000000000011111000000000011111100000000011111111111111111111111111001111111111111000111111111111100001111111111110000000111111111100000000111110000000000000000000000000011111100000000011111110000000000001001",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/car-carrier/car-carrier-in-veracruz-jpg-ddc73e.jpg",
-   "category": "car-carrier",
-   "title": "Car carrier in Veracruz.jpg",
-   "credit": "Koffermejia / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Car_carrier_in_Veracruz.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Car_carrier_in_Veracruz.jpg/1920px-Car_carrier_in_Veracruz.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 61,
-    "bright": 54,
-    "contrast": 45,
-    "sharp": 2683
-   },
-   "hash": "0000000000000000100000000000000011000000000000001110000000000000111000000000000011111000000000001111100111111100111110001111110011111000111111001111100011111100111110001111110011110000110111000011000011011100001100000100010100000000000011110000000001111110",
    "w": 1280,
    "h": 960
   },
@@ -9510,7 +9430,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Car_carrier_loading_Maybach_in_Tokyo.jpg/1920px-Car_carrier_loading_Maybach_in_Tokyo.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 51,
     "bright": 107,
@@ -9518,26 +9438,6 @@
     "sharp": 7043
    },
    "hash": "1101010001111001111100000111100111100000011111101111000001111000111110000111000011111000001100001111100000010000111000000001000011110000000000101111101000000010111000000110111010111111100000010001000000000000000000000000110000000001111111110011111111111111",
-   "w": 1280,
-   "h": 964
-  },
-  {
-   "file": "photos/car-carrier/car-carrier-loading-maybach-in-tokyo-2-jpg-a1dc12.jpg",
-   "category": "car-carrier",
-   "title": "Car carrier loading Maybach in Tokyo 2.jpg",
-   "credit": "Syced / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Car_carrier_loading_Maybach_in_Tokyo_2.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Car_carrier_loading_Maybach_in_Tokyo_2.jpg/1920px-Car_carrier_loading_Maybach_in_Tokyo_2.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 21,
-    "bright": 96,
-    "contrast": 65,
-    "sharp": 4153
-   },
-   "hash": "1111111111111111111111111000000011111000000000001111100000000000010011100000000010001111000000001000110110000000100001101000000010000110100000001000011000010000110001110001000011100011000000001110000110000000110000011000000011110001101100001111111111000000",
    "w": 1280,
    "h": 964
   },
@@ -9550,7 +9450,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Car_carrier_loading_Maybach_in_Tokyo_4.jpg/1920px-Car_carrier_loading_Maybach_in_Tokyo_4.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 59,
     "bright": 95,
@@ -9570,7 +9470,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Car_carrier_trailer_1.webp/1920px-Car_carrier_trailer_1.webp",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 65,
     "bright": 119,
@@ -9590,7 +9490,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Car_carrier_trailer_2.webp/1920px-Car_carrier_trailer_2.webp",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 83,
     "bright": 121,
@@ -9610,7 +9510,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Car_carrier_vessel_LIBERTY_PEACE%2C_sailing_in_the_Puget_Sound_%2820240219%29.jpg/1920px-Car_carrier_vessel_LIBERTY_PEACE%2C_sailing_in_the_Puget_Sound_%2820240219%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 87,
     "bright": 129,
@@ -9630,7 +9530,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Scania_S-series_car_carrier_in_Tokyo.jpg/1920px-Scania_S-series_car_carrier_in_Tokyo.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 30,
     "bright": 112,
@@ -9640,86 +9540,6 @@
    "hash": "0100011111000000010111110100000000011111010000000101111111000000010011111111000001011111111110000001111100000010010101010000000000010001110000001001000111001000000000001100100001100001110010001111110000000000111111111111111111111111111111111111111111111111",
    "w": 1280,
    "h": 964
-  },
-  {
-   "file": "photos/car-carrier/large-roro-ship-for-the-lower-mississippi-web-994a05.jpg",
-   "category": "car-carrier",
-   "title": "Large RoRo ship for the Lower Mississippi.webp",
-   "credit": "Wikideas1 / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Large_RoRo_ship_for_the_Lower_Mississippi.webp",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Large_RoRo_ship_for_the_Lower_Mississippi.webp/1920px-Large_RoRo_ship_for_the_Lower_Mississippi.webp",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 89,
-    "bright": 144,
-    "contrast": 49,
-    "sharp": 829
-   },
-   "hash": "0000000000000000000000000000000000000000000000000000000000000000000000000001110000000000011111110000001111111111000011111111111101101111111111111110111111111111111101111111111111110111111111111111111111111111011111111111111111011111111111111111111111111111",
-   "w": 1280,
-   "h": 574
-  },
-  {
-   "file": "photos/car-carrier/mississippi-roro-car-carrier-webp-ef1e2d.jpg",
-   "category": "car-carrier",
-   "title": "Mississippi RoRo car carrier.webp",
-   "credit": "Wikideas1 / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Mississippi_RoRo_car_carrier.webp",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mississippi_RoRo_car_carrier.webp",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 131,
-    "bright": 96,
-    "contrast": 53,
-    "sharp": 1150
-   },
-   "hash": "1111111111111111001111111111111110001111111111111100000111111111110000000011111011110000000011001111100000001100000011000000110000000111000011000000000110001100000000001100110000000000011110000000000000111000000000000001100000000000000000000000000000000000",
-   "w": 1280,
-   "h": 519
-  },
-  {
-   "file": "photos/car-carrier/mississippi-roro-car-carrier-side-dock-webp-1c9b77.jpg",
-   "category": "car-carrier",
-   "title": "Mississippi RoRo car carrier side dock.webp",
-   "credit": "Wikideas1 / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Mississippi_RoRo_car_carrier_side_dock.webp",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mississippi_RoRo_car_carrier_side_dock.webp",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 47,
-    "bright": 158,
-    "contrast": 51,
-    "sharp": 1424
-   },
-   "hash": "0000000000000000000000000000000000011111000000000000111111000000100001111111000011000011111111001110000011111111111000000111111111101100000111111111111000001111111111110000011011111111100000001111111111000000111111111110000011111111111100001111111111111000",
-   "w": 1280,
-   "h": 602
-  },
-  {
-   "file": "photos/car-carrier/mississippi-roro-ship-webp-dc9ca0.jpg",
-   "category": "car-carrier",
-   "title": "Mississippi RoRo ship.webp",
-   "credit": "Wikideas1 / Wikimedia Commons (CC0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Mississippi_RoRo_ship.webp",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mississippi_RoRo_ship.webp/1920px-Mississippi_RoRo_ship.webp",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 108,
-    "bright": 98,
-    "contrast": 53,
-    "sharp": 1230
-   },
-   "hash": "1111000000000000111100000000000011111000000000001111100000000000111110000000000011111100000000001111110000000000111111100010000011111110000000001111111100000000111111100000000011111111000000001111111100000000111111110000000011101111000000001110111110000000",
-   "w": 1280,
-   "h": 714
   },
   {
    "file": "photos/offshore/offshore-tug-supply-ship-skandi-handler-imo-9-848e3c.jpg",
