@@ -8522,26 +8522,6 @@
    "h": 853
   },
   {
-   "file": "photos/tug/low-water-on-mississippi-new-orleans-tug-alli-83ac5a.jpg",
-   "category": "tug",
-   "title": "Low Water on Mississippi, New Orleans - Tug Allison S, 10 December 2022 - 03.jpg",
-   "credit": "Infrogmation of New Orleans / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Low_Water_on_Mississippi,_New_Orleans_-_Tug_Allison_S,_10_December_2022_-_03.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Low_Water_on_Mississippi%2C_New_Orleans_-_Tug_Allison_S%2C_10_December_2022_-_03.jpg/1920px-Low_Water_on_Mississippi%2C_New_Orleans_-_Tug_Allison_S%2C_10_December_2022_-_03.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 53,
-    "bright": 147,
-    "contrast": 70,
-    "sharp": 5108
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111101111111111110001111111000011111111111000000111111111110000011110000110010011000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/tug/rt-tug-pusher4-jpg-3c62a8.jpg",
    "category": "tug",
    "title": "RT tug pusher4.jpg",
@@ -8550,7 +8530,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RT_tug_pusher4.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 70,
     "bright": 132,
@@ -8570,7 +8550,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tug_Boat_NY_1.jpg/1920px-Tug_Boat_NY_1.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 63,
     "bright": 102,
@@ -8590,7 +8570,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tug_Boats_For_Sale_at_Overstockboats.jpg/1920px-Tug_Boats_For_Sale_at_Overstockboats.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 50,
     "bright": 136,
@@ -8598,26 +8578,6 @@
     "sharp": 4572
    },
    "hash": "1111111111111111111111111111111111111111111111111111111111111111100111011111111110011111111111111011111111111111100111111010111100010001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/tug/tug-in-auckland-inlet-gladstone-2014-01-jpg-bef8f6.jpg",
-   "category": "tug",
-   "title": "Tug in Auckland Inlet, Gladstone, 2014 01.jpg",
-   "credit": "Kerry Raymond / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Tug_in_Auckland_Inlet,_Gladstone,_2014_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tug_in_Auckland_Inlet%2C_Gladstone%2C_2014_01.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 44,
-    "bright": 158,
-    "contrast": 43,
-    "sharp": 1042
-   },
-   "hash": "0111111111111111011111111111111101111111111111111111111111111111011110101111111100000000000001110000000000000001000000000000000000100011100000001000000001110110110000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000",
    "w": 1280,
    "h": 720
   },
@@ -8630,7 +8590,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Crude_Oil_Tanker_Emerald_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_September_2021_01.jpg/1920px-Crude_Oil_Tanker_Emerald_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_September_2021_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 24,
     "bright": 174,
@@ -8650,7 +8610,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Crude_Oil_Tanker_Emerald_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_September_2021_03.jpg/1920px-Crude_Oil_Tanker_Emerald_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_September_2021_03.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 30,
     "bright": 160,
@@ -8670,7 +8630,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Crude_Oil_Tanker_Golden_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_December_2022_01.jpg/1920px-Crude_Oil_Tanker_Golden_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_December_2022_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 43,
     "bright": 155,
@@ -8690,7 +8650,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crude_Oil_Tanker_Golden_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_December_2022_02.jpg/1920px-Crude_Oil_Tanker_Golden_Shiner_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_December_2022_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 38,
     "bright": 165,
@@ -8710,7 +8670,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crude_Oil_Tanker_Nave_Rigel_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_July_2021_05.jpg/1920px-Crude_Oil_Tanker_Nave_Rigel_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_July_2021_05.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 31,
     "bright": 144,
@@ -8730,7 +8690,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Crude_Oil_Tanker_Nave_Rigel_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_July_2021_10.jpg/1920px-Crude_Oil_Tanker_Nave_Rigel_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_July_2021_10.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 29,
     "bright": 153,
@@ -8750,7 +8710,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Crude_Oil_Tanker_Njord_DF_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2023_05.jpg/1920px-Crude_Oil_Tanker_Njord_DF_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2023_05.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 52,
     "bright": 158,
@@ -8770,7 +8730,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022_01.jpg/1920px-Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 92,
     "bright": 170,
@@ -8790,7 +8750,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Crude_Oil_Tanker_STI_Guard_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2023_01.jpg/1920px-Crude_Oil_Tanker_STI_Guard_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2023_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 83,
     "bright": 165,
@@ -8810,7 +8770,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Crude_Oil_Tanker_STI_Guard_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2023_02.jpg/1920px-Crude_Oil_Tanker_STI_Guard_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_November_2023_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 81,
     "bright": 157,
@@ -8830,7 +8790,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Crude_oil_tanker_Eagle_San_Diego.jpg/1920px-Crude_oil_tanker_Eagle_San_Diego.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 53,
     "bright": 156,
@@ -8842,66 +8802,6 @@
    "h": 486
   },
   {
-   "file": "photos/crude-tanker/oil-chemical-tanker-jo-kari-and-crude-oil-tan-71bebc.jpg",
-   "category": "crude-tanker",
-   "title": "Oil & Chemical Tanker Jo Kari and Crude Oil Tanker SFL Lion at BP Oil Refinery Jetty, Kwinana, October 2022.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty,_Kwinana,_October_2022.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022.jpg/1920px-Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 98,
-    "bright": 160,
-    "contrast": 35,
-    "sharp": 972
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110001111000001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000111111111",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/crude-tanker/vlcc-aktaia-oil-tanker-jpg-5a4142.jpg",
-   "category": "crude-tanker",
-   "title": "VLCC Aktaia, Oil tanker.jpg",
-   "credit": "Martian-2008 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:VLCC_Aktaia,_Oil_tanker.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VLCC_Aktaia%2C_Oil_tanker.jpg/1920px-VLCC_Aktaia%2C_Oil_tanker.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 87,
-    "bright": 99,
-    "contrast": 55,
-    "sharp": 2206
-   },
-   "hash": "1111111111111111111111111111111111001111111111111001111111111111110111111101111101011111111111101111111111111111111111111110000011111111000000000000000000000000000000000000000000000000000000000000111110000000001111111000000000000001100100000000000111100000",
-   "w": 1280,
-   "h": 720
-  },
-  {
-   "file": "photos/cruise-ship/03613-isl-akureyri-cruise-vessel-vapors-v-p-j-f6f04e.jpg",
-   "category": "cruise-ship",
-   "title": "03613 ISL Akureyri cruise vessel vapors V P.jpg",
-   "credit": "Virtual-Pano / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:03613_ISL_Akureyri_cruise_vessel_vapors_V_P.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/03613_ISL_Akureyri_cruise_vessel_vapors_V_P.jpg/1920px-03613_ISL_Akureyri_cruise_vessel_vapors_V_P.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 45,
-    "bright": 148,
-    "contrast": 61,
-    "sharp": 3202
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111110111000000000000111100000000000000000000001000000000111000000000001111101000001011111110011001100000000000001110000000100000001111111110000000000111100000000000010110000000",
-   "w": 1280,
-   "h": 640
-  },
-  {
    "file": "photos/cruise-ship/bolgar-cruise-ship-solnechnyy-gorod-p5182061-804540.jpg",
    "category": "cruise-ship",
    "title": "Bolgar. Cruise ship Solnechnyy Gorod P5182061 2200.jpg",
@@ -8910,7 +8810,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bolgar._Cruise_ship_Solnechnyy_Gorod_P5182061_2200.jpg/1920px-Bolgar._Cruise_ship_Solnechnyy_Gorod_P5182061_2200.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 58,
     "bright": 119,
@@ -8930,7 +8830,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Borealis_%28ship%2C_1997%29_at_Liverpool_Cruise_Terminal_2.jpg/1920px-Borealis_%28ship%2C_1997%29_at_Liverpool_Cruise_Terminal_2.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 48,
     "bright": 136,
@@ -8950,7 +8850,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cruise_ship_Le_Lyrial_off_Anvers_Island%2C_Antarctica_V-P.jpg/1920px-Cruise_ship_Le_Lyrial_off_Anvers_Island%2C_Antarctica_V-P.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 105,
     "bright": 111,
@@ -8970,7 +8870,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cruise_ship_Modigliani_Bamberg-20220610-RM-170943.jpg/1920px-Cruise_ship_Modigliani_Bamberg-20220610-RM-170943.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 81,
     "bright": 131,
@@ -8990,7 +8890,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cruise_ship_Modigliani_Bamberg-20220610-RM-171024.jpg/1920px-Cruise_ship_Modigliani_Bamberg-20220610-RM-171024.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 43,
     "bright": 163,
