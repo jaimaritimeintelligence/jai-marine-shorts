@@ -9550,7 +9550,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Offshore_Tug-Supply_Ship_SKANDI_HANDLER._IMO_9246724._12-06-2025_%28d.j.b.%29._02.jpg/1920px-Offshore_Tug-Supply_Ship_SKANDI_HANDLER._IMO_9246724._12-06-2025_%28d.j.b.%29._02.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 78,
     "bright": 145,
@@ -9570,7 +9570,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/1920px-Oil_Platform_Crew_Transfer.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 95,
     "bright": 124,
@@ -9590,7 +9590,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Supply_vessel_%22Island_Chieftain%22_in_Sandnessj%C3%B8en.jpg/1920px-Supply_vessel_%22Island_Chieftain%22_in_Sandnessj%C3%B8en.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 62,
     "bright": 139,
@@ -9602,26 +9602,6 @@
    "h": 853
   },
   {
-   "file": "photos/offshore/drilling-rig-and-a-digger-at-a-construction-s-41b348.jpg",
-   "category": "offshore",
-   "title": "Drilling rig and a digger at a construction site in Tuntorp.jpg",
-   "credit": "W.carter / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg/1920px-Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 104,
-    "bright": 105,
-    "contrast": 48,
-    "sharp": 6301
-   },
-   "hash": "1111111111111110111111111111110011111111111111001111111111111100111111111111100011111000100100000011000000000000000000000000000000000000000000000000000000000000001100100010000001110111001000000110011100000000110001011000000011111111111000001111111111111101",
-   "w": 1280,
-   "h": 854
-  },
-  {
    "file": "photos/offshore/refurbishment-platform-for-drilling-rigs-corp-82b50b.jpg",
    "category": "offshore",
    "title": "Refurbishment Platform for Drilling Rigs -- Corpus Christi.jpg",
@@ -9630,7 +9610,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Refurbishment_Platform_for_Drilling_Rigs_--_Corpus_Christi.jpg/1920px-Refurbishment_Platform_for_Drilling_Rigs_--_Corpus_Christi.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 142,
     "bright": 127,
@@ -9650,7 +9630,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/1920px-Oil_platform_P-51_%28Brazil%29.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 135,
     "bright": 113,
@@ -9662,46 +9642,6 @@
    "h": 854
   },
   {
-   "file": "photos/offshore/ancona-marche-italy-vos-prudence-offshore-sup-99a9fc.jpg",
-   "category": "offshore",
-   "title": "Ancona, Marche, Italy -VOS PRUDENCE -Offshore Supply Vessel - by Gianni Del Bufalo CC BY 4.0 (26259130455).jpg",
-   "credit": "gianni del bufalo / Wikimedia Commons (CC BY 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Ancona,_Marche,_Italy_-VOS_PRUDENCE_-Offshore_Supply_Vessel_-_by_Gianni_Del_Bufalo_CC_BY_4.0_(26259130455).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ancona%2C_Marche%2C_Italy_-VOS_PRUDENCE_-Offshore_Supply_Vessel_-_by_Gianni_Del_Bufalo_CC_BY_4.0_%2826259130455%29.jpg/1920px-Ancona%2C_Marche%2C_Italy_-VOS_PRUDENCE_-Offshore_Supply_Vessel_-_by_Gianni_Del_Bufalo_CC_BY_4.0_%2826259130455%29.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 45,
-    "bright": 137,
-    "contrast": 51,
-    "sharp": 1520
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111100111111111111110011111111111110001111111111111100111111111111100011111111111000000111111111000000000000000100000000000000001000000000000001100000000000000110000000001111111100000111111111",
-   "w": 1280,
-   "h": 543
-  },
-  {
-   "file": "photos/offshore/offshore-supply-vessels-montrose-geograph-org-b73e6f.jpg",
-   "category": "offshore",
-   "title": "Offshore supply vessels, Montrose - geograph.org.uk - 7830537.jpg",
-   "credit": "Richard Webb / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Offshore_supply_vessels,_Montrose_-_geograph.org.uk_-_7830537.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Offshore_supply_vessels%2C_Montrose_-_geograph.org.uk_-_7830537.jpg/1920px-Offshore_supply_vessels%2C_Montrose_-_geograph.org.uk_-_7830537.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 24,
-    "bright": 159,
-    "contrast": 57,
-    "sharp": 2537
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111100110011111111110000000001111000000000000000000000000000000000000000000000000000000000000000011100000000000001111111111111110111111111111111111111111111111111110111011111111",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/offshore/offshore-supply-vessels-in-stavanger-norway-j-4f47e5.jpg",
    "category": "offshore",
    "title": "Offshore supply vessels in Stavanger Norway.jpg",
@@ -9710,7 +9650,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Offshore_supply_vessels_in_Stavanger_Norway.jpg/1920px-Offshore_supply_vessels_in_Stavanger_Norway.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 34,
     "bright": 131,
@@ -9730,7 +9670,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Anchor_Handling_Tug_Supply_Vessel_%28172383033%29.jpeg/1920px-Anchor_Handling_Tug_Supply_Vessel_%28172383033%29.jpeg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 29,
     "bright": 170,
@@ -9750,7 +9690,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20070616-EN-FPSO_Firenze-016.JPG/1920px-20070616-EN-FPSO_Firenze-016.JPG",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 75,
     "bright": 154,
@@ -9762,46 +9702,6 @@
    "h": 960
   },
   {
-   "file": "photos/offshore/fpso-trinity-pan10m-20210619-108-94-band432-a-347445.jpg",
-   "category": "offshore",
-   "title": "FPSO Trinity PAN10M 20210619 108 94 BAND432 AWFI 20220205 109 093 BAND151413.jpg",
-   "credit": "INPE/OBT/DPI: Divisão de Processamento d / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:FPSO_Trinity_PAN10M_20210619_108_94_BAND432_AWFI_20220205_109_093_BAND151413.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FPSO_Trinity_PAN10M_20210619_108_94_BAND432_AWFI_20220205_109_093_BAND151413.jpg/1920px-FPSO_Trinity_PAN10M_20210619_108_94_BAND432_AWFI_20220205_109_093_BAND151413.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 53,
-    "bright": 168,
-    "contrast": 78,
-    "sharp": 3081
-   },
-   "hash": "0011111111111111011111110111111111101111111111111000000011111111100000001111111110000000011111111000000001111111100000000010111100010000000011110100000000000111011000000000000101000100000000010011011000000011000111111001001101111111110000010111100111000000",
-   "w": 1280,
-   "h": 898
-  },
-  {
-   "file": "photos/offshore/searose-fpso-and-offshore-support-vessels-jpg-8633e7.jpg",
-   "category": "offshore",
-   "title": "SeaRose FPSO and offshore support vessels.jpg",
-   "credit": "Berardo62 / Wikimedia Commons (CC BY-SA 2.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:SeaRose_FPSO_and_offshore_support_vessels.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SeaRose_FPSO_and_offshore_support_vessels.jpg/1920px-SeaRose_FPSO_and_offshore_support_vessels.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 69,
-    "bright": 69,
-    "contrast": 24,
-    "sharp": 916
-   },
-   "hash": "0000000011111111000000001111111000001011111100000000100111110010000000011111001000000000111100000000000000000000000000000011100000000000011111000000001101111100000000111000000000000011100000000000001110000000000011111111110000000111111111000000000001111100",
-   "w": 1280,
-   "h": 851
-  },
-  {
    "file": "photos/offshore/terra-nova-fpso-08july2006-jpg-9ee83b.jpg",
    "category": "offshore",
    "title": "Terra Nova FPSO 08July2006.jpg",
@@ -9810,7 +9710,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Terra_Nova_FPSO_08July2006.jpg/1920px-Terra_Nova_FPSO_08July2006.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 97,
     "bright": 156,
@@ -9830,7 +9730,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Terra_Nova_FPSO_CranePowerGenerator.JPG/1920px-Terra_Nova_FPSO_CranePowerGenerator.JPG",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 123,
     "bright": 127,
@@ -9850,7 +9750,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Terra_Nova_FPSO_Helideck_15July2006.jpg/1920px-Terra_Nova_FPSO_Helideck_15July2006.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 140,
     "bright": 114,
