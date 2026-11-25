@@ -7902,26 +7902,6 @@
    "h": 853
   },
   {
-   "file": "photos/bulk-carrier/bulk-carrier-crimson-princess-and-ship-loader-3fd806.jpg",
-   "category": "bulk-carrier",
-   "title": "Bulk carrier Crimson Princess and ship loader at Kwinana Bulk Jetty, July 2021 02.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Bulk_carrier_Crimson_Princess_and_ship_loader_at_Kwinana_Bulk_Jetty,_July_2021_02.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bulk_carrier_Crimson_Princess_and_ship_loader_at_Kwinana_Bulk_Jetty%2C_July_2021_02.jpg/1920px-Bulk_carrier_Crimson_Princess_and_ship_loader_at_Kwinana_Bulk_Jetty%2C_July_2021_02.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 63,
-    "bright": 133,
-    "contrast": 56,
-    "sharp": 3409
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111101111111011111100000001101110000000101110000000000111110101100110011111001000001001100000000000100000000000000000000100000000000000100100000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/product-tanker/tanker-sten-suomi-at-a-fuel-depot-in-stockhol-f2f40d.jpg",
    "category": "product-tanker",
    "title": "Tanker Sten Suomi at a fuel depot in Stockholm.jpg",
@@ -7930,7 +7910,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tanker_Sten_Suomi_at_a_fuel_depot_in_Stockholm.jpg/1920px-Tanker_Sten_Suomi_at_a_fuel_depot_in_Stockholm.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 63,
     "bright": 129,
@@ -7950,7 +7930,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chemical_tanker_Ramira_-_IMO_9890599_-_North_Sea_Canal_at_IJmuiden-8144.jpg/1920px-Chemical_tanker_Ramira_-_IMO_9890599_-_North_Sea_Canal_at_IJmuiden-8144.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 77,
     "bright": 159,
@@ -7962,46 +7942,6 @@
    "h": 720
   },
   {
-   "file": "photos/product-tanker/chemical-tanker-undergoing-ship-recycling-at-eeec99.jpg",
-   "category": "product-tanker",
-   "title": "Chemical tanker undergoing ship recycling at Alang, Gujarat, India.jpg",
-   "credit": "Nayeemgms / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Chemical_tanker_undergoing_ship_recycling_at_Alang,_Gujarat,_India.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chemical_tanker_undergoing_ship_recycling_at_Alang%2C_Gujarat%2C_India.jpg/1920px-Chemical_tanker_undergoing_ship_recycling_at_Alang%2C_Gujarat%2C_India.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 77,
-    "bright": 141,
-    "contrast": 74,
-    "sharp": 3365
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111100111111101111100001111111111110000001111111111000000111100000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 719
-  },
-  {
-   "file": "photos/product-tanker/panagia-lady-chemical-tanker-digital-transpor-335871.jpg",
-   "category": "product-tanker",
-   "title": "Panagia Lady, chemical tanker, Digital Transport Limited, IMO 9241085, exiting port of Mombasa.jpg",
-   "credit": "Ian Kiptoo / Wikimedia Commons (CC BY 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Panagia_Lady,_chemical_tanker,_Digital_Transport_Limited,_IMO_9241085,_exiting_port_of_Mombasa.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Panagia_Lady%2C_chemical_tanker%2C_Digital_Transport_Limited%2C_IMO_9241085%2C_exiting_port_of_Mombasa.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 79,
-    "bright": 149,
-    "contrast": 61,
-    "sharp": 2736
-   },
-   "hash": "1111111001000000111111111100000011111111111011111111111111111111111111111111111111111111111111111111111111111111111110001111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/product-tanker/unmooring-and-departure-of-the-oil-chemical-t-cc7fd6.jpg",
    "category": "product-tanker",
    "title": "Unmooring and departure of the Oil & Chemical Tanker Gulf Muttrah from BP Oil Refinery Jetty, Kwinana, October 2021 02.jpg",
@@ -8010,7 +7950,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_02.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 82,
     "bright": 171,
@@ -8018,26 +7958,6 @@
     "sharp": 820
    },
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111100111111111111100000000011111110000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111110111111111111111",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/product-tanker/unmooring-and-departure-of-the-oil-chemical-t-9ed138.jpg",
-   "category": "product-tanker",
-   "title": "Unmooring and departure of the Oil & Chemical Tanker Gulf Muttrah from BP Oil Refinery Jetty, Kwinana, October 2021 07.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty,_Kwinana,_October_2021_07.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_07.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_07.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 88,
-    "bright": 160,
-    "contrast": 33,
-    "sharp": 445
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111001111111111111000001111111000000000000000000000000000000000000000000000000000111111111111100011111111111110001111111111111",
    "w": 1280,
    "h": 960
   },
@@ -8050,7 +7970,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_19.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_19.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 85,
     "bright": 168,
@@ -8070,7 +7990,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_25.jpg/1920px-Unmooring_and_departure_of_the_Oil_%26_Chemical_Tanker_Gulf_Muttrah_from_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2021_25.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 105,
     "bright": 162,
@@ -8090,7 +8010,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oil_Products_Tanker_Absolute_1_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_April_2022_03.jpg/1920px-Oil_Products_Tanker_Absolute_1_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_April_2022_03.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 68,
     "bright": 135,
@@ -8110,7 +8030,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oil_Products_Tanker_Absolute_arriving_in_Fremantle_Outer_Harbour%2C_August_2021_05.jpg/1920px-Oil_Products_Tanker_Absolute_arriving_in_Fremantle_Outer_Harbour%2C_August_2021_05.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 122,
     "bright": 130,
@@ -8130,7 +8050,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Paddle_Steamer_Constitution_near_Stanley_Park%2C_Vancouver_20240831_1.jpg/1920px-Paddle_Steamer_Constitution_near_Stanley_Park%2C_Vancouver_20240831_1.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 9,
    "checks": {
     "sat": 84,
     "bright": 102,
@@ -8138,26 +8058,6 @@
     "sharp": 4235
    },
    "hash": "1111111111111111111111111111111111111111111111111111000000000001111000000000000010000000000000000000000000000000000000000110000000001111111000000000111111111000001011111111110011101111111100000000111111110000000011111111000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/riverboat/d-cor-molly-brown-riverboat-20150802-11h21-10-1b9198.jpg",
-   "category": "riverboat",
-   "title": "Décor Molly Brown Riverboat - 20150802 11h21 (10665).jpg",
-   "credit": "Another one of my pictures: This photogr / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:D%C3%A9cor_Molly_Brown_Riverboat_-_20150802_11h21_(10665).jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D%C3%A9cor_Molly_Brown_Riverboat_-_20150802_11h21_%2810665%29.jpg/1920px-D%C3%A9cor_Molly_Brown_Riverboat_-_20150802_11h21_%2810665%29.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 67,
-    "bright": 91,
-    "contrast": 56,
-    "sharp": 7178
-   },
-   "hash": "0110000000111111101110000011111111110000001111111111000001111111111000001111111111111100001111110000000000110001000000000011000110000000001001110000000001110011000000001110011100000001111000110000000001111111111110001111111111111111111101111111111111111111",
    "w": 1280,
    "h": 853
   },
@@ -8170,7 +8070,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/L%C3%BCbeck%2C_Elbe-L%C3%BCbeck-Kanal%2C_Betonschiff_-Seaside_%26_Riverboat-_--_2017_--_0275.jpg/1920px-L%C3%BCbeck%2C_Elbe-L%C3%BCbeck-Kanal%2C_Betonschiff_-Seaside_%26_Riverboat-_--_2017_--_0275.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 54,
     "bright": 151,
@@ -8190,7 +8090,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/May_2011_Moskva_River_ship_02.jpg/1920px-May_2011_Moskva_River_ship_02.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 55,
     "bright": 93,
@@ -8202,26 +8102,6 @@
    "h": 805
   },
   {
-   "file": "photos/riverboat/perm-kama-river-passenger-river-ship-moskva-2-8ba0e5.jpg",
-   "category": "riverboat",
-   "title": "Perm. Kama River. Passenger river ship Moskva-210 P6242370 2575.jpg",
-   "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Perm._Kama_River._Passenger_river_ship_Moskva-210_P6242370_2575.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Perm._Kama_River._Passenger_river_ship_Moskva-210_P6242370_2575.jpg/1920px-Perm._Kama_River._Passenger_river_ship_Moskva-210_P6242370_2575.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 48,
-    "bright": 135,
-    "contrast": 51,
-    "sharp": 2993
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000111111000000000000000000000000000000000000000000000000000001100011111011111000001000000110000000100000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
    "file": "photos/riverboat/paddle-steamer-gem-swan-hill-victoria-jpg-857327.jpg",
    "category": "riverboat",
    "title": "Paddle Steamer GEM (Swan Hill Victoria).jpg",
@@ -8230,7 +8110,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Paddle_Steamer_GEM_%28Swan_Hill_Victoria%29.jpg/1920px-Paddle_Steamer_GEM_%28Swan_Hill_Victoria%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 48,
     "bright": 100,
@@ -8242,86 +8122,6 @@
    "h": 859
   },
   {
-   "file": "photos/riverboat/side-lever-tug-paddle-steamer-engine-king-s-i-bb7c02.jpg",
-   "category": "riverboat",
-   "title": "Side-lever tug paddle steamer engine. King's Inch, Renfrew.jpg",
-   "credit": "Rosser1954 / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Side-lever_tug_paddle_steamer_engine._King%27s_Inch,_Renfrew.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Side-lever_tug_paddle_steamer_engine._King%27s_Inch%2C_Renfrew.jpg/1920px-Side-lever_tug_paddle_steamer_engine._King%27s_Inch%2C_Renfrew.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 49,
-    "bright": 147,
-    "contrast": 68,
-    "sharp": 5067
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111011011111111111100001101011111111111110000000000111111000000000001100100000000000110000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 686
-  },
-  {
-   "file": "photos/riverboat/southern-bell-paddle-steamer-glasgow-garden-f-aa0773.jpg",
-   "category": "riverboat",
-   "title": "Southern Bell paddle steamer, Glasgow Garden Festival.jpg",
-   "credit": "LornaMCampbell / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Southern_Bell_paddle_steamer,_Glasgow_Garden_Festival.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Southern_Bell_paddle_steamer%2C_Glasgow_Garden_Festival.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 118,
-    "bright": 108,
-    "contrast": 63,
-    "sharp": 1277
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111101100000000011110110000000001111111111111111001111111110111100000100000000110000000000000011000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 967
-  },
-  {
-   "file": "photos/riverboat/2008-11-27-riverboat-talkshow-jpg-de52f0.jpg",
-   "category": "riverboat",
-   "title": "2008-11-27 Riverboat-Talkshow.jpg",
-   "credit": "Je-str / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:2008-11-27_Riverboat-Talkshow.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2008-11-27_Riverboat-Talkshow.jpg/1920px-2008-11-27_Riverboat-Talkshow.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 118,
-    "bright": 84,
-    "contrast": 55,
-    "sharp": 5567
-   },
-   "hash": "0000000000000000001111100110011011111001001100001001100000110000100101001010000010010100111000001001011110111000001100011011110001111001110111100011110111011110001101111111111000101111111111000000111111111000000001111111100000000111101100001100001100110000",
-   "w": 1280,
-   "h": 338
-  },
-  {
-   "file": "photos/riverboat/89-william-england-riverboat-salaberry-on-the-4dba00.jpg",
-   "category": "riverboat",
-   "title": "89 William England - Riverboat Salaberry on the Lachine Canal, Montreal.jpg",
-   "credit": "William England / Wikimedia Commons (Public domain)",
-   "page": "https://commons.wikimedia.org/wiki/File:89_William_England_-_Riverboat_Salaberry_on_the_Lachine_Canal,_Montreal.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/89_William_England_-_Riverboat_Salaberry_on_the_Lachine_Canal%2C_Montreal.jpg/1920px-89_William_England_-_Riverboat_Salaberry_on_the_Lachine_Canal%2C_Montreal.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 46,
-    "bright": 148,
-    "contrast": 77,
-    "sharp": 2213
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111010011111111111100000000000000000000000000000000000100000000000000000000000011000111100000000111011111000000111111111110000000111111111100001110110000000010000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 1118
-  },
-  {
    "file": "photos/riverboat/city-of-new-orleans-riverboat-at-woldenberg-p-6cc0c0.jpg",
    "category": "riverboat",
    "title": "City of New Orleans Riverboat at Woldenberg Park, New Orleans, January 2020 - 01.jpg",
@@ -8330,7 +8130,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/City_of_New_Orleans_Riverboat_at_Woldenberg_Park%2C_New_Orleans%2C_January_2020_-_01.jpg/1920px-City_of_New_Orleans_Riverboat_at_Woldenberg_Park%2C_New_Orleans%2C_January_2020_-_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 46,
     "bright": 143,
@@ -8350,7 +8150,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/City_of_New_Orleans_Riverboat_at_Woldenberg_Park%2C_New_Orleans%2C_January_2020_-_02.jpg/1920px-City_of_New_Orleans_Riverboat_at_Woldenberg_Park%2C_New_Orleans%2C_January_2020_-_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 46,
     "bright": 141,
@@ -8370,7 +8170,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/City_of_New_Orleans_Riverboat_at_Woldenberg_Park%2C_New_Orleans%2C_January_2020_-_05.jpg/1920px-City_of_New_Orleans_Riverboat_at_Woldenberg_Park%2C_New_Orleans%2C_January_2020_-_05.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 54,
     "bright": 127,
