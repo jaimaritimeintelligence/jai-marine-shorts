@@ -7610,7 +7610,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oil_Tanker_in_New_York_Harbour.jpg/1920px-Oil_Tanker_in_New_York_Harbour.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 60,
     "bright": 156,
@@ -7630,7 +7630,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/VIew_of_Oil_Tanker_in_1972%2C_facing_Stern.png/1920px-VIew_of_Oil_Tanker_in_1972%2C_facing_Stern.png",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 56,
     "bright": 146,
@@ -7650,7 +7650,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Petroleum_tanker_leaving_Dar_es_Salaam.jpg/1920px-Petroleum_tanker_leaving_Dar_es_Salaam.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 50,
     "bright": 130,
@@ -7670,7 +7670,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023-05-26_BULK_DESTINY_-_IMO_9781994.jpg/1920px-2023-05-26_BULK_DESTINY_-_IMO_9781994.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 162,
     "bright": 106,
@@ -7690,7 +7690,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bulk_carrier_%22Labrador%22_%282010%29_passing_Amherstburg%2C_Ontario%2C_2025-06-15_01.jpg/1920px-Bulk_carrier_%22Labrador%22_%282010%29_passing_Amherstburg%2C_Ontario%2C_2025-06-15_01.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 40,
     "bright": 169,
@@ -7710,7 +7710,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bulk_carrier_Darya_Ganga_at_Alcoa_Jetty%2C_November_2022_16.jpg/1920px-Bulk_carrier_Darya_Ganga_at_Alcoa_Jetty%2C_November_2022_16.jpg",
    "origin": "commons",
    "vetted": true,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 98,
     "bright": 129,
@@ -7722,86 +7722,6 @@
    "h": 960
   },
   {
-   "file": "photos/bulk-carrier/feodosiya-port-bulk-carrier-era-img-3090-1725-93b07b.jpg",
-   "category": "bulk-carrier",
-   "title": "Feodosiya port Bulk carrier Era IMG 3090 1725.jpg",
-   "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Feodosiya_port_Bulk_carrier_Era_IMG_3090_1725.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Feodosiya_port_Bulk_carrier_Era_IMG_3090_1725.jpg/1920px-Feodosiya_port_Bulk_carrier_Era_IMG_3090_1725.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 92,
-    "bright": 122,
-    "contrast": 54,
-    "sharp": 2871
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111011111011111101101110011100000111100001100000011000000000000000000000000000000000000000000000100000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/bulk-carrier/measures-of-the-volume-of-bulk-solids-uglich-907406.jpg",
-   "category": "bulk-carrier",
-   "title": "Measures of the volume of bulk solids Uglich Palace of Tsarevich Dmitry 2023-07-22 7325.jpg",
-   "credit": "Mike1979 Russia / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Measures_of_the_volume_of_bulk_solids_Uglich_Palace_of_Tsarevich_Dmitry_2023-07-22_7325.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Measures_of_the_volume_of_bulk_solids_Uglich_Palace_of_Tsarevich_Dmitry_2023-07-22_7325.jpg/1920px-Measures_of_the_volume_of_bulk_solids_Uglich_Palace_of_Tsarevich_Dmitry_2023-07-22_7325.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 103,
-    "bright": 146,
-    "contrast": 76,
-    "sharp": 2914
-   },
-   "hash": "1111111111111111111111111111111111111111111111110001011111111111000000111111111100000000011111110000000001111111000000000001111100000000000000110000000100000011000000010000001100000001000000010000000000000001000000000000000100000000000000011100000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/bulk-carrier/wesseling-germany-katoen-natie-bulk-silo-01-j-d60232.jpg",
-   "category": "bulk-carrier",
-   "title": "Wesseling Germany Katoen-Natie-Bulk-Silo-01.jpg",
-   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Wesseling_Germany_Katoen-Natie-Bulk-Silo-01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wesseling_Germany_Katoen-Natie-Bulk-Silo-01.jpg/1920px-Wesseling_Germany_Katoen-Natie-Bulk-Silo-01.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 55,
-    "bright": 148,
-    "contrast": 52,
-    "sharp": 1835
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000000111100000000000011110000000000001111000000000000110100011000111000000001111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 853
-  },
-  {
-   "file": "photos/bulk-carrier/wesseling-germany-katoen-natie-bulk-silo-04-j-c597b2.jpg",
-   "category": "bulk-carrier",
-   "title": "Wesseling Germany Katoen-Natie-Bulk-Silo-04.jpg",
-   "credit": "CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Wesseling_Germany_Katoen-Natie-Bulk-Silo-04.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wesseling_Germany_Katoen-Natie-Bulk-Silo-04.jpg/1920px-Wesseling_Germany_Katoen-Natie-Bulk-Silo-04.jpg",
-   "origin": "commons",
-   "vetted": true,
-   "score": null,
-   "checks": {
-    "sat": 40,
-    "bright": 163,
-    "contrast": 46,
-    "sharp": 2175
-   },
-   "hash": "1111111111111111111111111111111111110001111111111111000000111111111100000000011111110000000001111111000000000111111100000000001111000000000000111100000000000011110110000000001101111110001111000000111111111100000001101011100000000000000000000000000000000000",
-   "w": 1280,
-   "h": 793
-  },
-  {
    "file": "photos/bulk-carrier/aquadonna-bulk-carrier-formerly-called-bulk-s-a6d85e.jpg",
    "category": "bulk-carrier",
    "title": "AQUADONNA Bulk Carrier (formerly called Bulk Singapore), Bosphorus Strait, Istanbul, Turkiye (Ank Kumar, Infosys Limited) 02.jpg",
@@ -7810,7 +7730,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AQUADONNA_Bulk_Carrier_%28formerly_called_Bulk_Singapore%29%2C_Bosphorus_Strait%2C_Istanbul%2C_Turkiye_%28Ank_Kumar%2C_Infosys_Limited%29_02.jpg/1920px-AQUADONNA_Bulk_Carrier_%28formerly_called_Bulk_Singapore%29%2C_Bosphorus_Strait%2C_Istanbul%2C_Turkiye_%28Ank_Kumar%2C_Infosys_Limited%29_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 19,
     "bright": 173,
@@ -7822,26 +7742,6 @@
    "h": 853
   },
   {
-   "file": "photos/bulk-carrier/a-bulk-carrier-anchored-in-the-columbia-river-359c8c.jpg",
-   "category": "bulk-carrier",
-   "title": "A bulk carrier anchored in the Columbia River.jpg",
-   "credit": "Bobjgalindo / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:A_bulk_carrier_anchored_in_the_Columbia_River.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/A_bulk_carrier_anchored_in_the_Columbia_River.jpg/1920px-A_bulk_carrier_anchored_in_the_Columbia_River.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 66,
-    "bright": 130,
-    "contrast": 67,
-    "sharp": 4482
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111100000000000001000000000000000000000000000000001111001111111110111100000000000000000000000000000000000000000000000000000000000000000000011111111100000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
    "file": "photos/bulk-carrier/barco-granelero-liberiano-bulk-colombia-imo-9-fd5b94.jpg",
    "category": "bulk-carrier",
    "title": "Barco granelero liberiano \"BULK COLOMBIA\" IMO 9426245.jpg",
@@ -7850,7 +7750,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Barco_granelero_liberiano_%22BULK_COLOMBIA%22_IMO_9426245.jpg/1920px-Barco_granelero_liberiano_%22BULK_COLOMBIA%22_IMO_9426245.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 69,
     "bright": 146,
@@ -7870,7 +7770,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bulk_Carrier_Spar_Virgo%2C_IMO_9299276.jpg/1920px-Bulk_Carrier_Spar_Virgo%2C_IMO_9299276.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 22,
     "bright": 168,
@@ -7890,7 +7790,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bulk_carrier_at_Halifax_Grain_Elevator.jpg/1920px-Bulk_carrier_at_Halifax_Grain_Elevator.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 91,
     "bright": 80,
@@ -7910,7 +7810,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bulk_carrier_undergoing_ship_recycling_in_Chattogram_%28Chittagong%29%2C_Bangladesh.jpg/1920px-Bulk_carrier_undergoing_ship_recycling_in_Chattogram_%28Chittagong%29%2C_Bangladesh.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 62,
     "bright": 159,
@@ -7918,66 +7818,6 @@
     "sharp": 5412
    },
    "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111110110100000111111000000000001111000000000001111100110000000111100011000000011000001111111101100000001111010110000000110000000000001111000000011000000000000001000000111111000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/bulk-carrier/freefall-lifeboat-of-the-bulk-carrier-queen-s-551732.jpg",
-   "category": "bulk-carrier",
-   "title": "Freefall lifeboat of the Bulk carrier Queen Sapphire at the Kwinana Bulk Terminal, June 2024 01.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Freefall_lifeboat_of_the_Bulk_carrier_Queen_Sapphire_at_the_Kwinana_Bulk_Terminal,_June_2024_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Freefall_lifeboat_of_the_Bulk_carrier_Queen_Sapphire_at_the_Kwinana_Bulk_Terminal%2C_June_2024_01.jpg/1920px-Freefall_lifeboat_of_the_Bulk_carrier_Queen_Sapphire_at_the_Kwinana_Bulk_Terminal%2C_June_2024_01.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 53,
-    "bright": 141,
-    "contrast": 54,
-    "sharp": 2244
-   },
-   "hash": "1111111111000111001111111100011111111111110001111111111111000111011111111101011111111111110101111111111111111111001111111111111101111111111111111111111010011111111100000000000011110000000000001111000000000000111000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/bulk-carrier/freefall-lifeboat-of-the-bulk-carrier-queen-s-5b8ccb.jpg",
-   "category": "bulk-carrier",
-   "title": "Freefall lifeboat of the Bulk carrier Queen Sapphire at the Kwinana Bulk Terminal, June 2024 02.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Freefall_lifeboat_of_the_Bulk_carrier_Queen_Sapphire_at_the_Kwinana_Bulk_Terminal,_June_2024_02.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Freefall_lifeboat_of_the_Bulk_carrier_Queen_Sapphire_at_the_Kwinana_Bulk_Terminal%2C_June_2024_02.jpg/1920px-Freefall_lifeboat_of_the_Bulk_carrier_Queen_Sapphire_at_the_Kwinana_Bulk_Terminal%2C_June_2024_02.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 50,
-    "bright": 139,
-    "contrast": 52,
-    "sharp": 2405
-   },
-   "hash": "1111111111111000111111111111100011111111111110001111111111111000111111111111100111111111101110011111111111111001111111111011111111111011111101111111101111110111111111111111111111111111111110111111110001000001110000000000000010000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
-  },
-  {
-   "file": "photos/bulk-carrier/mooring-of-the-bulk-carrier-hsl-mexico-at-the-75fc68.jpg",
-   "category": "bulk-carrier",
-   "title": "Mooring of the bulk carrier HSL Mexico at the Kwinana Bulk Jetty, November 2021 22.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Mooring_of_the_bulk_carrier_HSL_Mexico_at_the_Kwinana_Bulk_Jetty,_November_2021_22.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mooring_of_the_bulk_carrier_HSL_Mexico_at_the_Kwinana_Bulk_Jetty%2C_November_2021_22.jpg/1920px-Mooring_of_the_bulk_carrier_HSL_Mexico_at_the_Kwinana_Bulk_Jetty%2C_November_2021_22.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 83,
-    "bright": 124,
-    "contrast": 66,
-    "sharp": 1405
-   },
-   "hash": "1111111111111111111011111111111100000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000111111000001111111111111111111111111111111111111111111111111111111111111111",
    "w": 1280,
    "h": 960
   },
@@ -7990,7 +7830,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/View_from_the_bridge_of_a_dry_bulk_carrier_vessel.jpg/1920px-View_from_the_bridge_of_a_dry_bulk_carrier_vessel.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 50,
     "bright": 129,
@@ -8010,7 +7850,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Achilles_Bulker_in_Elliott_Bay_01.jpg/1920px-Achilles_Bulker_in_Elliott_Bay_01.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 7,
    "checks": {
     "sat": 55,
     "bright": 186,
@@ -8030,7 +7870,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Achilles_Bulker_in_Elliott_Bay_01_%28cropped%29.jpg/1920px-Achilles_Bulker_in_Elliott_Bay_01_%28cropped%29.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 6,
    "checks": {
     "sat": 78,
     "bright": 154,
@@ -8050,7 +7890,7 @@
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Achilles_Bulker_in_Elliott_Bay_02.jpg/1920px-Achilles_Bulker_in_Elliott_Bay_02.jpg",
    "origin": "commons",
    "vetted": false,
-   "score": null,
+   "score": 8,
    "checks": {
     "sat": 43,
     "bright": 197,
@@ -8060,26 +7900,6 @@
    "hash": "1111111111111111111111111111111111111111111100001111111100000000000000000000000000000000000000000000010000000000000000000000000011110000000001111111000000000111111111111000011111111111111111111111111111111111111111111111111111111111111111111111111111111111",
    "w": 1280,
    "h": 853
-  },
-  {
-   "file": "photos/bulk-carrier/bulk-carrier-crimson-princess-and-ship-loader-7be57b.jpg",
-   "category": "bulk-carrier",
-   "title": "Bulk carrier Crimson Princess and ship loader at Kwinana Bulk Jetty, July 2021 01.jpg",
-   "credit": "Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
-   "page": "https://commons.wikimedia.org/wiki/File:Bulk_carrier_Crimson_Princess_and_ship_loader_at_Kwinana_Bulk_Jetty,_July_2021_01.jpg",
-   "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bulk_carrier_Crimson_Princess_and_ship_loader_at_Kwinana_Bulk_Jetty%2C_July_2021_01.jpg/1920px-Bulk_carrier_Crimson_Princess_and_ship_loader_at_Kwinana_Bulk_Jetty%2C_July_2021_01.jpg",
-   "origin": "commons",
-   "vetted": false,
-   "score": null,
-   "checks": {
-    "sat": 62,
-    "bright": 131,
-    "contrast": 57,
-    "sharp": 3408
-   },
-   "hash": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110100001101111000000001110000000000111111000100010011111011100011001111000000000100000000000000000000000000000000000111000000000000000000000000000000000000000000000000",
-   "w": 1280,
-   "h": 960
   },
   {
    "file": "photos/bulk-carrier/bulk-carrier-crimson-princess-and-ship-loader-3fd806.jpg",
