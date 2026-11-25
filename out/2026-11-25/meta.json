@@ -1,0 +1,175 @@
+{
+ "day": "2026-11-25",
+ "caption": "Everything that happened in the shipping industry in the last 24 hours (25 Nov 2026) 🚢\n\n1. Brent hovers near $90 on glut fears\n2. Three VLCCs hit within minutes in Hormuz\n3. Swedish Club: avoid Hormuz unless essential\n4. 19 Filipino crew of sunk Gas Husky going home\n5. Greek seafarers strike for 24 hours today\n6. Hanwha starts building two GasLog LNG carriers\n7. EU moves to ban Russia-insured tankers\n8. Greeks place one in five newbuild orders\n9. Pyxis sells MR tanker for $37m\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #StraitOfHormuz #VLCC #LNGcarrier #shipbuilding #seafarerslife #maritimesecurity #sanctions #greekshipping #shippingnews #jaimarineshorts",
+ "stories": [
+  {
+   "slot": 2,
+   "headline": "Brent hovers near [$90] on glut fears",
+   "summary": "Brent crude traded at $90.10 a barrel and WTI at $80.71 in early Asian trade on 25 November. Brent has fallen more than 20% in November. Traders expect a supply glut as Gulf exports through Hormuz recover, and hope for US-Iran talks. The API reported a 126,000-barrel US crude stock build.",
+   "sources": "PiQ Markets, FinScans, Oilprice.com",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "crude oil tanker at sea",
+     "oil tanker loading at terminal",
+     "VLCC tanker underway"
+    ]
+   },
+   "photo_credit": "Representative · Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/vlcc/a-tourist-boaat-sials-fast-a-oil-tanker-cochin-oil-38be84.jpg"
+  },
+  {
+   "slot": 3,
+   "headline": "[Three VLCCs hit] within minutes in Hormuz",
+   "summary": "Three Sinokor VLCCs - Bahrain Prosperity, Cameroon Prosperity and Romania Prosperity - were struck within 17 minutes on Sunday night, east of the Musandam Peninsula. UKMTO said all crew were accounted for and all three ships continued their voyages. Earlier the same day, bulker CTI Helen was hit at Dibba anchorage and caught fire, with no casualties.",
+   "sources": "Maritime Executive, UKMTO",
+   "photo": {
+    "exact_subjects": [
+     "Strait of Hormuz",
+     "Musandam Peninsula"
+    ],
+    "ship_type": "VLCC",
+    "queries": [
+     "VLCC supertanker at sea",
+     "very large crude carrier underway",
+     "oil tanker Strait of Hormuz"
+    ]
+   },
+   "photo_credit": ""
+  },
+  {
+   "slot": 4,
+   "headline": "Swedish Club: [avoid Hormuz] unless essential",
+   "summary": "The Swedish Club told members on Tuesday to avoid the Strait of Hormuz unless passage is operationally essential. It urged owners to recheck war-risk cover and crew readiness. The IMO counts 141 confirmed incidents in Hormuz and the wider Middle East, with 25 seafarers confirmed dead. Ships waiting at anchorages east of the Strait face higher risk.",
+   "sources": "gCaptain",
+   "photo": {
+    "exact_subjects": [
+     "Strait of Hormuz"
+    ],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "oil tanker Persian Gulf",
+     "tanker anchorage Gulf of Oman",
+     "crude oil tanker at sea"
+    ]
+   },
+   "photo_credit": ""
+  },
+  {
+   "slot": 5,
+   "headline": "[19 Filipino crew] of sunk Gas Husky going home",
+   "summary": "The 19 Filipino seafarers of the Liberia-flagged LPG tanker Gas Husky are due home on Thursday. The ship was hit by a drone in Bulgaria's Black Sea economic zone and sank, but the crew evacuated safely. They lost their documents, so emergency travel papers, compensation and repatriation were arranged through Bucharest.",
+   "sources": "The Manila Times, gCaptain",
+   "photo": {
+    "exact_subjects": [
+     "Black Sea"
+    ],
+    "ship_type": "LPG carrier",
+    "queries": [
+     "LPG carrier at sea",
+     "LPG tanker Black Sea",
+     "gas carrier underway"
+    ]
+   },
+   "photo_credit": "Representative · Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/lpg-carrier/lpg-tanker-quebec-leaving-bp-oil-refinery-jet-4aa158.jpg"
+  },
+  {
+   "slot": 6,
+   "headline": "Greek seafarers [strike for 24 hours] today",
+   "summary": "Greek seafarer unions PEMEN and PENEN, with engine crew and tugboat crew unions, are on a 24-hour strike on 25 November, keeping ferries in port. They want a 12% rise in wages and allowances, a 35-hour week, bigger crews, better safety and protection in conflict zones. Tug crews also demand MLC rest hours.",
+   "sources": "Keep Talking Greece",
+   "photo": {
+    "exact_subjects": [
+     "Piraeus"
+    ],
+    "ship_type": "port",
+    "queries": [
+     "ferries docked Piraeus port",
+     "Greek passenger ferry in port",
+     "Piraeus harbour ferries"
+    ]
+   },
+   "photo_credit": "Adamdl06204917 / Wikimedia Commons (CC0)"
+  },
+  {
+   "slot": 7,
+   "headline": "Hanwha starts building [two GasLog LNG carriers]",
+   "summary": "Hanwha Ocean has started work on two 174,000-cbm LNG carriers for Greece's GasLog at its Geoje yard. Steel was cut for hulls H2614 in October and H2615 in November, with delivery due in 2028. GasLog runs 35 LNG carriers. Its GasLog Shanghai, hit by a projectile in Hormuz in August, is being repaired in Singapore.",
+   "sources": "LNG Prime",
+   "photo": {
+    "exact_subjects": [
+     "Geoje"
+    ],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier at sea",
+     "LNG carrier under construction shipyard",
+     "membrane LNG tanker underway"
+    ]
+   },
+   "photo_credit": "Representative · Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/lng-carrier/2023-05-20-02-lng-tanker-gulf-energy-imo-7390-c775c9.jpg"
+  },
+  {
+   "slot": 8,
+   "headline": "EU moves to [ban Russia-insured tankers]",
+   "summary": "Ursula von der Leyen announced on 23 November that the EU's 22nd sanctions package will ban all tankers insured in Russia. EU firms will also be barred from building, operating or repairing Russian refineries and energy sites. More than 70 vessels will be added to the shadow fleet list. All 27 member states must approve it.",
+   "sources": "Hellenic Shipping News, Platts",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "oil tanker at anchor",
+     "crude oil tanker underway",
+     "tanker ship Baltic Sea"
+    ]
+   },
+   "photo_credit": "Representative · Htm / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  {
+   "slot": 9,
+   "headline": "Greeks place [one in five] newbuild orders",
+   "summary": "Greek owners placed 455 of the 2,200 newbuilding orders signed worldwide in 2026, says Xclusiv. They ordered 211 tankers, including 68 VLCCs and 50 suezmaxes, plus 100 bulkers, 99 boxships and 45 gas carriers, among them 16 LNG carriers. The global tanker orderbook now equals 26.1% of the fleet, up from 15.3% a year ago.",
+   "sources": "Hellenic Shipping News, Breakwave Advisors",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "shipyard",
+    "queries": [
+     "ships under construction shipyard",
+     "tanker newbuilding shipyard",
+     "shipyard cranes building ships"
+    ]
+   },
+   "photo_credit": ""
+  },
+  {
+   "slot": 10,
+   "headline": "Pyxis sells MR tanker for [$37m]",
+   "summary": "Nasdaq-listed Pyxis Tankers has sold the 46,652-dwt MR product tanker Pyxis Karteria, built in 2013 at Hyundai Mipo, for $37m. It bought the ship in 2021 for $20m. Pyxis expects a one-time gain of about $21m and net cash of about $25.9m. Delivery is due between 20 November and 20 December.",
+   "sources": "Hellenic Shipping News, Shipping Telegraph",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "product tanker",
+    "queries": [
+     "product tanker at sea",
+     "MR product tanker underway",
+     "chemical product tanker"
+    ]
+   },
+   "photo_credit": "Representative · Calistemon / Wikimedia Commons (CC BY-SA 4.0)",
+   "library_file": "photos/product-tanker/arrival-and-mooring-of-the-oil-chemical-tanker-gol-e0bf57.jpg"
+  }
+ ],
+ "song": {
+  "title": "Dilruba Dilnasheen",
+  "artist": "Rito Riba, Siddhant Kaushal",
+  "language": "Hindi",
+  "start": "0:30",
+  "why": "No. 1 trending Reels audio on 25 Nov (about 3.2M reels, +149K in a day, per Kabo tracker) - use the hook/chorus."
+ },
+ "created": "2026-11-25T16:23:47.982580+05:30",
+ "preview_unix": 1795604169,
+ "posted": null
+}
