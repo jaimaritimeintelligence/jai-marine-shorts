@@ -1,0 +1,168 @@
+{
+  "stories": [
+    {
+      "slot": 2,
+      "headline": "Brent holds near [$94] on Gulf fears",
+      "summary": "Brent crude traded at $93.75 a barrel on 26 November, after settling up 3.69% at $94.90 the day before. WTI slipped 0.41% to $83.34. Traders are weighing Middle East supply risks and Hormuz shipping security against an expected oil surplus. US crude stocks rose 1.1 million barrels, and OPEC+ meets on 29 November.",
+      "sources": "Arbiterz, CMB News",
+      "photo": {
+        "exact_subjects": [],
+        "ship_type": "crude oil tanker",
+        "queries": [
+          "oil tanker at sea",
+          "crude oil tanker underway",
+          "VLCC tanker ocean"
+        ]
+      }
+    },
+    {
+      "slot": 3,
+      "headline": "Projectile explodes near tanker off Dubai - [crew safe]",
+      "summary": "UKMTO received a report of an explosion caused by an unknown projectile near a tanker about 50 nautical miles west of Dubai on Thursday. The ship's master reported the blast. The tanker was not damaged and there was no environmental impact. UKMTO says all crew are safe and accounted for. The vessel was not named.",
+      "sources": "UKMTO, Reuters, Arab News",
+      "photo": {
+        "exact_subjects": [
+          "Dubai",
+          "Persian Gulf"
+        ],
+        "ship_type": "product tanker",
+        "queries": [
+          "oil tanker Persian Gulf",
+          "product tanker at sea",
+          "tanker ship off Dubai"
+        ]
+      }
+    },
+    {
+      "slot": 4,
+      "headline": "Iran claims [LNG carrier and tanker] hit mines",
+      "summary": "Iran's military claims an LNG carrier caught fire after contacting a mine in the Strait of Hormuz on 25 November. A later statement claimed an oil tanker also struck a mine and caught fire in a restricted zone. No vessels were named. These are Iranian claims only - not independently confirmed.",
+      "sources": "SBS News",
+      "photo": {
+        "exact_subjects": [
+          "Strait of Hormuz"
+        ],
+        "ship_type": "LNG carrier",
+        "queries": [
+          "LNG carrier at sea",
+          "LNG tanker ship",
+          "Strait of Hormuz ship"
+        ]
+      }
+    },
+    {
+      "slot": 5,
+      "headline": "Houthis threaten Saudi ports - [Hodeidah struck]",
+      "summary": "The Houthis threatened Jeddah and all Saudi Red Sea ports and told shipping firms to move their vessels out. The Saudi-led coalition then struck Hodeidah port in Yemen after posting an evacuation warning, saying it hit operational capabilities there. No damage to ships was reported. Houthi-linked media also reported strikes near Sanaa airport - not verified.",
+      "sources": "Marine Insight",
+      "photo": {
+        "exact_subjects": [
+          "Hodeidah",
+          "Red Sea"
+        ],
+        "ship_type": "port",
+        "queries": [
+          "Hodeidah port Yemen",
+          "Red Sea port cranes",
+          "container port Red Sea"
+        ]
+      }
+    },
+    {
+      "slot": 6,
+      "headline": "Iran blacklists [26 tugboats] in Hormuz",
+      "summary": "Iran's Persian Gulf Strait Authority blacklisted 26 tugboats on 24 November for assisting ships on the southern route near Oman. The tugs fly flags including Panama, Singapore, the UAE, Liberia, Mali and Tuvalu. The list reportedly now holds 266 vessels. Iran also claims 10 tankers were struck last week - not confirmed.",
+      "sources": "Marine Insight",
+      "photo": {
+        "exact_subjects": [
+          "Strait of Hormuz",
+          "Oman"
+        ],
+        "ship_type": "tug",
+        "queries": [
+          "harbour tug boat",
+          "tugboat at sea",
+          "tug assisting ship"
+        ]
+      }
+    },
+    {
+      "slot": 7,
+      "headline": "Engine room flooding leaves [AAL Gibraltar] dead ship",
+      "summary": "The Cyprus-flagged heavy-lift cargo ship AAL Gibraltar was disabled by flooding in its engine room. The 160-metre, 2010-built vessel was declared a dead ship and towed by salvage tug SPM Arjun to Hambantota, Sri Lanka. Four port tugs moved it to a lay-up berth. No departure date is confirmed yet.",
+      "sources": "Marine Insight",
+      "photo": {
+        "exact_subjects": [
+          "AAL Gibraltar",
+          "Hambantota"
+        ],
+        "ship_type": "other",
+        "queries": [
+          "heavy lift cargo ship",
+          "general cargo ship at port",
+          "Hambantota port Sri Lanka"
+        ]
+      }
+    },
+    {
+      "slot": 8,
+      "headline": "Cruise crewman hit by [stray bullet] in Marseille",
+      "summary": "A 29-year-old cruise ship crewmember was hit by a suspected stray 7.62 mm bullet while resting near the quay at a Marseille shipyard around midnight. The bullet lodged under the skin near his neck. His injury is not life-threatening and he is stable in hospital. Police are reviewing footage; no suspect found.",
+      "sources": "Marine Insight, Cruise Hive",
+      "photo": {
+        "exact_subjects": [
+          "Marseille"
+        ],
+        "ship_type": "cruise ship",
+        "queries": [
+          "cruise ship Marseille port",
+          "cruise ship at quay",
+          "cruise ship shipyard"
+        ]
+      }
+    },
+    {
+      "slot": 9,
+      "headline": "China sets [LNG carrier delivery record]",
+      "summary": "Hudong-Zhonghua delivered the LNG carrier Seri Miri Princess to Petronas at Changxing Island, Shanghai, seven months ahead of schedule. It is the yard's 12th large LNG carrier delivered in 2026, a new Chinese annual record. Separately, Nigeria LNG's Bonny Gas Transport ordered two more LNG carriers there, taking its Shanghai programme to five.",
+      "sources": "Zhitong, LNG Prime, Splash247",
+      "photo": {
+        "exact_subjects": [
+          "Seri Miri Princess",
+          "Hudong-Zhonghua"
+        ],
+        "ship_type": "LNG carrier",
+        "queries": [
+          "LNG carrier newbuild shipyard",
+          "LNG carrier at sea",
+          "LNG tanker delivery Shanghai"
+        ]
+      }
+    },
+    {
+      "slot": 10,
+      "headline": "Neda returns to VLCCs with [Chinese order]",
+      "summary": "Greek owner Neda Maritime Agency has returned to VLCC newbuilding with one firm ship plus an option at China's New Times Shipbuilding. Shipbrokers link the Lykiardopoulos family-controlled company to a 303,000 dwt deal. The order was reported on 25 November; price and delivery dates were not disclosed.",
+      "sources": "Splash247",
+      "photo": {
+        "exact_subjects": [
+          "New Times Shipbuilding"
+        ],
+        "ship_type": "VLCC",
+        "queries": [
+          "VLCC supertanker at sea",
+          "very large crude carrier",
+          "crude oil tanker newbuilding"
+        ]
+      }
+    }
+  ],
+  "caption": "Everything that happened in the shipping industry in the last 24 hours (26 Nov 2026) 🚢\n\n1. Brent holds near $94 on Gulf fears\n2. Projectile explodes near tanker off Dubai - crew safe\n3. Iran claims LNG carrier and tanker hit mines\n4. Houthis threaten Saudi ports - Hodeidah struck\n5. Iran blacklists 26 tugboats in Hormuz\n6. Engine room flooding leaves AAL Gibraltar dead ship\n7. Cruise crewman hit by stray bullet in Marseille\n8. China sets LNG carrier delivery record\n9. Neda returns to VLCCs with Chinese order\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #VLCC #Hormuz #RedSea #shipbuilding #LNGcarrier #cruiseship #maritimesafety #shippingnews #sailorlife #jaimarineshorts",
+  "song": {
+    "title": "Dilruba Dilnasheen",
+    "artist": "Rito Riba, Siddhant Kaushal",
+    "language": "Hindi",
+    "start": "0:30",
+    "why": "Still the top India-made audio on Reels this week (No. 3 overall on Virlo's 7-day tracker, 25 Nov) - use the hook/chorus."
+  }
+}
