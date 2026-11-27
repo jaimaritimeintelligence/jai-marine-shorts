@@ -1,0 +1,164 @@
+{
+  "stories": [
+    {
+      "slot": 2,
+      "headline": "Brent nears [$97] - first weekly gain this month",
+      "summary": "Brent crude traded at $96.61 a barrel on Friday morning, after gaining nearly $2 on Thursday to its highest since 6 November. WTI was $85.78, up 2.5%. Iranian attacks on Hormuz shipping and a Houthi strike on Saudi Aramco's Jazan refinery lifted prices. OPEC+ meets on Sunday 29 November.",
+      "sources": "Reuters, Arab News, Sunday Guardian",
+      "photo": {
+        "exact_subjects": [],
+        "ship_type": "crude oil tanker",
+        "queries": [
+          "crude oil tanker at sea",
+          "oil tanker loading at terminal",
+          "VLCC tanker sailing"
+        ]
+      }
+    },
+    {
+      "slot": 3,
+      "headline": "Tanker Med Emre capsizes off Ibiza - [one crew dies]",
+      "summary": "The Malta-flagged tanker Med Emre capsized and partly sank about 30 nautical miles off Ibiza on 26 November. It was sailing from Algeciras to Barcelona with up to 7,000 tonnes of diesel. All 17 crew, including Turkish and Indian nationals, were rescued, but one died in hospital. No significant spill was reported so far.",
+      "sources": "gCaptain, Reuters",
+      "photo": {
+        "exact_subjects": [
+          "Med Emre",
+          "Ibiza"
+        ],
+        "ship_type": "product tanker",
+        "queries": [
+          "chemical tanker at sea Mediterranean",
+          "product tanker ship",
+          "Ibiza coast sea"
+        ]
+      }
+    },
+    {
+      "slot": 4,
+      "headline": "Projectile hits tanker off Khasab - [crew accounted for]",
+      "summary": "An unidentified projectile struck a tanker on Wednesday while it transited the Strait of Hormuz, UKMTO said, citing local authorities. The hit happened 18 nautical miles east of Khasab, Oman. All crew were accounted for and no environmental impact was reported. The ship's name and flag were not given.",
+      "sources": "UKMTO, Reuters",
+      "photo": {
+        "exact_subjects": [
+          "Strait of Hormuz",
+          "Khasab"
+        ],
+        "ship_type": "crude oil tanker",
+        "queries": [
+          "oil tanker Strait of Hormuz",
+          "tanker ship Persian Gulf",
+          "Khasab Musandam coast"
+        ]
+      }
+    },
+    {
+      "slot": 5,
+      "headline": "Swedish Club: [avoid Hormuz] unless essential",
+      "summary": "P&I insurer The Swedish Club told members to avoid the Strait of Hormuz unless passage is operationally essential. The IMO counts 141 confirmed incidents in Hormuz and the wider Middle East as of 23 November, with 25 seafarers confirmed dead. Attacks are focused on tankers off Oman's Musandam Peninsula. Ships waiting at anchorages face higher risk.",
+      "sources": "gCaptain",
+      "photo": {
+        "exact_subjects": [
+          "Strait of Hormuz",
+          "Musandam"
+        ],
+        "ship_type": "crude oil tanker",
+        "queries": [
+          "tanker anchored Gulf of Oman",
+          "oil tanker at anchor",
+          "Musandam peninsula sea"
+        ]
+      }
+    },
+    {
+      "slot": 6,
+      "headline": "IMO warns of [cadet berth shortage] at sea",
+      "summary": "The IMO is asking shipping companies to offer more onboard training berths for cadets. Many cadets in developing countries finish shore training, then wait years for sea time. In the NextWave pilot, 19 cadets trained on Bahri ships. Phase two aims to train at least 30 more cadets, half of them women, with five companies.",
+      "sources": "gCaptain, IMO",
+      "photo": {
+        "exact_subjects": [
+          "International Maritime Organization"
+        ],
+        "ship_type": "other",
+        "queries": [
+          "maritime cadets training ship",
+          "merchant navy cadets on deck",
+          "IMO headquarters London"
+        ]
+      }
+    },
+    {
+      "slot": 7,
+      "headline": "US probes Iranian [cyberattacks on 50 ships]",
+      "summary": "The US is investigating Iran's possible role in cyberattacks on as many as 50 ships carrying oil, LPG, chemicals and other hazardous cargo, the Wall Street Journal reported. Some ships received bomb threats. Iran is seen as the main suspect, with Russia also possible. Reuters could not verify the report - not confirmed.",
+      "sources": "Reuters, WSJ, gCaptain",
+      "photo": {
+        "exact_subjects": [],
+        "ship_type": "product tanker",
+        "queries": [
+          "ship bridge navigation equipment",
+          "tanker ship bridge console",
+          "chemical tanker at sea"
+        ]
+      }
+    },
+    {
+      "slot": 8,
+      "headline": "Petronas approves [$1.6bn floating LNG] in Suriname",
+      "summary": "Malaysia's state energy company Petronas and Suriname's state-owned Staatsolie have taken the final investment decision on the Sloanea gas field in offshore Block 52. The $1.6 billion development includes a floating LNG (FLNG) facility, which will liquefy the gas at sea for export by LNG carriers. LNG Prime reported the decision on 27 November.",
+      "sources": "LNG Prime",
+      "photo": {
+        "exact_subjects": [
+          "Suriname"
+        ],
+        "ship_type": "LNG carrier",
+        "queries": [
+          "floating LNG facility FLNG",
+          "FLNG vessel offshore",
+          "LNG carrier at sea"
+        ]
+      }
+    },
+    {
+      "slot": 9,
+      "headline": "India's SCI seeks [22 new ships]",
+      "summary": "Shipping Corporation of India has tendered for up to 22 new ships: eight VLGCs, two Suezmax tankers, six 18,000 TEU and up to six 8,000 TEU containerships. Many will be built in Indian yards. Economic Times puts the programme at up to $3.2 billion. Container and Suezmax bids are due in December, VLGC bids in January.",
+      "sources": "gCaptain, Economic Times",
+      "photo": {
+        "exact_subjects": [
+          "Shipping Corporation of India"
+        ],
+        "ship_type": "LPG carrier",
+        "queries": [
+          "VLGC gas carrier at sea",
+          "Shipping Corporation of India ship",
+          "LPG carrier ship"
+        ]
+      }
+    },
+    {
+      "slot": 10,
+      "headline": "Samsung joins [nuclear-powered LNG carrier] project",
+      "summary": "Samsung Heavy Industries, Tesser Atomics, DNV and Norway's NTNU signed an agreement on 20 November to develop a nuclear-powered LNG carrier. The ship is planned for a US-Europe LNG route. It would use Tesser's compact Triton molten-salt-cooled reactor. Samsung becomes Tesser's exclusive shipbuilding partner for the demonstration project.",
+      "sources": "World Nuclear News",
+      "photo": {
+        "exact_subjects": [
+          "Samsung Heavy Industries"
+        ],
+        "ship_type": "LNG carrier",
+        "queries": [
+          "LNG carrier at sea",
+          "LNG tanker Samsung Heavy Industries",
+          "membrane LNG carrier ship"
+        ]
+      }
+    }
+  ],
+  "caption": "Everything that happened in the shipping industry in the last 24 hours (27 Nov 2026) 🚢\n\n1. Brent nears $97 - first weekly gain this month\n2. Tanker Med Emre capsizes off Ibiza - one crew dies\n3. Projectile hits tanker off Khasab - crew accounted for\n4. Swedish Club: avoid Hormuz unless essential\n5. IMO warns of cadet berth shortage at sea\n6. US probes Iranian cyberattacks on 50 ships\n7. Petronas approves $1.6bn floating LNG in Suriname\n8. India's SCI seeks 22 new ships\n9. Samsung joins nuclear-powered LNG carrier project\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #StraitOfHormuz #shippingnews #maritimesafety #cadets #shipbuilding #IMO #SCI #nuclearshipping #seafarerlife #jaimarineshorts",
+  "song": {
+    "title": "Angel Of My Dreams",
+    "artist": "JADE",
+    "language": "English",
+    "start": "0:45",
+    "why": "On Dash Social's Nov 2026 Reels list (328K Reels) used for travel montages and scenic journeys - fits the sea; start on the chorus (approx.)."
+  }
+}
