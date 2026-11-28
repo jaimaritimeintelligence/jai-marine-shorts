@@ -1,0 +1,163 @@
+{
+ "stories": [
+  {
+   "slot": 2,
+   "headline": "Brent slips to [$95.44] but books weekly gain",
+   "summary": "Brent crude settled at $95.44 a barrel on Friday, down $1.13 or 1.2%, but rose about 3% for the week - its first weekly gain in November. WTI settled at $83.08. Tanker attacks in Hormuz, Houthi strikes on Saudi energy sites and Ukrainian drone hits on Russian refineries kept supply fears alive. OPEC+ meets on Sunday.",
+   "sources": "CNBC, The Circuitry, Matrix News",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "crude oil tanker at sea",
+     "oil tanker sailing open ocean",
+     "VLCC tanker underway"
+    ]
+   }
+  },
+  {
+   "slot": 3,
+   "headline": "Halima sinks off Cuba - [one dead, three missing]",
+   "summary": "The Panama-flagged containership Halima, built in 1997 and operated by Sidra Line, sank early on 26 November about three miles north of Cabanas Bay, Artemisa province, Cuba. She carried 208 containers and 16 Egyptian and Indonesian crew. Rescuers found 12 crew alive and recovered one body. The search for three missing seafarers continues.",
+   "sources": "Safety4Sea, Splash247",
+   "photo": {
+    "exact_subjects": [
+     "Halima",
+     "Cabanas Bay",
+     "Cuba"
+    ],
+    "ship_type": "container ship",
+    "queries": [
+     "small container ship at sea",
+     "feeder container ship underway",
+     "container ship Caribbean coast"
+    ]
+   }
+  },
+  {
+   "slot": 4,
+   "headline": "[17 tankers struck] in Hormuz this month",
+   "summary": "Seventeen tankers have been struck in the Strait of Hormuz since the start of November, according to the latest JMIC figures. Iran is now widening its campaign against merchant shipping to include tugboats. Among those hit was the LPG carrier Tara Gas on 16 November - all 25 crew, including 24 Indians, were reported safe.",
+   "sources": "Splash247, Seatrade Maritime",
+   "photo": {
+    "exact_subjects": [
+     "Strait of Hormuz"
+    ],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "oil tanker Strait of Hormuz",
+     "tanker transiting Persian Gulf",
+     "crude oil tanker at sea"
+    ]
+   }
+  },
+  {
+   "slot": 5,
+   "headline": "Abu Dhabi [restricts tanker movements] near oil terminals",
+   "summary": "Abu Dhabi has imposed sweeping restrictions on tanker movements near its main oil and gas export facilities. The UAE is trying to protect critical infrastructure as attacks on commercial shipping in the Gulf escalate. The restrictions were set out in a notice from ADNOC. The move comes as 17 tankers have been struck around Hormuz this month.",
+   "sources": "Splash247",
+   "photo": {
+    "exact_subjects": [
+     "Abu Dhabi"
+    ],
+    "ship_type": "port",
+    "queries": [
+     "oil terminal tanker berth Abu Dhabi",
+     "tanker at oil export terminal",
+     "oil tanker loading at terminal"
+    ]
+   }
+  },
+  {
+   "slot": 6,
+   "headline": "Shipping draws [red line] on strait tolls",
+   "summary": "Eight international shipping associations have urged governments to resist any compulsory charges on ships passing through international straits. They warn that tolls in the Strait of Hormuz would set a dangerous precedent for global shipping. The same industry groups had already asked the UN and IMO in August to oppose any Hormuz transit tolls.",
+   "sources": "Splash247",
+   "photo": {
+    "exact_subjects": [
+     "Strait of Hormuz"
+    ],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "tanker passing strait",
+     "merchant ships in narrow strait",
+     "oil tanker at sea"
+    ]
+   }
+  },
+  {
+   "slot": 7,
+   "headline": "IMO false flag tally hits [587 ships]",
+   "summary": "The IMO now counts 587 ships flying false flags, up from 470 reported at the end of 2025. IMO Secretary-General Arsenio Dominguez has called for greater international action against fraudulent registration. Earlier this year Lloyd's List reported that more than 350 falsely flagged ships had no class, with over 14.5m dwt of tankers involved.",
+   "sources": "Splash247, Lloyd's List",
+   "photo": {
+    "exact_subjects": [
+     "IMO headquarters London"
+    ],
+    "ship_type": "crude oil tanker",
+    "queries": [
+     "old oil tanker at anchor",
+     "IMO headquarters London",
+     "tanker anchored offshore"
+    ]
+   }
+  },
+  {
+   "slot": 8,
+   "headline": "Japan turns to Korea to [revive LNG carrier] building",
+   "summary": "Japan is seeking technical help from South Korea to restart LNG carrier construction. Japanese yards have not built an LNG carrier since 2019. Earlier reports said Imabari, Kawasaki and Namura aim to resume building around 3-5 ships a year. Japan's share of global newbuilding orders was only 2% in January-May, Clarksons data showed.",
+   "sources": "Splash247, Hellenic Shipping News",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "LNG carrier",
+    "queries": [
+     "LNG carrier at sea",
+     "LNG carrier under construction shipyard",
+     "membrane LNG tanker underway"
+    ]
+   }
+  },
+  {
+   "slot": 9,
+   "headline": "StealthGas locks in [seven LPG carrier] charters",
+   "summary": "Nasdaq-listed Greek owner StealthGas, led by Harry Vafias, has wrapped up seven new charter deals for its LPG carriers. The fixtures lift its contracted revenue backlog to $115m. One of its gas carriers is now employed on charter into 2030, giving the company longer forward cover for its fleet.",
+   "sources": "Splash247",
+   "photo": {
+    "exact_subjects": [],
+    "ship_type": "LPG carrier",
+    "queries": [
+     "LPG carrier at sea",
+     "small gas carrier ship",
+     "LPG tanker underway"
+    ]
+   }
+  },
+  {
+   "slot": 10,
+   "headline": "ADM exits shipowning with [$88m fleet sale]",
+   "summary": "US grains giant Archer Daniels Midland is leaving shipowning with an $88m sale of three post-panamax bulk carriers to Hayfin Capital. The ships are Harvest Frost, Harvest Rain, now renamed GH Autan, and Harvest Time, which is also being renamed. ADM moves out of owning ships after the sale completes.",
+   "sources": "Splash247",
+   "photo": {
+    "exact_subjects": [
+     "Harvest Frost",
+     "Harvest Rain",
+     "Harvest Time"
+    ],
+    "ship_type": "bulk carrier",
+    "queries": [
+     "panamax bulk carrier at sea",
+     "bulk carrier underway",
+     "grain bulk carrier loading"
+    ]
+   }
+  }
+ ],
+ "caption": "Everything that happened in the shipping industry in the last 24 hours (28 Nov 2026) 🚢\n\n1. Brent slips to $95.44 but books weekly gain\n2. Halima sinks off Cuba - one dead, three missing\n3. 17 tankers struck in Hormuz this month\n4. Abu Dhabi restricts tanker movements near oil terminals\n5. Shipping draws red line on strait tolls\n6. IMO false flag tally hits 587 ships\n7. Japan turns to Korea to revive LNG carrier building\n8. StealthGas locks in seven LPG carrier charters\n9. ADM exits shipowning with $88m fleet sale\n\nSources are credited on each slide. Follow @jaimarineshorts for daily shipping news.\n\n#shipping #maritime #seafarers #merchantnavy #marineengineer #tanker #LNG #crudeoil #oilprice #StraitOfHormuz #maritimesafety #shipsinking #LNGcarrier #LPG #bulkcarrier #shipbuilding #IMO #shippingnews #jaimarineshorts",
+ "song": {
+  "title": "Coming Up Roses",
+  "artist": "Harry Styles",
+  "language": "English",
+  "start": "0:50",
+  "why": "New and rising on InMagic and CreatorDB Reels charts this week (116K Reels), used for upbeat gratitude and small-wins montages; start near the chorus (approx.)."
+ }
+}
